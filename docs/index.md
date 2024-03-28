@@ -10,6 +10,7 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/Bertolazi"><img style="border-radius: 60%;" src="https://github.com/Bertolazi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Bertolazi</b></sub></a><br />
     <td align="center"><a href="https://github.com/pabloheika"><img style="border-radius: 60%;" src="https://github.com/pabloheika.png" width="200px;" alt=""/><br /><sub><b>Pablo Santos Costa</b></sub></a><br />
     <td align="center"><a href="https://github.com/MMcLovin"><img style="border-radius: 60%;" src="https://github.com/MMcLovin.png" width="200px;" alt=""/><br /><sub><b>Gabriel Fernando de Jesus Silva</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/EliasOliver21"><img style="border-radius: 60%;" src="https://github.com/EliasOliver21.png" width="200px;" alt=""/><br /><sub><b>Elias Faria de Oliveira</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
@@ -24,6 +25,7 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Todos
+1.1 | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Todos
 
 
 
