@@ -3,6 +3,8 @@ repo_name: 2024.1-Serasa
 site_name: 'Serasa: Consulta CPF e Score'
 nav: 
   - Home: index.md
+  - Atas:
+    - Reunião 1: atas/ata1.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
 theme:
