@@ -1,10 +1,10 @@
 repo_url: https://github.com/Requisitos-de-Software/2024.1-Serasa
 repo_name: 2024.1-Serasa
-site_name: Serasa Consulta CPF e Socore
+site_name: 'Serasa: Consulta CPF e Score'
 nav: 
   - Home: index.md
   - Planejamento:
-      - Heatmap: planejamento/heatmap.md
+    - Heatmap: planejamento/heatmap.md
 theme:
   name: material
   logo: assets/serasa_logo_white.svg
