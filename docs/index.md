@@ -1,4 +1,4 @@
-# Serasa Consulta CPF e Socore
+# Serasa: Consulta CPF e Score
 
 <p align="center" > <font>Figura 1: Logo do Serasa</font> <br><img style="border: 2px solid white; border-radius: 30%" src="assets/serasa-logo.png" width = 40%></p>
 <p align="center" > <font>Fonte: <a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668">Serasa</a></font> <br></p>
