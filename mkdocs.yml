@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
+      - Cronograma:  planejamento/cronograma.md
 theme:
   name: material
   logo: assets/serasa_logo_white.svg
