@@ -6,7 +6,8 @@ nav:
   - Atas:
     - Reunião 1: atas/ata1.md
   - Planejamento:
-      - Heatmap: planejamento/heatmap.md
+    - Aplicativo selecionado: planejamento/appSelecionado.md
+    - Heatmap: planejamento/heatmap.md
 theme:
   name: material
   logo: assets/serasa_logo_white.svg
