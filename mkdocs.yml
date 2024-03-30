@@ -8,6 +8,7 @@ nav:
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
 theme:
+  language: pt-BR
   name: material
   logo: assets/serasa_logo_white.svg
   features:
