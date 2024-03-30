@@ -23,21 +23,20 @@
 </div>
 
 ## Resultados da reunião
-1. O horário marcado para as reuniões semanais ficou para as quarta feiras 20h;
+1. O horário marcado para as reuniões semanais ficou para as quartas-feiras 20h;
 2. Cada membro do grupo foi designado a uma ou mais atividades, a divisão foi realizada com o intuito dos integrantes terem um tempo de trabalho parecido entre si e de acordo com as escolhas dos presentes na reunião.
 
 
-| Tarefas | Integrante(s) | Revisor |
-|:-:|:-:|:-:|
-| Heatmap | Pablo | |
-|Configuração Inicial do GitPages | Danilo | |
-|Lista de apps avaliados | Gabriel Bertolazi | |
-| Artefato de apresentação |  | |
-| Definição de ferramentas do projeto | Danilo | |
-| Atas das reuniões | Ricardo | | 
-| Cronograma | Elias, Gabriel Fernandes, Gabriel Bertolazi, Pablo | | 
-| RichPicture | Claudio | |
-| Seleção dos termos de uso | Danilo | |
+| Tarefas | Integrante(s) |
+|:-:|:-:|
+|Configuração Inicial do GitPages | Danilo | 
+|Lista de apps avaliados | Gabriel Bertolazi | 
+| Planejamento (mapa de disponibilidade, aplicativo selecionado) | Pablo, Ricardo | 
+| Ferramentas do projeto | Danilo | 
+| Atas das reuniões | Ricardo | 
+| Cronograma | Elias, Gabriel Fernandes, Gabriel Bertolazi, Pablo | 
+| RichPicture | Claudio | 
+| Termos de uso | Danilo | 
 <div style="text-align: center">
 <p> Tabela 2: Integrantes por atividades (Fonte: AUGUSTO, Ricardo 2024). </p>
 </div>
