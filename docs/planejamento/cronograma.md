@@ -15,7 +15,7 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
 | Selecionar app | Início: 18/03 <br> Fim: 26/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/03 Fim: 28/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
-| App selecionado | Início: 28/03 <br>Fim: 29/03 | NONE | Início: 29/03   <br>Fim: 01/04 | NONE |
+| App selecionado | Início: 28/03 <br>Fim: 29/03 | Ricardo | Início: 29/03   <br>Fim: 01/04 | Gabriel B. Bertolazi |
 | Apps avaliados | Início: 26/03   <br>Fim: 29/03 | Gabriel B. Bertolazi | Início: 29/03   <br>Fim: 30/03 | Claúdio |
 | Heatmap | Início: 18/03   <br>Fim: 22/03 | Pablo | Início: 22/03 Fim: 23/03 | Ricardo |
 | Selecionar ferramentas do projeto | Início: 29/03   <br>Fim: 01/04 | Danilo | Início: 01/04 Fim: 01/04 | Pablo |
