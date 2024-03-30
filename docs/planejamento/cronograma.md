@@ -53,7 +53,7 @@ Na Tabela 13, temos o cronograma planejado para as atividades da última entrega
 | Gravação da Apresentação e Entrega | Início: 21/06  <br>Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/06 Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 25/06  <br>Fim: 10/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 10/07  <br>Fim: 11/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: Autores.
+Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 
 ## Bibliografia
 
