@@ -1,7 +1,7 @@
 # Heatmap
 
 ## Sobre o heatmap
-Um heatmap(mapa de calor) é um método gráfico para exibir informações, onde diferentes cores representam níveis variados de atividade ou valor. Imagine um mapa de calor como uma ferramenta que destaca as zonas de maior acesso em um website, as áreas mais impactadas por uma enfermidade ou as temperaturas médias em uma nação. Ele é útil para revelar padrões, tendências ou discrepâncias nos dados, o que auxilia na análise e decisão.
+Um heatmap (mapa de calor) é um método gráfico para exibir informações, onde diferentes cores representam níveis variados de atividade ou valor. Imagine um mapa de calor como uma ferramenta que destaca as zonas de maior acesso em um website, as áreas mais impactadas por uma enfermidade ou as temperaturas médias em uma nação. Ele é útil para revelar padrões, tendências ou discrepâncias nos dados, o que auxilia na análise e decisão.
 
 Em nosso contexto, empregamos o mapa de calor para mapear a disponibilidade de tempo dos membros do time, considerando seus compromissos pessoais, profissionais e educacionais. Essa visão nos capacita a planejar encontros de maneira mais eficaz e considerada, prevenindo choques de horários e excesso de demandas. Dessa forma, asseguramos a participação plena e engajada de todos no projeto, permitindo que contribuam com suas perspectivas e competências.
 
