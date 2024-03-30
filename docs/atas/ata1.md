@@ -37,6 +37,7 @@
 | Cronograma | Elias, Gabriel Fernandes, Gabriel Bertolazi, Pablo | 
 | RichPicture | Claudio | 
 | Termos de uso | Danilo | 
+|Artefato de apresentação | Elias
 <div style="text-align: center">
 <p> Tabela 2: Integrantes por atividades (Fonte: AUGUSTO, Ricardo 2024). </p>
 </div>
@@ -45,7 +46,7 @@
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | 
+|`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel Fernando][GabrielFGH]
 <div style="text-align: center">
 <p> Tabela 3: Histórico de versão (Fonte: AUGUSTO, Ricardo 2024). </p>
 </div>
