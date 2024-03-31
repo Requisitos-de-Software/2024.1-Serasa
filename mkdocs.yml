@@ -9,6 +9,7 @@ nav:
     - Reunião 1: atas/ata1.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
+    - Termo de Uso: planejamento/termodeuso.md
 theme:
   language: pt-BR
   name: material
