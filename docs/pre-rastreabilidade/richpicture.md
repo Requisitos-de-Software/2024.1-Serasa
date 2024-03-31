@@ -1,7 +1,7 @@
 # Rich Picture
 
 ## Introdução
-O Rich Picture é uma forma visual e informal para expressar ideias e analisar problemas de maneira que facilite o entendimento. No âmbito da Engenharia de Software, o Rich Picture é utilizado  a fim de desenvolver uma compreensão compartilhada dos elementos-chave e das relações de um sistema. Ele possui 5 principais elementos básicos como: atores, operações ou processos, armazenamento de dados, setas e limites do sistema. <a id="rp1" href="#ref1">^1^</a> 
+O Rich Picture é uma forma visual e informal para expressar ideias e analisar problemas de maneira que facilite o entendimento. No âmbito da Engenharia de Software, o Rich Picture é utilizado  a fim de desenvolver uma compreensão compartilhada dos elementos-chave e das relações de um sistema. Ele possui 5 principais elementos básicos como: atores, operações ou processos, armazenamento de dados, setas e limites do sistema. <a id="rp1" href="#ref1">1</a> 
 
 ## Metodologia e Ferramentas
  A aplicação [Draw.io](https://draw.io) foi utilizada para elaborar o Rich Picture e está apresentado na Figura 1, já a sua legenda foi feita com a aplicação [Figma](https://figma.com), e está na Figura 2. O ícone aludindo aos bancos é de autoria do site [Flaticon](https://www.flaticon.com/br/icone-gratis/banco_1138038).
