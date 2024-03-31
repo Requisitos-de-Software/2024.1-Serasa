@@ -44,20 +44,24 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 ### Planejado
 
 <p style = "text-align: center;">
-    <b>Tabela 2</b> - Planejamento da entrega 2
+    <b>Tabela 3</b> - Planejamento da entrega 2 
 </p> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Técnicas de elicitação: Brainstorm | Início: 02/04 <br> Fim: 03/04 | Claúdio e Danilo  | Início: 03/04 <br> Fim: 03/04 | Elias e Gabriel B. Bertolazi |
-| Técnicas de elicitação: Personas | Início: 02/04 <br> Fim: 03/04  | Elias e Gabriel B. Bertolazi | Início: 03/04 <br>Fim: 03/04 | Gabriel F. J. Silva e Pablo |
-| Técnicas de elicitação: Questionário | Início: 02/04 <br> Fim: 03/04  | Gabriel F. J. Silva e Pablo | Início: 03/04 <br>Fim: 03/04 | Ricardo e Cláudio |
-| Técnicas de elicitação: Casos de uso | Início: 02/04  <br>Fim: 03/04 | Danilo e Elias | Início: 03/04 <br>Fim: 03/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | 
 | Ata de Reunião | Início: 03/04 <br>Fim: 03/04 | Ricardo | Início: 03/04   <br>Fim: 03/04 | Claúdio |
-| Técnicas de Priorização: MosCow | Início: 04/04  <br>Fim: 05/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 05/04 <br>Fim: 05/04 | Pablo e Ricardo | 
-| Técnicas de Priorização: First Things First | Início: 04/04  <br>Fim: 05/04 | Pablo e Ricardo | Início: 05/04 <br>Fim: 05/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | 
-| Gravação da apresentação | Início: 06/04    <br>Fim: 07/04 | Todos | Início: 07/04 <br>Fim: 08/04 | Todos |
-| Correções pós apresentação | Início:  09/04  <br>Fim: 09/04 | Todos | Início: 09/04 <br>Fim: 09/04 | Todos |
+| Especificação do Usuário | Início: 03/04 <br> Fim: 05/04  | Elias e Gabriel B. Bertolazi | Início: 05/04 <br>Fim: 05/04 | Gabriel F. J. Silva e Pablo |
+| Técnicas de elicitação: Brainstorm | Início: 05/04 <br> Fim: 08/04 | Claúdio e Danilo  | Início: 08/04 <br> Fim: 08/04 | Elias e Gabriel B. Bertolazi |
+| Técnicas de elicitação: Questionário | Início: 05/04 <br> Fim: 08/04  | Gabriel F. J. Silva e Pablo | Início: 08/04 <br>Fim: 08/04 | Ricardo e Cláudio |
+| Técnicas de elicitação: Casos de uso | Início: 05/04  <br>Fim: 08/04 | Danilo e Elias | Início: 08/04 <br>Fim: 08/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | 
+| Reunião com o usuário para elicitação | Início: 09/04 <br>Fim: 11/04 | Pablo, Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 11/04   <br>Fim: 11/04 | Claúdio, Ricardo e Elias |
+| Ata de Reunião | Início: 10/04 <br>Fim: 10/04 | Ricardo | Início: 10/04   <br>Fim: 10/04 | Claúdio |
+| Técnicas de Priorização: Return Over Investnent (ROI) | Início: 12/04  <br>Fim: 14/04 | Cláudio e Danilo | Início: 14/04 <br>Fim: 14/04 | Gabriel F. J. Silva | 
+| Técnicas de Priorização: MosCow | Início: 12/04  <br>Fim: 14/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 14/04 <br>Fim: 14/04 | Pablo e Ricardo | 
+| Técnicas de Priorização: First Things First | Início: 12/04  <br>Fim: 14/04 | Pablo e Ricardo | Início: 14/04 <br>Fim: 14/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | 
+| Reunião com o usuário para priorização | Início: 15/04 <br>Fim: 16/04 | Pablo, Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 16/04   <br>Fim: 16/04 | Claúdio, Ricardo e Elias |
+| Gravação da apresentação | Início: 16/04    <br>Fim: 17/04 | Todos | Início: 17/04 <br>Fim: 17/04 | Todos |
+| Correções pós apresentação | Início: 18/04  <br>Fim: 19/04 | Todos | Início: 19/04 <br>Fim: 19/04 | Todos |
 
 <p style = "text-align: center;">
     Fonte: 
@@ -75,13 +79,13 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 ### Planejado
 
 <p style = "text-align: center;">
-    <b>Tabela 6</b> - Planejamento da entrega 5.2
+    <b>Tabela 11</b> - Planejamento da entrega 5.2
 </p> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Revisão de Requisitos | Início: 02/06  <br>Fim: 03/06 | Claúdio, Danilo e Elias | Início: 03/06 <br>Fim: 03/06 | Gabriel B. Bertolazi, Gabriel F. J. Silva e Pablo | 
-| Prototipação | Início: 09/06  <br>Fim: 11/06 | Gabriel B. Bertolazi e Gabriel F. J. Silva e Pablo | Início: 11/06 <br>Fim: 11/06 | Ricardo e Claúdio | 
+| Revisão de Requisitos | Início: 04/06  <br>Fim: 07/06 | Claúdio, Danilo e Elias | Início: 07/06 <br>Fim: 07/06 | Gabriel B. Bertolazi, Gabriel F. J. Silva e Pablo | 
+| Prototipação | Início: 08/06  <br>Fim: 11/06 | Gabriel B. Bertolazi e Gabriel F. J. Silva e Pablo | Início: 11/06 <br>Fim: 11/06 | Ricardo e Claúdio | 
 | Ata de Reunião | Início: 12/06 <br>Fim: 12/06 | Ricardo | Início: 12/06   <br>Fim: 12/06 | Claúdio |
 | Geração de casos teste | Início: 12/06  <br>Fim: 14/06 | Danilo, Elias e Gabriel B. Bertolazi | Início: 14/06 <br>Fim: 14/06 | Gabriel F. J. Silva, Pablo e Ricardo | 
 | Gravação da apresentação | Início: 15/06    <br>Fim: 16/16 | Todos | Início: 17/06 <br>Fim: 17/06 | Todos |
