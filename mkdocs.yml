@@ -10,6 +10,7 @@ nav:
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Termo de Uso: planejamento/termodeuso.md
+    - Ferramentas: planejamento/ferramentas.md
 theme:
   language: pt-BR
   name: material
