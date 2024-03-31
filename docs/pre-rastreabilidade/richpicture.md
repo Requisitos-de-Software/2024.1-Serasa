@@ -10,12 +10,12 @@ O Rich Picture é uma forma visual e informal para expressar ideias e analisar p
 
 ![Richpicture](../assets/richpicture/Projeto-Serasa-Rich-Picture.drawio.png)
 
-<font size="3"><p style="text-align: center">Fonte: Autor.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autor, 2024.</p></font>
 
 <font size="3"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
 ![LegendaRichpicturev1](../assets/richpicture/legenda-rich-picture-serasa.png)
 
-<font size="3"><p style="text-align: center">Fonte: Autor.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autor, 2024.</p></font>
 
 ## Referências
 
