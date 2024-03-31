@@ -30,4 +30,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  |   |
+| `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc)  |
