@@ -11,6 +11,7 @@ O aplicativo Serasa: Consulta CPF e Score, desenvolvido pela empresa de análise
 
 - Não ter sido utilizado na disciplina Requisitos de Software;
 - Aplicativo não possui restrições para sua utilização no projeto;
+- Acesso fácil aos usuários do aplicativo;
 - Disponibilidade de informações.
 
 ## Principais recursos
