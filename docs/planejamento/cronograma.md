@@ -86,7 +86,8 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 | Modelagem de Requisitos: Léxico  |  Início: 22/04 Fim: 24/04 |  Elias e Cláudio |  Início: 24/04 Fim: 24/04 | Cláudio |
 | Modelagem de Requisitos: Use Case |  Início: 24/05 Fim: 26/04 |  Pablo e Ricardo | Início: 26/04 Fim: 26/04  |  Gabriel F. J. Silva |
 | Modelagem de Requisitos: Especificação Suplementar |  Início: 26/04 Fim: 29/04 | Danilo e Pablo  | Início: 29/04 Fim: 29/04 | Elias  |
-| Gravação da Apresentação | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravação da Apresentação e  Entrega | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Corrreção pós apresentação | Início: 07/05 Fim: 08/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 08/05 Fim: 08/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.
 
@@ -173,13 +174,49 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 
 *EM BREVE...*
 
+## Entrega 6 - Pós-Rastreabilidade - Gerência II
+ 
+### Planejado
+
+<p style = "text-align: center;">
+    <b>Tabela 13</b> - Pós-Rastreabilidade - Gerência II
+</p> 
+
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| :---: | :---: | :---: | :---: | :---: |
+| Ata de Reunião | Início: 15/05 Fim: 15/05 | Ricardo | Início: Início: 16/05 Fim: 16/05 | Gabriel B. Bertolazi |
+| Rastreabilidade Backward | Início: 24/05 Fim: 27/05| Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 27/05 Fim: 28/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Rastreabilidade Forward | Início: 24/05 Fim: 30/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/05 Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravação da Apresentação e Entrega | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correção pós apresentação | Início: 05/06  <br>Fim: 06/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+
+<p style = "text-align: center;">
+    Fonte: 
+    <a href="https://github.com/EliasOliver21">
+        Elias Faria de Oliveira
+    </a> 
+</p>
+
+## Executado
+
+<p style = "text-align: center;">
+    <b>Tabela 14</b> - Executado da entrega 6
+</p> 
+
+*EM BREVE...*
+
+
+
+
 ## Entrega Final
 
 ### Planejado
 
-Na Tabela 13, temos o cronograma planejado para as atividades da última entrega.
+Na Tabela 15, temos o cronograma planejado para as atividades da última entrega.
 
-**Tabela 13** - Entrega Final
+**Tabela 15** - Entrega Final
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -203,3 +240,4 @@ Disponível em:
 | --- | --- | --- | --- | --- |
 | 1.0 | 29/03/2024 | Criar cronograma planejado | [Pablo S. Costa](https://github.com/pabloheika) | [pessoa](https://github.com/pessoa) |
 | 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [pessoa](https://github.com/pessoa) |
+| 1.2 | 01/04/2024 | Criar cronograma planejado | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
