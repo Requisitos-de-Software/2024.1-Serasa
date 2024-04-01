@@ -14,6 +14,7 @@ nav:
 theme:
   language: pt-BR
   name: material
+  favicon: assets/serasa_logo.svg
   logo: assets/serasa_logo_white.svg
   features:
     - navigation.tabs
