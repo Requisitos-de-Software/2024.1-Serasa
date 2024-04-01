@@ -12,13 +12,13 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 
 Nome | Presença/Apresentação - ✅/❌
 :--- | :---:
-[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-[Cláudio Henrique](https://github.com/claudiohsc)|
-[Elias Oliveira](https://github.com/EliasOliver21)|
-[Gabriel Fernando](https://github.com/MMcLovin)|
-[Gabriel Bertolazi](https://github.com/Bertolazi)|
-[Pablo S. Costa](https://github.com/pabloheika)|
-[Ricardo Augusto](https://www.github.com/avmricardo)|
+[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |✅
+[Cláudio Henrique](https://github.com/claudiohsc)|✅
+[Elias Oliveira](https://github.com/EliasOliver21)|✅
+[Gabriel Fernando](https://github.com/MMcLovin)|✅
+[Gabriel Bertolazi](https://github.com/Bertolazi)|✅
+[Pablo S. Costa](https://github.com/pabloheika)|✅
+[Ricardo Augusto](https://www.github.com/avmricardo)|✅
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
