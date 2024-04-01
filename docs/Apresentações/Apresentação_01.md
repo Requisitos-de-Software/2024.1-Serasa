@@ -1,7 +1,7 @@
 # Apresentação 01:
 
 ## Objetivo
-Esta página esta destinada a hospedar o vídeo de apresentação da etapa 01 do projeto. A apresentação ocorreu no dia xx/xx/2024.
+Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A apresentação ocorreu no dia 01/04/2024.
 
 ## Apresentação
 
@@ -17,7 +17,7 @@ Nome | Presença/Apresentação - ✅/❌
 [Gabriel Fernando](https://github.com/MMcLovin)|
 [Gabriel Bertolazi](https://github.com/Bertolazi)|
 [Pablo S. Costa](https://github.com/pabloheika)|
-[RicardoGH](https://www.github.com/avmricardo)|
+[Ricardo Augusto](https://www.github.com/avmricardo)|
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
