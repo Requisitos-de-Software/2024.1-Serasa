@@ -24,8 +24,8 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Todos
-1.1 | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Todos
-1.2 | 30/03/2024 | Correção das informações do site | [Claudio Henrique](https://github.com/claudiohsc) | Todos
+1.0 | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
+1.1 | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
+1.2 | 30/03/2024 | Correção das informações do site | [Claudio Henrique](https://github.com/claudiohsc) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
 
 
