@@ -60,8 +60,8 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Técnicas de Priorização: MosCow | Início: 12/04  <br>Fim: 14/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 14/04 <br>Fim: 14/04 | Pablo e Ricardo | 
 | Técnicas de Priorização: First Things First | Início: 12/04  <br>Fim: 14/04 | Pablo e Ricardo | Início: 14/04 <br>Fim: 14/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | 
 | Reunião com o usuário para priorização | Início: 15/04 <br>Fim: 16/04 | Pablo, Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 16/04   <br>Fim: 16/04 | Claúdio, Ricardo e Elias |
-| Gravação da apresentação | Início: 16/04    <br>Fim: 17/04 | Todos | Início: 17/04 <br>Fim: 17/04 | Todos |
-| Correções pós apresentação | Início: 18/04  <br>Fim: 19/04 | Todos | Início: 19/04 <br>Fim: 19/04 | Todos |
+| Gravação da apresentação | Início: 16/04    <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo | Início: 17/04 <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo |
+| Correções pós apresentação | Início: 18/04  <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo | Início: 19/04 <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo |
 
 <p style = "text-align: center;">
     Fonte: 
@@ -88,8 +88,8 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Prototipação | Início: 08/06  <br>Fim: 11/06 | Gabriel B. Bertolazi e Gabriel F. J. Silva e Pablo | Início: 11/06 <br>Fim: 11/06 | Ricardo e Claúdio | 
 | Ata de Reunião | Início: 12/06 <br>Fim: 12/06 | Ricardo | Início: 12/06   <br>Fim: 12/06 | Claúdio |
 | Geração de casos teste | Início: 12/06  <br>Fim: 14/06 | Danilo, Elias e Gabriel B. Bertolazi | Início: 14/06 <br>Fim: 14/06 | Gabriel F. J. Silva, Pablo e Ricardo | 
-| Gravação da apresentação | Início: 15/06    <br>Fim: 16/16 | Todos | Início: 17/06 <br>Fim: 17/06 | Todos |
-| Correções pós apresentação | Início: 19/06  <br>Fim: 19/06 | Todos | Início: 16/06 <br>Fim: 19/06 | Todos |
+| Gravação da apresentação | Início: 15/06    <br>Fim: 16/16 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo | Início: 17/06 <br>Fim: 17/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo |
+| Correções pós apresentação | Início: 19/06  <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo | Início: 16/06 <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Pablo, Ricardo |
 
 <p style = "text-align: center;">
     Fonte: 
