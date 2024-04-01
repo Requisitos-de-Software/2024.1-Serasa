@@ -20,11 +20,12 @@ O Rich Picture é uma forma visual e informal para expressar ideias e analisar p
 
 ## Bibliografia
 
-> <a id="ref1" href="#rp1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2844953/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf>>. Acesso em: 30/03/2024.
+> <a id="ref1" href="#rp1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2844953/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf>>. Acesso em: 01/04/2024.
 
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 `1.0` | 30/03/2024 | Primeira versão do Rich Picture  | [Claudio Henrique](https://github.com/claudiohsc) | [Ricardo](https://www.github.com/avmricardo)
-`1.1` | 01/04/2024 | Adicionar Bibliografia  | [Claudio Henrique](https://github.com/claudiohsc) | [revisor](https://github.com/)
+`1.1` | 01/04/2024 | Adicionar nome "Bibliografia"  | [Claudio Henrique](https://github.com/claudiohsc) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)
+
