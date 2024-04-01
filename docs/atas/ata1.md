@@ -42,7 +42,7 @@
 | Planejamento (mapa de disponibilidade, aplicativo selecionado) | Pablo, Ricardo | 
 | Ferramentas do projeto | Danilo | 
 | Atas das reuniões | Ricardo | 
-| Cronograma | Elias, Gabriel Fernandes, Gabriel Bertolazi, Pablo | 
+| Cronograma | Elias, Gabriel Fernando, Gabriel Bertolazi, Pablo | 
 | RichPicture | Claudio | 
 | Termos de uso | Danilo | 
 |Artefato de apresentação | Elias
