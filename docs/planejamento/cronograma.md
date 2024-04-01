@@ -240,4 +240,4 @@ Disponível em:
 | --- | --- | --- | --- | --- |
 | 1.0 | 29/03/2024 | Criar cronograma planejado | [Pablo S. Costa](https://github.com/pabloheika) | [pessoa](https://github.com/pessoa) |
 | 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [pessoa](https://github.com/pessoa) |
-| 1.2 | 01/04/2024 | Criar cronograma planejado | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
+| 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
