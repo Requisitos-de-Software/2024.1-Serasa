@@ -33,6 +33,6 @@ Para que o projeto seja realizado de acordo com as normas éticas, foi necessár
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
-|`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajuste no logo do aplicativo |
+|`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajuste no logo do aplicativo | [Gabriel F. J. Silva](https://github.com/MMcLovin)
 
 [RicardoGH]: https://www.github.com/avmricardo
