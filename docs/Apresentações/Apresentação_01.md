@@ -5,7 +5,10 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 
 ## Apresentação
 
-<iframe width="560" height="315" src="https://youtu.be/s0wBc73YlBA?si=uUSumIFfBHo0LjsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/s0wBc73YlBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 
 
 ## Integrantes Presentes
