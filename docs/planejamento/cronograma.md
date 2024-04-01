@@ -74,6 +74,67 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 
 *EM BREVE...*
 
+## Entrega 4 - Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+
+## Planejado
+<p style = "text-align: center;">
+    <b>Tabela 7</b> - Planejamento da entrega 4
+</p> 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Ata de reunião | Início: 08/05 Fim 08/05 | Ricardo | Início: 09/05 Fim: 09/05| Elias |
+| Modelagem de requisitos: Histórias de usuários | Início: 09/05 Fim: 10/05| Gabriel F. J. Silva e Pablo | Início: 10/05 Fim: 11/05 | Ricardo |
+| Modelagem de requisitos: Backlog | Início: 09/05 Fim: 10/05 | Danilo e Cláudio | Início: 10/05 Fim: 11/05 | Gabriel F. J. Silva |
+| NFR: Framework | Início: 09/05 Fim: 10/05 | Elias e Ricardo | Início: 10/05 Fim: 11/05 | Pablo |
+| RNF: Requisitos não funcionais | Início: 09/05 Fim: 10/05 | Gabriel B. Bertolazi | Início: 10/05 Fim: 11/05 | Gabriel F. J. Silva |
+| Softgoals | Início: 09/05 Fim: 10/05 | Danilo e Cláudio | Início: 10/05 Fim: 11/05 | Pablo |
+| Gravação de apresentação | Início: 12/05 Fim: 13/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 13/05 Fim: 13/05 |  Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
+| Corrreção pós apresentação | Início: 14/05 Fim: 17/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 17/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<p style = "text-align: center;">
+    Fonte: 
+    <a href="https://github.com/Bertolazi">
+        Gabriel B. Bertolazi
+    </a> 
+</p>
+
+## Executado
+<p style = "text-align: center;">
+    <b>Tabela 8</b> - Executado da entrega 4
+</p> 
+
+*EM BREVE...*
+
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
+
+## Planejado
+<p style = "text-align: center;">
+    <b>Tabela 9</b> - Planejado da entrega 5.1
+</p> 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Ata de reunião | Início: 17/05 Fim: 17/05 | Ricardo | Início: 18/05 Fim: 18/05 | Pablo |
+| Verificação de requisitos | Início: 18/05 Fim: 19/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 19/05 Fim: 20/05| Cláudio e Ricardo|
+| Validação de requisitos | Início: 18/05 Fim: 19/05 | Elias e Danilo | Início: 19/05 Fim: 20/05 | Cláudio e Pablo|
+| Gravação da entrega | Início: 20/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 21/05 Fim: 22/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Revisão pós avaliação | Início: 23/05 Fim: 28/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 28/05 Fim: 30/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi|
+
+<p style = "text-align: center;">
+    Fonte: 
+    <a href="https://github.com/Bertolazi">
+        Gabriel B. Bertolazi
+    </a> 
+</p>
+
+## Executado
+<p style = "text-align: center;">
+    <b>Tabela 10</b> - Executado da entrega 5.1
+</p> 
+
+*EM BREVE...*
+
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação II
  
 ### Planejado
