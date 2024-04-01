@@ -52,16 +52,10 @@
 
 ## Histórico de Versão
 
-<div style="text-align: center">
-<p> Tabela 3: Histórico de versão. </p>
-</div>
-
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel Fernando][GabrielFGH]
-<div style="text-align: center">
-<p> Fonte: Autor, 2024. </p>
-</div>
+|`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajustes em formatação | 
 
 
 [ClaudioGH]: https://github.com/claudiohsc
