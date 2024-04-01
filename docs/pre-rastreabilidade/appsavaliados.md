@@ -1,7 +1,3 @@
-## Versionamento
-| Versão | Data | Autor | Descrição | Revisor |
-| --- | --- | --- | --- | --- |
-| 1.0 | 01/04 | Gabriel B. Bertolazi | Colocando apps analizados e suas descrições | Danilo |
 
 ## Aplicativos
 
@@ -71,9 +67,22 @@ O aplicativo permite que você fale diretamente com as empresas para resolver pr
 ![Richpicture](../assets/richpicture/RichRicardo.png)
 <font size="3"><p style="text-align: center">Fonte: Ricardo, 2024.</p></font>
 
-## Referências
+## Bibliografia
 
-> Serasa: Disponível em < https://www.serasa.com.br/limpa-nome-online?gclid=CjwKCAjwtqmwBhBVEiwAL-WAYScXzuzNhIDz7g3JcXvUoZfeqw-SOdCSc91Fb8wniWEwS5U9Gb4yIxoCmOIQAvD_BwE >. Acesso em: 01/04/2024<br>
-> Play Store: Carteira Digital de Trabalho: Disponívem em < https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US >. Acesso em: 01/04/2024<br>
-> Site do governo: Disponívem em < https://www.gov.br/ >. Acesso em: 01/04/2024<br>
+> Serasa - Disponível em < https://www.serasa.com.br/limpa-nome-online?gclid=CjwKCAjwtqmwBhBVEiwAL-WAYScXzuzNhIDz7g3JcXvUoZfeqw-SOdCSc91Fb8wniWEwS5U9Gb4yIxoCmOIQAvD_BwE >. Acesso em: 01/04/2024<br>
+> Play Store: Carteira Digital de Trabalho - Disponívem em < https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US >. Acesso em: 01/04/2024<br>
+> Site do governo - Disponívem em < https://www.gov.br/ >. Acesso em: 01/04/2024<br>
+> Play Store: Serasa - Disponível em: < https://play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor&hl=pt_BR&gl=US >. Acesso em: 01/04/2024<br>
+> Play Store: CNPq - Disponível em: < https://play.google.com/store/apps/details?id=br.cnpq.app&hl=pt_BR&gl=US >. Acesso em: 01/04/2024<br>
+> Play Store: NFSe mobile - Disponível em: < https://play.google.com/store/apps/details?id=br.gov.nfsemobileemissor&hl=pt_BR&gl=US >. Acesso em: 01/04/2024<br>
+> Play Store: Carteira Digital de trânsito - Disponível em: < https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US >. Acesso em 01/04/2024
+> Play Store: Consumidor - Disponível em: < https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US >. Acesso em 01/04/2024<br>
+> Play Store: Meu SUS Digital - Disponível em: < https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US >. Acesso em 01/04/2024<br>
 
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 01/04/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi)  | [Danilo](https://github.com/Danilo-Carvalho-Antunes)  |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.1`  | 01/04/2024 | Correção do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi)  | [Danilo](https://github.com/Danilo-Carvalho-Antunes)  |
