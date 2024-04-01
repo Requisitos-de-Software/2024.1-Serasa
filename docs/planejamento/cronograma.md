@@ -39,7 +39,20 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
     <b>Tabela 2</b> - Planejamento do Projeto 
 </p></font>
 
-EM BREVE….
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Selecionar app | Início: 18/03 <br>Fim: 26/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/03 <br>Fim: 28/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| App selecionado | Início: 01/04 <br>Fim: 01/04 | Ricardo | Início: 01/04 <br>Fim: 01/04 | Claudio, Gabriel F. J. Silva |
+| Apps avaliados | Início: - <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: - <br>Fim: 01/04 | \- |
+| Heatmap | Início: 18/03 <br>Fim: 01/04 | Pablo | Início: 29/03 <br>Fim: 01/04 | Ricardo |
+| Selecionar ferramentas do projeto | Início: 29/03 <br>Fim: 01/04 | Danilo | Início: 01/04 <br>Fim: 01/04 | Pablo |
+| Realização do cronograma | Início: 29/03 <br>Fim: 01/03 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: - <br>Fim: - | \- |
+| Rich Picture | Início: 30/03 <br>Fim: 31/03 | Claúdio | Início: 30/03 <br>Fim: 31/03 | Ricardo |
+| Documentar Equipe | Início: 26/03 <br>Fim: 30/03 | Danilo | Início: 26/03 <br>Fim: 28/03 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravar apresentação | Início: 30/03 <br>Fim: 01/04 | Elias | Início: 01/04 <br>Fim: 01/04 | Ricardo |
+| Termos de Uso | Início: 31/03 <br>Fim: 01/04 | Danilo | Início: 31/03 <br>Fim: 01/04 | Pablo, Ricardo |
+| Implementar Git Page | Início: 18/03 <br>Fim: 25/03 | Danilo | Início: 25/03 <br>Fim: 27/03 | Pablo |
+| Correção pós apresentação | Início: - <br>Fim: - | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: - <br>Fim: -- | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
