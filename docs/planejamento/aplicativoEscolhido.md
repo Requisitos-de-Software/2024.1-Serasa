@@ -5,7 +5,7 @@
 <center>
 ![Serasa Logo](../assets/serasa_logo_01.jpg)
 </center>
-<p align="center" > <font>Fonte: <a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668">Serasa</a></font> <br></p>
+<p align="center" > <font>Fonte: <a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668">Serasa</a>, 2024.</font> <br></p>
 
 O aplicativo Serasa: Consulta CPF e Score, desenvolvido pela empresa de análise de crédito Serasa, oferece uma maneira conveniente para os consumidores brasileiros acompanharem sua saúde financeira, oferecendo consultas de CPF e pontuação de crédito, permitindo com que os usuários possam entender melhor seu perfil financeiro.
 
