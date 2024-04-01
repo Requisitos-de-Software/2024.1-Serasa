@@ -242,8 +242,8 @@ Na Tabela 15, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
-> 1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: \<\<https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf\>>. Acesso em: 26/03/2024.
-> 2. Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: \<\<https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf\>>. Acesso em: 26/03/2024.
+> - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
 Disponível em:
 <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
 
