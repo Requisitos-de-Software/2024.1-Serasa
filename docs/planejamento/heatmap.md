@@ -18,7 +18,7 @@ Para determinar rapidamente a disponibilidade dos membros da equipe, criamos uma
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 Com base nas informações da tabela acima, definimos que os encontros serão idealmente realizados às quartas-feiras às 20h e aos sábados às 16h. Estes momentos são os mais apropriados para a maior parte dos integrantes do grupo, levando em conta suas disponibilidades e obrigações. Ademais, esses intervalos nos oferecem a oportunidade adequada para debater os temas importantes para o nosso projeto.
 
