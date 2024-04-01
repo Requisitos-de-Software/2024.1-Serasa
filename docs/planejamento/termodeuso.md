@@ -252,12 +252,10 @@ Você também pode solicitar informações ou fazer reclamações via internet, 
 A Serasa Experian disponibiliza canais de atendimento e de ouvidoria gratuitos e exclusivos para os assuntos relacionados ao Cadastro Positivo. Lá, Você pode obter informações, oferecer sugestões e reclamações. Você também pode entrar em contato gratuitamente por meio do telefone 0800-776-6606.
 
 ## Fonte
-
-> - https://www.serasa.com.br/app/politica-de-privacidade/, Acesso em 31/04/2024.
->
-
+> TERMOS de Uso e Política de Privacidade do Serasa. Serasa, 27 de Outubro de 2023. Disponível em: <https://www.serasa.com.br/app/politica-de-privacidade/>. Acesso em 31 de Março de 2024.
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
-| :----: | :---------: | ----------- | --------- | ----------- |
-| `1.0`  | 18/09/2023  | copiando termos de uso | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
+| ------ | ----------- | ----------- | --------- | ----------- |
+| 1.0  | 31/03/2024  | copiando termos de uso | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
+| 1.1  | 01/04/2024  | arrumando o histórico de versões | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)| [Ricardo](https://www.github.com/avmricardo)|

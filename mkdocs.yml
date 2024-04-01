@@ -2,17 +2,20 @@ repo_url: https://github.com/Requisitos-de-Software/2024.1-Serasa
 repo_name: 2024.1-Serasa
 site_name: 'Serasa: Consulta CPF e Score'
 nav: 
-  - Home: index.md
+  - Equipe: index.md
   - Apresentações:
     - Apresentação 01: Apresentações/Apresentação_01.md
   - Atas:
     - Reunião 1: atas/ata1.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
+    - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
   - Planejamento:
-      - Heatmap: planejamento/heatmap.md
-      - Cronograma:  planejamento/cronograma.md
-      - Termo de Uso: planejamento/termodeuso.md
+    - Aplicativo escolhido: planejamento/aplicativoEscolhido.md
+    - Heatmap: planejamento/heatmap.md
+    - Cronograma:  planejamento/cronograma.md
+    - Termo de Uso: planejamento/termodeuso.md
+    - Ferramentas: planejamento/ferramentas.md
 theme:
   language: pt-BR
   name: material

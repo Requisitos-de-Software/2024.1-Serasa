@@ -18,7 +18,7 @@ Para determinar rapidamente a disponibilidade dos membros da equipe, criamos uma
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 Com base nas informações da tabela acima, definimos que os encontros serão idealmente realizados às quartas-feiras às 20h e aos sábados às 16h. Estes momentos são os mais apropriados para a maior parte dos integrantes do grupo, levando em conta suas disponibilidades e obrigações. Ademais, esses intervalos nos oferecem a oportunidade adequada para debater os temas importantes para o nosso projeto.
 
@@ -33,3 +33,4 @@ Com base nas informações da tabela acima, definimos que os encontros serão id
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Ricardo A. V. Maciel](https://github.com/avmricardo) |
+| `1.1`  | 01/04/2024 | Conserta data de referencia | [Pablo S. Costa](https://github.com/pabloheika)  | [Ricardo A. V. Maciel](https://github.com/avmricardo) |
