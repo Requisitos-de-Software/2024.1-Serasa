@@ -28,13 +28,13 @@ Site: conjunto de informações disponibilizadas na internet por indivíduo, ins
 
 Você/titular: são os clientes e os visitantes (pessoas naturais ou jurídicas) dos nossos Sites.
 
-1. Quem somos
+### Quem somos
 
 A Serasa é parte da Serasa Experian, uma empresa de banco de dados que reúne e presta informações sobre pessoas e empresas para apoiar clientes, parceiros e consumidores por meio de soluções voltadas para a gestão de risco de crédito, prevenção a fraudes, educação financeira, qualidade de dados, marketing e certificação digital.
 
 Somos parte do grupo Experian, cuja empresa controladora é a Experian plc, listada na Bolsa de Valores de Londres (EXPN). O grupo Experian tem sede em Dublin, na Irlanda, e seus principais escritórios operacionais estão em Costa Mesa (EUA), Nottingham (Inglaterra) e São Paulo (Brasil). Você pode descobrir mais sobre o grupo Experian em www.experianplc.com.
 
-2. Quais dados podem ser tratados pela Serasa?
+### Quais dados podem ser tratados pela Serasa?
 
 A Serasa Experian realiza o tratamento de dados conforme a legislação aplicável. Inicialmente, pode tratar os dados que são coletados pela Serasa, tais como:
 
@@ -60,7 +60,7 @@ Os bancos de dados da Serasa Experian são compostos por dados provenientes de d
 
 (v) recebimento de informações de clientes e parceiros.
 
-3. Quais as finalidades do tratamento dos Dados Pessoais tratados pela Serasa?
+### Quais as finalidades do tratamento dos Dados Pessoais tratados pela Serasa?
 
 Os Dados Pessoais coletados conforme o item 2 acima, se utilizados para atualização da nossa base de dados e como insumos para nossas soluções, terão as seguintes finalidades:
 - Execução de contrato, a fim de assegurar a nossa prestação de serviços;
@@ -91,11 +91,11 @@ A Serasa esclarece que armazena os dados em ambientes seguros e possuem prazo de
 
 Não interferimos em nenhum processo que envolva a análise e aprovação de negócios e crédito dos nossos clientes ou parceiros ocorridos ou não nos nossos Sites ou aplicativos, bem como nas ofertas e campanhas de marketing realizadas por eles. A decisão final de realização de um negócio, concessão de crédito ou oferta é sempre dos nossos clientes, considerando os seus próprios critérios e políticas de crédito e risco e de negócios.
 
-4. Quais as hipóteses de tratamento aplicáveis para o tratamento de Dados Pessoais?
+### Quais as hipóteses de tratamento aplicáveis para o tratamento de Dados Pessoais?
 
 A fim de garantir a conformidade com a Lei de Proteção de Dados Pessoais (LGPD), toda operação realizada com seus Dados Pessoais está amparada em uma hipótese de tratamento, como a proteção do crédito; o legítimo interesse da Serasa Experian e, conforme o caso, de seus clientes ou parceiros; a execução de contrato; o cumprimento de obrigação regulatória/legal ou o consentimento.
 
-5. A quem a Serasa pode disponibilizar os Dados Pessoais?
+### A quem a Serasa pode disponibilizar os Dados Pessoais?
 
 TRATAMOS APENAS OS DADOS PESSOAIS QUE ENTENDEMOS SEREM OS MÍNIMOS NECESSÁRIOS PARA CADA FINALIDADE E, EM RAZÃO DISSO, DISPONIBILIZAMOS SEUS DADOS PESSOAIS LISTADOS NA SEÇÃO 2 APENAS PARA AS PESSOAS E EMPRESAS QUE CONSULTAM NOSSOS SERVIÇOS PARA AS FINALIDADES DESCRITAS NO ITEM 3, ACIMA.
 
@@ -112,7 +112,7 @@ Também podemos disponibilizar os Dados Pessoais, quando estritamente necessári
 Ainda, podemos fornecer seus Dados Pessoais como número de telefone, CPF, e-mail e CEP para a ClearSale, empresa privada inscrita no CNPJ 03.802.115/0001-98, com a finalidade exclusiva de que a ClearSale preste serviços relacionados à sua identificação, autenticação e prevenção a fraudes.
 Também podemos fornecer seus Dados Pessoais como nome completo, número de CPF e informações da dívida negociada por meio da solução Serasa Limpa Nome para a PagueVeloz Serviços de Pagamento LTDA., empresa privada inscrita no CNPJ sob o nº 03.816.413/0001-37, com a finalidade exclusiva de realizar a intermediação do pagamento da referida dívida entre Você e os credores.
 Por fim, os seus Dados Pessoais poderão ser armazenados em servidores localizados no exterior - tendo em vista os serviços de armazenamento em nuvem que utilizamos - e somente serão fornecidos a terceiros na forma da Lei e/ou mediante ordem judicial. Nessas hipóteses, a Serasa Experian se compromete a respeitar a legislação aplicável para assegurar a proteção dos seus Dados Pessoais, incluindo, quando necessário, a celebração de acordos contratuais específicos sobre o tema.
-6. Requisito de acesso aos serviços on-line da Serasa
+### Requisito de acesso aos serviços on-line da Serasa
 
 Para que Você possa acessar com segurança os serviços on-line da Serasa, realizamos um processo de confirmação da sua identidade utilizando também os Dados Pessoais fornecidos para cadastro em nossos Sites e/ou aplicativos.
 
@@ -120,7 +120,7 @@ Você é responsável pela exatidão, pela veracidade e pela atualização dos D
 
 Caso não queira consultar seu CPF de forma on-line ou fornecer os Dados Pessoais solicitados para cadastro e uso conforme descrito neste documento, pode utilizar qualquer dos nossos outros canais gratuitos de atendimento. Você pode comparecer pessoalmente ou representado por procurador aos nossos pontos de atendimento ou, ainda, por carta. Para saber mais, acesse: https://www.serasa.com.br/atendimento-presencial
 
-7. Condições específicas das soluções Serasa Crédito, Serasa Limpa Nome, Trilha Financeira e Conta Digital
+### Condições específicas das soluções Serasa Crédito, Serasa Limpa Nome, Trilha Financeira e Conta Digital
 
 - Serasa Crédito
 
@@ -174,11 +174,11 @@ Caso você opte por usar outros serviços de pagamento oferecidos a Você por me
 
 A conta de pagamento (Conta Digital) poderá ser encerrada automaticamente, também sem qualquer custo, após 90 (noventa) dias caso você não a habilite, não utilize nenhum de seus serviços e desde que não haja saldo em conta. Além disso, você também pode solicitar o encerramento da Conta Digital a qualquer momento por meio da Carteira Digital;
 
-8. Responsabilidade pelo armazenamento dos Dados Pessoais
+### Responsabilidade pelo armazenamento dos Dados Pessoais
 
 Os seus Dados Pessoais são armazenados em nosso sistema ou em sistema de terceiro regularmente contratado pela Serasa Experian para fins legais e comerciais, conforme esclarecido neste documento, sendo sua responsável a Serasa S/A, pessoa jurídica de direito privado, com estabelecimentos na Av. das Nações Unidas, 14.401 – Torre C-1 Parque da Cidade – conj. 191 a 242 - 19º a 24º andar, CEP 04794-000, São Paulo/SP; na Rua Dr. Heitor José Reali, 360, Distrito Industrial Miguel Abdelnur, CEP 13571-385, São Carlos/SP; na Rua Doutor Leo de Carvalho, 74, Bairro Velha, CEP 89036-239, Blumenau/SC; e na ST, SCS, S/N, Quadra 02, Bloco C, nº 109, Sala 301, Ed. Paulo Sarasate, Bairro Asa Sul, CEP 70302-911, Brasília/DF.
 
-9. Seus direitos sobre o tratamento de seus Dados Pessoais
+### Seus direitos sobre o tratamento de seus Dados Pessoais
 
 - Direito de Acesso, Atualização, Correção e Exclusão:
 
@@ -199,39 +199,39 @@ Para deixar de receber nossas campanhas promocionais e solicitações para parti
 
 Você pode entrar em contato conosco a qualquer momento se tiver dúvidas ou preocupações.
 
-10. Responsabilidade pelo usuário e senha
+### Responsabilidade pelo usuário e senha
 
 Você poderá acessar o site da Serasa com o seu usuário e sua senha exclusiva e individual, intransferível e de seu conhecimento exclusivo. Você se responsabiliza pelo resguardo de seu usuário e sua senha, não os repassando a nenhum terceiro, em hipótese alguma.
 
-11. Cadastro Positivo
+### Cadastro Positivo
 
 O Cadastro Positivo é um banco de dados que contém o seu histórico de crédito, ou seja, o que Você se comprometeu a pagar a prazo e também o que Você já pagou, conforme previsto na Lei nº 12.414/11 e regulamentado pelo Decreto nº 7.829/12.
 
 A realização de cadastro e criação de sua conta na Serasa não inclui o acesso ou a autorização para a consulta ao Cadastro Positivo. Caso deseje mais informações sobre o Cadastro Positivo, acesse o Site https://www.serasa.com.br/cadastro-positivo.
 
-12. Compromisso antispam e antiphishing
+### Compromisso antispam e antiphishing
 
 Atuamos de acordo com as boas práticas do mercado digital. Por isso, recomendamos que, caso Você receba um e-mail em nosso nome e suspeite de fraude, não abra os arquivos anexos e nem clique em qualquer link ou botão. Você poderá enviar uma mensagem para abuse@br.experian.com para que possamos tomar as medidas possíveis no combate ao crime eletrônico.
 
 Importante: este endereço de e-mail somente aceita mensagens referentes a fraudes, denúncias e informações sobre possíveis irregularidades ocorridas em nome da Serasa. Caso tenha alguma dúvida ou queira obter informações sobre outros assuntos, entre em contato com os canais de atendimento descritos no item 16, abaixo.
 
-13. Relacionamento com terceiros
+### Relacionamento com terceiros
 
 Ao contratar outras empresas para nos prestarem serviços, exigimos delas garantias de privacidade e segurança compatíveis com as que asseguramos neste documento. Para a sua segurança, quaisquer conteúdos que sejam considerados confidenciais (como alteração de dados) não são enviados por meio de links.
 
 É possível que os nossos Sites e/ou nossos aplicativos mantenham links com outros websites para auxiliar Você com determinada funcionalidade ou conteúdo. Não nos responsabilizamos por serviços, procedimentos e políticas específicos de websites de outras empresas. Para a sua segurança, Você deve se informar sobre o termo de privacidade de cada website.
 
-14. Segurança de Dados
+### Segurança de Dados
 
 Protegemos a segurança durante o acesso aos nossos Sites, nas transações e na captação de informações, por meio do processo de criptografia dos dados, utilizando o protocolo de segurança Secure Socket Layers (SSL) que comprova a autenticidade dos nossos Sites, assim como assegura a integridade e a confidencialidade dos dados durante a sua transmissão.
 
-15. **Direitos Autorais**
+### **Direitos Autorais**
 
 Todos os textos, imagens, sons e/ou aplicativos exibidos nos nossos Sites são protegidos por direitos autorais. **Não é permitido modificar, reproduzir, armazenar, transmitir, copiar, distribuir ou utilizar esses recursos de quaisquer outras formas para fins comerciais sem o nosso consentimento prévio e formal, o qual nunca será presumido.**
 
 Tentativas de invasão aos nossos Sites serão consideradas como dano, roubo ou qualquer outra tipificação penal que corresponda às consequências da invasão. 
 
-16. Alterações deste Documento
+### Alterações deste Documento
 
 Este Documento está sujeito a alterações a qualquer momento. Toda e qualquer alteração visa a se adequar às eventuais modificações em nossos Sites, sejam de mudanças para novas tecnologias ou sempre que for necessário, bem como a novos requisitos legais, regulatórios ou contratuais.
 
@@ -243,7 +243,7 @@ Caso Você não concorde com as alterações incluídas no documento, Você tem 
 
 Nós exigimos dos nossos clientes o compromisso de utilizar os serviços contratados em conformidade com a lei, os respectivos regulamentos e termos de uso/contratos.
 
-17. Canais de Atendimento:
+### Canais de Atendimento:
 
 Você pode falar com a Central de Atendimento ao Consumidor pelo telefone 3003-6300 (caso não esteja em capitais ou regiões metropolitanas, use o DDD da capital mais próxima). O atendimento é de segunda a sexta, das 08h às 20h.
 
@@ -259,3 +259,4 @@ A Serasa Experian disponibiliza canais de atendimento e de ouvidoria gratuitos e
 | ------ | ----------- | ----------- | --------- | ----------- |
 | 1.0  | 31/03/2024  | copiando termos de uso | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
 | 1.1  | 01/04/2024  | arrumando o histórico de versões | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)| [Ricardo](https://www.github.com/avmricardo)|
+| 1.2  | 01/04/2024  | Ajustando os tópicos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
