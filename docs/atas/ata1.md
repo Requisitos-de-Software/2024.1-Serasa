@@ -24,7 +24,7 @@
 |:-:|:-:|:-:|:-:|
 | 26/03/2024 | 21:30 | 22:10 | Teams
 <div style="text-align: center">
-<p> Fonte: Autor, 2024. </p>
+<p> Fonte: Ricardo Augusto, 2024. </p>
 </div>
 
 ## Resultados da reunião
@@ -32,7 +32,7 @@
 2. Cada membro do grupo foi designado a uma ou mais atividades, a divisão foi realizada com o intuito dos integrantes terem um tempo de trabalho parecido entre si e de acordo com as escolhas dos presentes na reunião.
 
 <div style="text-align: center">
-<p> Tabela 2: Integrantes por atividades.. </p>
+<p> Tabela 2: Integrantes por atividades. </p>
 </div>
 
 | Tarefas | Integrante(s) |
@@ -47,7 +47,7 @@
 | Termos de uso | Danilo | 
 |Artefato de apresentação | Elias
 <div style="text-align: center">
-<p> Fonte: Autor, 2024. </p>
+<p> Fonte: Ricardo Augusto, 2024. </p>
 </div>
 
 ## Histórico de Versão
