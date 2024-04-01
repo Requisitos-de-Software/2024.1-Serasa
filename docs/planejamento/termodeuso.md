@@ -252,7 +252,7 @@ Você também pode solicitar informações ou fazer reclamações via internet, 
 A Serasa Experian disponibiliza canais de atendimento e de ouvidoria gratuitos e exclusivos para os assuntos relacionados ao Cadastro Positivo. Lá, Você pode obter informações, oferecer sugestões e reclamações. Você também pode entrar em contato gratuitamente por meio do telefone 0800-776-6606.
 
 ## Fonte
-> Serasa,2024. Disponível em: (https://www.serasa.com.br/app/politica-de-privacidade/), Acesso em 31/03/2024.
+> TERMOS de Uso e Política de Privacidade do Serasa. Serasa,27 de Outubro de 2023. Disponível em: (https://www.serasa.com.br/app/politica-de-privacidade/), Acesso em 31/03/2024.
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
