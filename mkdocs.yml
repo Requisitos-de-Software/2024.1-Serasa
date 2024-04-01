@@ -12,8 +12,7 @@ nav:
     - Rich Picture: pre-rastreabilidade/richpicture.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
-      - Heatmap: planejamento/heatmap.md
-      - Cronograma:  planejamento/cronograma.md
+    - Cronograma:  planejamento/cronograma.md
 theme:
   language: pt-BR
   name: material
