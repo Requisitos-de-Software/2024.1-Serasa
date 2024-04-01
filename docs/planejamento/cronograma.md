@@ -10,7 +10,7 @@ O cronograma tem como objetivo organizar todas as tarefas que devem ser realizad
 
 Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira entrega.
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 1</b> - Planejamento do Projeto 
 </p></font>
 
@@ -35,7 +35,7 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 
 Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 2</b> - Planejamento do Projeto 
 </p></font>
 
@@ -60,7 +60,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
  
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 3</b> - Planejamento da entrega 2 
 </p></font>
 
@@ -90,7 +90,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 5</b> - Planejamento da entrega 3
 </p></font> 
 
@@ -108,7 +108,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Executado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 6</b> - Executado da entrega 3
 </p></font> 
 
@@ -119,7 +119,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 7</b> - Planejamento da entrega 4
 </p></font> 
 
@@ -138,7 +138,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Executado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 8</b> - Executado da entrega 4
 </p></font> 
 
@@ -148,7 +148,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 9</b> - Planejado da entrega 5.1
 </p></font> 
 
@@ -163,7 +163,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 10</b> - Executado da entrega 5.1
 </p></font> 
 
@@ -173,7 +173,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
  
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 11</b> - Planejamento da entrega 5.2
 </p></font> 
 
@@ -196,7 +196,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
  
 ### Planejado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 13</b> - Pós-Rastreabilidade - Gerência II
 </p></font> 
 
@@ -213,7 +213,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Executado
 
-<font size="2"><p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 14</b> - Executado da entrega 6
 </p></font> 
 
