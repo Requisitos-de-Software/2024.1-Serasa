@@ -12,9 +12,11 @@ nav:
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Cronograma:  planejamento/cronograma.md
+      - Termo de Uso: planejamento/termodeuso.md
 theme:
   language: pt-BR
   name: material
+  favicon: assets/serasa_logo.svg
   logo: assets/serasa_logo_white.svg
   features:
     - navigation.tabs
