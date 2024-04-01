@@ -74,6 +74,40 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 
 *EM BREVE...*
 
+## Entrega 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
+
+## Planejado
+
+<p style = "text-align: center;">
+    <b>Tabela 5</b> - Planejamento da entrega 3
+</p> 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| :---: | :---: | :---: | :---: | :---: |
+| Ata de Reunião | Início: 19/04 Fim: 19/04 | Ricardo | Início: Início: 19/04 Fim: 19/04 | Gabriel B. Bertolazi |
+| Modelagem de Requisitos: Cenários|  Início: 20/04 Fim: 22/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 22/04 Fim: 23/04  | Ricardo  |
+| Modelagem de Requisitos: Léxico  |  Início: 22/04 Fim: 24/04 |  Elias e Cláudio |  Início: 24/04 Fim: 24/04 | Cláudio |
+| Modelagem de Requisitos: Use Case |  Início: 24/05 Fim: 26/04 |  Pablo e Ricardo | Início: 26/04 Fim: 26/04  |  Gabriel F. J. Silva |
+| Modelagem de Requisitos: Especificação Suplementar |  Início: 26/04 Fim: 29/04 | Danilo e Pablo  | Início: 29/04 Fim: 29/04 | Elias  |
+| Gravação da Apresentação | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+
+
+<p style = "text-align: center;">
+    Fonte: 
+    <a href="https://github.com/EliasOliver21">
+        Elias Faria de Oliveira
+    </a> 
+</p>
+
+## Executado
+
+<p style = "text-align: center;">
+    <b>Tabela 6</b> - Executado da entrega 3
+</p> 
+
+*EM BREVE...*
+
+
 ## Entrega 4 - Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 
 ## Planejado
