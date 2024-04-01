@@ -18,7 +18,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | :--  |   :--      |    :--     |
 | Logo da Ferramenta | Nome da Ferramenta| A motivação e o objetivo da utilização da respectiva ferramenta no projeto|
 
- <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
+ <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho,2024.</p></font>
 
 ## Ferramentas
 
@@ -36,7 +36,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[8]</a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[9]</a> |
 
- <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
+ <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho,2024.</p></font>
 
 ## Bibliografia
 
@@ -62,5 +62,5 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [PPablo Santos Costa](https://github.com/pabloheika)
+|  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo Santos Costa](https://github.com/pabloheika)
 |  `1.1`  | 01/04/2024 |            Adiconando as Imagens para as Logos            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
