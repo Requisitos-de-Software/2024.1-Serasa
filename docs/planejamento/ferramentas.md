@@ -26,15 +26,15 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 | Logo   |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/telegram.png" width="100" height=auto>|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1">[1]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/vscode.png"  width="100" height=auto>|<strong> Visual Studio Code| Criação dos arquivos de documentação.<a id="TEC1" href="#RP1">[2]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/github.png"  width="100" height=auto>|<strong> GitHub | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="TEC1" href="#RP1">[3]</a> |               
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/mkdocs.png"  width="100" height=auto>|<strong> MkDocs  |  Criação das páginas de documentação.<a id="TEC1" href="#RP1">[4]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/gsheets.png"  width="100" height=auto>|<strong> Google Planilhas   |  Criação de planilhas de planejamento como heatmap.<a id="TEC1" href="#RP1">[5]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/teams.png"  width="100" height=auto>|<strong> Microsoft Teams   |  Realização de reuniões e gravação das entregas.<a id="TEC1" href="#RP1">[6]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/youtube.png"  width="100" height=auto>|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1">[7]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[8]</a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[9]</a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/telegram.png" width="100" height=auto>|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/vscode.png"  width="100" height=auto>|<strong> Visual Studio Code| Criação dos arquivos de documentação.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/github.png"  width="100" height=auto>|<strong> GitHub | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="TEC1" href="#RP1"></a> |               
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/mkdocs.png"  width="100" height=auto>|<strong> MkDocs  |  Criação das páginas de documentação.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/gsheets.png"  width="100" height=auto>|<strong> Google Planilhas   |  Criação de planilhas de planejamento como heatmap.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/teams.png"  width="100" height=auto>|<strong> Microsoft Teams   |  Realização de reuniões e gravação das entregas.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/youtube.png"  width="100" height=auto>|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
 
  <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho, 2024.</p></font>
 
@@ -49,6 +49,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 > <a id="FRM4" href="#anchor_4">4.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acessado em: 31 de março. de 2024.
 >
 > <a id="FRM8" href="#anchor_5">5.</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acessado em: 31 de março. de 2024.
+>
 > <a id="FRM2" href="#anchor_6">6.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acessado em: 31 de março. de 2024.
 >
 > <a id="FRM7" href="#anchor_7">7.</a> YouTube. Disponível em: [https://about.youtube/](). Acessado em: 31 de março. de 2024.
@@ -64,3 +65,4 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo Santos Costa](https://github.com/pabloheika)
 |  `1.1`  | 01/04/2024 |            Adiconando as Imagens para as Logos            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
+|  `1.2`  | 01/04/2024 |            Correção de estrutura de texto.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Pablo Santos Costa](https://github.com/pabloheika)
