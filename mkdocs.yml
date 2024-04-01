@@ -2,7 +2,7 @@ repo_url: https://github.com/Requisitos-de-Software/2024.1-Serasa
 repo_name: 2024.1-Serasa
 site_name: 'Serasa: Consulta CPF e Score'
 nav: 
-  - Home: index.md
+  - Equipe: index.md
   - Apresentações:
     - Apresentação 01: Apresentações/Apresentação_01.md
   - Atas:
