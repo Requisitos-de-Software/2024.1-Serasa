@@ -10,7 +10,9 @@ O cronograma tem como objetivo organizar todas as tarefas que devem ser realizad
 
 Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira entrega.
 
-**Tabela 1** - Planejamento do Projeto
+<p style = "text-align: center;">
+    <b>Tabela 1</b> - Planejamento do Projeto 
+</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -27,7 +29,7 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 | Implementar Git Page | Início: 18/03   <br>Fim: 25/03 | Danilo | Início: 25/03 Fim: 27/03 | Pablo |
 | Correção pós apresentação | Início: 02/04  <br>Fim: 04/04 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 04/04  <br>Fim: 06/04 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika).
+Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
 
 ### Executado
 
@@ -37,7 +39,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 EM BREVE….
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika).
+Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
 
 ## Entrega 2 - Elicitação: Técnicas e Priorização
  
@@ -63,12 +65,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Gravação da apresentação | Início: 16/04    <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 17/04 <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções pós apresentação | Início: 18/04  <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 19/04 <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/MMcLovin">
-        Gabriel F. J. Silva. 
-    </a> 
-</p>
+Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 
 ### Executado
 
@@ -91,13 +88,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Modelagem de Requisitos: Especificação Suplementar |  Início: 26/04 Fim: 29/04 | Danilo e Pablo  | Início: 29/04 Fim: 29/04 | Elias  |
 | Gravação da Apresentação | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/EliasOliver21">
-        Elias Faria de Oliveira
-    </a> 
-</p>
+Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.
 
 ## Executado
 
@@ -126,12 +117,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Gravação de apresentação | Início: 12/05 Fim: 13/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 13/05 Fim: 13/05 |  Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
 | Corrreção pós apresentação | Início: 14/05 Fim: 17/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 17/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/Bertolazi">
-        Gabriel B. Bertolazi
-    </a> 
-</p>
+Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
 
 ## Executado
 <p style = "text-align: center;">
@@ -155,12 +141,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Gravação da entrega | Início: 20/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 21/05 Fim: 22/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Revisão pós avaliação | Início: 23/05 Fim: 28/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 28/05 Fim: 30/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi|
 
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/Bertolazi">
-        Gabriel B. Bertolazi
-    </a> 
-</p>
+Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
 
 ## Executado
 <p style = "text-align: center;">
@@ -186,12 +167,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika).
 | Gravação da apresentação | Início: 15/06    <br>Fim: 16/16 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 17/06 <br>Fim: 17/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções pós apresentação | Início: 19/06  <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 16/06 <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/MMcLovin">
-        Gabriel F. J. Silva. 
-    </a> 
-</p>
+Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 
 ### Executado
 
@@ -211,7 +187,7 @@ Na Tabela 13, temos o cronograma planejado para as atividades da última entrega
 | Gravação da Apresentação e Entrega | Início: 21/06  <br>Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/06 Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 25/06  <br>Fim: 10/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 10/07  <br>Fim: 11/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika).
+Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
 
 ## Bibliografia
 
