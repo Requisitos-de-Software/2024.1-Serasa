@@ -43,10 +43,10 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | --- | --- | --- | --- | --- |
 | Selecionar app | Início: 18/03 <br>Fim: 26/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/03 <br>Fim: 28/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | App selecionado | Início: 01/04 <br>Fim: 01/04 | Ricardo | Início: 01/04 <br>Fim: 01/04 | Claudio, Gabriel F. J. Silva |
-| Apps avaliados | Início: 01/04 <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | \- |
+| Apps avaliados | Início: 01/04 <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | Danilo |
 | Heatmap | Início: 18/03 <br>Fim: 01/04 | Pablo | Início: 29/03 <br>Fim: 01/04 | Ricardo |
 | Selecionar ferramentas do projeto | Início: 29/03 <br>Fim: 01/04 | Danilo | Início: 01/04 <br>Fim: 01/04 | Pablo, Ricardo |
-| Realização do cronograma | Início: 29/03 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | \- |
+| Realização do cronograma | Início: 29/03 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi |
 | Rich Picture | Início: 30/03 <br>Fim: 31/03 | Claúdio | Início: 30/03 <br>Fim: 31/03 | Ricardo |
 | Documentar Equipe | Início: 26/03 <br>Fim: 30/03 | Danilo | Início: 26/03 <br>Fim: 28/03 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Gravar apresentação | Início: 30/03 <br>Fim: 01/04 | Elias | Início: 01/04 <br>Fim: 01/04 | Ricardo |
@@ -253,5 +253,5 @@ Disponível em:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 1.0 | 29/03/2024 | Criar cronograma planejado | [Pablo S. Costa](https://github.com/pabloheika) | [pessoa](https://github.com/pessoa) |
-| 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [pessoa](https://github.com/pessoa) |
+| 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
 | 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
