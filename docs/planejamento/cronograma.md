@@ -10,9 +10,9 @@ O cronograma tem como objetivo organizar todas as tarefas que devem ser realizad
 
 Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira entrega.
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 1</b> - Planejamento do Projeto 
-</p>
+</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -29,25 +29,40 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 | Implementar Git Page | Início: 18/03   <br>Fim: 25/03 | Danilo | Início: 25/03 Fim: 27/03 | Pablo |
 | Correção pós apresentação | Início: 02/04  <br>Fim: 04/04 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 04/04  <br>Fim: 06/04 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ### Executado
 
 Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
-**Tabela 2** - Planejamento do Projeto
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 2</b> - Planejamento do Projeto 
+</p></font>
 
-EM BREVE….
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Selecionar app | Início: 18/03 <br>Fim: 26/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/03 <br>Fim: 28/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| App selecionado | Início: 01/04 <br>Fim: 01/04 | Ricardo | Início: 01/04 <br>Fim: 01/04 | Claudio, Gabriel F. J. Silva |
+| Apps avaliados | Início: 01/04 <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | Danilo |
+| Heatmap | Início: 18/03 <br>Fim: 01/04 | Pablo | Início: 29/03 <br>Fim: 01/04 | Ricardo |
+| Selecionar ferramentas do projeto | Início: 29/03 <br>Fim: 01/04 | Danilo | Início: 01/04 <br>Fim: 01/04 | Pablo, Ricardo |
+| Realização do cronograma | Início: 29/03 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi |
+| Rich Picture | Início: 30/03 <br>Fim: 31/03 | Claúdio | Início: 30/03 <br>Fim: 31/03 | Ricardo |
+| Documentar Equipe | Início: 26/03 <br>Fim: 30/03 | Danilo | Início: 26/03 <br>Fim: 28/03 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravar apresentação | Início: 30/03 <br>Fim: 01/04 | Elias | Início: 01/04 <br>Fim: 01/04 | Ricardo |
+| Termos de Uso | Início: 31/03 <br>Fim: 01/04 | Danilo | Início: 31/03 <br>Fim: 01/04 | Pablo, Ricardo |
+| Implementar Git Page | Início: 18/03 <br>Fim: 25/03 | Danilo | Início: 25/03 <br>Fim: 27/03 | Pablo |
+| Correção pós apresentação | Início: - <br>Fim: - | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: - <br>Fim: -- | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ## Entrega 2 - Elicitação: Técnicas e Priorização
  
 ### Planejado
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 3</b> - Planejamento da entrega 2 
-</p> 
+</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -65,7 +80,7 @@ Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
 | Gravação da apresentação | Início: 16/04    <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 17/04 <br>Fim: 17/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções pós apresentação | Início: 18/04  <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 19/04 <br>Fim: 19/04 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Executado
 
@@ -73,11 +88,11 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 
 ## Entrega 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
 
-## Planejado
+### Planejado
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 5</b> - Planejamento da entrega 3
-</p> 
+</p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: |
@@ -89,23 +104,24 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 | Gravação da Apresentação e  Entrega | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Corrreção pós apresentação | Início: 07/05 Fim: 08/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 08/05 Fim: 08/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-## Executado
+### Executado
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 6</b> - Executado da entrega 3
-</p> 
+</p></font> 
 
 *EM BREVE...*
 
 
 ## Entrega 4 - Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 
-## Planejado
-<p style = "text-align: center;">
+### Planejado
+
+<font size="2"><p style="text-align: center;">
     <b>Tabela 7</b> - Planejamento da entrega 4
-</p> 
+</p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -118,21 +134,23 @@ Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.
 | Gravação de apresentação | Início: 12/05 Fim: 13/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 13/05 Fim: 13/05 |  Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
 | Corrreção pós apresentação | Início: 14/05 Fim: 17/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 17/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-## Executado
-<p style = "text-align: center;">
+### Executado
+
+<font size="2"><p style="text-align: center;">
     <b>Tabela 8</b> - Executado da entrega 4
-</p> 
+</p></font> 
 
 *EM BREVE...*
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
-## Planejado
-<p style = "text-align: center;">
+### Planejado
+
+<font size="2"><p style="text-align: center;">
     <b>Tabela 9</b> - Planejado da entrega 5.1
-</p> 
+</p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -142,12 +160,12 @@ Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
 | Gravação da entrega | Início: 20/05 Fim: 21/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 21/05 Fim: 22/05 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Revisão pós avaliação | Início: 23/05 Fim: 28/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 28/05 Fim: 30/05 |Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi|
 
-Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-## Executado
-<p style = "text-align: center;">
+### Executado
+<font size="2"><p style="text-align: center;">
     <b>Tabela 10</b> - Executado da entrega 5.1
-</p> 
+</p></font> 
 
 *EM BREVE...*
 
@@ -155,9 +173,9 @@ Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
  
 ### Planejado
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 11</b> - Planejamento da entrega 5.2
-</p> 
+</p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -168,7 +186,7 @@ Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.
 | Gravação da apresentação | Início: 15/06    <br>Fim: 16/16 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 17/06 <br>Fim: 17/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções pós apresentação | Início: 19/06  <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 16/06 <br>Fim: 19/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Executado
 
@@ -178,9 +196,9 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
  
 ### Planejado
 
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 13</b> - Pós-Rastreabilidade - Gerência II
-</p> 
+</p></font> 
 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -191,19 +209,13 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 | Gravação da Apresentação e Entrega | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correção pós apresentação | Início: 05/06  <br>Fim: 06/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
+<font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-<p style = "text-align: center;">
-    Fonte: 
-    <a href="https://github.com/EliasOliver21">
-        Elias Faria de Oliveira
-    </a> 
-</p>
+### Executado
 
-## Executado
-
-<p style = "text-align: center;">
+<font size="2"><p style="text-align: center;">
     <b>Tabela 14</b> - Executado da entrega 6
-</p> 
+</p></font> 
 
 *EM BREVE...*
 
@@ -216,7 +228,9 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 
 Na Tabela 15, temos o cronograma planejado para as atividades da última entrega.
 
-**Tabela 15** - Entrega Final
+<font size="2"><p style="text-align: center"> 
+    <b>Tabela 15</b> - Entrega Final
+</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -224,12 +238,12 @@ Na Tabela 15, temos o cronograma planejado para as atividades da última entrega
 | Gravação da Apresentação e Entrega | Início: 21/06  <br>Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/06 Fim: 24/06 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 25/06  <br>Fim: 10/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 10/07  <br>Fim: 11/07 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ## Bibliografia
 
-> 1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: \<\<https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf\>>. Acesso em: 26/03/2024.
-> 2. Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: \<\<https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf\>>. Acesso em: 26/03/2024.
+> - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
 Disponível em:
 <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
 
@@ -238,6 +252,7 @@ Disponível em:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 29/03/2024 | Criar cronograma planejado | [Pablo S. Costa](https://github.com/pabloheika) | [Elias Oliveira](https://github.com/EliasOliveira21) |
-| 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Elias Oliveira](https://github.com/EliasOliveira21) |
-| 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
+| 1.0 | 29/03/2024 | Criar cronograma planejado para entregas 1 e final| [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
+| 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| 1.3 | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
