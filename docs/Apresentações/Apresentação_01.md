@@ -23,3 +23,4 @@ Nome | Presença/Apresentação - ✅/❌
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 30/03/2024 | Documentação da Apresentação | [Elias Oliveira](https://github.com/EliasOliver21) | Todos
+1.1 | 01/04/2024 | Alteração em nome de um Integrante| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
