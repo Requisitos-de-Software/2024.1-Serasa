@@ -5,6 +5,7 @@
 - Horário semanal das reuniões.
 
 ## Integrantes presentes:
+
 <label><input type="checkbox" checked disabled>[Cláudio Henrique][ClaudioGH]</label><br>
 <label><input type="checkbox" checked disabled>[Danilo Carvalho][DaniloGH]</label><br>
 <label><input type="checkbox" disabled>[Elias Faria][EliasGH]</label><br>
