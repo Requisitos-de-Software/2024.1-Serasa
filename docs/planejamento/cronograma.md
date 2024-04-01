@@ -88,7 +88,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ## Entrega 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
 
-## Planejado
+### Planejado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 5</b> - Planejamento da entrega 3
@@ -106,7 +106,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-## Executado
+### Executado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 6</b> - Executado da entrega 3
@@ -117,7 +117,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ## Entrega 4 - Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 
-## Planejado
+### Planejado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 7</b> - Planejamento da entrega 4
@@ -136,7 +136,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-## Executado
+### Executado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 8</b> - Executado da entrega 4
@@ -146,7 +146,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
-## Planejado
+### Planejado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 9</b> - Planejado da entrega 5.1
@@ -162,7 +162,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-## Executado
+### Executado
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 10</b> - Executado da entrega 5.1
 </p></font> 
@@ -211,7 +211,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-## Executado
+### Executado
 
 <font size="2"><p style = "text-align: center;">
     <b>Tabela 14</b> - Executado da entrega 6
@@ -254,4 +254,4 @@ Disponível em:
 | --- | --- | --- | --- | --- |
 | 1.0 | 29/03/2024 | Criar cronograma planejado | [Pablo S. Costa](https://github.com/pabloheika) | [pessoa](https://github.com/pessoa) |
 | 1.1 | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.1 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
-| 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [pessoa](https://github.com/pessoa) |
+| 1.2 | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
