@@ -25,6 +25,8 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="../assets/ferramentas_logo/gsheets.png" alt="Logo do Google Planilhas  " width="75px">|<strong> Google Planilhas   |  Criação de planilhas de planejamento como heatmap.<a id="TEC1" href="#RP1">[5]</a> |
 |<img src="../assets/ferramentas_logo/teams.png" alt="Logo do Microsoft Teams  " width="75px">|<strong> Microsoft Teams   |  Realização de reuniões e gravação das entregas.<a id="TEC1" href="#RP1">[6]</a> |
 |<img src="../assets/ferramentas_logo/youtube.png" alt="Logo do YouTube  " width="75px">|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1">[7]</a> |
+|<img src="../assets/ferramentas_logo/figma.png" alt="Logo do Figma  " width="75px">|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[8]</a> |
+|<img src="../assets/ferramentas_logo/drawio.png" alt="Logo do Drawio  " width="75px">|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[9]</a> |
 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>  <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
@@ -43,6 +45,10 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 > <a id="FRM2" href="#anchor_6">6.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acessado em: 31 de março. de 2024.
 >
 > <a id="FRM7" href="#anchor_7">7.</a> YouTube. Disponível em: [https://about.youtube/](). Acessado em: 31 de março. de 2024.
+>
+> <a id="FRM3" href="#anchor_8">8.</a> Figma. Disponível em: [https://www.figma.com/](). Acessado em: 01 de abril. de 2024.
+>
+> <a id="FRM3" href="#anchor_9">9.</a> Draw.io. Disponível em: [https://www.drawio.com/](). Acessado em: 01 de abril. de 2024.
 
 
 ## Histórico de Versões
