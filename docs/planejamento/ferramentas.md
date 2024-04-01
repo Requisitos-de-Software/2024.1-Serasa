@@ -11,6 +11,7 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 ## Metodologia
 
 Para a apresentação das ferramentas, que serão utilizadas no decorrer do desenvolvimento da disciplina, foi utilizada uma tabela que segue o seguinte modelo:
+
 | Logo | Ferramenta | Finalidade |
 | :--  |   :--      |    :--     |
 | Logo da Ferramenta | Nome da Ferramenta| A motivação e o objetivo da utilização da respectiva ferramenta no projeto|
