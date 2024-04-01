@@ -43,10 +43,10 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | --- | --- | --- | --- | --- |
 | Selecionar app | Início: 18/03 <br>Fim: 26/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/03 <br>Fim: 28/03 | Claúdio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | App selecionado | Início: 01/04 <br>Fim: 01/04 | Ricardo | Início: 01/04 <br>Fim: 01/04 | Claudio, Gabriel F. J. Silva |
-| Apps avaliados | Início: - <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: - <br>Fim: 01/04 | \- |
+| Apps avaliados | Início: 01/04 <br>Fim: 01/04 | Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | \- |
 | Heatmap | Início: 18/03 <br>Fim: 01/04 | Pablo | Início: 29/03 <br>Fim: 01/04 | Ricardo |
-| Selecionar ferramentas do projeto | Início: 29/03 <br>Fim: 01/04 | Danilo | Início: 01/04 <br>Fim: 01/04 | Pablo |
-| Realização do cronograma | Início: 29/03 <br>Fim: 01/03 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: - <br>Fim: - | \- |
+| Selecionar ferramentas do projeto | Início: 29/03 <br>Fim: 01/04 | Danilo | Início: 01/04 <br>Fim: 01/04 | Pablo, Ricardo |
+| Realização do cronograma | Início: 29/03 <br>Fim: 01/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 01/04 <br>Fim: 01/04 | \- |
 | Rich Picture | Início: 30/03 <br>Fim: 31/03 | Claúdio | Início: 30/03 <br>Fim: 31/03 | Ricardo |
 | Documentar Equipe | Início: 26/03 <br>Fim: 30/03 | Danilo | Início: 26/03 <br>Fim: 28/03 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Gravar apresentação | Início: 30/03 <br>Fim: 01/04 | Elias | Início: 01/04 <br>Fim: 01/04 | Ricardo |
