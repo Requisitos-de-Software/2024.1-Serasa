@@ -9,6 +9,7 @@ nav:
     - Reunião 1: atas/ata1.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
+    - Aplicativos Analizados: pre-rastreabilidade/appsanalizados.md
   - Planejamento:
     - Aplicativo escolhido: planejamento/aplicativoEscolhido.md
     - Heatmap: planejamento/heatmap.md
