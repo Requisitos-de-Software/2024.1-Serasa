@@ -34,7 +34,7 @@ Para que o projeto seja realizado de acordo com as normas éticas, foi necessár
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 31/03/2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | 
+|`1.0`| 01/04/2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | 
 <div style="text-align: center">
 <p> Fonte: Autor, 2024.</p>
 </div>
