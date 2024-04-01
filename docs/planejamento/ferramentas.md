@@ -12,14 +12,17 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 
 Para a apresentação das ferramentas, que serão utilizadas no decorrer do desenvolvimento da disciplina, foi utilizada uma tabela que segue o seguinte modelo:
 
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Modelo da Tabela de Ferramentas</p></font> 
+
 | Logo | Ferramenta | Finalidade |
 | :--  |   :--      |    :--     |
 | Logo da Ferramenta | Nome da Ferramenta| A motivação e o objetivo da utilização da respectiva ferramenta no projeto|
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Modelo da Tabela de Ferramentas</p></font>  <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
+ <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
 
 ## Ferramentas
 
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
 | Logo   |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 |<img src="../assets/ferramentas_logo/telegram.png" alt="Logo do Telegram" width="75px">|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1">[1]</a> |
@@ -32,8 +35,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="../assets/ferramentas_logo/figma.png" alt="Logo do Figma  " width="75px">|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[8]</a> |
 |<img src="../assets/ferramentas_logo/drawio.png" alt="Logo do Drawio  " width="75px">|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1">[9]</a> |
 
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font>  <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
+ <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho.</p></font>
 
 ## Bibliografia
 
