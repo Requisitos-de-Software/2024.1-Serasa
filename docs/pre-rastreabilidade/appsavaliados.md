@@ -84,5 +84,4 @@ O aplicativo permite que você fale diretamente com as empresas para resolver pr
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 01/04/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi)  | [Danilo](https://github.com/Danilo-Carvalho-Antunes)  |
-| :----: | :--: | --------- | ----------- | ------ |
-| `1.1`  | 01/04/2024 | Correção do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi)  | [Danilo](https://github.com/Danilo-Carvalho-Antunes)  |
+
