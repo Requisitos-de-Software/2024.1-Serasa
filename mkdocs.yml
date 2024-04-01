@@ -12,6 +12,7 @@ nav:
   - Planejamento:
     - Aplicativo escolhido: planejamento/aplicativoEscolhido.md
     - Heatmap: planejamento/heatmap.md
+    - Cronograma:  planejamento/cronograma.md
     - Termo de Uso: planejamento/termodeuso.md
 theme:
   language: pt-BR
