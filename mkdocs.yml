@@ -10,8 +10,9 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
   - Planejamento:
-    - Heatmap: planejamento/heatmap.md
-    - Termo de Uso: planejamento/termodeuso.md
+      - Heatmap: planejamento/heatmap.md
+      - Cronograma:  planejamento/cronograma.md
+      - Termo de Uso: planejamento/termodeuso.md
 theme:
   language: pt-BR
   name: material
