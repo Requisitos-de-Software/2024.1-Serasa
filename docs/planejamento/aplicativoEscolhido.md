@@ -30,6 +30,6 @@ Para que o projeto seja realizado de acordo com as normas éticas, foi necessár
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | 
+|`1.0`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 
 [RicardoGH]: https://www.github.com/avmricardo
