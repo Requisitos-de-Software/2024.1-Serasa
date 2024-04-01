@@ -10,6 +10,7 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
   - Planejamento:
+    - Aplicativo escolhido: planejamento/aplicativoEscolhido.md
     - Heatmap: planejamento/heatmap.md
 theme:
   language: pt-BR
