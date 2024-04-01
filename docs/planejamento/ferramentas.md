@@ -23,6 +23,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 ## Ferramentas
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
+
 | Logo   |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 |<img src="../assets/ferramentas_logo/telegram.png" alt="Logo do Telegram" width="75px">|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1">[1]</a> |
@@ -61,4 +62,4 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Todos]()
+|  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo Santos Costa](https://github.com/pabloheika)
