@@ -37,4 +37,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 1.0 | 30/03/2024 | Documentação da Apresentação | [Elias Oliveira](https://github.com/EliasOliver21) | Todos
 1.1 | 01/04/2024 | Alteração no nome de um Integrante| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
 1.2 | 01/04/2024 | Inclusão do vídeo de apresentação| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
-1.3 | 04/04/2024 | Inclusão do vídeo de apresentação| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
+1.3 | 04/04/2024 | Atualizando a bibliografia | [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
