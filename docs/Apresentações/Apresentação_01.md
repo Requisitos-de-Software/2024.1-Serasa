@@ -23,9 +23,18 @@ Nome | Presença/Apresentação - ✅/❌
 [Pablo S. Costa](https://github.com/pabloheika)|✅
 [Ricardo Augusto](https://www.github.com/avmricardo)|✅
 
+## Bibliografia
+
+> - 2023.1-BilheteriaDigital.
+    Disponível em : 
+    <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>. Acesso em : 30/03/2024
+> - How to embed a youtube video into markdown
+    <https://www.antvaset.com/how-to-embed-a-youtube-video-into-markdown>. Acesso em: 30/03/2024
+
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 30/03/2024 | Documentação da Apresentação | [Elias Oliveira](https://github.com/EliasOliver21) | Todos
 1.1 | 01/04/2024 | Alteração no nome de um Integrante| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
 1.2 | 01/04/2024 | Inclusão do vídeo de apresentação| [Elias Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://github.com/avmricardo)
+1.3 | 04/04/2024 | Atualizando a bibliografia | [Elias Oliveira](https://github.com/EliasOliver21) | [Claudio Henrique](https://github.com/claudiohsc)
