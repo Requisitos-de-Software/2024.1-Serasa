@@ -1,6 +1,6 @@
-repo_url: https://github.com/Requisitos-de-Software/2024.1-Serasa
-repo_name: 2024.1-Serasa
-site_name: 'Serasa: Consulta CPF e Score'
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Correios
+repo_name: 2024.1-Correios
+site_name: Correios
 nav: 
   - Equipe: index.md
   - Apresentações:
@@ -19,16 +19,17 @@ nav:
 theme:
   language: pt-BR
   name: material
-  favicon: assets/serasa_logo.svg
-  logo: assets/serasa_logo_white.svg
+  favicon: assets/correios_icon.svg
+  logo: assets/correios.svg
   features:
     - navigation.tabs
   palette:
     - scheme : default
-      primary: pink
+      primary: amber
       toggle:
         icon: material/toggle-switch
         name: Mudar o modo clar/escuro 
+
     - scheme: slate
       primary: blue
       toggle:
