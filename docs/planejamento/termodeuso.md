@@ -26,4 +26,4 @@ digital. Disponível em: <https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf
 | 1.0  | 31/03/2024  | copiando termos de uso | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
 | 1.1  | 01/04/2024  | arrumando o histórico de versões | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)| [Ricardo](https://www.github.com/avmricardo)|
 | 1.2  | 01/04/2024  | Ajustando os tópicos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Pablo S. Costa](https://github.com/pabloheika)|
-| 2.0  | 01/04/2024  | Troca de aplicativo, Serasa -> Correios  | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Ricardo](https://www.github.com/avmricardo)|
+| 2.0  | 09/04/2024  | Troca de aplicativo, Serasa -> Correios  | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|[Ricardo](https://www.github.com/avmricardo)|
