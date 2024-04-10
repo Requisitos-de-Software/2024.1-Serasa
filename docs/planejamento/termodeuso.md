@@ -4,9 +4,11 @@
 
 # Cópia do Termos de Uso e Política de Privacidade do Correios
 
-Link : https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf
+<p align="center" > <font>Figura 1: Termos de uso do aplicativo</font> 
 
 ![Direitos de Propriedade Intelectual do idCorreios e Terceiros](../assets/termodeuso_Correios.jpeg "Direitos de de uso")
+
+<p align="center" > <font>Fonte: <a href="https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf">Correios Termo de uso</a></font> <br></p>
 
 - Data: 09/04/2024
 
