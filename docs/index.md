@@ -1,13 +1,11 @@
 # Correios
 
 <div style="text-align: center">
-<p> Tabela 1: Logo dos Correios. </p>
+<p> Figura 1: Logo dos Correios. </p>
 </div>
-
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="assets/correios-logo.png" width = 40%></center>
-
+<center><br><img style="border: 1px solid FFD400; border-radius: 10%" src="assets/correios-logo.png" FFD400 = 40%></center>
 <div style="text-align: center">
-<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
+<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p>
 </div>
 
 ## Introdução
@@ -36,6 +34,6 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.0` | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
 `1.1` | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
 `1.2` | 30/03/2024 | Correção das informações do site | [Claudio Henrique](https://github.com/claudiohsc) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
-`2.0` | 09/04/2024 | Alterando aplicativo escolhido | [Ricardo Augusto](https://www.github.com/avmricardo) | 
+`2.0` | 09/04/2024 | Alterando aplicativo escolhido | [Ricardo Augusto](https://www.github.com/avmricardo) | [Pablo S. Costa](https://www.github.com/pabloheika)
 
 
