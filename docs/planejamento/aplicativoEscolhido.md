@@ -7,13 +7,13 @@ Artefato destinado a explicar o aplicativo escolhido pelo o grupo para o projeto
 ## Correios
 
 <div style="text-align: center">
-<p> Tabela 1: Logo dos Correios. </p>
+<p> Figura 1: Logo dos Correios. </p>
 </div>
 
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="/assets/correios-logo.png" width = 40%></center>
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="https://requisitos-de-software.github.io/2024.1-Correios/assets/correios-logo.png" width = 40%></center>
 
 <div style="text-align: center">
-<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
+<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa,</a> 2019.</p>
 </div>
 
 O site dos Correios é uma plataforma digital que oferece uma gama de serviços postais e logísticos para os usuários brasileiros, permitindo aos usuários rastrearem suas encomendas, calcular fretes, solicitar serviços de entrega expressa, como Sedex e PAC, além de fornecer informações detalhadas sobre os diversos tipos de serviços oferecidos pela empresa.
@@ -43,12 +43,17 @@ O site dos Correios é uma plataforma digital que oferece uma gama de serviços 
 
 Para que o projeto seja realizado de acordo com as normas éticas, foi necessário fazer uma verificação dos [termos de uso](termodeuso.md) do aplicativo, para garantir que a análise que será feita ao longo do projeto não viole alguma diretriz do aplicativo ou da empresa responsável.
 
+## Bibliografia
+
+> 1. Correios. Disponível em: [https://www.correios.com.br](https://www.correios.com.br). Acessado em: 11 de abr. de 2024.
+>
+
 ## Histórico de versão
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajuste no logo do aplicativo | [Gabriel F. J. Silva](https://github.com/MMcLovin)
-|`2.0`| 10 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Troca do aplicativo escolhido | 
+|`2.0`| 10 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Troca do aplicativo escolhido | [Pablo S. Costa](https://github.com/pabloheika)
 
 [RicardoGH]: https://www.github.com/avmricardo
