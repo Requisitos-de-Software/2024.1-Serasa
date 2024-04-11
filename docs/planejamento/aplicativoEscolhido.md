@@ -1,13 +1,22 @@
 # Aplicativo Escolhido
 
-## Serasa: Consulta CPF e Score
-<font><p style="text-align: center">Figura 1: Logo do Serasa.</p></font>
-<center>
-![Serasa Logo](../assets/serasa_logo_01.jpg)
-</center>
-<p align="center" > <font>Fonte: <a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668">Serasa</a>, 2024.</font> <br></p>
+## Introdução
 
-O aplicativo Serasa: Consulta CPF e Score, desenvolvido pela empresa de análise de crédito Serasa, oferece uma maneira conveniente para os consumidores brasileiros acompanharem sua saúde financeira, oferecendo consultas de CPF e pontuação de crédito, permitindo com que os usuários possam entender melhor seu perfil financeiro.
+Artefato destinado a explicar o aplicativo escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do aplicativo, os critérios avaliados e o histórico de versão do artefato.
+
+## Correios
+
+<div style="text-align: center">
+<p> Tabela 1: Logo dos Correios. </p>
+</div>
+
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="/assets/correios-logo.png" width = 40%></center>
+
+<div style="text-align: center">
+<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
+</div>
+
+O site dos Correios é uma plataforma digital que oferece uma gama de serviços postais e logísticos para os usuários brasileiros, permitindo aos usuários rastrearem suas encomendas, calcular fretes, solicitar serviços de entrega expressa, como Sedex e PAC, além de fornecer informações detalhadas sobre os diversos tipos de serviços oferecidos pela empresa.
 
 ## Critérios de decisão
 
@@ -18,11 +27,17 @@ O aplicativo Serasa: Consulta CPF e Score, desenvolvido pela empresa de análise
 
 ## Principais recursos
 
-- Consulta de CPF: Os usuários podem verificar a situação atual de seu CPF, incluindo possíveis restrições e pendências financeiras.
+- Cálculo de preços e prazos de entrega: Permite aos usuários calcular o custo do envio de suas encomendas, levando em consideração diferentes serviços dos Correios e os prazos de entrega associados a cada um deles.
 
-- Score de crédito: O aplicativo fornece acesso ao score de crédito do usuário, que é uma pontuação que reflete sua capacidade de pagamento e histórico financeiro.
+- Loja online: O aplicativo dos Correios oferece uma plataforma para compras online, onde os usuários podem adquirir uma variedade de produtos, como selos, embalagens, produtos de papelaria e outros itens relacionados aos serviços postais.
 
-- Dicas e recomendações: Além das informações sobre CPF e score, o aplicativo também oferece dicas e recomendações para melhorar a saúde financeira do usuário.
+- Certificados digitais do Correio Certifica: Fornece serviços de certificação digital, como assinatura digital de documentos, garantindo autenticidade, integridade e validade jurídica às transações eletrônicas realizadas pelos usuários.
+
+- Busca de agências: Permite aos usuários localizar agências dos Correios próximas a eles, fornecendo informações sobre endereço, horário de funcionamento e serviços oferecidos em cada agência.
+
+- Minhas Importações: Facilita o acompanhamento de encomendas internacionais enviadas por meio dos serviços de importação dos Correios, permitindo rastrear o status de entrega e receber notificações sobre atualizações importantes.
+
+- Rastreamento de encomendas: Uma das funcionalidades mais importantes, permite aos usuários acompanhar o status de suas encomendas em tempo real, desde o momento em que são postadas até a entrega final, fornecendo informações detalhadas sobre o trajeto da encomenda.
 
 ## Termos de uso
 
@@ -34,5 +49,6 @@ Para que o projeto seja realizado de acordo com as normas éticas, foi necessár
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajuste no logo do aplicativo | [Gabriel F. J. Silva](https://github.com/MMcLovin)
+|`2.0`| 10 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Troca do aplicativo escolhido | 
 
 [RicardoGH]: https://www.github.com/avmricardo
