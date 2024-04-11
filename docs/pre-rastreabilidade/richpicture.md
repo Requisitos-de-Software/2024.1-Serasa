@@ -7,16 +7,18 @@ O Rich Picture é uma forma visual e informal para expressar ideias e analisar p
  Para realizar a criação do Rich Picture foi realizado uma análise do aplicativo Serasa para assim conseguir ter uma visão geral dos elementos básicos a serem trabalhados.
  A aplicação [Draw.io](https://draw.io) foi utilizada para elaborar o Rich Picture e está apresentado na Figura 1, já a sua legenda foi feita com a aplicação [Figma](https://figma.com), e está na Figura 2. O ícone aludindo aos bancos é de autoria do site [Flaticon](https://www.flaticon.com/br/icone-gratis/banco_1138038).
 
-<font size="3"><p style="text-align: center">Figura 1: Rich Picture versão 1.</p></font>
+<font size="2"><p style="text-align: center">Figura 1: Rich Picture versão 1.</p></font>
 
 ![Richpicture](../assets/richpicture/Projeto-Serasa-Rich-Picture.drawio.png)
 
-<font size="3"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
 
-<font size="3"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
+<font size="2"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
+<center>
+
 ![LegendaRichpicturev1](../assets/richpicture/legenda-rich-picture-serasa.png)
-
-<font size="3"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
+</center>
+<font size="2"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
 
 ## Bibliografia
 

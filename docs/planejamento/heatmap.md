@@ -24,7 +24,7 @@ Com base nas informações da tabela acima, definimos que os encontros serão id
 
 ## Bibliografia
 
-> - All About Heatmaps. Disponível em: [https://towardsdatascience.com/all-about-heatmaps-bb7d97f099d7](https://towardsdatascience.com/all-about-heatmaps-bb7d97f099d7). Acesso em: 29 de mar. de 2024.
+> 1. All About Heatmaps. Disponível em: [https://towardsdatascience.com/all-about-heatmaps-bb7d97f099d7](https://towardsdatascience.com/all-about-heatmaps-bb7d97f099d7). Acesso em: 29 de mar. de 2024.
 >
 
 

@@ -16,13 +16,13 @@
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
 
 ## Bibliografia
 
-> - GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
+> 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
 >
-> - Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de mar. de 2024.
+> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de mar. de 2024.
 >
 
 

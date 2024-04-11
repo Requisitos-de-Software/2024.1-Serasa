@@ -16,22 +16,27 @@ nav:
     - Cronograma:  planejamento/cronograma.md
     - Termo de Uso: planejamento/termodeuso.md
     - Ferramentas: planejamento/ferramentas.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   language: pt-BR
   name: material
   favicon: assets/correios_icon.svg
-  logo: assets/correios.svg
+  logo: assets/correios-icon-black.svg
   features:
     - navigation.tabs
+    - navigation.top
   palette:
     - scheme : default
       primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Mudar o modo clar/escuro 
 
     - scheme: slate
-      primary: blue
+      primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
