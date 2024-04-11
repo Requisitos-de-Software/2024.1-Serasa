@@ -3,7 +3,7 @@
 <div style="text-align: center">
 <p> Figura 1: Logo dos Correios. </p>
 </div>
-<center><br><img style="border: 1px solid FFD400; border-radius: 10%" src="assets/correios-logo.png" FFD400 = 40%></center>
+<center><br><img style="border: 1px solid FFD400; border-radius: 10%" src="assets/correios-logo.png" width = 40%></center>
 <div style="text-align: center">
 <p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p>
 </div>
