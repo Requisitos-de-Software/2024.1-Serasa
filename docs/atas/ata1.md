@@ -1,5 +1,10 @@
 # Reunião 1 : 26/03/2024
 
+## Introdução
+
+Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas e o histórico de versão do documento. 
+
+
 ## Pautas da reunião:
 1. Definição das atividades de cada membro para a primeira entrega;
 - Horário semanal das reuniões.
@@ -56,6 +61,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel Fernando][GabrielFGH]
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajustes em formatação | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.2`| 11 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Adicionando introdução | [Claudio Henrique](https://github.com/claudiohsc)
 
 
 
