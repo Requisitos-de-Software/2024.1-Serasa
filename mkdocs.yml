@@ -16,6 +16,9 @@ nav:
     - Cronograma:  planejamento/cronograma.md
     - Termo de Uso: planejamento/termodeuso.md
     - Ferramentas: planejamento/ferramentas.md
+  - Elicitação:
+    - Priorização:
+      - First Things First: elicitacao/priorizacao/firstThingsFirst.md
 theme:
   language: pt-BR
   name: material
