@@ -10,14 +10,29 @@ Os participantes se reunirão de maneira remota através da plataforma Discord, 
 
 ## Participantes
 
-Nomes | Função
----|---
- [Claudio Henrique](https://github.com/claudiohsc) | -
- [Elias F. Oliveira](https://github.com/EliasOliver21)| -
- Renato Medeiros |  -
+
+<font size="3"><p style="text-align: center">Tabela 1: Palavras-chave.</p></font>
+
+<center>
+
+| Palavra-chave   |Função|
+| --------------- ||
+| [Claudio Henrique](https://github.com/claudiohsc)          ||
+| [Elias F. Oliveira](https://github.com/EliasOliver21) ||
+
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+</center>
 
 ## Perguntas/Respostas
 
+## Bibliografia
+
+>1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+>2. 2023.1-BilheteriaDigital.
+    Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>
 
 ## Histórico de Versões
 
