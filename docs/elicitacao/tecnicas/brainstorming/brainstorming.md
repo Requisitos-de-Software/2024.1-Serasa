@@ -11,14 +11,16 @@ Os participantes se reunirão de maneira remota através da plataforma Discord, 
 ## Participantes
 
 
-<font size="3"><p style="text-align: center">Tabela 1: Palavras-chave.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
 
 <center>
 
 | Palavra-chave   |Função|
 | --------------- ||
-| [Claudio Henrique](https://github.com/claudiohsc)          ||
-| [Elias F. Oliveira](https://github.com/EliasOliver21) ||
+| [Claudio Henrique](https://github.com/claudiohsc)          |Mediador|
+| [Elias F. Oliveira](https://github.com/EliasOliver21) |Secretário|
+| Henrique Camelo Quenino |Usuário|
+| Renato Medeiros |Usuário|
 
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
@@ -26,6 +28,42 @@ Os participantes se reunirão de maneira remota através da plataforma Discord, 
 </center>
 
 ## Perguntas/Respostas
+
+
+## Requisitos Elicitados
+
+Legenda Requisitos das tabelas:
+
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito Não-Funcional nºx
+- BSx: Requisito nºx elicitado pelo Brainstorming.
+
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos funcionais.</p></font>
+
+<center>
+
+| <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
+| BS01                                           | Requisito                                                                          | RF01   | Sim |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
+<!-- ****************************        Tabela 2        ****************************** -->
+
+<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+
+<center>
+
+| <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
+| BS01                                           | Requisito                                                                          | RF01   | Sim |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
 
 ## Bibliografia
 
