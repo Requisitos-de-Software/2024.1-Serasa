@@ -66,9 +66,9 @@ Rastreio pelo código ser mais simplificado, possuir um design mais intuitivo pa
 
 #### Como o aplicativo pode te notificar sobre o status da sua entrega? Explique a melhor forma.
 
-<span style = "color: yellow"> Henrique </span>- Notificação(Push) do aplicativo ou por mensagem SMS pelo número de telefone.
+<span style = "color: yellow"> Henrique </span>- Notificação(Push) do aplicativo eficiente ou por mensagem SMS pelo número de telefone.
 
-<span style = "color: yellow"> Renato </span>- Notificações Push do aplicativo. Notificar pelo email e também Whatsapp.
+<span style = "color: yellow"> Renato </span>- Notificações Push do aplicativo atualizada corretamente. Notificar pelo email e também Whatsapp.
 
 
 
@@ -126,9 +126,9 @@ Legenda Requisitos das tabelas:
 | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
 | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
 | BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não |
-
-
-
+| BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim |
+| BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não |
+| BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim |
 
 
 
@@ -144,7 +144,7 @@ Legenda Requisitos das tabelas:
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
-| BS20 | Requisito      | RNF20   | Sim |
+| BS22 | Requisito      | RNF22  | Sim |
 
 </center>
 
@@ -163,3 +163,4 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
+| `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/)  |
