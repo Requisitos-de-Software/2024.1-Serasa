@@ -9,6 +9,75 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 ## Gráficos
 
+<!-- <font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+
+<center>
+
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font> -->
+
+<!-- Gráfico 01 -->
+
+<font size="3"><p style="text-align: center">Gráfico 01</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=190279822&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
+
+<!-- Gráfico 02 -->
+
+<font size="3"><p style="text-align: center">Gráfico 02</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=2058484877&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
+
+<!-- Gráfico 03 -->
+
+<font size="3"><p style="text-align: center">Gráfico 03</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1912260168&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
+
+<!-- Gráfico 04 -->
+
+<font size="3"><p style="text-align: center">Gráfico 04</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1770175684&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
+<!-- Gráfico 05 -->
+
+<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1151125451&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
 ## Bibliografia
 
 >1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
