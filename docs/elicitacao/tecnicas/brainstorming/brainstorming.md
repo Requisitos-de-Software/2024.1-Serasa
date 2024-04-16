@@ -110,19 +110,25 @@ Legenda Requisitos das tabelas:
 | ----------- | --------------- | :------: | :------: |
 | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
 | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
-| BS03 | O usuário deve receber feedback em tempo hábil da situação do produto  | RF03   | Não |
-| BS04 | O usuário deve ter a possibilidade de contato com a empresa responsável pela venda em caso de adiamento  | RF04   | Não |
+| BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não |
+| BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não |
 | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não |
 | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
 | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
-| BS08 | O usuário deve ser capas de aba para contatos	 | RF08   | Sim |
+| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	 | RF08   | Não |
 | BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
 | BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
 | BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
-| BS12 | O usuário deve receber notificação pelo aplicativo mensagem e número		  | RF12   | Sim |
+| BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			  | RF12   | Não |
+| BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não |
+| BS14 | O usuário deve poder receber o status pelo WhatsApp		  | RF14   | Não |
+| BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não |
+| BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
+| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
+| BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não |
 
 
-| BS13 | O usuário deve visualizar a estipulação de prazo de entrega  | RF13   | Sim |
+
 
 
 
@@ -138,7 +144,7 @@ Legenda Requisitos das tabelas:
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
-| BS01 | Requisito      | RNF01   | Sim |
+| BS20 | Requisito      | RNF20   | Sim |
 
 </center>
 
