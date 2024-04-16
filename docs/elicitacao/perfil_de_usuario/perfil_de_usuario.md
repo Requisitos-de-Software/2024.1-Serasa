@@ -9,17 +9,6 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 ## Gráficos
 
-<!-- <font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
-
-<center>
-
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font> -->
-
-<!-- Gráfico 01 -->
-
 <font size="3"><p style="text-align: center">Gráfico 01</p></font>
 
 <center>
@@ -90,6 +79,8 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+<!-- Gráfico 07 -->
+
 <font size="3"><p style="text-align: center">Gráfico 07</p></font>
 
 <center>
@@ -100,12 +91,23 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+<!-- Gráfico 08 -->
+
+<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1430420074&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
 ## Definição do Perfil
 
 - **Idade:** 18 - 26 anos.
 - **Gênero:** Em sua maioria masculino.
-- **Experiência:**Experiente.
+- **Experiência:** Experiente.
 - **Tarefas primárias:** Rastreamento.
 - **Atitudes:** Tecnófilos.
 
@@ -121,3 +123,4 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.1`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/) |
