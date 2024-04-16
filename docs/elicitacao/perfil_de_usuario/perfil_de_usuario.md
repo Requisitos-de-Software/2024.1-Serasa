@@ -5,7 +5,7 @@ O perfil de usuário descreve de maneira específica os aspectos e característi
 
 ## Metodologia
 
-A metodologia utilizada para a criação de um perfil de usuários para o aplicativo dos correios foi, a coleta de dados por meio de formulários disseminados em grupos de redes sociais entre os dias 10/04 à 16/04 e gerando gráficos que mostram as características e ações mais comuns entre os usuários em relação ao uso do aplicativo.
+A metodologia utilizada para a criação de um perfil de usuários para o aplicativo dos correios foi a coleta de dados, por meio de formulários disseminados em grupos de redes sociais entre os dias 10/04 à 16/04 e gerando gráficos que mostram as características e ações mais comuns dos usuários com relação ao uso do aplicativo.
 
 ## Gráficos
 
@@ -90,14 +90,24 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+<font size="3"><p style="text-align: center">Gráfico 07</p></font>
+
+<center>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=618564350&amp;format=interactive"></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
+
 
 ## Definição do Perfil
 
-- Idade: 18 - 26 anos.
-- Gênero: Em sua maioria masculino.
-- Experiência:Experiente.
-- Tarefas primárias: Rastreamento
-- Atitudes: Tecnófilos
+- **Idade:** 18 - 26 anos.
+- **Gênero:** Em sua maioria masculino.
+- **Experiência:**Experiente.
+- **Tarefas primárias:** Rastreamento.
+- **Atitudes:** Tecnófilos.
 
 ## Bibliografia
 
