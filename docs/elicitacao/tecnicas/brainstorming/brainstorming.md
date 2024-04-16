@@ -33,25 +33,61 @@ Os participantes se reuniram de maneira remota através da plataforma Teams e Go
 
 #### Quais são as funcionalidades que você considera essenciais em um aplicativo de entregas, como o Correios?
 
+<span style = "color: yellow"> Henrique </span>- Possua um feedback constante do produto, mais detalhes da situação do objeto. Que eu seja informado caso ocorra adiamento de entrega, e que o usuário possa contactar a empresa responsável pela venda;
 
+<span style = "color: yellow"> Renato </span>- 
 
 #### Qual a melhor forma de rastrear uma encomenda dentro de um app de entregas?
+<span style = "color: yellow"> Henrique </span>- A melhor forma é que a pessoa mesmo preencha as informações no aplicativo, e que o produto tenha chip de localização que forneça informações constantes;
+
+<span style = "color: yellow"> Renato </span>- 
+
+
 
 #### Relacionado com as entregas, que tipo de informações você gostaria de ver sobre elas no aplicativo?
 
+<span style = "color: yellow"> Henrique </span>- Um prazo previsto de entrega, caso varie que seja reformulado a tempo de poder receber a encomenda;
+
+<span style = "color: yellow"> Renato </span>- 
+
+
 #### Como os usuários podem acessar as suas entregas/objetos dentro do app?
 
+
+
 #### Que sugestões você tem para tornar o aplicativo do Correios mais intuitivo, com um design amigável e uma navegação mais simples, que geraria uma navegação agradável?
+
+<span style = "color: yellow"> Henrique </span>- A própria parte do rastreio dos objetos, em vez de estar no menu poderia estar home(inicio) do aplicativo. Aba para contatos.
+Rastreio pelo código ser mais simplificado, possuir um design mais intuitivo para busca;
+
+<span style = "color: yellow"> Renato </span>- 
 
 
 #### Como o aplicativo pode te notificar sobre o status da sua entrega? Explique a melhor forma.
 
+<span style = "color: yellow"> Henrique </span>- Notificação(Push) do aplicativo ou por mensagem SMS pelo número de telefone.
+
+<span style = "color: yellow"> Renato </span>- 
+
+
 
 #### Qual seria a forma ideal do aplicativo fornecer suporte ao cliente?
+
+<span style = "color: yellow"> Henrique </span>- Chat bot e uma opção de conversar com atendente para ser respondido naquele exato momento.
+
+<span style = "color: yellow"> Renato </span>- 
+
 
 
 #### Quais são as principais reclamações ou desafios que vocês enfrentariam utilizando o app, e como podemos resolvê-los?
 
+<span style = "color: yellow"> Henrique </span>- Não possui tutorial para realizar o rastreio de forma fácil, o que poderia ser resolvido com simples pop-ups na tela indicando os locais.
+
+A página de acompanhamento não é intuitiva, e poderia ser melhor organizada diminuindo a quantidade de informações na tela.
+
+Atualização ineficaz das etapas do objeto até a minha casa, onde poderiam diminuir esse delay de atualizações ou apresentar um acompanhamento em tempo real.
+
+<span style = "color: yellow"> Renato </span>- 
 
 
 
@@ -69,7 +105,7 @@ Legenda Requisitos das tabelas:
 
 | <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS01                                           | Requisito                                                                          | RF01   | Sim |
+| BS01 | Requisito                                                                          | RF01   | Sim |
 
 </center>
 
