@@ -51,7 +51,8 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 > 3. Cooper, Alan (1999). The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing.
 >
 > 4. Courage, Catherine e Baxter, Kathy (2005). Understanding Your Users: A Practical Guide to User Requirements Methods, Tools, and Techniques. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edition.
-> 
+>
+> 5. This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](). Acessado em: 16 de abril. de 2024.
 
 ## Bibliografia
 
