@@ -28,6 +28,10 @@ Os participantes se reuniram de maneira remota através da plataforma do Team e 
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
+## Reunião Brainstorm
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z4QheB5dz6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 
 ## Perguntas/Respostas
 
@@ -144,7 +148,19 @@ Legenda Requisitos das tabelas:
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
-| BS22 | Requisito      | RNF22  | Sim |
+| BS22 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
+| BS23 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
+| BS24 | O app deverá poder notificar o usuário via whattsap  | RNF03 | Não |
+| BS25 | O app deverá identificar encomendas através de código QR Code   | RNF04 | Sim |
+| BS26 | O app deverá identificar encomendas através de um email      | RNF05 | Não |
+| BS27 | O app deverá mostrar informação mais clara e menos poluída na home    | RNF06 | Não |
+|  BS28 | O app deverá mostrar informações de rastreio por email    | RNF07 | Não |
+|  BS29 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF08 | Não |
+|  BS30 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF09| Não |
+|  BS31 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF10 | Não |
+|  BS32 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF11 | Não |
+|  BS33 | O app deverá ter um menor delay nas notificações de entrega  | RNF12 | Não |
+|  BS34 | O app deverá ter uma melhor acessibilidade   | RNF13 | Não |
 
 </center>
 
@@ -163,4 +179,5 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
-| `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/)  |
+| `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Revisor](https://www.github.com/)  |
+| `1.1`  | 16/04/2024 | Preenchimento de requisitos e documentação | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/)  |
