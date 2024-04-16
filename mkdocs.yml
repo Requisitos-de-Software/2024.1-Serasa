@@ -19,6 +19,7 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Elicitação:
     - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
+    - Personas: elicitacao/personas.md
     - Técnicas:
       - Brainstorming: elicitacao/tecnicas/brainstorming/brainstorming.md
 extra_css:
