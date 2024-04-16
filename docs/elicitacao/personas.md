@@ -11,6 +11,7 @@ Personas, apesar de serem entidades fictícias (ou seja, não são baseadas em i
 As personas desenvolvidas refletem as propriedades delineadas na seção de perfis de usuários. Seis personas foram estabelecidas, conforme ilustrado nas tabelas e figuras de 1 a 6, compreendendo três personas primárias, duas secundárias e uma antipersona. A seleção desse número segue a recomendação de Courage e Baxter (2005), que sugere uma quantidade que assegura a representação de uma ampla gama de características distintas sem desviar o foco do usuário-chave do sistema. Após a elaboração das personas, recorreu-se ao uso da ferramenta This Person Doesn't Exist para criar uma imagem artificial que representasse cada persona.
 
 Para estabelecer as características das personas, adotei os critérios propostos por Courage e Baxter (2005), que destacam os seguintes aspectos distintivos:
+
 - **Identidade**: Atribua um nome e sobrenome à persona. Especifique uma faixa etária e outros elementos demográficos típicos do perfil do usuário. Adicione uma imagem para conferir maior realismo e facilitar a lembrança da persona.
 - **Status**: Determine se a persona é principal, secundária, outro stakeholder ou um antiusuário do sistema. Um antiusuário é alguém que não usará o produto e, portanto, não deve ter influência nas decisões de design.
 - **Objetivos**: Quais são as metas da persona? Expanda além dos objetivos que se relacionam apenas com o seu produto.
