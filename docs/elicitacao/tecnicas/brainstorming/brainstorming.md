@@ -92,7 +92,7 @@ Usabilidade mediana e confusa.
 Falta de clareza nas informações.
 Falta de acessibilidade (Aumentar e diminuir fonte).
 
-
+Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corrigindo o design para uma opção mais limpa e intuitiva, melhorar a acessibilidade em geral do app.
 
 ## Requisitos Elicitados
 
@@ -106,9 +106,9 @@ Legenda Requisitos das tabelas:
 
 <center>
 
-| <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS01 | Requisito                                                                          | RF01   | Sim |
+| ID | Descrição    | Código | Implementado |
+| ----------- | --------------- | ------ | :------: |
+| BS01 | Requisito      | RF01   | Sim |
 
 </center>
 
@@ -120,9 +120,9 @@ Legenda Requisitos das tabelas:
 
 <center>
 
-| <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS01                                           | Requisito                                                                          | RF01   | Sim |
+| ID | Descrição    | Código | Implementado |
+| -------------- | --------------- | ------ | :------: |
+| BS01 | Requisito      | RNF01   | Sim |
 
 </center>
 
