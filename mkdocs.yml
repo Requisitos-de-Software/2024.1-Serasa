@@ -20,6 +20,9 @@ nav:
   - Elicitação:
     - Técnicas:
       - Observação: elicitacao/tecnicas/observacao.md
+  - Priorização:
+    -Técnicas:
+      - In or Out: priorizacao/tecnicas/inorout.md
 extra_css:
   - stylesheets/extra.css
 theme:
