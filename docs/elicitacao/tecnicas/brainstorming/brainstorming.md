@@ -102,13 +102,29 @@ Legenda Requisitos das tabelas:
 - RNFx: Requisito Não-Funcional nºx
 - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
 <center>
 
 | ID | Descrição    | Código | Implementado |
-| ----------- | --------------- | ------ | :------: |
-| BS01 | Requisito      | RF01   | Sim |
+| ----------- | --------------- | :------: | :------: |
+| BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
+| BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
+| BS03 | O usuário deve receber feedback em tempo hábil da situação do produto  | RF03   | Não |
+| BS04 | O usuário deve ter a possibilidade de contato com a empresa responsável pela venda em caso de adiamento  | RF04   | Não |
+| BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não |
+| BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
+| BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
+| BS08 | O usuário deve ser capas de aba para contatos	 | RF08   | Sim |
+| BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
+| BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
+| BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
+| BS12 | O usuário deve receber notificação pelo aplicativo mensagem e número		  | RF12   | Sim |
+
+
+| BS13 | O usuário deve visualizar a estipulação de prazo de entrega  | RF13   | Sim |
+
+
 
 </center>
 
@@ -121,7 +137,7 @@ Legenda Requisitos das tabelas:
 <center>
 
 | ID | Descrição    | Código | Implementado |
-| -------------- | --------------- | ------ | :------: |
+| -------------- | --------------- | :------: | :------: |
 | BS01 | Requisito      | RNF01   | Sim |
 
 </center>
