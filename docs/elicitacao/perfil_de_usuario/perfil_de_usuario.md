@@ -9,7 +9,7 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 ## Gráficos
 
-<font size="3"><p style="text-align: center">Gráfico 01</p></font>
+<font size="3"><p style="text-align: center">**Figura 01:** Gráfico 01</p></font>
 
 <center>
 
@@ -19,9 +19,11 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+Analisando o gráfico 01 logo acima percebe-se que a faixa etária com mais incidência entre os usuários do aplicativo dos correios são jovens e adultos de 18 a 35 anos, tendo em vista que o principal ambiente onde o formulário foi disseminado foi em embiente acadêmico.
+
 <!-- Gráfico 02 -->
 
-<font size="3"><p style="text-align: center">Gráfico 02</p></font>
+<font size="3"><p style="text-align: center">**Figura 02:** Gráfico 02</p></font>
 
 <center>
 
@@ -31,9 +33,11 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativoo serem homens, com mais de três quartos do total sendo usuários masculinos.
+
 <!-- Gráfico 03 -->
 
-<font size="3"><p style="text-align: center">Gráfico 03</p></font>
+<font size="3"><p style="text-align: center">**Figura 03:** Gráfico 03</p></font>
 
 <center>
 
@@ -43,9 +47,11 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+O gráfico 03 denota que grande parte dos usuários que participaram da pesquisa são estudantes universitários graduandos ou prós-graduandos, tendo ainda alguns que possuem apenas o ensino médio.
+
 <!-- Gráfico 04 -->
 
-<font size="3"><p style="text-align: center">Gráfico 04</p></font>
+<font size="3"><p style="text-align: center">**Figura 04:** Gráfico 04</p></font>
 
 <center>
 
@@ -55,9 +61,11 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
+Tendo em vista a figura 04 percebemos que a maior parte dos usuários que participaram da pesquisa possuem uma vasta experiência e utilização com dispositivos eletrônicos.
+
 <!-- Gráfico 05 -->
 
-<font size="3"><p style="text-align: center">Gráfico 05</p></font>
+<font size="3"><p style="text-align: center">**Figura 05:** Gráfico 05</p></font>
 
 <center>
 
@@ -67,9 +75,11 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
+Analisando a figura 05
+
 <!-- Gráfico 06 -->
 
-<font size="3"><p style="text-align: center">Gráfico 06</p></font>
+<font size="3"><p style="text-align: center">**Figura 06:** Gráfico 06</p></font>
 
 <center>
 
@@ -81,7 +91,7 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <!-- Gráfico 07 -->
 
-<font size="3"><p style="text-align: center">Gráfico 07</p></font>
+<font size="3"><p style="text-align: center">**Figura 07:** Gráfico 07</p></font>
 
 <center>
 
@@ -93,7 +103,7 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <!-- Gráfico 08 -->
 
-<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+<font size="3"><p style="text-align: center">**Figura 08:** Gráfico 08 </p></font>
 
 <center>
 
