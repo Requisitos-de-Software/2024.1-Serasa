@@ -5,7 +5,7 @@ O termo Brainstorming, traduzido do inglês significa "Chuva de ideias", e na el
 
 ## Metodologia
 
-Os participantes se reuniram de maneira remota através da plataforma Teams e Google Meet, documentando toda a reunião contendo os temas colocados, respostas dos participantes. Escolhemos um membro da equipe para ser o moderador da conversa mantendo o foco e consistência da reunião centrado no nosso objetivo.
+Os participantes se reuniram de maneira remota através da plataforma do Team e Google Meet, documentando toda a reunião contendo os temas colocados e respostas dos participantes.Elegemos um membro da equipe para ser o moderador da conversa mantendo o foco e consistência da reunião centrados no nosso objetivo, e outro para ficar a cargo de fazer a documentação e anotações sobre os dados coletados.Foram apresentados temas e perguntas relacionados ao aplicativo para os usuários e deixando-os responderem as perguntas e passar as suas ideias sobre as características e detalhes específicos do aplicativo.
 
 
 ## Participantes
