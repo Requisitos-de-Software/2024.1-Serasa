@@ -31,7 +31,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | **Identidade** | <figure markdown><figcaption>Figura 1: José Ricardo Gomes.</figcaption> ![José](../assets/personas/jose.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> José Ricardo Gomes<br> 23 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Influenciador Digital |
 | :---: | --- |
-| **Status** | Personas primária |
+| **Status** | Persona primária |
 | **Objetivos** | José trabalha como Influenciador Digital e tem como objetivo influenciar as pessoas a comprar os produtos que ele anuncia atrás de parcerias e utilizar também o aplicativo para rastrear suas encomendas. |
 | **Habilidades** | Aptidão em gravação de vídeos, boa oratória, habilidade em edição de vídeos, muito comunicativo. |
 | **Tarefas** | José começa o dia bem tranquilo, ao acordar toma um banho e faz sua rotina de higiene diária, começa então a gravar seu dia pois sua profissão mostra a rotina do seu dia a dia, mostra aos seus seguidores seu café da manhã e as demais refeições, começa a gravar vídeos mais elaborados, criando conteúdo para suas plataformas, faz um unboxing dos recebidos que recebe pelo correio das empresas patrocinadoras, acaba seu dia e volta a dormir. |
@@ -49,7 +49,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | **Identidade** | <figure markdown><figcaption>Figura 2: Gabriel Anacleto Saraiva.</figcaption> ![Gabriel](../assets/personas/gabriel.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Comerciante |
 | :---: | --- |
-| **Status** | Personas primária |
+| **Status** | Persona primária |
 | **Objetivos** | Gabriel trabalha como comerciante e espera que os correios calculem suas tarifas e que suas entregas sejam feitas com agilidade. Que ele possa contar com o estoque em dia pois utiliza caixas e envelopes dos correios, e que certificado digital esteja atualizado e ativo e o busca de agência atualizado. |
 | **Habilidades** | Proatividade, habilidoso com cálculos, comunicativo. |
 | **Tarefas** | Gabriel acorda, vai a padaria tomar seu café da manhã e logo vai para empresa de camisetas e canecas personalizadas, ao chegar lá separar as encomendas que devem ser enviados pelos correios, ele leva os correios para ser entregues para seus clientes, volta para a empresa e assina documentos com o seu certificado digital, vai almoçar e retorna para empresa e continua a trabalhar, após o dia de trabalho vai jantar no restaurante perto de sua casa, volta pra casa toma banho, assiste sua série preferida e vai dormir. |
@@ -67,7 +67,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | **Identidade** | <figure markdown><figcaption>Figura 3: Erivaldo Virginio Silva.</figcaption> ![Erivaldo](../assets/personas/erivaldo.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Erivaldo Virginio Silva<br> 30 anos<br> Masculino<br> Solteiro<br> Ensino Superior Completo<br> Advogado |
 | :---: | --- |
-| **Status** | Personas primária |
+| **Status** | Persona primária |
 | **Objetivos** | Erivaldo trabalha como advogado e tem como objetivo utilizar o certificado digital para seu trabalho e os materiais dos correios para envio de documentação. |
 | **Habilidades** | Conhecimento de negócios, habilidoso em relacionamentos interpessoal, persuasão, capacidade de julgamentos e tomada de decisões, pensamento analítico, conhecimento básico de tecnologia. |
 | **Tarefas** | Erivaldo acorda logo pela manhã, vai para o escritório ao chegar lá cumprimenta o pessoal do escritório, vai tomar um café com seus colegas de trabalho, ao chegar em sua mesa como de costume mexe em seus ofícios, recebe ligações e resolve burocracias rotineiras, sai para almoçar com colegas, volta continua a trabalhar. Ao voltar para casa pede uma comida no iFood, mexe no celular e vai dormir. |
