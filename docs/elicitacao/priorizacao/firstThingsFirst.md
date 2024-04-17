@@ -47,6 +47,7 @@ A divisão das etapas foi feita da seguinte forma:
 
 Abaixo está a tabela com os requisitos elicitados nas técnicas de elicitação realizadas pelo grupo.
 
+
 Legenda:
 
 - OBSxx: Requisito número xx elicitado pela técnica de observação;
@@ -67,16 +68,27 @@ Legenda:
 
 ## Resultados
 
-Para a montagem da tabela de priorização, o grupo utilizou os seguintes pesos:
+Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes pesos:
 
 - Peso benefício relativo: 2;
 - Peso penalidade relativa: 1;
 - Peso custo relativo: 1;
 - Peso risco relativo: 0.5.
 
+<center>
+<a name="requisitosElicitados"></a>
+<font size="2"><p>
+    <b>Tabela 3</b> - tabela de priorização
+</p></font>
+
+<iframe class="ftf" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPircPZBxv9AqS807qMxn-chgSU31OBT9kMPrgaXLG6-brUNsvzBGsBxeDCwjPRIorb4KbkRAMQAx8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" ></iframe>
+
+<font size="2"><p>Fonte: [Pablo S. Costa](PabloGH), [Ricardo Augusto](RicardoGH), 2024.</p></font>
+</center>
+
 ## Bibliografia
 
-> <a id="a" href="#aa">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2017.
+> <a id="a" href="#aa">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2024.
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
