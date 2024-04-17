@@ -263,4 +263,4 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
-| `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Revisor](https://www.github.com/)  |
+| `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes)  |
