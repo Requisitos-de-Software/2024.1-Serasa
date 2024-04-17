@@ -18,8 +18,9 @@ nav:
     - Termo de Uso: planejamento/termodeuso.md
     - Ferramentas: planejamento/ferramentas.md
   - Elicitação:
+    - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
     - Técnicas:
-      - Observação: elicitacao/tecnicas/observacao.md
+      - Brainstorming: elicitacao/tecnicas/brainstorming/brainstorming.md
 extra_css:
   - stylesheets/extra.css
 theme:
