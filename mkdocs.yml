@@ -23,6 +23,9 @@ nav:
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Questionário: elicitacao/tecnicas/questionario.md
+  - Priorização:
+    - Técnicas: 
+      - In or Out: priorizacao/tecnicas/inorout.md
 extra_css:
   - stylesheets/extra.css
 theme:

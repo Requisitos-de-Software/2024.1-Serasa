@@ -9,8 +9,8 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 
 Legenda:
 
-- OBS: Requisitos da Observação
 - BS: Requisitos do Brainstorm
+- OBS: Requisitos da Observação
 - QT: Requisitos Questionário
 
 <font size="2"><p style="text-align: center;">
