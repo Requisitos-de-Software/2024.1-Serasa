@@ -14,47 +14,47 @@ Legenda:
 - QT: Requisitos Questionário
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 1</b> - Priorização dos **requisitos funcionais** de acordo com método Ir or Out 
+    <b>Tabela 1</b> - Priorização dos **requisitos funcionais** de acordo com método IN or OUT 
 </p></font>
 
 | Tipo | Descrição                                                                                          | Tipo de Prioridade |
 |------|----------------------------------------------------------------------------------------------------|--------------|
-| BS01 | O usuário deve poder realizar cadastro pelo app                                                    |    | 
-| BS02, OBS01 | O usuário deve poder realizar login pelo app                                                |    | 
-| BS03 | O usuário deve poder acessar o histórico de notificações do objeto                                 |    |
-| BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo                 |    |
-| BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda     |    |
-| BS06 | O usuário deve visualizar a estipulação de prazo de entrega                                        |    | 
-| BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	                |    |
-| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	        |    |
-| BS09 | O usuário deve receber notificação push pelo aplicativo		                                    |    | 
-| BS10 | O usuário deve receber notificação SMS		                                                        |    | 
-| BS11 | O usuário deve receber notificação pelo Whatsapp		                                            |    |
-| BS12, Q03 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			                    |    |
-| BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	                        |    |
-| BS14 | O usuário deve poder receber o status pelo WhatsApp		                                        |    |
-| BS15 | O usuário deve poder aumentar e diminuir a fonte		                                            |    |
-| BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			|    |
-| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)                               |    |
-| BS18 | O usuário deve poder visualizar sua encomenda no mapa                                              |    |
-| BS19, Q01 | O usuário deve poder visualizar detalhes da situação do produto	                            |    | 
-| BS20, OBS02 | O usuário deve poder realizar o rastreio por código mais simples	                        |    |
-| BS21 | O usuário deve poder realizar o rastreio por QR Code	                                            |    | 
-| BS22 | O usuário deve receber notificação pelo e-mail		                                                |    |
-| BS23, Q06 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo     |    |
-| BS24, OBS06 | O usuário deve poder realizar a simulação de envio com as informações do objeto             |    |
-| OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro)                                |    |
-| OBS04 | O aplicativo possibilite ver seus pagamentos                                                      |    |
-| OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço                              |    |
-| OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios                           |    |
-| OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo            |    |
-| OBS09 | O aplicativo permite visualização de mensagens                                                    |    |
-| OBS10 | O aplicativo oferece a visualização de vales postais                                              |    |
-| OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios                             |    |
-| OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher                          |    |
-| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega                                                    |    |
-| Q04 | Chat para se comunicar diretamente com o fornecedor                                                 |    |
-| Q05 | Chat para se comunicar diretamente com o entregador                                                 |    |
+| BS01 | O usuário deve poder realizar cadastro pelo app                                                    |  IN  | 
+| BS02, OBS01 | O usuário deve poder realizar login pelo app                                                |  IN  | 
+| BS03 | O usuário deve poder acessar o histórico de notificações do objeto                                 |  OUT |
+| BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo                 |  OUT |
+| BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda     |  OUT |
+| BS06 | O usuário deve visualizar a estipulação de prazo de entrega                                        |  IN  | 
+| BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	                |  IN  |
+| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	        |  IN  |
+| BS09 | O usuário deve receber notificação push pelo aplicativo		                                    |  IN  | 
+| BS10 | O usuário deve receber notificação SMS		                                                        |  OUT | 
+| BS11 | O usuário deve receber notificação pelo Whatsapp		                                            |  IN  |
+| BS12, Q03 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			                    |  IN  |
+| BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	                        |  IN  |
+| BS14 | O usuário deve poder receber o status pelo WhatsApp		                                        |  IN  |
+| BS15 | O usuário deve poder aumentar e diminuir a fonte		                                            |  IN  |
+| BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			|  IN  |
+| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)                               |  IN  |
+| BS18 | O usuário deve poder visualizar sua encomenda no mapa                                              |  IN  |
+| BS19, Q01 | O usuário deve poder visualizar detalhes da situação do produto	                            |  IN  | 
+| BS20, OBS02 | O usuário deve poder realizar o rastreio por código mais simples	                        |  OUT |
+| BS21 | O usuário deve poder realizar o rastreio por QR Code	                                            |  OUT | 
+| BS22 | O usuário deve receber notificação pelo e-mail		                                                |  IN  |
+| BS23, Q06 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo     |  IN  |
+| BS24, OBS06 | O usuário deve poder realizar a simulação de envio com as informações do objeto             |  IN  |
+| OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro)                                |  IN  |
+| OBS04 | O aplicativo possibilite ver seus pagamentos                                                      |  IN  |
+| OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço                              |  IN  |
+| OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios                           |  IN  |
+| OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo            |  IN  |
+| OBS09 | O aplicativo permite visualização de mensagens                                                    |  IN  |
+| OBS10 | O aplicativo oferece a visualização de vales postais                                              |  OUT |
+| OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios                             |  IN  |
+| OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher                          |  IN  |
+| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega                                                    |  OUT |
+| Q04 | Chat para se comunicar diretamente com o fornecedor                                                 |  IN  |
+| Q05 | Chat para se comunicar diretamente com o entregador                                                 |  IN  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc), 2024.</p></font>
@@ -65,36 +65,36 @@ Legenda:
 
 | Tipo | Descrição                                                                                          | Tipo de Prioridade |
 |------|----------------------------------------------------------------------------------------------------|--------------|
-| BS25 | O app deve bloquear as funções em caso de furto/roubo                                              |    |
-| BS27 | O app deverá identificar encomendas através de código QR Code                                      |    |
-| BS28 | O app deverá identificar encomendas através de um e-mail                                           |    |
-| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home                                 |    |
-| BS30 | O app deverá mostrar informações de rastreio por email                                             |    |
-| BS31 | O app deverá possui um código de rastreio mais eficiente e simples                                 |    |
-| BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente               |    |
-| BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"                                            |    |
-| BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda            |    |
-| BS35 | O app deverá ter um menor delay nas notificações de entrega                                        |    |
-| BS36 | O app deverá ter uma melhor acessibilidade                                                         |    |
-| BS37, OBS25 | O app deverá ter uma interface fluída, estáve, amigável e fácil de usar.                    |    |
-| OBS13 | O aplicativo deve manter a privacidade dos dados do usuário.                                      |    |
-| OBS14, BS26, Q09 | O sistema de rastreamento de encomendas deve ser rápido e eficiente.                   |    |
-| OBS15 | O sistema de envio de encomendas deve ser robusto para lidar com diferentes tipos de objetos      |    |
-| OBS16 | O acesso aos pagamentos deve ser protegido por autenticação do usuário                            |    |
-| OBS17 | A busca por agências deve ser precisa e baseada na localização do usuário                         |    |
-| OBS18 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido                              |    |
-| OBS19 | A compra de certificados digitais deve ser segura e protegida                                     |    |
-| OBS20 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável             |    |
-| OBS21 | A visualização de mensagens deve ser rápida e fácil de usar                                       |    |
-| OBS22 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado     |    |
-| OBS23 | A busca por objetos perdidos deve ser eficiente e precisa                                         |    |
-| OBS24 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado   |    |
-| OBS26 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones.                   |    |
-| OBS27, Q08 | O aplicativo deve fornecer notificações sobre o status da entrega com eficácia.              |    |
-| Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) |    |
-| Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) |    |
-| Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) |    |
-| Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |    |
+| BS25 | O app deve bloquear as funções em caso de furto/roubo                                              |  OUT |
+| BS27 | O app deverá identificar encomendas através de código QR Code                                      |  OUT |
+| BS28 | O app deverá identificar encomendas através de um e-mail                                           |  IN  |
+| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home                                 |  IN  |
+| BS30 | O app deverá mostrar informações de rastreio por e-mail                                            |  IN  |
+| BS31 | O app deverá possui um código de rastreio mais eficiente e simples                                 |  IN  |
+| BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente               |  IN  |
+| BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"                                            |  IN  |
+| BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda            |  IN  |
+| BS35 | O app deverá ter um menor delay nas notificações de entrega                                        |  IN  |
+| BS36 | O app deverá ter uma melhor acessibilidade                                                         |  IN  |
+| BS37, OBS25 | O app deverá ter uma interface fluída, estáve, amigável e fácil de usar.                    |  IN  |
+| OBS13 | O aplicativo deve manter a privacidade dos dados do usuário.                                      |  IN  |
+| OBS14, BS26, Q09 | O sistema de rastreamento de encomendas deve ser rápido e eficiente.                   |  IN  |
+| OBS15 | O sistema de envio de encomendas deve ser robusto para lidar com diferentes tipos de objetos      |  OUT |
+| OBS16 | O acesso aos pagamentos deve ser protegido por autenticação do usuário                            |  IN  |
+| OBS17 | A busca por agências deve ser precisa e baseada na localização do usuário                         |  IN  |
+| OBS18 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido                              |  IN  |
+| OBS19 | A compra de certificados digitais deve ser segura e protegida                                     |  IN  |
+| OBS20 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável             |  IN  |
+| OBS21 | A visualização de mensagens deve ser rápida e fácil de usar                                       |  IN  |
+| OBS22 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado     |  IN  |
+| OBS23 | A busca por objetos perdidos deve ser eficiente e precisa                                         |  IN  |
+| OBS24 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado   |  IN  |
+| OBS26 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones.                   |  IN  |
+| OBS27, Q08 | O aplicativo deve fornecer notificações sobre o status da entrega com eficácia.              |  IN  |
+| Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) |  OUT  |
+| Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) |  OUT  |
+| Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) |  IN  |
+| Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |  OUT  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc), 2024.</p></font>
