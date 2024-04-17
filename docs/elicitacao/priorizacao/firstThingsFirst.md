@@ -24,9 +24,9 @@ Os participantes estão descritos na tabela [1](#participantes).
 |:-:|:-:|
 | [Ricardo Augusto][RicardoGH] | |
 | [Pablo S. Costa][PabloGH] | |
-| Heloisa S. C. Lima | Representante dos clientes | 
+| Heloisa S. C. Lima | Representante dos clientes |
 
-<font size="2"><p>Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p>Fonte: [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH], 2024.</p></font>
 </center>
 
 A divisão das etapas foi feita da seguinte forma:
@@ -87,9 +87,7 @@ Legenda:
 | Q04 | Chat para se comunicar diretamente com o fornecedor |
 | Q05 | Chat para se comunicar diretamente com o entregador |
 
-
-
-<font size="2"><p>Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p>Fonte: [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH], 2024.</p></font>
 </center>
 
 ## Resultados
@@ -109,16 +107,18 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 
 <iframe class="ftf" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPircPZBxv9AqS807qMxn-chgSU31OBT9kMPrgaXLG6-brUNsvzBGsBxeDCwjPRIorb4KbkRAMQAx8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" ></iframe>
 
-<font size="2"><p>Fonte: [Pablo S. Costa](PabloGH), [Ricardo Augusto](RicardoGH), 2024.</p></font>
+<font size="2"><p>Fonte: [Pablo S. Costa][PabloGH], [Ricardo Augusto][RicardoGH], 2024.</p></font>
 </center>
 
 ## Bibliografia
 
 > 1. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2024.
 
+## Histórico de Versões
+
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 17/04/2024 | [Ricardo Augusto](RicardoGH), [Pablo S. Costa](PabloGH) | Criação do documento | 
+|`1.0`| 17/04/2024 | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | Criação do documento | 
 
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
