@@ -47,11 +47,11 @@ A divisão das etapas foi feita da seguinte forma:
 
 Abaixo está a tabela com os requisitos elicitados nas técnicas de elicitação realizadas pelo grupo.
 
-
 Legenda:
 
 - OBSxx: Requisito número xx elicitado pela técnica de observação;
-- BSxx: Requisito número xx elicitado pela técnica de brainstorming.
+- BSxx: Requisito número xx elicitado pela técnica de brainstorming;
+- Qxx: Requisito número xx elicitado pela técnica de questionário.
 
 <center>
 <a name="requisitosElicitados"></a>
@@ -61,7 +61,33 @@ Legenda:
 
 | Identificação | Descrição |
 |:-:|:-:|
-| OBS01 | 
+| OBS01/BS02 | O aplicativo permite realizar login com sua conta |
+| BS01 | O usuário deve poder realizar cadastro pelo app |
+| OBS02 | O aplicativo permite rastreamento de encomendas por código. |
+| OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) |
+| OBS04 | O aplicativo possibilite ver seus pagamentos |
+| OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço |
+| OBS06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais |
+| OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios |
+| OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo |
+| OBS09 | O aplicativo permite visualização de mensagens |
+| OBS10 | O aplicativo oferece a visualização de vales postais |
+| OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios |
+| OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher |
+| BS03 | O usuário deve poder acessar o histórico de notificações do objeto |
+| BS06 | O usuário deve visualizar a estipulação de prazo de entrega |
+| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda |
+| BS09 | O usuário deve receber notificação push pelo aplicativo |
+| BS12/Q03 | O usuário deve ter acesso a um Chatbot para suporte ao cliente |
+| BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app |
+| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) |
+| BS23/Q06 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo |
+| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto |
+| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega |
+| Q04 | Chat para se comunicar diretamente com o fornecedor |
+| Q05 | Chat para se comunicar diretamente com o entregador |
+
+
 
 <font size="2"><p>Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 </center>
