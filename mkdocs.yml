@@ -7,6 +7,7 @@ nav:
     - Apresentação 01: Apresentações/Apresentação_01.md
   - Atas:
     - Reunião 1: atas/ata1.md
+    - Reunião 2: atas/ata2.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
     - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
@@ -17,24 +18,32 @@ nav:
     - Termo de Uso: planejamento/termodeuso.md
     - Ferramentas: planejamento/ferramentas.md
   - Elicitação:
+    - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
+    - Técnicas:
+      - Brainstorming: elicitacao/tecnicas/brainstorming/brainstorming.md
     - Priorização:
       - First Things First: elicitacao/priorizacao/firstThingsFirst.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   language: pt-BR
   name: material
   favicon: assets/correios_icon.svg
-  logo: assets/correios.svg
+  logo: assets/correios-icon-black.svg
   features:
     - navigation.tabs
+    - navigation.top
   palette:
     - scheme : default
       primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Mudar o modo clar/escuro 
 
     - scheme: slate
-      primary: blue
+      primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro

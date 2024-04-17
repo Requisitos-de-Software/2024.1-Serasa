@@ -5,11 +5,11 @@
 # Cópia do Termos de Uso e Política de Privacidade do Correios
 
 <center>
-<p> <font>Figura 1: Termos de uso do aplicativo</font> </p>
+<p> <font size="2">Figura 1: Termos de uso do aplicativo</font> </p>
 
 ![Direitos de Propriedade Intelectual do idCorreios e Terceiros](../assets/termodeuso_Correios.jpeg "Direitos de de uso")
 
-<p> <font>Fonte: <a href="https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf">Correios Termo de uso</a></font> <br></p>
+<p> <font size="2">Fonte: <a href="https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf">Correios Termo de uso</a></font> <br></p>
 </center>
 
 - Data de acesso: 09/04/2024
@@ -19,10 +19,11 @@
 - Na data de 09/04/2024, o site oficial do aplicativo do Correios não está com um material disponível sobre os Termo de Uso, esse assunto é abordado [nesse arquivo](https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf).
 - Link do site : <https://www.correios.com.br/idcorreios/termos>
 
+## Referências Bibliográficas
 
-## Bibliografia
 > 1. Termos de uso dos serviços e privacidade
 digital. Disponível em: <https://apps.correios.com.br/cas/termo/termo_pt_BR.pdf>. Acesso em: 09 de Abril de 2024.
+
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |

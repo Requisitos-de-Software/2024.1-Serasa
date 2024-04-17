@@ -13,6 +13,9 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 
 ## Integrantes Presentes
 
+<font size="2"><p style="text-align: center">Tabela 1: Integrantes Presentes.</p></font>
+<center>
+
 Nome | Presença/Apresentação - ✅/❌
 :--- | :---:
 [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |✅
@@ -23,12 +26,17 @@ Nome | Presença/Apresentação - ✅/❌
 [Pablo S. Costa](https://github.com/pabloheika)|✅
 [Ricardo Augusto](https://www.github.com/avmricardo)|✅
 
+</center>
+<font size="2"><p style="text-align: center">
+Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.
+</p></font>
+
 ## Bibliografia
 
-> - 2023.1-BilheteriaDigital.
+> 1. 2023.1-BilheteriaDigital.
     Disponível em : 
     <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital>. Acesso em : 30/03/2024
-> - How to embed a youtube video into markdown
+> 2. How to embed a youtube video into markdown
     <https://www.antvaset.com/how-to-embed-a-youtube-video-into-markdown>. Acesso em: 30/03/2024
 
 ## Histórico de versões

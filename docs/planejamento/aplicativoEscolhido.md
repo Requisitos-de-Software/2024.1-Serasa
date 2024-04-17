@@ -6,15 +6,15 @@ Artefato destinado a explicar o aplicativo escolhido pelo o grupo para o projeto
 
 ## Correios
 
-<div style="text-align: center">
-<p> Figura 1: Logo dos Correios. </p>
-</div>
+<font size="2">
+<p style="text-align: center"> Figura 1: Logo dos Correios. </p>
+</font>
 
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="https://requisitos-de-software.github.io/2024.1-Correios/assets/correios-logo.png" width = 40%></center>
+<center><img style="border: 1px solid white; border-radius: 10%" src="https://requisitos-de-software.github.io/2024.1-Correios/assets/correios-logo.png" width = 40%></center>
 
-<div style="text-align: center">
-<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa,</a> 2019.</p>
-</div>
+<font size="2">
+<p style="text-align: center"> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa,</a> 2019.</p>
+</font>
 
 O site dos Correios é uma plataforma digital que oferece uma gama de serviços postais e logísticos para os usuários brasileiros, permitindo aos usuários rastrearem suas encomendas, calcular fretes, solicitar serviços de entrega expressa, como Sedex e PAC, além de fornecer informações detalhadas sobre os diversos tipos de serviços oferecidos pela empresa.
 

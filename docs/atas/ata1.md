@@ -1,5 +1,10 @@
 # Reunião 1 : 26/03/2024
 
+## Introdução
+
+Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas e o histórico de versão do documento. 
+
+
 ## Pautas da reunião:
 1. Definição das atividades de cada membro para a primeira entrega;
 - Horário semanal das reuniões.
@@ -16,14 +21,17 @@
 
 ## Informações da reunião
 
-<div style="text-align: center">
+<div style="text-align: center; font-size: smaller;">
 <p> Tabela 1: Informações da reunião. </p>
 </div>
+<center>
 
-| Data | Início | Fim | Local
+| Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 26/03/2024 | 21:30 | 22:10 | Teams
-<div style="text-align: center">
+| 26/03/2024 | 21:30 | 22:10 | Teams |
+
+</center>
+<div style="text-align: center; font-size: smaller;">
 <p> Fonte: Ricardo Augusto, 2024. </p>
 </div>
 
@@ -31,7 +39,7 @@
 1. O horário marcado para as reuniões semanais ficou para as quartas-feiras 20h;
 2. Cada membro do grupo foi designado a uma ou mais atividades, a divisão foi realizada com o intuito dos integrantes terem um tempo de trabalho parecido entre si e de acordo com as escolhas dos presentes na reunião.
 
-<div style="text-align: center">
+<div style="text-align: center; font-size: smaller;">
 <p> Tabela 2: Integrantes por atividades. </p>
 </div>
 
@@ -46,7 +54,7 @@
 | RichPicture | Claudio | 
 | Termos de uso | Danilo | 
 |Artefato de apresentação | Elias
-<div style="text-align: center">
+<div style="text-align: center; font-size: smaller;">
 <p> Fonte: Ricardo Augusto, 2024. </p>
 </div>
 
@@ -56,6 +64,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel Fernando][GabrielFGH]
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajustes em formatação | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.2`| 11 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Adicionando introdução | [Claudio Henrique](https://github.com/claudiohsc)
 
 
 
