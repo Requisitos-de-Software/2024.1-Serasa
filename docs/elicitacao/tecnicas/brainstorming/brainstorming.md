@@ -226,17 +226,23 @@ Legenda Requisitos das tabelas:
 
 <p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/Z4QheB5dz6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
 <center>
  **Reunião 02**
 </center>
 
 <p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/1iNdA_5wAxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
 <center>
  **Reunião 03**
 </center>
 
 <p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/IHJ9mgEK1bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
 ## Bibliografia
 
