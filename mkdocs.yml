@@ -19,6 +19,7 @@ nav:
   - Elicitação:
     - Priorização:
       - First Things First: elicitacao/priorizacao/firstThingsFirst.md
+      - $100: elicitacao/priorizacao/$100.md
 theme:
   language: pt-BR
   name: material
