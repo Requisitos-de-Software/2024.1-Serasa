@@ -20,7 +20,7 @@ Legenda:
 | Tipo | Descrição                                                                                          | Tipo de Prioridade |
 |------|----------------------------------------------------------------------------------------------------|--------------|
 | BS01 | O usuário deve poder realizar cadastro pelo app                                                    |    | 
-| BS02 | O usuário deve poder realizar login pelo app                                                       |    | 
+| BS02, OBS01 | O usuário deve poder realizar login pelo app                                                |    | 
 | BS03 | O usuário deve poder acessar o histórico de notificações do objeto                                 |    |
 | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo                 |    |
 | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda     |    |
@@ -30,37 +30,32 @@ Legenda:
 | BS09 | O usuário deve receber notificação push pelo aplicativo		                                    |    | 
 | BS10 | O usuário deve receber notificação SMS		                                                        |    | 
 | BS11 | O usuário deve receber notificação pelo Whatsapp		                                            |    |
-| BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			                            |    |
+| BS12, Q03 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			                    |    |
 | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	                        |    |
 | BS14 | O usuário deve poder receber o status pelo WhatsApp		                                        |    |
 | BS15 | O usuário deve poder aumentar e diminuir a fonte		                                            |    |
 | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			|    |
 | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)                               |    |
 | BS18 | O usuário deve poder visualizar sua encomenda no mapa                                              |    |
-| BS19 | O usuário deve poder visualizar detalhes da situação do produto	                                |    | 
-| BS20 | O usuário deve poder realizar o rastreio por código mais simples	                                |    |
+| BS19, Q01 | O usuário deve poder visualizar detalhes da situação do produto	                            |    | 
+| BS20, OBS02 | O usuário deve poder realizar o rastreio por código mais simples	                        |    |
 | BS21 | O usuário deve poder realizar o rastreio por QR Code	                                            |    | 
 | BS22 | O usuário deve receber notificação pelo e-mail		                                                |    |
-| BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		    |    |
-| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto                    |    |
-| OBS01 | O aplicativo permite realizar login com sua conta                                                 |    |
-| OBS02 | O aplicativo permite rastreamento de encomendas por código.                                       |    |
+| BS23, Q06 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo     |    |
+| BS24, OBS06 | O usuário deve poder realizar a simulação de envio com as informações do objeto             |    |
 | OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro)                                |    |
 | OBS04 | O aplicativo possibilite ver seus pagamentos                                                      |    |
 | OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço                              |    |
-| OBS06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais    |    |
 | OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios                           |    |
 | OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo            |    |
 | OBS09 | O aplicativo permite visualização de mensagens                                                    |    |
 | OBS10 | O aplicativo oferece a visualização de vales postais                                              |    |
 | OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios                             |    |
 | OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher                          |    |
-| Q01 | As informçãoes na página de reastreio                                                               |    |
 | Q02 | Filtrar o tipo de encomenda pelo tipo de entrega                                                    |    |
-| Q03 | Assistente virtual dos correios                                                                     |    |
 | Q04 | Chat para se comunicar diretamente com o fornecedor                                                 |    |
 | Q05 | Chat para se comunicar diretamente com o entregador                                                 |    |
-| Q06 | Pagamento de tributos e taxas de importação                                                         |    | 
+
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc), 2024.</p></font>
 
