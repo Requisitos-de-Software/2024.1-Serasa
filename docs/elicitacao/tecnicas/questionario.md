@@ -26,7 +26,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P01%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: Autores </p></font>
 
 ### Pergunta 2
 
@@ -37,7 +37,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P02%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 3
 
@@ -47,7 +47,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P03%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 4
 
@@ -57,7 +57,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P04%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 5
 
@@ -67,7 +67,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P05%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 6
 
@@ -77,7 +77,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P06%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 7
 
@@ -87,7 +87,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P07%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 8
 
@@ -97,7 +97,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P08%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 9
 
@@ -107,7 +107,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P09%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 10
 
@@ -117,7 +117,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P10%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Autores] </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ## Resultados
 
@@ -147,7 +147,7 @@ Legenda Requisitos das tabelas:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi) </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 
 <!-- ****************************        Tabela 2        ****************************** -->
 
@@ -182,4 +182,4 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
-| `1.1` | 17/04/2024 | Adicionando imagens e texto | [Gabriel B. Bertolazi](https://github.com/BErtolazi) |
+| `1.1` | 17/04/2024 | Adicionando imagens e texto | [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024 |
