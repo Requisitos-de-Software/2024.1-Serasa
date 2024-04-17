@@ -19,7 +19,7 @@ Os participantes se reuniram de maneira remota através da plataforma do Team e 
 |:-----:|:--------:|
 | [Claudio Henrique](https://github.com/claudiohsc)|Moderador |
 | [Elias F. Oliveira](https://github.com/EliasOliver21) |Secretário|
-| Fernando Vela |Usuário|
+| Fernando Buenaventura |Usuário|
 | Heitor Marques |Usuário|
 | Henrique Camelo Quenino |Usuário|
 | Renato Medeiros |Usuário|
@@ -205,19 +205,19 @@ Legenda Requisitos das tabelas:
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
-| BS22 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
-| BS23 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
-| BS24 | O app deverá poder notificar o usuário via whattsap  | RNF03 | Não |
-| BS25 | O app deverá identificar encomendas através de código QR Code   | RNF04 | Sim |
-| BS26 | O app deverá identificar encomendas através de um email      | RNF05 | Não |
-| BS27 | O app deverá mostrar informação mais clara e menos poluída na home    | RNF06 | Não |
-|  BS28 | O app deverá mostrar informações de rastreio por email    | RNF07 | Não |
-|  BS29 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF08 | Não |
-|  BS30 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF09| Não |
-|  BS31 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF10 | Não |
-|  BS32 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF11 | Não |
-|  BS33 | O app deverá ter um menor delay nas notificações de entrega  | RNF12 | Não |
-|  BS34 | O app deverá ter uma melhor acessibilidade   | RNF13 | Não |
+| BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
+| BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
+| BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
+| BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |
+| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |
+|  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |
+|  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |
+|  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |
+|  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |
+|  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |
+|  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |
+|  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |
+|  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |
 
 </center>
 
@@ -237,4 +237,3 @@ Legenda Requisitos das tabelas:
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
 | `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Revisor](https://www.github.com/)  |
-| `1.1`  | 16/04/2024 | Preenchimento de requisitos e documentação | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/)  |
