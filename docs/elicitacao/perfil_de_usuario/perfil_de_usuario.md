@@ -13,8 +13,7 @@ A metodologia utilizada para a criação de um perfil de usuários para o aplica
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=190279822&amp;format=interactive"></iframe>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1085708598&amp;format=interactive"></iframe>
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
@@ -27,7 +26,7 @@ Analisando o gráfico 01 logo acima percebe-se que a faixa etária com mais inci
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=2058484877&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1373056118&amp;format=interactive"></iframe>
 
 </center>
 
@@ -41,7 +40,7 @@ A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1912260168&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=789937868&amp;format=interactive"></iframe>
 
 </center>
 
@@ -69,7 +68,7 @@ Tendo em vista a figura 04 percebemos que a maior parte dos usuários que partic
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1151125451&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=653956385&amp;format=interactive"></iframe>
 
 </center>
 
@@ -83,7 +82,7 @@ Analisando a figura 05
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=383670163&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1417162651&amp;format=interactive"></iframe>
 
 </center>
 
@@ -107,7 +106,7 @@ Analisando a figura 05
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1430420074&amp;format=interactive"></iframe>
+
 
 </center>
 
