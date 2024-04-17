@@ -66,7 +66,6 @@ Legenda:
 | Tipo | Descrição                                                                                          | Tipo de Prioridade |
 |------|----------------------------------------------------------------------------------------------------|--------------|
 | BS25 | O app deve bloquear as funções em caso de furto/roubo                                              |    |
-| BS26 | O app deverá mostrar a localização da entrega em tempo real                                        |    |
 | BS27 | O app deverá identificar encomendas através de código QR Code                                      |    |
 | BS28 | O app deverá identificar encomendas através de um e-mail                                           |    |
 | BS29 | O app deverá mostrar informação mais clara e menos poluída na Home                                 |    |
@@ -77,9 +76,9 @@ Legenda:
 | BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda            |    |
 | BS35 | O app deverá ter um menor delay nas notificações de entrega                                        |    |
 | BS36 | O app deverá ter uma melhor acessibilidade                                                         |    |
-| BS37 | O app deverá ter uma interface fluída e estável                                                    |    |
+| BS37, OBS25 | O app deverá ter uma interface fluída, estáve, amigável e fácil de usar.                    |    |
 | OBS13 | O aplicativo deve manter a privacidade dos dados do usuário.                                      |    |
-| OBS14 | O sistema de rastreamento de encomendas deve ser rápido e eficiente                               |    |
+| OBS14, BS26, Q09 | O sistema de rastreamento de encomendas deve ser rápido e eficiente.                   |    |
 | OBS15 | O sistema de envio de encomendas deve ser robusto para lidar com diferentes tipos de objetos      |    |
 | OBS16 | O acesso aos pagamentos deve ser protegido por autenticação do usuário                            |    |
 | OBS17 | A busca por agências deve ser precisa e baseada na localização do usuário                         |    |
@@ -90,12 +89,9 @@ Legenda:
 | OBS22 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado     |    |
 | OBS23 | A busca por objetos perdidos deve ser eficiente e precisa                                         |    |
 | OBS24 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado   |    |
-| OBS25 | O aplicativo requer uma interface amigável e fácil de usar.                                       |    |
 | OBS26 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones.                   |    |
-| OBS27 | O aplicativo deve fornecer notificações sobre o status da entrega.                                |    |
+| OBS27, Q08 | O aplicativo deve fornecer notificações sobre o status da entrega com eficácia.              |    |
 | Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) |    |
-| Q08 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda) |    |
-| Q09 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) |    |
 | Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) |    |
 | Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) |    |
 | Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |    |
