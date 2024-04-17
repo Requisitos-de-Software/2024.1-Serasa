@@ -25,19 +25,109 @@ Para estabelecer as características das personas, adotei os critérios proposto
 
 Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas diferentes. Em nosso projeto elencamos as 6 seguintes personas.
 
-<font size="2"><p style="text-align: center">Tabela 1: Persona primária.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1: Persona primária José Ricardo Gomes.</p></font>
 
-<center>
+<center class="personas">
 
-| **Identidade** | - |
-|:--------:|----------|
-| **Status** | |
-| **Objetivos** | |
-| **Habilidades** | |
-| **Tarefas** | |
-| **Relacionamentos** | |
-| **Requisitos** | |
-| **Expectativas** | |
+| **Identidade** | <figure markdown><figcaption>Figura 1: José Ricardo Gomes.</figcaption> ![José](../assets/personas/jose.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> José Ricardo Gomes<br> 23 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Influenciador Digital |
+| :---: | --- |
+| **Status** | Personas primária |
+| **Objetivos** | José trabalha como Influenciador Digital e tem como objetivo influenciar as pessoas a comprar os produtos que ele anuncia atrás de parcerias e utilizar também o aplicativo para rastrear suas encomendas. |
+| **Habilidades** | Aptidão em gravação de vídeos, boa oratória, habilidade em edição de vídeos, muito comunicativo. |
+| **Tarefas** | José começa o dia bem tranquilo, ao acordar toma um banho e faz sua rotina de higiene diária, começa então a gravar seu dia pois sua profissão mostra a rotina do seu dia a dia, mostra aos seus seguidores seu café da manhã e as demais refeições, começa a gravar vídeos mais elaborados, criando conteúdo para suas plataformas, faz um unboxing dos recebidos que recebe pelo correio das empresas patrocinadoras, acaba seu dia e volta a dormir. |
+| **Relacionamentos** | Colegas de profissão, familiares, amigos, fãs e empresas patrocinadoras. |
+| **Requisitos** | Após saber que receberá um produto importante de um dos seus parceiros ele utiliza o aplicativo dos Correios para rastrear seu pacote, consulta minhas importações para verificar as situações alfandegárias. |
+| **Expectativas** | Ele gostaria que fosse algo muito rápido e prático, que esteja sempre atualizado e que o aplicativo tenha notificações para ele ficar sempre atento. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 2: Persona primária Gabriel Anacleto Saraiva.</p></font>
+
+<center class="personas">
+
+| **Identidade** | <figure markdown><figcaption>Figura 2: Gabriel Anacleto Saraiva.</figcaption> ![Gabriel](../assets/personas/gabriel.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Comerciante |
+| :---: | --- |
+| **Status** | Personas primária |
+| **Objetivos** | Gabriel trabalha como comerciante e espera que os correios calculem suas tarifas e que suas entregas sejam feitas com agilidade. Que ele possa contar com o estoque em dia pois utiliza caixas e envelopes dos correios, e que certificado digital esteja atualizado e ativo e o busca de agência atualizado. |
+| **Habilidades** | Proatividade, habilidoso com cálculos, comunicativo. |
+| **Tarefas** | Gabriel acorda, vai a padaria tomar seu café da manhã e logo vai para empresa de camisetas e canecas personalizadas, ao chegar lá separar as encomendas que devem ser enviados pelos correios, ele leva os correios para ser entregues para seus clientes, volta para a empresa e assina documentos com o seu certificado digital, vai almoçar e retorna para empresa e continua a trabalhar, após o dia de trabalho vai jantar no restaurante perto de sua casa, volta pra casa toma banho, assiste sua série preferida e vai dormir. |
+| **Relacionamentos** | Clientes, amigos, família, comunidade religiosa. |
+| **Requisitos** | Após receber encomendas ele utiliza os correiros para calcular tarifas e prazos de envio, adquirir caixas e envelopes e verificar status dos envios, adquiri certificado digital, e busca de agências. |
+| **Expectativas** | Ele espera que os correios tenham interface moderna e limpa para que o uso seja mais rápido e fácil. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 3: Persona primária Erivaldo Virginio Silva.</p></font>
+
+<center class="personas">
+
+| **Identidade** | <figure markdown><figcaption>Figura 3: Erivaldo Virginio Silva.</figcaption> ![Erivaldo](../assets/personas/erivaldo.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Erivaldo Virginio Silva<br> 30 anos<br> Masculino<br> Solteiro<br> Ensino Superior Completo<br> Advogado |
+| :---: | --- |
+| **Status** | Personas primária |
+| **Objetivos** | Erivaldo trabalha como advogado e tem como objetivo utilizar o certificado digital para seu trabalho e os materiais dos correios para envio de documentação. |
+| **Habilidades** | Conhecimento de negócios, habilidoso em relacionamentos interpessoal, persuasão, capacidade de julgamentos e tomada de decisões, pensamento analítico, conhecimento básico de tecnologia. |
+| **Tarefas** | Erivaldo acorda logo pela manhã, vai para o escritório ao chegar lá cumprimenta o pessoal do escritório, vai tomar um café com seus colegas de trabalho, ao chegar em sua mesa como de costume mexe em seus ofícios, recebe ligações e resolve burocracias rotineiras, sai para almoçar com colegas, volta continua a trabalhar. Ao voltar para casa pede uma comida no iFood, mexe no celular e vai dormir. |
+| **Relacionamentos** | Clientes, colegas de profissão, amigos, familiares. |
+| **Requisitos** | Utiliza os correios para adquirir envolves e papéis para envios de documentos, adquiri certificado digital. |
+| **Expectativas** | Ele espera que sempre os correios tenham os materiais que ele utiliza para envio de documentos e que o certificado digital sempre esteja ativo e atualizado para uso. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 4: Persona secundária Emerson Santos e Silva.</p></font>
+
+<center class="personas">
+
+| **Identidade** | <figure markdown><figcaption>Figura 4: Emerson Santos e Silva.</figcaption> ![Emerson](../assets/personas/emerson.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Emerson Santos e Silva<br> 28 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Empresário |
+| :---: | --- |
+| **Status** | Persona Secundária |
+| **Objetivos** | Emerson é empresário e tem como objetivo usar as funcionalidades dos correios através de seus funcionários. |
+| **Habilidades** | Tem noção de gestão, excelente em fazer networking, |
+| **Tarefas** | Emerson acorda pela manhã tomar seu café com a família, vai para empresa de locação de impressoras, ao chegar na empresa recebe um e-mail com pedido de 10 impressoras para ser entregue em Goiânia, Emerson então pede a um dos seus funcionários para que utilize o correio para envio das suas impressoras e toners. Continua a trabalhar, o dia todo e volta para casa às 4h da tarde para levar uma das suas filhas ao dentista, volta para casa janta, brinca com as crianças, mexe um pouco no celular e vai dormir. |
+| **Relacionamentos** | Funcionários para delegar funções, familiares e esposa. |
+| **Requisitos** | Delega aos seus funcionários para que utilizem os correios para envios de encomendas e recebimentos de mercadorias. |
+| **Expectativas** | Ele gostaria que os correios sejam ágeis em entregas e o rastreamento seja sempre atualizado para acompanhar as encomendas. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 5: Persona secundária João Victor Ribeiro.</p></font>
+
+<center class="personas">
+
+| **Identidade** | <figure markdown><figcaption>Figura 5: João Victor Ribeiro.</figcaption> ![João](../assets/personas/joao.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> João Victor Ribeiro<br> 55 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Porteiro |
+| :---: | --- |
+| **Status** | Persona Secundária |
+| **Objetivos** | João Victor é porteiro e espera que seus filhos e sobrinhos consigam rastrear suas encomendas de ferramentas e artigos para casa. |
+| **Habilidades** | Comunicativo, ágil, cordial, bom motorista, bom em trabalhar em equipe. |
+| **Tarefas** | João tem um dia bastante atarefado, toma seu banho e come o café da manhã, vai para a parada de ônibus, ao chegar ao trabalho às 7h da manhã, trabalha o dia recebendo os residentes, após o trabalho às 7h da noite, volta para casa de ônibus, tomar um banho e janta, depois vai assistir TV e olhar o aplicativo da shopee para fazer algumas compras, aproveita e pede ao seu filho para rastrear as encomendas que ele já fez, logo após ele vai dormir para acordar no outro dia para trabalhar novamente. |
+| **Relacionamentos** | Familiares, amigos, comunidade religiosa e residentes do local de trabalho. |
+| **Requisitos** | Pede para que os seus filhos e sobrinhos rateiem suas encomendas. |
+| **Expectativas** | Ele espera agilidade nas entregas dos correios e que seus familiares consigam rastrear seus pedidos. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 6: Antipersona Maria das Graças dos Santos.</p></font>
+
+<center class="personas">
+
+| **Identidade** | <figure markdown><figcaption>Figura 6: Maria das Graças dos Santos.</figcaption> ![Maria](../assets/personas/maria.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Maria das Graças dos Santos<br> 46 anos<br> Casada<br> Agricultora |
+| :---: | --- |
+| **Status** | Antipersona |
+| **Objetivos** | Maria das Graças tem como objetivo usar o serviço dos correios em agência física ter um bom atendimento eficiente e cordial. |
+| **Habilidades** | Organização, capacidade de observação, e conhecimento em plantio e cultivo. |
+| **Tarefas** | Maria acorda às 5h da manhã, passa um cafezinho e toma junto com a sua família, então vai trabalhar no plantio e cultivo de soja em uma plantação em Luís Eduardo de Magalhães, trabalhar o dia todo colhendo soja e volta pra casa para fazer janta come com sua família, faz sua marmita, dorme cedo para trabalhar no outro dia. |
+| **Relacionamentos** | Familiares, colegas de profissão, amigos de barzinho. |
+| **Requisitos** | Preferencialmente ela utiliza os serviços dos correios em uma agência física. |
+| **Expectativas** | Ela espera atendimento cordial do funcionário do espaço físico. |
 
 </center>
 
