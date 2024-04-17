@@ -1,30 +1,49 @@
-repo_url: https://github.com/Requisitos-de-Software/2024.1-Serasa
-repo_name: 2024.1-Serasa
-site_name: 'Serasa: Consulta CPF e Score'
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Correios
+repo_name: 2024.1-Correios
+site_name: Correios
 nav: 
-  - Home: index.md
+  - Equipe: index.md
   - Apresentações:
     - Apresentação 01: Apresentações/Apresentação_01.md
   - Atas:
     - Reunião 1: atas/ata1.md
+    - Reunião 2: atas/ata2.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastreabilidade/richpicture.md
+    - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
   - Planejamento:
+    - Aplicativo escolhido: planejamento/aplicativoEscolhido.md
     - Heatmap: planejamento/heatmap.md
+    - Cronograma:  planejamento/cronograma.md
     - Termo de Uso: planejamento/termodeuso.md
     - Ferramentas: planejamento/ferramentas.md
+  - Elicitação:
+    - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
+    - Técnicas:
+      - Brainstorming: elicitacao/tecnicas/brainstorming.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: elicitacao/tecnicas/questionario.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   language: pt-BR
   name: material
-  logo: assets/serasa_logo_white.svg
+  favicon: assets/correios_icon.svg
+  logo: assets/correios-icon-black.svg
   features:
     - navigation.tabs
+    - navigation.top
   palette:
     - scheme : default
-      primary: pink
+      primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Mudar o modo clar/escuro 
+
     - scheme: slate
-      primary: blue
+      primary: amber
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
