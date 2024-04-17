@@ -1,11 +1,11 @@
 ## Introdução
 
-O perfil de usuário descreve de maneira específica os aspectos e características do usuário que fará a utilização do aplicativo. Coletando dados e traçando um perfis de usuário com base em idade, gênero, cargo, função,experiência entre outros, e elencando as características em comum dos usuários definindo perfil comum.
+O perfil de usuário descreve de maneira específica os aspectos e características do usuário que fará a utilização da aplicação em foco para a elicitação de requisitos. Coletando dados e traçando um perfil de usuário com base em idade, gênero, cargo, função,experiência entre outros, e elencando as características em comum dos usuários definindo um perfil comum.
 
 
 ## Metodologia
 
-A metodologia utilizada para a criação de um perfil de usuários para o aplicativo dos correios foi a coleta de dados, por meio de formulários disseminados em grupos de redes sociais entre os dias 10/04 à 16/04 e gerando gráficos que mostram as características e ações mais comuns dos usuários com relação ao uso do aplicativo.
+A metodologia utilizada para a criação de um perfil de usuário para o aplicativo dos correios foi a coleta de dados, por meio de formulários disseminados em grupos de redes sociais entre os dias 10/04 à 17/04, Assim nos permitindo gerar gráficos que mostram as características e ações mais comuns dos usuários com relação ao uso do aplicativo.
 
 ## Gráficos
 
@@ -32,7 +32,7 @@ Analisando o gráfico 01 logo acima percebe-se que a faixa etária com mais inci
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
-A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativoo serem homens, com mais de três quartos do total sendo usuários masculinos.
+A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativo serem homens, com quase três quartos do total sendo usuários masculinos.
 
 <!-- Gráfico 03 -->
 
@@ -54,7 +54,7 @@ O gráfico 03 denota que grande parte dos usuários que participaram da pesquisa
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1770175684&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=348383017&amp;format=interactive"></iframe>
 
 </center>
 
@@ -74,7 +74,7 @@ Tendo em vista a figura 04 percebemos que a maior parte dos usuários que partic
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
-Analisando a figura 05
+Analisando a figura 05 vemos que mais de noventa porcenta dos participantes são solteiros, o que já era um pouco previsível tendo em vista o gráfico um que mostra a maior parte dos usuários sendo jovens de dezoito a vinte e cinco anos.
 
 <!-- Gráfico 06 -->
 
@@ -88,17 +88,21 @@ Analisando a figura 05
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+No gráfico 06 é notório o apreço dos usuários pelas novas tecnologias e pela utilização delas, pois todos os participantes concordam no gosto e no desejo de utilizar novas tecnologias.
+
 <!-- Gráfico 07 -->
 
 <font size="3"><p style="text-align: center">**Figura 07:** Gráfico 07</p></font>
 
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=618564350&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=1074511736&amp;format=interactive"></iframe>
 
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
+
+Com relação ao gráfico 07 perceptível que em suma a maioria dos usuários utilizam com baixa frequência aplicativo, utilizando o mesmo na maior parte das vezes somente para realizar o reastreio de encomendas quandos as faz como mostrado no gráfico 08, onde a atividade mais realizada no aplicativo é o rastreio.
 
 <!-- Gráfico 08 -->
 
@@ -106,18 +110,22 @@ Analisando a figura 05
 
 <center>
 
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxDst8sUZsfLbUB5CE69OFfUKIqH4NKAtmoGQqVg9UZLYsyfi59j6eAoXgdif2mw-YnqOXA3CHPIE8/pubchart?oid=626464555&amp;format=interactive"></iframe>
 
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21)</p></font>
 
+No gráfico 08 vemos que a função mais utilizada no aplicativo dos correios é o restreio de encomendas seguido do acompanhamento de desembaraços alfanfegários, enviar objetos, buscar agências e calcular preços e prazos de entregas, com esses ultimos três tendo a mesma quantidade de ocorrência.
+
 ## Definição do Perfil
+
+Com base nos gráficos analisados acima descobrimos as principais características e ações do perfil de um usuário do aplicativo dos correios, abaixo os principais aspectos e ações encontrados:
 
 - **Idade:** 18 - 26 anos.
 - **Gênero:** Em sua maioria masculino.
 - **Experiência:** Experiente.
-- **Tarefas primárias:** Rastreamento.
+- **Tarefas primárias:** Rastreio de pacotes.
 - **Atitudes:** Tecnófilos.
 
 ## Bibliografia
@@ -132,4 +140,4 @@ Analisando a figura 05
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo) |
-| `1.1`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/) |
+| `1.1`  | 17/04/2024 | Conclusão dos gráficos e do perfil de usuário | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/) |
