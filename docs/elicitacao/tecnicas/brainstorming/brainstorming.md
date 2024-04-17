@@ -244,6 +244,13 @@ Legenda Requisitos das tabelas:
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
+<center>
+ **Reunião 04**
+</center>
+
+<center>
+<iframe src="https://drive.google.com/file/d/1HsNxDAEuxAN55ajd5EDd2vTJIIBRGUtF/preview" width="350" height="60" allow="autoplay"></iframe>
+</center>
 ## Bibliografia
 
 >1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
