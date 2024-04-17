@@ -110,12 +110,12 @@ Legenda:
 
 ## Bibliografia 
 
-> <a id="a" href="#aa">[1]</a> CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.
+> <a id="a" href="#aa">1.</a> CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.
 
-> <a id="b" href="#bb">[2]</a> Correios. Disponível em: <https://apps.apple.com/br/app/correios/id1399617917>. Acesso em: 17 abr. 2024.
+> <a id="b" href="#bb">2.</a> Correios. Disponível em: <https://apps.apple.com/br/app/correios/id1399617917>. Acesso em: 17 abr. 2024.
 
 ## Histórico de Versão
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 17/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | 
+|`1.0`| 17/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | [Pablo S. Costa](https://www.github.com/pabloheika) |
