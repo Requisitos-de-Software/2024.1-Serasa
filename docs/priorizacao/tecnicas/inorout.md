@@ -14,15 +14,11 @@ Legenda:
 - QT: Requisitos Questionário
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 1</b> - Priorização dos requisitos de acordo com método Ir or Out 
+    <b>Tabela 1</b> - Priorização dos **requisitos funcionais** de acordo com método Ir or Out 
 </p></font>
 
 | Tipo | Descrição                                                                                          | Tipo de Prioridade |
 |------|----------------------------------------------------------------------------------------------------|--------------|
-| OBS01 | O aplicativo deve manter a privacidade dos dados do usuário.                                      |   IN      |
-| OBS02 | Eu, como usuário, gostaria de que minhas encomendas sejam catalogadas em tipos.                   |   OUT      |
-| QT01 | Eu, como usuário, gostaria de uma intee de fácil navegação.                                        |   IN      |
-| QT02 | Eu, como usuário, gostaria de falar com o vendendor ou entregador.                                 |   OUT      |
 | BS01 | O usuário deve poder realizar cadastro pelo app                                                    |    | 
 | BS02 | O usuário deve poder realizar login pelo app                                                       |    | 
 | BS03 | O usuário deve poder acessar o histórico de notificações do objeto                                 |    |
@@ -47,6 +43,33 @@ Legenda:
 | BS22 | O usuário deve receber notificação pelo e-mail		                                                |    |
 | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		    |    |
 | BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto                    |    |
+| OBS01 | O aplicativo permite realizar login com sua conta                                                 |    |
+| OBS02 | O aplicativo permite rastreamento de encomendas por código.                                       |    |
+| OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro)                                |    |
+| OBS04 | O aplicativo possibilite ver seus pagamentos                                                      |    |
+| OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço                              |    |
+| OBS06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais    |    |
+| OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios                           |    |
+| OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo            |    |
+| OBS09 | O aplicativo permite visualização de mensagens                                                    |    |
+| OBS10 | O aplicativo oferece a visualização de vales postais                                              |    |
+| OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios                             |    |
+| OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher                          |    |
+| Q01 | As informçãoes na página de reastreio                                                               |    |
+| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega                                                    |    |
+| Q03 | Assistente virtual dos correios                                                                     |    |
+| Q04 | Chat para se comunicar diretamente com o fornecedor                                                 |    |
+| Q05 | Chat para se comunicar diretamente com o entregador                                                 |    |
+| Q06 | Pagamento de tributos e taxas de importação                                                         |    | 
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc), 2024.</p></font>
+
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 2</b> - Priorização dos **requisitos não funcionais** de acordo com método Ir or Out 
+</p></font>
+
+| Tipo | Descrição                                                                                          | Tipo de Prioridade |
+|------|----------------------------------------------------------------------------------------------------|--------------|
 | BS25 | O app deve bloquear as funções em caso de furto/roubo                                              |    |
 | BS26 | O app deverá mostrar a localização da entrega em tempo real                                        |    |
 | BS27 | O app deverá identificar encomendas através de código QR Code                                      |    |
@@ -60,18 +83,6 @@ Legenda:
 | BS35 | O app deverá ter um menor delay nas notificações de entrega                                        |    |
 | BS36 | O app deverá ter uma melhor acessibilidade                                                         |    |
 | BS37 | O app deverá ter uma interface fluída e estável                                                    |    |
-| OBS01 | O aplicativo permite realizar login com sua conta                                                 |    |
-| OBS02 | O aplicativo permite rastreamento de encomendas por código.                                       |    |
-| OBS03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro)                                |    |
-| OBS04 | O aplicativo possibilite ver seus pagamentos                                                      |    |
-| OBS05 | O aplicativo oferece uma busca por agências próximas ao seu endereço                              |    |
-| OBS06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais    |    |
-| OBS07 | O aplicativo possibilita a compra de certificados digitais dos correios                           |    |
-| OBS08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo            |    |
-| OBS09 | O aplicativo permite visualização de mensagens                                                    |    |
-| OBS10 | O aplicativo oferece a visualização de vales postais                                              |    |
-| OBS11 | O aplicativo oferece uma área de busca por objetos perdidos em envios                             |    |
-| OBS12 | O aplicativo fornece uma área de contato sobre violência contra a mulher                          |    |
 | OBS13 | O aplicativo deve manter a privacidade dos dados do usuário.                                      |    |
 | OBS14 | O sistema de rastreamento de encomendas deve ser rápido e eficiente                               |    |
 | OBS15 | O sistema de envio de encomendas deve ser robusto para lidar com diferentes tipos de objetos      |    |
@@ -87,12 +98,6 @@ Legenda:
 | OBS25 | O aplicativo requer uma interface amigável e fácil de usar.                                       |    |
 | OBS26 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones.                   |    |
 | OBS27 | O aplicativo deve fornecer notificações sobre o status da entrega.                                |    |
-| Q01 | As informçãoes na página de reastreio                                                               |    |
-| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega                                                    |    |
-| Q03 | Assistente virtual dos correios                                                                     |    |
-| Q04 | Chat para se comunicar diretamente com o fornecedor                                                 |    |
-| Q05 | Chat para se comunicar diretamente com o entregador                                                 |    |
-| Q06 | Pagamento de tributos e taxas de importação                                                         |    | 
 | Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) |    |
 | Q08 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda) |    |
 | Q09 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) |    |
