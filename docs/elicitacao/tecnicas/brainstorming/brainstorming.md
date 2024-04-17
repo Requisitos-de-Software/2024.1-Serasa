@@ -189,7 +189,7 @@ Legenda Requisitos das tabelas:
 | BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim |
 | BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não |
 | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		  | RF23   | Não |
-| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Não |
+| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim |
 
 
 
