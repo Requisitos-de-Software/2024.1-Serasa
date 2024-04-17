@@ -24,7 +24,7 @@ Os participantes estão descritos na tabela [1](#participantes).
 |:-:|:-:|
 | [Ricardo Augusto][RicardoGH] | |
 | [Pablo S. Costa][PabloGH] | |
-| Pessoa | Representante dos clientes | 
+| Heloisa S. C. Lima | Representante dos clientes | 
 
 <font size="2"><p>Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 </center>
@@ -114,11 +114,11 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 
 ## Bibliografia
 
-> <a id="a" href="#aa">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2024.
+> 1. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2024.
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`|  | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | 
+|`1.0`| 17/04/2024 | [Ricardo Augusto](RicardoGH), [Pablo S. Costa](PabloGH) | Criação do documento | 
 
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
