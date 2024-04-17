@@ -1,11 +1,11 @@
 ## Introdução
 
-O termo Brainstorming, traduzido do inglês significa "Chuva de ideias", e na elicitação de requisitos podemos realizar um brainstorming das necessidades e desejos do usuário, com os participantes alçando ideias e opniões de maneira livre entorno de um tema que é colocado.É possível utilizar esta técnica em qualquer tipo de serviço ou produto, tendo como objetivo catalogar quais aspectos e ações os usuários anseiam que o aplicativo possua.Essa técnica é utilizada dessa forma e normalmente apresenta mais resultados quando executada na fase de conceituação do desenvolvimento do aplicativo.
+O termo Brainstorm, traduzido do inglês significa "Chuva de ideias", e na elicitação de requisitos podemos realizar um brainstorming das necessidades e desejos do usuário, com os participantes alçando ideias e opniões de maneira livre entorno de um tema que é colocado.É possível utilizar esta técnica em qualquer tipo de serviço ou produto, tendo como objetivo catalogar quais aspectos e ações os usuários anseiam que o aplicativo possua.Essa técnica é utilizada dessa forma e normalmente apresenta mais resultados quando executada na fase de conceituação do desenvolvimento do aplicativo.
 
 
 ## Metodologia
 
-Os participantes se reuniram de maneira remota através da plataforma do Team e Google Meet, documentando toda a reunião contendo os temas colocados e respostas dos participantes.Elegemos um membro da equipe para ser o moderador da conversa mantendo o foco e consistência da reunião centrados no nosso objetivo, e outro para ficar a cargo de fazer a documentação e anotações sobre os dados coletados.Foram apresentados temas e perguntas relacionados ao aplicativo para os usuários e deixando-os responderem as perguntas e passar as suas ideias sobre as características e detalhes específicos do aplicativo.
+Os participantes informados na tabela 1 logo abaixo, se reuniram de maneira remota através da plataforma do Teams e do Google Meet,mas de maneira separada em 4 reuniões diferentes que estão upadas no youtube e a disposição a todos no final deste documento.Nós documentamos todas as reuniões contendo os temas colocados e respostas dos participantes.Elegemos um membro da equipe para ser o moderador da conversa mantendo o foco e consistência da reunião centrados no nosso objetivo, e outro para ficar a cargo de fazer a documentação e anotações sobre os dados coletados.Foram apresentados temas e perguntas relacionados ao aplicativo para os usuários que responderam as perguntas e passaram as suas ideias e opniões sobre as características e detalhes específicos do aplicativo,após as reuniões utilizamos todas as informações coletadas e documentadas para elicitar os requisitos funcionais e não funcionais, que estão presentes respectivamente nas tabelas 02 e 03.
 
 
 ## Participantes
@@ -29,11 +29,6 @@ Os participantes se reuniram de maneira remota através da plataforma do Team e 
 
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
-
-## Reunião Brainstorm
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z4QheB5dz6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
 
 ## Perguntas/Respostas
 
@@ -223,6 +218,25 @@ Legenda Requisitos das tabelas:
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
+
+## Reuniões
+<center>
+ **Reunião 01**
+</center>
+
+<p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/Z4QheB5dz6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<center>
+ **Reunião 02**
+</center>
+
+<p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/1iNdA_5wAxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<center>
+ **Reunião 03**
+</center>
+
+<p style="text-align: center"><iframe width="400" height="215" src="https://www.youtube.com/embed/IHJ9mgEK1bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Bibliografia
 
