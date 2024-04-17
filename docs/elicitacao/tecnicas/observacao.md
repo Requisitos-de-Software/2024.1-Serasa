@@ -4,7 +4,7 @@
 
 A técnica de elicitação de requisitos _Observação_, também chamada de _etnografia_, é utilizada em áreas onde se sabe da importância de obter o entendimento das interações entre pessoas com outras pessoas, instituições, seu ambiente ou máquinas e softwares. Para esse entendimento, é preciso assimilar o que as pessoas conhecem sobre alguma área e como esse conhecimento é criado, transmitido, distribuído e aplicado <a id="a" href="#aa">[1]</a>.
 
-Uma das variações dessa técnica é a abordagem por aprendiz, em que o analista de requisitos atua como um novato no sistema que será obervado pela equipe, com o intuito de aprender como executar o sistema. Essa será a técnica utilizada pelo grupo, em que um integrante irá representar um aprendiz do sistema, e outro irá ter a tarefa de observar o aprendiz utilizando o aplicativo.
+Uma das variações dessa técnica é a abordagem por aprendiz, em que o analista de requisitos atua como um novato no sistema que será observado pela equipe, com o intuito de aprender como executar o sistema. Essa será a técnica utilizada pelo grupo, em que um integrante irá representar um aprendiz do sistema, e outro irá ter a tarefa de observar o aprendiz utilizando o aplicativo.
 
 ## Metodologia
 
@@ -12,7 +12,7 @@ A aplicação da técnica de observação foi realizada por dois integrantes do 
 
 A reunião dos [integrantes](#tabelaIntegrantes) ocorreu no dia 16 de abril de 2024, às 17h, para implementarem a técnica de elicitação por observação. Previamente, foi definido que o aprendiz vai começar fazendo seu login no aplicativo, posteriormente ele irá passar pelas funcionalidades presentes na tela inicial do aplicativo, e para finalizar ele deverá acessar as funcionalidades presentes no menu da esquerda presente no aplicativo. Para essa técnica, o observador participou de maneira passiva da observação, não influenciando e não dando dicas/sugestões para o aprendiz.
 
-Para a documentação da técnica, o aprendiz do sistema gravou a tela do celular mostrando as ações realizadas por ele dentro do aplicativo, o link para a gravação se encontra **aqui**. Durante a análise, foram levantados os requisitos observados, presentes nas tabelas [2](#tabelaRequisitosFuncionais) e [3](#tabelaRequisitosNaoFuncionais).
+Para a documentação da técnica, o aprendiz do sistema gravou a tela do celular mostrando as ações realizadas por ele dentro do aplicativo, o link para a gravação se encontra [aqui](#video). Durante a análise, foram levantados os requisitos observados, presentes nas tabelas [2](#tabelaRequisitosFuncionais) e [3](#tabelaRequisitosNaoFuncionais).
 
 ### Participantes
 
@@ -30,9 +30,20 @@ Para a documentação da técnica, o aprendiz do sistema gravou a tela do celula
 <font size="2"><p>Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 </center>
 
+### Gravação
+
+A execução da técnica foi documentada por meio de vídeo que se encontra abaixo.
+
+<center>
+<a name="video"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PVUJ4Stf4pU?si=6RG3A9vCvF-DiJwX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Após a execução, os integrantes se reuniram para poder fazer a análise do vídeo e realizar a elicitação dos requisitos.
+
 ## Requisitos elicitados
 
-Abaixo estão descritos os requisitos elicitados a partir da técnica de observação. Abaixo se encontra a legenda para as tabelas de requisitos:
+Neste tópico estão descritos os requisitos elicitados a partir da técnica de observação. Abaixo se encontra a legenda para as tabelas de requisitos:
 
 Legenda:
 
@@ -82,8 +93,10 @@ Legenda:
 
 > <a id="a" href="#aa">[1]</a> CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.
 
+> <a id="b" href="#bb">[2]</a> Correios. Disponível em: <https://apps.apple.com/br/app/correios/id1399617917>. Acesso em: 17 abr. 2024.
+
 ## Histórico de Versão
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 16/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | 
+|`1.0`| 17/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | 
