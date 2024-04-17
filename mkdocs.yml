@@ -21,6 +21,8 @@ nav:
     - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
     - Técnicas:
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: elicitacao/tecnicas/questionario.md
 extra_css:
   - stylesheets/extra.css
 theme:
