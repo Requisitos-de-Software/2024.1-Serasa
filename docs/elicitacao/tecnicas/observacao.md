@@ -60,18 +60,18 @@ Legenda:
 
 | Tipo | Descrição | ID | Implementado |
 |-|-|-|-|
-| RF01 | O aplicativo permite realizar login com sua conta | OBS01 | Sim |
-| RF02 | O aplicativo permite rastreamento de encomendas por código. | OBS02 | Sim |
-| RF03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | OBS03 | Sim |
-| RF04 | O aplicativo possibilite ver seus pagamentos | OBS04 | Sim |
-| RF05 | O aplicativo oferece uma busca por agências próximas ao seu endereço | OBS05 | Sim |
-| RF06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | OBS06 | Sim |
-| RF07 | O aplicativo possibilita a compra de certificados digitais dos correios | OBS07 | Sim |
-| RF08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | OBS08 | Sim |
-| RF09 | O aplicativo permite visualização de mensagens | OBS09 | Sim |
-| RF10 | O aplicativo oferece a visualização de vales postais | OBS10 | Sim |
-| RF11 | O aplicativo oferece uma área de busca por objetos perdidos em envios | OBS11 | Sim |
-| RF12 | O aplicativo fornece uma área de contato sobre violência contra a mulher | OBS12 | Sim |
+| RF01 | O aplicativo permite realizar login com sua conta | OBS01 |
+| RF02 | O aplicativo permite rastreamento de encomendas por código. | OBS02 |
+| RF03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | OBS03 |
+| RF04 | O aplicativo possibilite ver seus pagamentos | OBS04 |
+| RF05 | O aplicativo oferece uma busca por agências próximas ao seu endereço | OBS05 |
+| RF06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | OBS06 |
+| RF07 | O aplicativo possibilita a compra de certificados digitais dos correios | OBS07 |
+| RF08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | OBS08 |
+| RF09 | O aplicativo permite visualização de mensagens | OBS09 |
+| RF10 | O aplicativo oferece a visualização de vales postais | OBS10 |
+| RF11 | O aplicativo oferece uma área de busca por objetos perdidos em envios | OBS11 |
+| RF12 | O aplicativo fornece uma área de contato sobre violência contra a mulher | OBS12 |
 
 
 <font size="2"><p>Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
@@ -88,21 +88,21 @@ Legenda:
 
 | Tipo | Descrição | ID | Implementado |
 |-|-|-|-|
-| RNF01 | O aplicativo deve manter a privacidade dos dados do usuário. | OBS13 |  |
-| RNF02 | O sistema de rastreamento de encomendas deve ser rápido e eficiente | OBS14 |  |
-| RNF03 | O sistema de envio de encomendas deve ser robusto o suficiente para lidar com diferentes tipos de objetos | OBS15 |  |
-| RNF04 | O acesso aos pagamentos deve ser protegido por autenticação do usuário | OBS16 | |
-| RNF05 | A busca por agências deve ser precisa e baseada na localização do usuário | OBS17 |  |
-| RNF06 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido | OBS18 |  |
-| RNF07 | A compra de certificados digitais deve ser segura e protegida | OBS19 |  |
-| RNF08 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável | OBS20 |  |
-| RNF09 | A visualização de mensagens deve ser rápida e fácil de usar | OBS21 |  |
-| RNF10 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | OBS22 |  |
-| RNF11 | A busca por objetos perdidos deve ser eficiente e precisa | OBS23 | |
-| RNF12 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado | OBS24 |  |
-| RNF13 | O aplicativo requer uma interface amigável e fácil de usar. | OBS25 |  |
-| RNF14 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | OBS26 | |
-| RNF15 | O aplicativo deve fornecer notificações em tempo real sobre o status da entrega. | OBS27 |  |
+| RNF01 | O aplicativo deve manter a privacidade dos dados do usuário. | OBS13 |
+| RNF02 | O sistema de rastreamento de encomendas deve ser rápido e eficiente | OBS14 |
+| RNF03 | O sistema de envio de encomendas deve ser robusto o suficiente para lidar com diferentes tipos de objetos | OBS15 |
+| RNF04 | O acesso aos pagamentos deve ser protegido por autenticação do usuário | OBS16 |
+| RNF05 | A busca por agências deve ser precisa e baseada na localização do usuário | OBS17 |
+| RNF06 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido | OBS18 |
+| RNF07 | A compra de certificados digitais deve ser segura e protegida | OBS19 |
+| RNF08 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável | OBS20 |
+| RNF09 | A visualização de mensagens deve ser rápida e fácil de usar | OBS21 |
+| RNF10 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | OBS22 |
+| RNF11 | A busca por objetos perdidos deve ser eficiente e precisa | OBS23 |
+| RNF12 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado | OBS24 |
+| RNF13 | O aplicativo requer uma interface amigável e fácil de usar. | OBS25 |
+| RNF14 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | OBS26 |
+| RNF15 | O aplicativo deve fornecer notificações em tempo real sobre o status da entrega. | OBS27 |
 
 
 <font size="2"><p>Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
