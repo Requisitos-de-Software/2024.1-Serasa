@@ -13,7 +13,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/fluxo_questionario.jpg)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin) </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 
 ## Perguntas/Respostas
@@ -26,7 +26,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P01%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Autores </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024 </p></font>
 
 ### Pergunta 2
 
@@ -130,7 +130,7 @@ Legenda Requisitos das tabelas:
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- QSx: Requisito nºx elicitado pelo questionário.
+- Qx: Requisito nºx elicitado pelo questionário.
 
 <font size="3"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
 
@@ -157,16 +157,16 @@ Legenda Requisitos das tabelas:
 
 | <a id="anchor_BS" style="color:black;"> ID</a> | Descrição| Código | Implementado |
 | :-: | --- | :-: | :-: |
-| Q01 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | RNF01 | Sim |
-| Q02 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda) | RFN02 | Não |
-| Q03 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | RNF03 | Sim |
-| Q04 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF04 | Sim |
-| Q05 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF05 | Sim |
-| Q06 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF06 | Não |
+| Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | RNF01 | Sim |
+| Q08 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda) | RFN02 | Não |
+| Q09 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | RNF03 | Sim |
+| Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF04 | Sim |
+| Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF05 | Sim |
+| Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF06 | Não |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin) </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 ## Referências
 
@@ -182,4 +182,4 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
-| `1.1` | 17/04/2024 | Adicionando imagens e texto | [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024 |
+| `1.1` | 17/04/2024 | Adicionando imagens e texto | [Gabriel B. Bertolazi](https://github.com/BErtolazi) |
