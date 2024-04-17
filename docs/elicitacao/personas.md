@@ -29,7 +29,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 1: José Ricardo Gomes.</figcaption> ![José](../assets/personas/jose.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> José Ricardo Gomes<br> 23 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Influenciador Digital |
+| **Identidade** | <figure markdown><figcaption>Figura 1: José Ricardo Gomes.</figcaption> ![José](../assets/personas/jose.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> José Ricardo Gomes<br> 23 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Influenciador Digital |
 | :---: | --- |
 | **Status** | Personas primária |
 | **Objetivos** | José trabalha como Influenciador Digital e tem como objetivo influenciar as pessoas a comprar os produtos que ele anuncia atrás de parcerias e utilizar também o aplicativo para rastrear suas encomendas. |
@@ -41,13 +41,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 2: Persona primária Gabriel Anacleto Saraiva.</p></font>
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 2: Gabriel Anacleto Saraiva.</figcaption> ![Gabriel](../assets/personas/gabriel.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Comerciante |
+| **Identidade** | <figure markdown><figcaption>Figura 2: Gabriel Anacleto Saraiva.</figcaption> ![Gabriel](../assets/personas/gabriel.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Comerciante |
 | :---: | --- |
 | **Status** | Personas primária |
 | **Objetivos** | Gabriel trabalha como comerciante e espera que os correios calculem suas tarifas e que suas entregas sejam feitas com agilidade. Que ele possa contar com o estoque em dia pois utiliza caixas e envelopes dos correios, e que certificado digital esteja atualizado e ativo e o busca de agência atualizado. |
@@ -59,13 +59,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 3: Persona primária Erivaldo Virginio Silva.</p></font>
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 3: Erivaldo Virginio Silva.</figcaption> ![Erivaldo](../assets/personas/erivaldo.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Erivaldo Virginio Silva<br> 30 anos<br> Masculino<br> Solteiro<br> Ensino Superior Completo<br> Advogado |
+| **Identidade** | <figure markdown><figcaption>Figura 3: Erivaldo Virginio Silva.</figcaption> ![Erivaldo](../assets/personas/erivaldo.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Erivaldo Virginio Silva<br> 30 anos<br> Masculino<br> Solteiro<br> Ensino Superior Completo<br> Advogado |
 | :---: | --- |
 | **Status** | Personas primária |
 | **Objetivos** | Erivaldo trabalha como advogado e tem como objetivo utilizar o certificado digital para seu trabalho e os materiais dos correios para envio de documentação. |
@@ -77,13 +77,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 4: Persona secundária Emerson Santos e Silva.</p></font>
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 4: Emerson Santos e Silva.</figcaption> ![Emerson](../assets/personas/emerson.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Emerson Santos e Silva<br> 28 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Empresário |
+| **Identidade** | <figure markdown><figcaption>Figura 4: Emerson Santos e Silva.</figcaption> ![Emerson](../assets/personas/emerson.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Emerson Santos e Silva<br> 28 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Empresário |
 | :---: | --- |
 | **Status** | Persona Secundária |
 | **Objetivos** | Emerson é empresário e tem como objetivo usar as funcionalidades dos correios através de seus funcionários. |
@@ -95,13 +95,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 5: Persona secundária João Victor Ribeiro.</p></font>
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 5: João Victor Ribeiro.</figcaption> ![João](../assets/personas/joao.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> João Victor Ribeiro<br> 55 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Porteiro |
+| **Identidade** | <figure markdown><figcaption>Figura 5: João Victor Ribeiro.</figcaption> ![João](../assets/personas/joao.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> João Victor Ribeiro<br> 55 anos<br> Masculino<br> Casado<br> Ensino Médio Completo<br> Porteiro |
 | :---: | --- |
 | **Status** | Persona Secundária |
 | **Objetivos** | João Victor é porteiro e espera que seus filhos e sobrinhos consigam rastrear suas encomendas de ferramentas e artigos para casa. |
@@ -113,13 +113,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 6: Antipersona Maria das Graças dos Santos.</p></font>
 
 <center class="personas">
 
-| **Identidade** | <figure markdown><figcaption>Figura 6: Maria das Graças dos Santos.</figcaption> ![Maria](../assets/personas/maria.jpg)<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Maria das Graças dos Santos<br> 46 anos<br> Casada<br> Agricultora |
+| **Identidade** | <figure markdown><figcaption>Figura 6: Maria das Graças dos Santos.</figcaption> ![Maria](../assets/personas/maria.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Maria das Graças dos Santos<br> 46 anos<br> Casada<br> Agricultora |
 | :---: | --- |
 | **Status** | Antipersona |
 | **Objetivos** | Maria das Graças tem como objetivo usar o serviço dos correios em agência física ter um bom atendimento eficiente e cordial. |
@@ -131,7 +131,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Referências Bibliográficas
 
@@ -154,4 +154,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 16/04/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | - |
+| `1.0`  | 16/04/2024 | Criação do documento | [Pablo S. Costa][PabloGH]  | - |
+
+[PabloGH]: https://github.com/pabloheika
+[tpdne]: https://this-person-does-not-exist.com/pt
