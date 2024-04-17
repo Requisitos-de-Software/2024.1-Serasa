@@ -7,7 +7,7 @@ O perfil de usuário descreve de maneira específica os aspectos e característi
 
 A metodologia utilizada para a criação de um perfil de usuários para o aplicativo dos correios foi, a coleta de dados por meio de formulários disseminados em grupos de redes sociais entre os dias 10/04 à 16/04 e gerando gráficos que mostram as características e ações mais comuns entre os usuários em relação ao uso do aplicativo.
 
-##Gráficos
+## Gráficos
 
 ## Bibliografia
 
