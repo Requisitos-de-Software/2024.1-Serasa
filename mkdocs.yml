@@ -22,6 +22,7 @@ nav:
     - Técnicas:
       - Brainstorming: elicitacao/tecnicas/brainstorming/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: elicitacao/tecnicas/questionario.md
 extra_css:
   - stylesheets/extra.css
 theme:
