@@ -69,4 +69,4 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo S. Costa](https://github.com/pabloheika)
 |  `1.1`  | 01/04/2024 |            Adiconando as Imagens para as Logos            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
 |  `1.2`  | 01/04/2024 |            Correção de estrutura de texto.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Pablo S. Costa](https://github.com/pabloheika)
-|  `1.3`  | 01/04/2024 |            Adiciona ferramenta           | [Pablo S. Costa](https://github.com/pabloheika) |  
+|  `1.3`  | 17/04/2024 |            Adiciona ferramenta           | [Pablo S. Costa](https://github.com/pabloheika) |  
