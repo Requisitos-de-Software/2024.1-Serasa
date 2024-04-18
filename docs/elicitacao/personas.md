@@ -155,7 +155,7 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 16/04/2024 | Criação do documento | [Pablo S. Costa][PabloGH]  | - |
+| `1.0`  | 16/04/2024 | Criação do documento | [Pablo S. Costa][PabloGH]  | [Ricardo Augusto](https://www.github.com/avmricardo) |
 
 [PabloGH]: https://github.com/pabloheika
 [tpdne]: https://this-person-does-not-exist.com/pt
