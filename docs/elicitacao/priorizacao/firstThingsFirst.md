@@ -15,6 +15,6 @@ Após a elicitação de requisitos pelos métodos de questionário, brainstorm e
 7. Calcular a prioridade dos requisitos com: Prioridade = Valor% / (Custo% * PesoCusto + Risco % * PesoRisco).
 8. Ordenar a lista de forma decrescente de prioridade: Os requisitos do topo têm maior prioridade de implementação.
 
-| Versão | Data | Autor | Descrição | Revisor
+| Versão | Data | Autor | Descrição | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`|  | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | 
+|`1.0`|  | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | |
