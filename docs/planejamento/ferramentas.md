@@ -12,17 +12,17 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 
 Para a apresentação das ferramentas, que serão utilizadas no decorrer do desenvolvimento da disciplina, foi utilizada uma tabela que segue o seguinte modelo:
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Modelo da Tabela de Ferramentas</p></font> 
+<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Modelo da Tabela de Ferramentas</p></font> 
 
 | Logo | Ferramenta | Finalidade |
 | :--  |   :--      |    :--     |
 | Logo da Ferramenta | Nome da Ferramenta| A motivação e o objetivo da utilização da respectiva ferramenta no projeto|
 
- <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho, 2024.</p></font>
+ <font size="2"><p style="text-align: center">Fonte: Danilo Carvalho, 2024.</p></font>
 
 ## Ferramentas
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
+<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
 
 | Logo   |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
@@ -33,10 +33,11 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/gsheets.png"  width="100" height=auto>|<strong> Google Planilhas   |  Criação de planilhas de planejamento como heatmap.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/teams.png"  width="100" height=auto>|<strong> Microsoft Teams   |  Realização de reuniões e gravação das entregas.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/youtube.png"  width="100" height=auto>|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture e produção de artefatos gráficos.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
+|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/personnotexist.png"  width="100" height=auto>|<strong> This Person Doesn't Exist   |  Geração de fotos para as personas.<a id="TEC1" href="#RP1"></a> |
 
- <font size="3"><p style="text-align: center">Fonte: Danilo Carvalho, 2024.</p></font>
+ <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ## Bibliografia
 
@@ -57,12 +58,15 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 > <a id="FRM3" href="#anchor_8">8.</a> Figma. Disponível em: [https://www.figma.com/](). Acessado em: 01 de abril. de 2024.
 >
 > <a id="FRM3" href="#anchor_9">9.</a> Draw.io. Disponível em: [https://www.drawio.com/](). Acessado em: 01 de abril. de 2024.
+>
+> <a id="FRM3" href="#anchor_9">10.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](). Acessado em: 17 de abril. de 2024.
 
 
 ## Histórico de Versões
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 01/04/2024 |            Criação da página de ferramentas.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo Santos Costa](https://github.com/pabloheika)
-|  `1.1`  | 01/04/2024 |            Adiconando as Imagens para as Logos            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
-|  `1.2`  | 01/04/2024 |            Correção de estrutura de texto.            | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Pablo Santos Costa](https://github.com/pabloheika)
+|  `1.0`  | 01/04/2024 | Criação da página de ferramentas. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo S. Costa](https://github.com/pabloheika)
+|  `1.1`  | 01/04/2024 | Adiconando as Imagens para as Logos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
+|  `1.2`  | 01/04/2024 | Correção de estrutura de texto. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Pablo S. Costa](https://github.com/pabloheika)
+|  `1.3`  | 17/04/2024 | Adiciona ferramenta | [Pablo S. Costa](https://github.com/pabloheika) |  [Ricardo Augusto](https://www.github.com/avmricardo)

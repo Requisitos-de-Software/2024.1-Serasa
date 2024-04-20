@@ -1,12 +1,12 @@
 # Correios
 
-<div style="text-align: center">
-<p> Figura 1: Logo dos Correios. </p>
-</div>
-<center><br><img style="border: 1px solid FFD400; border-radius: 10%" src="assets/correios-logo.png" width = 40%></center>
-<div style="text-align: center">
-<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p>
-</div>
+<font size="2"><p style="text-align: center">Figura 1: Logo dos Correios. </p></font>
+<center class="logo_correios">
+
+![logo_correios](assets/correios-logo.png)
+
+</center>
+<font size="2"><p style="text-align: center"> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p></font>
 
 ## Introdução
 
