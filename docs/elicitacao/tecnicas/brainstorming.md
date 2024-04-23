@@ -28,7 +28,7 @@ Os participantes informados na tabela 1 logo abaixo, se reuniram de maneira remo
 </center>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ## Perguntas/Respostas
 
@@ -264,3 +264,4 @@ Legenda Requisitos das tabelas:
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
 | `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes)  |
+| `1.2`  | 22/04/2024 | Correção de cores | [Claudio Henrique](https://github.com/claudiohsc)| [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes)  |
