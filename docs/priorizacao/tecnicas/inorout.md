@@ -9,9 +9,9 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 
 Legenda:
 
-- BS: Requisitos do Brainstorm
-- OBS: Requisitos da Observação
-- QT: Requisitos Questionário
+- BSxx: Requisitos do Brainstorming
+- OBSxx: Requisitos da Observação
+- Qxx: Requisitos Questionário
 
 <font size="2"><p style="text-align: center;">
     <b>Tabela 1</b> - Priorização dos **requisitos funcionais** de acordo com método IN or OUT 
@@ -101,11 +101,16 @@ Legenda:
 
 # Gravação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llUlPcUKiRY?si=9KnvmFMw5kOjaLE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link direto no Youtube](https://www.youtube.com/watch?v=llUlPcUKiRY)
 
 # Blibiografia
 > <a id="a" href="#aa">[1]</a> GRASSHOPPER, Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/elicitacao/priorizacao/in-or-out.md> acessado em 16 de abril de 2024.
 
+
+
 # Histórico de Versões
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `1.0`  | 16/04/2024  | Criação do artefato | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc)|[Pablo S. Costa](https://github.com/pabloheika)|
+| `1.0`  | 22/04/2024  | Criação do artefato/Preechimento | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc)|[Pablo S. Costa](https://github.com/pabloheika)|
