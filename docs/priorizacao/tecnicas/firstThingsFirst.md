@@ -119,7 +119,7 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 24/04/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | |
+|`1.0`| 24/04/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin)|
 
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
