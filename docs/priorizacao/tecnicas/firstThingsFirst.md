@@ -29,7 +29,7 @@ Os participantes estão descritos na tabela [1](#participantes).
 <font size="2"><p>Fonte: [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH], 2024.</p></font>
 </center>
 
-A reunião de priorização foi realizada de forma presencial na Universidade de Brasília.
+A reunião de priorização foi realizada no dia 24/04/2024 às 12:30, de forma presencial na Universidade de Brasília.
 
 A divisão das etapas foi feita da seguinte forma:
 
