@@ -6,7 +6,7 @@ Após a elicitação de requisitos pelos métodos de questionário, brainstorm e
 
 ## Metodologia
 
-Para a aplicação da técnica First Things First, é necessária a particiáção dos seguintes participantes:
+Para a aplicação da técnica First Things First, é necessária a participação dos seguintes participantes:
 
 - Gerente: Quem lidera o processo e apresenta os requisitos;
 - Representante dos clientes: Responsável por classificar os benefícios e penalidades de cada requisito;
