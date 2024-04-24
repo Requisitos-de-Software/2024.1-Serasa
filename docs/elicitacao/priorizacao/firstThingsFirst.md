@@ -22,12 +22,14 @@ Os participantes estão descritos na tabela [1](#participantes).
 
 | Participante | Papel |
 |:-:|:-:|
-| [Ricardo Augusto][RicardoGH] | |
-| [Pablo S. Costa][PabloGH] | |
-| Heloisa S. C. Lima | Representante dos clientes |
+| [Ricardo Augusto][RicardoGH] | Gerente |
+| [Pablo S. Costa][PabloGH] | Representante de desenvolvimento |
+| [Johnny Lopes](https://www.github.com/johnnylopess) | Representante dos clientes |
 
 <font size="2"><p>Fonte: [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH], 2024.</p></font>
 </center>
+
+A reunião de priorização foi realizada de forma presencial na Universidade de Brasília.
 
 A divisão das etapas foi feita da seguinte forma:
 
@@ -118,7 +120,7 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 17/04/2024 | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | Criação do documento | 
+|`1.0`| 24/04/2024 | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | Criação do documento | 
 
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
