@@ -24,6 +24,7 @@ nav:
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Questionário: elicitacao/tecnicas/questionario.md
+    - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
   - Priorização:
     - Técnicas: 
       - $100: priorizacao/tecnicas/$100.md
