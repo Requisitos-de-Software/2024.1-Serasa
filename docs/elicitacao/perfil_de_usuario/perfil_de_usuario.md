@@ -184,7 +184,7 @@ Olando para a figura 12 vemos que uma boa parte dos usuários recomendaria o apl
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Tendo em vista a figura 13 vwmos que quase a metado dos usuários não recebem as notificações ou pelomenos não as recebem de maneira correta, ja outro parte maior em seguida diz o contrário e uma peuquena parte não conseguiu discernir a eficiência do sistema de notificações dos correios.
+Tendo em vista a figura 13 vemos que quase a metade dos usuários não recebem as notificações ou pelomenos não as recebem de maneira correta, ja a sugunda maior parte diz o contrário, e uma pequena parte não conseguiu discernir a eficiência do sistema de notificações dos correios.
 
 ## Definição do Perfil
 
@@ -207,3 +207,4 @@ Com base nos gráficos analisados acima descobrimos as principais característic
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo) |
 | `1.1`  | 17/04/2024 | Conclusão dos gráficos e do perfil de usuário | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://www.github.com/pabloheika) |
+| `1.2`  | 23/04/2024 | Correções ortográficas | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
