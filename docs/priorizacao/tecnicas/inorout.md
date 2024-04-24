@@ -113,4 +113,4 @@ Legenda:
 # Histórico de Versões
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `1.0`  | 22/04/2024  | Criação do artefato/Preechimento | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc)|[Pablo S. Costa](https://github.com/pabloheika)|
+| `1.0`  | 22/04/2024  | Criação do artefato/Preechimento | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Claúdio Henrique dos Santos Carvalho](https://github.com/claudiohsc)|[Gabriel F. J. Silva](https://github.com/MMcLovin)|
