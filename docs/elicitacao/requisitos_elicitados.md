@@ -6,7 +6,7 @@ Essa página contém todos os requisitos funcionais e não funcionais elicitados
 
 ## Metodologia
 
-A tabela 1 apresenta os requisitos funcionais e a tabela 2 os não funcionais, cada uma com uma coluna para o ID do requisito, identificando por qual técnica ele foi elicitado, uma para sua descrição, outra para o seu código de identificação dentre a categoria de requisito e uma coluna para identificar se ele está implementado ou não.
+A tabela 1 apresenta os requisitos funcionais e a tabela 2 os não funcionais, cada uma com uma coluna para: o ID do requisito - identificando por qual técnica ele foi elicitado - uma para sua descrição, outra para o seu código de identificação dentre a categoria de requisito (funcional ou não) e uma coluna para identificar se ele está implementado ou não.
 
 Legenda para elementos da tabela 1 e 2:
 
