@@ -26,8 +26,8 @@ nav:
       - Questionário: elicitacao/tecnicas/questionario.md
   - Priorização:
     - Técnicas: 
-      - First Things First: priorizacao/tecnicas/firstThingsFirst.md
       - $100: priorizacao/tecnicas/$100.md
+      - First Things First: priorizacao/tecnicas/firstThingsFirst.md
 extra_css:
   - stylesheets/extra.css
 theme:
