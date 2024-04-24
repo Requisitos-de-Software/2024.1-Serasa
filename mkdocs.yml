@@ -19,10 +19,15 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Elicitação:
     - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
+    - Personas: elicitacao/personas.md
     - Técnicas:
-      - Brainstorming: elicitacao/tecnicas/brainstorming/brainstorming.md
-    - Priorização:
-      - First Things First: elicitacao/priorizacao/firstThingsFirst.md
+      - Brainstorming: elicitacao/tecnicas/brainstorming.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: elicitacao/tecnicas/questionario.md
+  - Priorização:
+    - Técnicas: 
+      - $100: priorizacao/tecnicas/$100.md
+      - First Things First: priorizacao/tecnicas/firstThingsFirst.md
 extra_css:
   - stylesheets/extra.css
 theme:
