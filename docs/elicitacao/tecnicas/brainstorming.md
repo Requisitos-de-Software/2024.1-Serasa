@@ -264,4 +264,4 @@ Legenda Requisitos das tabelas:
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo)  |
 | `1.1`  | 15/04/2024 | Preenchimento de requisitos | [Claudio Henrique](https://github.com/claudiohsc)| [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes)  |
-| `1.2`  | 22/04/2024 | Correção de cores | [Claudio Henrique](https://github.com/claudiohsc)| [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes)  |
+| `1.2`  | 23/04/2024 | Correção de cores | [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
