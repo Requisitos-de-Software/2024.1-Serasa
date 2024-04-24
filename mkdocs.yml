@@ -24,10 +24,10 @@ nav:
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Questionário: elicitacao/tecnicas/questionario.md
-  - Priorização:
-    - Técnicas: 
+    - Priorização: 
       - $100: priorizacao/tecnicas/$100.md
       - First Things First: priorizacao/tecnicas/firstThingsFirst.md
+      - In Or Out: priorizacao/tecnicas/inorout.md
 extra_css:
   - stylesheets/extra.css
 theme:
