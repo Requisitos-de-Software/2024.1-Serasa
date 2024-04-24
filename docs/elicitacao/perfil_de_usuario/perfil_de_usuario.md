@@ -207,3 +207,4 @@ Com base nos gráficos analisados acima descobrimos as principais característic
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 15/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto](https://www.github.com/avmricardo) |
 | `1.1`  | 17/04/2024 | Conclusão dos gráficos e do perfil de usuário | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://www.github.com/pabloheika) |
+| `1.2`  | 23/04/2024 | Correções ortográficas | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
