@@ -117,9 +117,9 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 > 1. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 7: Elicitação, Modelagem, Análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 16 abr. 2024.
 ## Histórico de Versões
 
-| Versão | Data | Autor | Descrição | Revisor
+| Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 24/04/2024 | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | Criação do documento | 
+|`1.0`| 24/04/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | |
 
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
