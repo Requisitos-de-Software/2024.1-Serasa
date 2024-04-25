@@ -118,4 +118,4 @@ Legenda para elementos da tabela 1 e 2:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   |  |
+| `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto](https://www.github.com/avmricardo) |
