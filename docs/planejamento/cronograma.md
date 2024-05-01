@@ -52,7 +52,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Gravar apresentação | Início: 30/03 <br>Fim: 01/04 | Elias | Início: 01/04 <br>Fim: 01/04 | Ricardo |
 | Termos de Uso | Início: 31/03 <br>Fim: 01/04 | Danilo | Início: 31/03 <br>Fim: 01/04 | Pablo, Ricardo |
 | Implementar Git Page | Início: 18/03 <br>Fim: 25/03 | Danilo | Início: 25/03 <br>Fim: 27/03 | Pablo |
-| Correção pós apresentação | Início: - <br>Fim: - | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: - <br>Fim: -- | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 02/04  <br>Fim: 16/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 02/04  <br>Fim: 16/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
@@ -274,4 +274,4 @@ Disponível em:
 | `1.2` | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
 | `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
 | `1.4` | 25/04/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo) |
-| `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://www.github.com/) |
+| `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
