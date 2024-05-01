@@ -160,8 +160,8 @@ Legenda Requisitos das tabelas:
 | Q07 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | RNF01 | Sim |
 | Q08 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda) | RFN02 | Não |
 | Q09 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | RNF03 | Sim |
-| Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF04 | Sim |
-| Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF05 | Sim |
+| Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF04 | Não |
+| Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF05 | Não |
 | Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF06 | Não |
 
 </center>
@@ -182,3 +182,4 @@ Legenda Requisitos das tabelas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 17/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi)| [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| `1.1`  | 01/05/2024 | Correção do diagrama do questionário e coluna de implementação dos requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
