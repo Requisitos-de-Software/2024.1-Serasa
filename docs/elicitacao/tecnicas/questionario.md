@@ -8,12 +8,12 @@ O uso de questionários online está entre as técnicas mais usadas para coleta 
 O questionário elaborado foi enviado em grupos de telegram e whatsapp, com destaque para os grupos de alunos do campus da Faculdade do Gama (FGA) pelo o seu grande número de usuários. O período de aceitação de respostas para o questionário foi do dia 12/04/2024 ao 16/04/2024, porém, apenas 26 respostas foram coletadas e dentre estas, apenas 23 concordaram com o termo de consentimento e realizaram a pesquisa. O questionário começa com a apresentação do grupo e objetivo do mesmo, logo em seguida, é apresentado o [termo de consentimento](../../assets/perguntas_questionario/Termo_de_consentimento.pdf), caso o participante esolha a opção de não aceitá-lo, a página seguinte será a de encerramento da pesquisa, caso contrário, o usuário seguirá o fluxo presente na figura 1.
 
 <center>
-<font size="3"><p style="text-align: center">Figura 01 - Fluxo de seções do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 01 - Fluxo de seções do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/fluxo_questionario.jpg)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 
 ## Perguntas/Respostas
@@ -21,103 +21,103 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 ### Pergunta 1 
 
 <center>
-<font size="3"><p style="text-align: center">Figura 02 - Gráfico pergunta 1 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 02 - Gráfico pergunta 1 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P01%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024 </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024 </p></font>
 
 ### Pergunta 2
 
 
 <center>
-<font size="3"><p style="text-align: center">Figura 03 - Gráfico pergunta 2 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 03 - Gráfico pergunta 2 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P02%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 3
 
 <center>
-<font size="3"><p style="text-align: center">Figura 04 - Gráfico pergunta 3 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 04 - Gráfico pergunta 3 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P03%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 4
 
 <center>
-<font size="3"><p style="text-align: center">Figura 05 - Gráfico pergunta 4 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 05 - Gráfico pergunta 4 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P04%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 5
 
 <center>
-<font size="3"><p style="text-align: center">Figura 06 - Gráfico pergunta 5 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 06 - Gráfico pergunta 5 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P05%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 6
 
 <center>
-<font size="3"><p style="text-align: center">Figura 07 - Gráfico pergunta 6 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 07 - Gráfico pergunta 6 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P06%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 7
 
 <center>
-<font size="3"><p style="text-align: center">Figura 08 - Gráfico pergunta 7 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 08 - Gráfico pergunta 7 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P07%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 8
 
 <center>
-<font size="3"><p style="text-align: center">Figura 09 - Gráfico pergunta 8 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 09 - Gráfico pergunta 8 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P08%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 9
 
 <center>
-<font size="3"><p style="text-align: center">Figura 10 - Gráfico pergunta 9i do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 10 - Gráfico pergunta 9i do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P09%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ### Pergunta 10
 
 <center>
-<font size="3"><p style="text-align: center">Figura 11 - Gráfico pergunta 10 do questionário.</p></font>
+<font size="2"><p style="text-align: center">Figura 11 - Gráfico pergunta 10 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P10%20-%20App.png)
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/BErtolazi), 2024  </p></font>
 
 ## Resultados
 
@@ -132,7 +132,7 @@ Legenda Requisitos das tabelas:
 - RNFx: Requisito Não-Funcional nºx
 - Qx: Requisito nºx elicitado pelo questionário.
 
-<font size="3"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
 
 <center>
 
@@ -147,11 +147,11 @@ Legenda Requisitos das tabelas:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 
 <!-- ****************************        Tabela 2        ****************************** -->
 
-<font size="3"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
 
 <center>
 
@@ -166,20 +166,20 @@ Legenda Requisitos das tabelas:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
-## Referências
+## Referências Bibliograficas
 
->1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Bibliografia
 
->* Sommerville, Ian. Engenharia de software, Edição 9. Editora Pearson Prentice Hall, 2011. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 16 de Abril de 2024 
->* Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 16 de Abril de 2024
+> 1. Sommerville, Ian. Engenharia de software, Edição 9. Editora Pearson Prentice Hall, 2011. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 16 de Abril de 2024 
+> 2. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 16 de Abril de 2024
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 17/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi)| [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-| `1.1`  | 01/05/2024 | Correção do diagrama do questionário e coluna de implementação dos requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
+| `1.1`  | 01/05/2024 | Correção do diagrama do questionário e coluna de implementação dos requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
