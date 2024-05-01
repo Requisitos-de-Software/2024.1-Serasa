@@ -100,7 +100,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Reunião com o usuário: $100 | Início: 17/04 <br>Fim: 17/04 | Gabriel B. Bertolazi | Início: 20/04   <br>Fim: 20/04 | Gabriel F. J. Silva |
 | Priorização: First Things First | Início: 17/04  <br>Fim: 24/04 | Pablo S. Costa e Ricardo Augusto | Início: 24/04 <br>Fim: 24/04 | Gabriel F. J. Silva |
 | Reunião com o usuário: First Things First | Início: 24/04 <br>Fim: 24/04 | Ricardo Augusto | Início: 20/04  <br>Fim: 20/04 | Pablo S. Costa | 
-| Gravação da apresentação | Início: 25/04    <br>Fim: 25/04 | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 25/04 <br>Fim: 25/04 | Cláudio Henrique, Danilo, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
+| Gravação da apresentação | Início: 01/05    <br>Fim: 01/05 | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 25/04 <br>Fim: 25/04 | Cláudio Henrique, Danilo, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
 | Correções pós apresentação |  | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |  | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
 
 ## Entrega 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
@@ -274,3 +274,4 @@ Disponível em:
 | `1.2` | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
 | `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
 | `1.4` | 25/04/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://www.github.com/) |
