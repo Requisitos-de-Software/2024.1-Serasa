@@ -1,4 +1,4 @@
-# Apresentação 01:
+# Apresentação 02:
 
 ## Objetivo
 Esta página tem como foco o vídeo de apresentação da etapa 02 do projeto. A apresentação ocorreu no dia 01/05/2024.
@@ -36,4 +36,4 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 01/05/2024 | Documentação da Apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/)
+1.0 | 01/05/2024 | Documentação da Apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)
