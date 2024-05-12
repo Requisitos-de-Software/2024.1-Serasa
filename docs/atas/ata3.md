@@ -48,7 +48,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 08/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 08/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
