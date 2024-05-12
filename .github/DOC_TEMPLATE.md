@@ -4,7 +4,7 @@
 
 ## Subtitulo
 
-<font size="2"><p style="text-align: center">Tabela 1: Tabela sobre isso.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
 
 <center>
 
@@ -31,3 +31,12 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc)  |
+
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
