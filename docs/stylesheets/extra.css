@@ -3,6 +3,9 @@
         width: 90px;
     }
 }
+p{
+    text-align: justify;
+}
 
 .logo_correios{
     img{
