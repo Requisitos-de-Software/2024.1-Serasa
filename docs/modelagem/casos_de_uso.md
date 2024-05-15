@@ -34,23 +34,56 @@ Existem alguns tipos de relacionamento:
 
 Modelo:
 
-<font size="2"><p style="text-align: center">Tabela N - Nome do caso de uso.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Modelo de especificação de caso de uso.</p></font>
 
 <center>
 
 | UCxx | Nome do caso de uso |
 |-|-|
-| Descrição | <p></p> |
-| Atores | <p></p> |
-| Pré-condição | <p></p> |
-| Pós-condição | <p></p> |
-| Fluxo principal | <p></p> |
-| Fluxo alternativo | <p></p> |
-| Fluxo de exceções | <p></p> |
+| **Descrição** | <p>Uma breve explicação do que o caso de uso faz ou descreve.</p> |
+| **Atores** | <p>Os papéis ou entidades que interagem com o sistema.</p> |
+| **Pré-condição** | <p> As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.</p> |
+| **Pós-condição** | <p>As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.</p> |
+| **Fluxo principal** | <p>A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.</p> |
+| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
+| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Fulano][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH], 2024.</p></font>
+
+### 1. Calcular preços e prazos de entrega
+
+### 2. Realizar compras na loja online
+
+### 3. Emitir certificados digitais
+
+### 4. Realizar pré-postagem
+
+### 5. Gerenciar minhas importações
+
+### 6. Rastrear encomendas
+
+<font size="2"><p style="text-align: center">Tabela 8 - Rastrear encomendas.</p></font>
+
+<center>
+
+| UC06 | Rastrear Encomendas |
+|-|-|
+| **Descrição** | <p>Este caso de uso permite que os usuários do site dos correios rastreiem suas encomendas inserindo o número de rastreamento fornecido.</p> |
+| **Atores** | <p>Usuário</p> |
+| **Pré-condição** | <p>1. O usuário estar conectado à internet e acessando o site dos correios.<br> 2. O usuário ter em mãos o código de rastreamento da encomenda.</p> |
+| **Pós-condição** | <p>O usuário recebe informações atualizadas sobre o status da sua encomenda.</p> |
+| **Fluxo principal** | <p>1. O usuário acessa o site dos correios. <br> 2. O usuário acessa a página de rastreamento de encomendas. <br>3. O usuário insere o número de rastreamento da sua encomenda. <br>4. O sistema verifica o número de rastreamento e recupera as informações da encomenda. <br>5. O sistema exibe ao usuário o status atualizado da sua encomenda, incluindo sua localização e status de entrega.</p> |
+| **Fluxo alternativo** | <p>1. Se o número de rastreamento fornecido pelo usuário for inválido, o sistema exibe uma mensagem de erro. <br> 2. O usuário pode corrigir o número de rastreamento e tentar novamente.</p> |
+| **Fluxo de exceções** | <p>1. Se houver um problema ao recuperar as informações da encomenda, como falha de conexão com o serviço de rastreamento, o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde.</p> |
+
+
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
