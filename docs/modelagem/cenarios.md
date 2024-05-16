@@ -16,6 +16,7 @@ Como metodologia usamos o método com os elementos que se deve ter nos cenários
 | Eventos | Ações externas ou reações produzidas pelo computador ou ouras características do ambiente; algumas delas podem ser ocultas ao ator mas importantes para o cenário. |
 | Avaliação | Atividade mental dirigida para interpretar a situação. |
 
+## Cenários 
 
 
 ## Bibliografia
