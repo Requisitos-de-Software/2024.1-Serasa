@@ -31,6 +31,8 @@ nav:
       - First Things First: priorizacao/tecnicas/firstThingsFirst.md
       - In Or Out: priorizacao/tecnicas/inorout.md
     - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
+  - Modelagem:
+    - Léxicos: Lexicos/lexicos.md
 extra_css:
   - stylesheets/extra.css
 theme:
