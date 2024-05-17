@@ -14,9 +14,40 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 
 ## Objeto
 
+|Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
+|------|-------------|-----|-------|--------|-----|
+|  | Objeto |  |  | [Claudio Henrique](https://github.com/claudiohsc) |
+|  | Objeto |  |  | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  | Objeto |  |  | [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|  | Objeto |  |  | [Gabriel Basto](https://github.com/Bertolazi) |
+|  | Objeto |  |  | [Gabriel Fernando](https://github.com/MMcLovin) |
+|  | Objeto |  |  | [Pablo Santos](https://github.com/pabloheika) |
+|  | Objeto |  |  | [Ricardo Augusto](https://github.com/avmricardo) |
+
+
 ## Verbo
 
+|Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
+|------|-------------|-----|-------|--------|-----|
+|  | Verbo |  |  | [Claudio Henrique](https://github.com/claudiohsc) |
+|  | Verbo |  |  | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  | Verbo |  |  | [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|  | Verbo |  |  | [Gabriel Basto](https://github.com/Bertolazi) |
+|  | Verbo |  |  | [Gabriel Fernando](https://github.com/MMcLovin) |
+|  | Verbo |  |  | [Pablo Santos](https://github.com/pabloheika) |
+|  | Verbo |  |  | [Ricardo Augusto](https://github.com/avmricardo) |
+
 ## Estado
+
+|Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
+|------|-------------|-----|-------|--------|-----|
+|  | Estado |  |  | [Claudio Henrique](https://github.com/claudiohsc) |
+|  | Estado |  |  | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  | Estado |  |  | [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|  | Estado |  |  | [Gabriel Basto](https://github.com/Bertolazi) |
+|  | Estado |  |  | [Gabriel Fernando](https://github.com/MMcLovin) |
+|  | Estado |  |  | [Pablo Santos](https://github.com/pabloheika) |
+|  | Estado |  |  | [Ricardo Augusto](https://github.com/avmricardo) |
 
 
 ## Bibliografia
