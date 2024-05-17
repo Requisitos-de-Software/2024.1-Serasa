@@ -38,13 +38,15 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 Requisitos a serem modelados por integrantes:
  
-1. OBS02 O aplicativo permite rastreamento de encomendas por código: Ricardo;
-2. OBS05 O aplicativo oferece uma busca por agências próximas ao seu endereço: Gabriel F;
-3. OBS06 O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais: Cláudio;
-4. OBS01 O aplicativo permite realizar login com sua conta: Danilo;
-5. OBS10 O aplicativo oferece a visualização de vales postais: Elias;
-6. OBS11 O aplicativo oferece uma área de busca por objetos perdidos em envios: Pablo;
-7. OBS09 O aplicativo permite visualização de mensagens: Gabriel B.
+1. OBS10 O aplicativo oferece a visualização de vales postais: Elias;
+2. OBS11 O aplicativo oferece uma área de busca por objetos perdidos em envios: Danilo;
+3. OBS02 O aplicativo permite rastreamento de encomendas por código: Ricardo;
+4. OBS06 O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais: Cláudio;
+5. Pré postagem - Gabriel F;
+6. minhas importações - Pablo;
+7. Receber encomendas - Gabriel B.
+
+Os requisitos 5, 6 e 7 não foram elicitados pelas técnicas utilizadas pelo grupo, eles foram tirados de funcionalidades trabalhadas pelos integrantes na disciplina de interação humano computador. Para podermos utilizar eles em requisitos, será feita a técnica de elicitação de análise documental e depois eles serão incorporados em uma técnica de priorização já utilizada pelo grupo.
 
 ## Gravação da reunião
 
@@ -54,7 +56,7 @@ Requisitos a serem modelados por integrantes:
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 15/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 17/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
