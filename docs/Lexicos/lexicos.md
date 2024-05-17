@@ -22,7 +22,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 | L01 - | Objeto |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 | L02 - | Objeto |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-| L03 - | Objeto |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| <a id="encomenda">L03 - Encomenda </a> | Objeto | Objeto que é embalado e enviado de um local para outro, quando o <a href="#usuario">usuário</a> realiza um envio ou recebe alguma  <a href="#encomenda">encomenda</a>. | É possível realizar o <a href="#rastreio">rastreio</a> da encomenda, <a href="#adiamento">adiamento</a> da entrega e <a href="#cancelamento">cancelamento</a>. | Pacote |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 | L04 - | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 | L05 - | Objeto |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 | L06 - | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
@@ -39,7 +39,7 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 |L08 - | Verbo |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 |L09 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|L10 - | Verbo |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|<a id="enviar">L10 - Enviar </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma encomenda para um destinatário | A encomenda é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao destinatário.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 |L11 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 |L12 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 |L13 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
