@@ -9,13 +9,13 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 <font size="3"><p style="text-align: center">**Tavela 01: Formato do Léxico** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
-|------|-------------|-----|-------|--------|-----|
+|:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 |LXX - Nome |Objeto,Verbo,Estado|Significado do símbolo|Descreve efeito, uso ou ocorrência na aplicação.|Termo similar|Integrante responsável pelo léxico|
 
 ## Objeto
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
-|------|-------------|-----|-------|--------|-----|
+|:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 | L01 - | Objeto |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 | L02 - | Objeto |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | L03 - | Objeto |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
@@ -28,7 +28,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 ## Verbo
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
-|------|-------------|-----|-------|--------|-----|
+|:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 |L01 - | Verbo |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 |L02 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |L03 - | Verbo |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
@@ -40,7 +40,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 ## Estado
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
-|------|-------------|-----|-------|--------|-----|
+|:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 | L01 - | Estado |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 | L02 - | Estado |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | L03 - | Estado |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
