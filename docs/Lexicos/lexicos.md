@@ -16,38 +16,38 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |------|-------------|-----|-------|--------|-----|
-|  | Objeto |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
-|  | Objeto |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  | Objeto |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
-|  | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
-|  | Objeto |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
-|  | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|  | Objeto |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+| L01 - | Objeto |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+| L02 - | Objeto |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| L03 - | Objeto |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| L04 - | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
+| L05 - | Objeto |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
+| L06 - | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+| L07 - | Objeto |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
 
 
 ## Verbo
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |------|-------------|-----|-------|--------|-----|
-|  | Verbo |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
-|  | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  | Verbo |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
-|  | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
-|  | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
-|  | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|  | Verbo |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+|L01 - | Verbo |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+|L02 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|L03 - | Verbo |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|L04 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
+|L05 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
+|L06 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+|L07 - | Verbo |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
 
 ## Estado
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |------|-------------|-----|-------|--------|-----|
-|  | Estado |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
-|  | Estado |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  | Estado |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
-|  | Estado |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
-|  | Estado |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
-|  | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|  | Estado |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+| L01 - | Estado |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+| L02 - | Estado |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| L03 - | Estado |  |  | |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| L04 - | Estado |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
+| L05 - | Estado |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
+| L06 - | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+| L07 - | Estado |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
 
 
 ## Bibliografia
