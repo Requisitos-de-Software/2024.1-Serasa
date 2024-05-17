@@ -56,6 +56,18 @@ Modelo:
 
 ### 2. Realizar compras na loja online
 
+| UCxx | Nome do caso de uso |
+|-|-|
+| **Descrição** | <p>Uma breve explicação do que o caso de uso faz ou descreve.</p> |
+| **Atores** | <p>Os papéis ou entidades que interagem com o sistema.</p> |
+| **Pré-condição** | <p> As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.</p> |
+| **Pós-condição** | <p>As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.</p> |
+| **Fluxo principal** | <p>A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.</p> |
+| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
+| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
+
 ### 3. Emitir certificados digitais
 
 ### 4. Realizar pré-postagem
