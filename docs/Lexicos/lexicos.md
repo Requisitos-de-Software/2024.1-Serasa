@@ -4,7 +4,7 @@ O léxico é uma notação utilizada para apresentar os símbolos de uma linguag
 
 ## Metodologia
 
-Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md) na etapa anterior identificamos e apresentamos os devidos léxicos separando em três classes que são: Objeto, Verbo e Estado que são descritas logo abaixo. Na tabela 01 é mostrado o formato ao qual os léxicos estão estruturados.
+Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md) na etapa anterior identificamos e apresentamos os devidos léxicos separando em três tipos de sujeito que são: Objeto, Verbo e Estado que são descritas logo abaixo. Na tabela 01 é mostrado o formato ao qual os léxicos estão estruturados.Para a criação dos léxicos utilizamos o LAL (Léxico Ampliado da Imagem), que é uma maneira mais refinada de registro de termos próprios da aplicação.
 
 <font size="3"><p style="text-align: center">**Tavela 01: Formato do Léxico** </p></font>
 
@@ -52,7 +52,8 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 
 ## Bibliografia
 
-> 1.SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [Requisitos Aula - 10](https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2024.
+> 1. SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [Requisitos Aula - 10](https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2024.
+> 2. SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: http://www.nilc.icmc.usp.br/til/til2006/0030.pdf. Acesso em: 16/05/2024.
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
