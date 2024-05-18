@@ -4,13 +4,16 @@ O léxico é uma notação utilizada para apresentar os símbolos de uma linguag
 
 ## Metodologia
 
-Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md) na etapa anterior identificamos e apresentamos os devidos léxicos separando em três tipos de sujeito que são: Objeto, Verbo e Estado que são descritos logo abaixo. Na tabela 01 é mostrado o formato ao qual os léxicos estão estruturados, para a criação dos léxicos utilizamos o LAL (Léxico Ampliado da Imagem) que é uma maneira mais refinada de registro de termos próprios da aplicação.
+Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md) na etapa anterior identificamos e apresentamos os devidos léxicos separando em três tipos de classificação que são: Objeto, Verbo e Estado que são descritos logo abaixo. Na tabela 01 é mostrado o formato ao qual os léxicos estão estruturados, para a criação dos léxicos utilizamos o LAL (Léxico Ampliado da Imagem) que é uma maneira mais refinada de registro de termos próprios da aplicação.
 
 <font size="3"><p style="text-align: center">**Tabela 01: Formato do Léxico** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-|LXX - Nome. |Objeto,Verbo,Estado.|Significado do símbolo.|Efeito, uso ou ocorrência na aplicação.|Termo similar.|Integrante responsável pelo léxico.|
+|LXX - Nome. |Objeto, Verbo, Estado.|Significado do símbolo.|Efeito, uso ou ocorrência na aplicação.|Termo similar.|Integrante responsável pelo léxico.|
+
+<center>**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </center>
+
 
 ## Objeto
 
@@ -70,4 +73,4 @@ Nos léxicos do tipo estado são definidos: qual o significado das ações e qua
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-` 1.0 `| 15/05/2024 | Criação do Documento | [Elias Oliveira](https://github.com/EliasOliver21) | []() |
+` 1.0 `| 15/05/2024 | Criação do Documento | [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) | []() |
