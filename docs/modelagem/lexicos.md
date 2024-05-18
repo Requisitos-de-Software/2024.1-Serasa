@@ -12,7 +12,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 |LXX - Nome. |Objeto, Verbo, Estado.|Significado do símbolo.|Efeito, uso ou ocorrência na aplicação.|Termo similar.|Integrante responsável pelo léxico.|
 
-<center>**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </center>
+<center>**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024. </center>
 
 
 ## Objeto
@@ -23,7 +23,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-| L01 - | Objeto |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+| <a id="correios">L01 - Correios</a> | Objeto | Empresa pública federal responsável pela execução do sistema de envio e entrega de <a href="#encomenda">encomendas</a> no Brasil, assim como presta outros serviços de apoio ao Governo.  | Responsável pelo desenvolvimento e manutenção do aplicativo "Correios". | Empresa Brasileira de Correios e Telégrafos |[Claudio Henrique](https://github.com/claudiohsc) |
 | L02 - | Objeto |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | <a id="encomenda">L03 - Encomenda </a> | Objeto | Objeto que é embalado e enviado de um local para outro, quando o <a href="#usuario">usuário</a> realiza um <a href="#enviar">envio</a> ou recebe alguma  <a href="#encomenda">encomenda</a>. | É possível realizar o <a href="#enviar">envio</a>, <a href="#adiamento">adiamento</a> ou <a href="#cancelamento">cancelamento</a> da entrega da encomenda. | Pacote |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 | L04 - | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
