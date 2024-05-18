@@ -29,7 +29,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L04 - | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 | L05 - | Objeto |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 | L06 - | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-| L07 - | Objeto |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+| L07 - Código de rastreio | Objeto | Sequência de caracteres alfanuméricos que representa a encomenda e permite rastrear e verificar seu status. | Acompanhar o status e localização da encomenda. | Número de rastreio |[Ricardo Augusto](https://github.com/avmricardo) |
 
 
 ## Verbo
@@ -46,7 +46,7 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 |L11 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 |L12 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 |L13 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|L14 - | Verbo |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+|L14 - Rastrear | Verbo | O usuário pode consultar o status da entrega da encomenda em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
 ## Estado
 
@@ -62,7 +62,8 @@ Nos léxicos do tipo estado são definidos: qual o significado das ações e qua
 | L18 - | Estado |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 | L19 - | Estado |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 | L20 - | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-| L21 - | Estado |  |  | |[Ricardo Augusto](https://github.com/avmricardo) |
+| L21 - Em Trânsito | Estado | A encomenda está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da encomenda está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
+| L22 - Entregue | Estado | A encomenda foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a encomenda e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
 
 
 ## Bibliografia
