@@ -56,17 +56,21 @@ Modelo:
 
 ### 2. Realizar compras na loja online
 
-| UCxx | Nome do caso de uso |
-|-|-|
-| **Descrição** | <p>Uma breve explicação do que o caso de uso faz ou descreve.</p> |
-| **Atores** | <p>Os papéis ou entidades que interagem com o sistema.</p> |
-| **Pré-condição** | <p> As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.</p> |
-| **Pós-condição** | <p>As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.</p> |
-| **Fluxo principal** | <p>A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.</p> |
-| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
-| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
+<font size="2"><p style="text-align: center">**Tabela 4 - Realizar Compras na Loja Online.**</p></font>
+<center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
+| UC02 | Nome do caso de uso |
+|-|-|
+| **Descrição** | <p>Neste caso de uso é possível realizar compras de diversos itens na loja online.</p> |
+| **Atores** | <p>Usuário</p> |
+| **Pré-condição** | <p> 1. É necessário que o usuário acesse a página da loja online dos correios e esteja logado. </p> |
+| **Pós-condição** | <p>O usuário realiza uma compra na loja online.</p> |
+| **Fluxo principal** | <p>1.O usuário navega até a opção compras e logo em seguida loja online. <br>2. O usuário realiza o seu cadastro/login.<br>3.O usuário escolhe um ou mais produtos clicando neles e prosseguindo através da opção "Comprar". <br>4. O usuário edita a quantidade de itens antes de fechar a compra.<5. O usuário insere o CEP ou edita ele.> <br>6. O usuário prossegue para a etapa de pagamento clicando em fechar pedido. <br> 7.O Usuário escolhe a forma de pagamento e finaliza a compra.  <p> |
+| **Fluxo alternativo** |  |
+| **Fluxo de exceções** |  |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### 3. Emitir certificados digitais
 
