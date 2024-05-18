@@ -23,6 +23,7 @@ nav:
     - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
     - Personas: elicitacao/personas.md
     - Técnicas:
+      - Análise Documental: elicitacao/tecnicas/analise-documental.md
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Questionário: elicitacao/tecnicas/questionario.md
