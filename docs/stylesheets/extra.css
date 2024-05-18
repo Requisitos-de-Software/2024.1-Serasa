@@ -4,6 +4,10 @@
     }
 }
 
+p{
+    text-align: justify;
+}
+
 .logo_correios{
     img{
         border: 10px solid FFD400; 
