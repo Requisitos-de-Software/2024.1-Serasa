@@ -30,7 +30,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L05 - | Objeto |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 | L06 - | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
 | L07 - Código de rastreio | Objeto | Sequência de caracteres alfanuméricos que representa a <a href="#encomenda">encomenda</a> e permite rastrear e verificar seu status. | Acompanhar o status e localização da <a href="#encomenda">encomenda</a>. | Número de rastreio |[Ricardo Augusto](https://github.com/avmricardo) |
-
+| <a id="cep">L08 - CEP</a> | Objeto | É a sigla de Código de Endereçamento Postal que serve para organizar e facilitar a postagem, <a href="#rastrear">rastreio</a> e distribuição das <a href="#encomenda">encomendas</a> de forma lógica. | O CEP é utilizado para identificar rapidamente o endereço que será utilizado para fins de <a href="#simular">simulação</a> e postagens das <a href="#encomenda">encomendas</a> e correspondências.  | Código de Endereçamento Postal |[Claudio Henrique](https://github.com/claudiohsc) |
 
 ## Verbo
 
@@ -40,13 +40,13 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-|L08 - | Verbo |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+|<a id="simular">L08 - Simular</a> | Verbo | O usuário pode <a href="#simular">simular</a>, antes do envio, os preços e prazos de entrega de uma <a href="#encomenda">encomenda</a> a partir do CEP de origem e destino. |  | |[Claudio Henrique](https://github.com/claudiohsc) |
 |L09 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|<a id="enviar">L10 - Enviar </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma <a href="#encomenda">encomenda</a> para um destinatário. | A encomenda é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao <a href="#destinatário">destinatário</a>.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|<a id="enviar">L10 - Enviar </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma <a href="#encomenda">encomenda</a> para um destinatário. | A <a href="#encomenda">encomenda</a> é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao <a href="#destinatário">destinatário</a>.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 |L11 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 |L12 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 |L13 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|L14 - Rastrear | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
+|<a id="rastrear">L14 - Rastrear</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
 ## Estado
 
