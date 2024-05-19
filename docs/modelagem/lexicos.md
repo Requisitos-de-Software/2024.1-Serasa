@@ -15,6 +15,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 <center>**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024. </center>
 
 
+
 ## Objeto
 
 Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais se relaciona e as ações que poderão ser empregadas ao objeto. Na tabela 02 logo abaixo estão descritos os léxicos do tipo objeto.
@@ -32,6 +33,9 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L07 - Código de rastreio | Objeto | Sequência de caracteres alfanuméricos que representa a <a href="#encomenda">encomenda</a> e permite rastrear e verificar seu status. | Acompanhar o status e localização da <a href="#encomenda">encomenda</a>. | Número de rastreio |[Ricardo Augusto](https://github.com/avmricardo) |
 | <a id="cep">L08 - CEP</a> | Objeto | É a sigla de Código de Endereçamento Postal que serve para organizar e facilitar a postagem, <a href="#rastrear">rastreio</a> e distribuição das <a href="#encomenda">encomendas</a> de forma lógica. | O CEP é utilizado para identificar rapidamente o endereço que será utilizado para fins de <a href="#simular">simulação</a> e postagens das <a href="#encomenda">encomendas</a> e correspondências.  | Código de Endereçamento Postal |[Claudio Henrique](https://github.com/claudiohsc) |
 
+
+<center>**Fonte**: Autores das descrições dos léxicos do tipo Objetos, 2024. </center>
+
 ## Verbo
 
 Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quais os processos realizados e quais os reflexos da ação no ambiente. Abaixo na tabela 03 estão descritos os léxicos do tipo verbo.
@@ -47,6 +51,9 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 |L12 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
 |L13 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
 |<a id="rastrear">L14 - Rastrear</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
+
+<center>**Fonte**: Autores das descrições dos léxicos do tipo Verbo, 2024. </center>
+
 
 ## Estado
 
@@ -64,6 +71,9 @@ Nos léxicos do tipo estado são definidos: qual o significado das ações e qua
 | L20 - | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
 | L21 - Em Trânsito | Estado | A <a href="#encomenda">encomenda</a> está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da <a href="#encomenda">encomenda</a> está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
 | L22 - Entregue | Estado | A <a href="#encomenda">encomenda</a> foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a <a href="#encomenda">encomenda</a> e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
+
+<center>**Fonte**: Autores das descrições dos léxicos do tipo Estado, 2024. </center>
+
 
 
 ## Bibliografia
