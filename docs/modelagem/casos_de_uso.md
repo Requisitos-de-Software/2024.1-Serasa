@@ -101,6 +101,26 @@ Modelo:
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
+### 7. Buscar por documentos perdidos em envios:
+
+<font size="2"><p style="text-align: center">Tabela 9 - Buscar por documentos perdidos em envios.</p></font>
+
+<center>
+
+| UC07 | Buscar por documentos perdidos em envios |
+|-|-|
+| **Descrição** | <p>Este caso de uso permite que os usuários do site dos correios busquem pelo seus documentos caso tenham perdido algum deles, escolhendo o tipo do documento e o colocando o seu nome completo.</p> |
+| **Atores** | <p>Usuário.</p> |
+| **Pré-condição** | <p> 1. O usuário estar conectado à internet e acessando o site dos correios.<br> 2. O usuário ter perdido algum dos seus documentos.</p> |
+| **Pós-condição** | <p> 1. O usuário recebe informações atualizadas se o seu documento está com os correios.</p> |
+| **Fluxo principal** | <p>1. O usuário acessa o site dos correios. <br> 2. O usuário acessa a página de achados e perdidos. <br>3. O usuário insere o seu nome e seleciona o tipo de documento. <br>4. O sistema verifica se possui o documento do usuário. <br>5. O sistema exibe ao usuário a agência que o documento se encontra. <br>6. o usuário vai buscar o seu documento. <br>7. o usuário paga um taxa de 10 reais na agência para retirar o seu documento</p> |
+| **Fluxo alternativo** | <p>1. Se o documento selecionado pelo usuário não for o documento perdido ou se o nome do usuário for preenchido de forma errada o sistema exibe uma mensagem de erro. <br> 2. O usuário pode selecionar novamente o tipo de documento que foi perdido ou corrigir o nome preenchido e tentar novamente.</p> |
+| **Fluxo de exceções** | <p>1. Se houver um problema ao recuperar as informações das agências, como falha de conexão com o serviço de busca, o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde.</p> |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho ANtunes][DaniloGH], 2024.</p></font>
+
 ## Bibliografia
 
 > 1. Tutorial de Caso de Uso UML. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 15 maio 2024.
