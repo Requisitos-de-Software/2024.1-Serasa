@@ -87,9 +87,9 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 | **Atores** | <p>Usuário</p> |
 | **Pré-condição** | <p> 1. É necessário que o usuário acesse a página da loja online dos correios e esteja logado. </p> |
 | **Pós-condição** | <p>O usuário realiza uma compra na loja online.</p> |
-| **Fluxo principal** | <p>1.O usuário navega até a opção compras e logo em seguida loja online. <br>2. O usuário realiza o seu cadastro/login.<br>3.O usuário escolhe um ou mais produtos clicando neles e prosseguindo através da opção "Comprar". <br>4. O usuário edita a quantidade de itens antes de fechar a compra.<br>5. O usuário insere o CEP ou edita ele. <br>6. O usuário prossegue para a etapa de pagamento clicando em fechar pedido. <br> 7.O Usuário escolhe a forma de pagamento e finaliza a compra.  <p> |
-| **Fluxo alternativo** |  |
-| **Fluxo de exceções** |  |
+| **Fluxo principal** | <p>1.O usuário navega até a opção compras e logo em seguida loja online. <br>2. O usuário realiza o seu cadastro/login.<br>3.O usuário busca e escolhe um ou mais produtos. <br>4. No carrinho o usuário verifica a quantidade de itens antes de fechar a compra.<br>5. O usuário insere o CEP do destino da entrega. <br>6. O usuário prossegue para a etapa de pagamento clicando em fechar pedido. <br> 7.O Usuário escolhe a forma de pagamento e finaliza a compra.  <p> |
+| **Fluxo alternativo** | <ol> <li value = "1"> **O usuário realiza o seu cadastro/login** <ul> <li> O usuário verifica o produto e o valor do frete sem estar logado. </ul> |
+| **Fluxo de exceções** | <ol> <li value = "3"> **O usuário busca e escolhe um ou mais produtos** <ul> <li> Caso o usuário não tenha encontrado o produto que deseja na busca do site. </ul>|
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
