@@ -8,7 +8,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 ## Metodologia
 
-A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios - realizar uma pré-postagem, receber encomendas e FUNCIONALIDADE PABLO - que ou estavam implementadas ou também poderiam ser implementadas no aplicativo, mas que passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)), logo, elicitamos os requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), onde, presente na Tabela 01, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta, o ID desse requisito e o seu tipo. Ao final da página, também temos as tabelas 3 e 4 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados.
+A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas e gerenciar importações) que ou estavam implementadas ou também poderiam ser implementadas no aplicativo, mas que passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)), logo, elicitamos os requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), onde, presente na Tabela 01, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta, o ID desse requisito e o seu tipo. Ao final da página, também temos as tabelas 3 e 4 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados.
 
 ## Requisitos Elicitados
 
@@ -18,8 +18,8 @@ Legenda para as tabelas:
 - RNF: Requisito Não-Funcional
 - ADxx: Requisito nºx elicitado pelo questionário.
 
-| Pergunta| Respondida | Requisito elicitado | ID | Código |
-|-|-|-|-|
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+| - | - | - | - | - |
 
 ## Recebimento de encomendas
 
@@ -27,17 +27,17 @@ Legenda para as tabelas:
 
 <center>
 
-| Pergunta| Respondida | Requisito elicitado | ID | Código |
-|         |            |                     |    |        |
-| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | AD01 | |
-| Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder escolher o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 | |
-| O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 | |
-| A opção de locker é útil?| Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 | |
-| É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar  local de de rebimento da encomenda | AD05 | |
-| Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 | |
-| O tempo de resposta nessa área é bom? | Não |  | | |
-| Essa funcionalidade já existe no site, sua interface é útil? | Sim | A interface deve ser intuitiva para fácil realização do procedimento. | AD07 | |
-| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser de fácil acesso, pela página principal. | AD08 | |
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+|--|--|--|--|--|
+| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | AD01 |  |
+| Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder escolher o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 |  |
+| O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 |  |
+| A opção de locker é útil? | Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 |  |
+| É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar  local de de rebimento da encomenda | AD05 |  |
+| Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 |  |
+| O tempo de resposta nessa área é bom? | Não |   |   |   |
+| Essa funcionalidade já existe no site, sua interface é útil? | Sim | A interface deve ser intuitiva para fácil realização do procedimento. | AD07 |   |
+| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser de fácil acesso, pela página principal. | AD08 |   |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 
@@ -51,7 +51,7 @@ Legenda para as tabelas:
 </p></font>
 
 | Pergunta| Respondida | Requisito elicitado | ID | Código |
-|         |            |                     |    |        |
+|--|--|--|--|--|
 | O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD10 | RF |
 | O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF |
 | O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD12 | RF |
