@@ -138,11 +138,11 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 ## Bibliografia
 
-> 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 >
-> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de mar. de 2024.
+> 2. * Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 20 de Maio de 2024
 >
-
+> 3. * Grupo 01 de Requisitos de Software 2023.2 Economia DF. Disponível em :  <https://github.com/Requisitos-de-Software/2023.2-Economia-DF/>. Acesso em: 20 de Maio de 2024
 
 ## Histórico de Versões
 
