@@ -50,7 +50,11 @@ Os requisitos 5, 6 e 7 não foram elicitados pelas técnicas utilizadas pelo gru
 
 ## Gravação da reunião
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ypdh0TstZxo?si=HpIbDge13M2FRAwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Histórico de Versão
 
