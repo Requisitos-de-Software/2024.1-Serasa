@@ -2,6 +2,8 @@
 
 ## Introdução
 
+O diagrama de casos de uso ilustra as funcionalidades que um sistema oferece e como os usuários externos interagem com ele. Essas funcionalidades, conhecidas como casos de uso, representam as ações executadas pelo sistema. Esse diagrama é útil para detalhar as operações principais do sistema e como os usuários se envolvem com essas operações.
+
 ## Metodologia
 
 <font size="2"><p style="text-align: center">Tabela 1 - Elementos do diagrama de casos de uso.</p></font>
