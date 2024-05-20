@@ -76,6 +76,15 @@ Legenda para elementos da tabela 1 e 2:
 | AD12 | O usuário deve ser perguntado sobre a confirmação de operações críticas | RNF | Sim |
 | AD13 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF |  Sim|
 | AD14 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não|
+| AD15 | O Usuário deve ser capaz de gerenciar suas importações | RF | Sim |
+| AD16 | O Usuário deve ser capaz de resolver situações alfandegárias | RF | sim |
+| AD17 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | RF | Sim |
+| AD18 | O usuário deve ser capaz de inserir novas importações | RF | Sim |
+| AD19 | O usuário deve ter acesso a meios de pagamento de taxas | RF | Sim |
+| AD20 | O usuário deve ser notificado sobre atualizações de importações | RF | Sim |
+| AD21 | O usuário deve poder contestar taxas e tributações | RF | Sim |
+| AD22 | O Usuário deve ser capaz de emitir comprovante | RF | Sim |
+| AD23 | O usuário deve ser capaz de emitir DIS | RF | Sim |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
@@ -121,6 +130,9 @@ Legenda para elementos da tabela 1 e 2:
 | Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF36 | Não |
 | AD07 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF38 | Não | 
 | AD08 | A funcionalidade deve ser de fácil acesso pela página principal | RNF37 | Não |
+| AD24 | As informações devem ser atualizadas em tempo de execução | RNF | Sim |
+| AD25 | A liberação das encomendas deve ser automática | RNF | Sim |
+| AD26 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
