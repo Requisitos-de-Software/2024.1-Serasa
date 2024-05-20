@@ -18,7 +18,6 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceção**     | O que impedem a realização do cenário  |
 
 
-
 <font><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
 ## Cenários 
@@ -42,6 +41,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 2. Realizar compras na loja online
 
+<font><p style="text-align: center">Tabela 03 - Cenário para Realizar compras na loja online dos Correios.</p></font>
+
+
 | **Elemento** | **Descrição** |
 | | |
 | **Título** | Realizar uma compra na loja online. |  
@@ -56,6 +58,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 <font><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
 ### 3. Emitir certificados digitais
+
+<font><p style="text-align: center">Tabela 04 - Cenário para .</p></font>
+
 
 | **Elemento** | **Descrição** |
 | | |
@@ -72,6 +77,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 4. Realizar pré-postagem
 
+<font><p style="text-align: center">Tabela 05 - Cenário para realizar pré-postagem.</p></font>
+
+
 | **Elemento** | **Descrição** |
 | | |
 | **Título** |Realizar pré-postagem |  
@@ -86,6 +94,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 <font><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
+
+<font><p style="text-align: center">Tabela 06 - Cenário para gerenciar minhas importações</p></font>
+
 
 | **Elemento** | **Descrição** |
 | | |
@@ -102,6 +113,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 6. Rastrear encomendas
 
+<font><p style="text-align: center">Tabela 07 - Cenário para rastrear encomendas.</p></font>
+
+
 | **Elemento** | **Descrição** |
 | | |
 | **Título** | |
@@ -115,7 +129,9 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 <font><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
-### 7. Buscar por documentos perdidos :
+### 7. Buscar por documentos perdidos:
+
+<font><p style="text-align: center">Tabela 08 - Cenário para buscar por documentos perdidos.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
