@@ -78,6 +78,18 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 ### 4. Realizar pré-postagem
 
+| UC04 | Realizar pré-postagem |
+|-|-|
+| **Descrição** | <p>Usuário realiza o processo de postagem pelo app</p> |
+| **Atores** | <p>Usuário</p> |
+| **Pré-condição** | <ul> <li> Ter acesso ao app <li> Possuir conexão com a internet <li> Estar logado na conta dos Correios <ul> |
+| **Pós-condição** | Usuário recebe um código de confirmação da pré-postagem |
+| **Fluxo principal** | <ol> <li> **Usuário faz o login** <li> **Usuário acessa a funcionalidade de pré-postagem** <li> **Usuário insere informações sobre endereço e objeto** <li> **Usuário adiciona pré-postagem ao carrinho** <li> **Usuário realiza pagamento** <ol> |
+| **Fluxo alternativo** | <ol> <li value = "4"> **Usuário adiciona pré-postagem ao carrinho** <ul> <li> Usuário decidi adicionar mais uma postagem ao carrinho <li> usuário decidi remover uma, ou mais, postagens do carrinho </ul> <li value = "5"> **Usuário realiza pagamento** <ul> <li> Usuário escolhe pagar com pix <li> Usuário escolhe pagar com boleto </ul> <ol> |
+| **Fluxo de exceções** | <ol> <li> **Usuário faz o login** <ul> <li> Usuário fornece informações de login incorretas </ul> <li value = "3"> **Usuário insere informações sobre endereço e objeto** <ul> <li> Usuário desconhece informações de preechimento obrigatório </ul> <li> **Usuário realiza pagamento** <ul> <li> **Usuário escolhe pagar com pix** <ul> <li> Opção não pode ser escolhida </ul> <li> **Usuário escolhe pagar com boleto** <ul> <li> Opção não pode ser escolhida </ul> </ul> <ol> |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
+
 ### 5. Gerenciar minhas importações
 <font size="2"><p style="text-align: center">Tabela 7 - Especificação de caso de uso para gerenciar minhas importações.</p></font>
 
