@@ -46,19 +46,19 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 | **Título** |
 |  |
-|  |  
+| Realizar uma compra na loja online. |  
 | **Objetivo** |
-|   |
+|  Comprar selos na loja online dos correios. |
 | **Contexto**|
-|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
+|**Local**: Escritório do trabalho. <br><br> **Tempo** Meio da tarde.:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> Possuir um celular com conexão à internet. <li>Possuir um cadastro e estar logado no app dos correios. <li> Acessar a loja online dos correios. <li> Possuir um endereço para o recebimento de uma encomenda. <li> Possuir meios para realizar o pagamento do valor referente ao produto escolhido. </ul>|
 | **Atores** |
-|  |
+| Usuário do aplicativo e site dos correios. |
 | **Recursos** | 
-|  |
+| Celular. <br>Acesso à internet. <br> CEP e informações do endereço para a entrega.  |
 | **Episódios** |
-|  |
+| O usuário acessa a o ambiente da loja online dos correios; <br><br> Busca pelos selos desejados inserindo a temática deles no campo de busca; <br><br> Encontra os selos desejados e clica no item; <br><br> Adiciona ao carrinho clicando em comprar; <br><br> Altera a quantidade de itens e insere o CEP do destinatári; <br><br> Confere os dados de envio e dos itens escolhidos; <br><br> Escolhe a opção de pagamento por cartão de crédito; <br><br> Insere as informações do cartão e finaliza a compra.|
 
-<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
 ### 3. Emitir certificados digitais
 
