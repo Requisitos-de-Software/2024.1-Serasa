@@ -7,6 +7,10 @@ Especificação Suplementar pode ser definida como um documento em linguagem nat
 
 Para a produção desse artefato será utilizado uma versão modificada do FURPS+, que é uma metodologia na qual os requisitos são dividido nas seguintes categorias: F de Functionality (Funcionalidade), U de Usability (Usabilidade), R de Reliability (Confiabilidade), P de Performance (Desempenho), S de Supportability (Suportabilidade) e + que engloba outros requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos). Nessa versão os requisitos de interface, além da seção de componentes adquiridos serão omitidos, dado que são atributos já especificados em outros artefatos, como os requisitos não-funcionais elicitados pelas técnicas de Observação, de Questionário e de Brainstorming.
 
+## Funcionalidade
+
+Os requisitos funcionais foram obtidos por meio de uma combinação das seguintes técnicas: [brainstorming](../elicitacao/tecnicas/brainstorming.md), [observação](../elicitacao/tecnicas/observacao.md), [questionário](../elicitacao/tecnicas/questionario.md) e [análise documental](../elicitacao/tecnicas/analise-documental.md). Eles podem ser encontrados no documento de [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md). Além disso, os casos de uso também podem ser considerados como requisitos funcionais.
+
 ## Usabilidade
 
 Diz respeito ao quão fácil é para o usuário realizar uma tarefa com a aplicação.
