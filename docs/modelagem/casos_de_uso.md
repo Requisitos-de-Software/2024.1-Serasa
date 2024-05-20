@@ -6,6 +6,8 @@ O diagrama de casos de uso ilustra as funcionalidades que um sistema oferece e c
 
 ## Metodologia
 
+Para desenvolver esse artefato, adotou-se a metodologia convencional, que envolve a modelagem dos casos de uso por meio de um diagrama UML. O Draw.io, uma plataforma online dedicada à elaboração de ilustrações e diagramas, foi a ferramenta escolhida para a construção do diagrama.
+
 <font size="2"><p style="text-align: center">Tabela 1 - Elementos do diagrama de casos de uso.</p></font>
 
 <center>
