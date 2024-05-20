@@ -6,19 +6,16 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 <font size="2"><p style="text-align: center">Tabela 01 - estrutura de um cenário.</p></font>
 
-| **Título** |
-|  |
-| Um nome que identifica o cenário. |  
-| **Objetivo** |
-| A finalidade do cenário.  |
-| **Contexto** | 
-| Descreve o estado inicial do cenário, suas pré-condições e locais físicos e tempo. |
-| **Atores** |
-| Pessoa ou estruturaorganizacional que tem o papel no cenário. |
-| **Recursos** | 
-| Identifica os objetos passivos com os quais lidam os atores. |
-| **Episódios** |
-| Cada episódio apresenta uma ação realizada por um ator onde participam outros atores utilizando os recursos disponíveis, um episódio pode pertencer a outro cenário, e  neles podemos ter restrições e exceções. As restrições são qualquer coisa que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma ação excepsional ou de erro. |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | Um nome que identifica o cenário. |  
+| **Objetivo** | A finalidade do cenário.  |
+| **Contexto** | Descreve o estado inicial do cenário, suas pré-condições e locais físicos e tempo. |
+| **Atores** | Pessoa ou estruturaorganizacional que tem o papel no cenário. |
+| **Recursos** | Identifica os objetos passivos com os quais lidam os atores. |
+| **Episódios** | Cada episódio apresenta uma ação realizada por um ator onde participam outros atores utilizando os recursos disponíveis, um episódio pode pertencer a outro cenário, e  neles podemos ter restrições e exceções. As restrições são qualquer coisa que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma ação excepsional ou de erro. |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
@@ -26,127 +23,106 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 1. Calcular preços e prazos de entrega
 
-| **Título** |
-|  |
-|  |  
-| **Objetivo** |
-|   |
-| **Contexto**|
-|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** |
-|  |
-| **Recursos** | 
-|  |
-| **Episódios** |
-|  |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | |
+| **Objetivo** | |
+| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
+| **Atores** | |
+| **Recursos** | |
+| **Episódios** | |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
 
 ### 2. Realizar compras na loja online
 
-| **Título** |
-|  |
-| Realizar uma compra na loja online. |  
-| **Objetivo** |
-|  Comprar selos na loja online dos correios. |
-| **Contexto**|
-|**Local**: Escritório do trabalho. <br><br> **Tempo** Meio da tarde.:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> Possuir um celular com conexão à internet. <li>Possuir um cadastro e estar logado no app dos correios. <li> Acessar a loja online dos correios. <li> Possuir um endereço para o recebimento de uma encomenda. <li> Possuir meios para realizar o pagamento do valor referente ao produto escolhido. </ul>|
-| **Atores** |
-| Usuário do aplicativo e site dos correios. |
-| **Recursos** | 
-| Celular. <br>Acesso à internet. <br> CEP e informações do endereço para a entrega.  |
-| **Episódios** |
-| O usuário acessa a o ambiente da loja online dos correios; <br><br> Busca pelos selos desejados inserindo a temática deles no campo de busca; <br><br> Encontra os selos desejados e clica no item; <br><br> Adiciona ao carrinho clicando em comprar; <br><br> Altera a quantidade de itens e insere o CEP do destinatári; <br><br> Confere os dados de envio e dos itens escolhidos; <br><br> Escolhe a opção de pagamento por cartão de crédito; <br><br> Insere as informações do cartão e finaliza a compra.|
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | Realizar uma compra na loja online. |  
+| **Objetivo** |  Comprar selos na loja online dos correios. |
+| **Contexto**| **Local**: Escritório do trabalho. <br><br> **Tempo** Meio da tarde.:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> Possuir um celular com conexão à internet. <li>Possuir um cadastro e estar logado no app dos correios. <li> Acessar a loja online dos correios. <li> Possuir um endereço para o recebimento de uma encomenda. <li> Possuir meios para realizar o pagamento do valor referente ao produto escolhido. </ul>|
+| **Atores** | Usuário do aplicativo e site dos correios. |
+| **Recursos** | Celular. <br>Acesso à internet. <br> CEP e informações do endereço para a entrega.  |
+| **Episódios** | O usuário acessa a o ambiente da loja online dos correios; <br><br> Busca pelos selos desejados inserindo a temática deles no campo de busca; <br><br> Encontra os selos desejados e clica no item; <br><br> Adiciona ao carrinho clicando em comprar; <br><br> Altera a quantidade de itens e insere o CEP do destinatári; <br><br> Confere os dados de envio e dos itens escolhidos; <br><br> Escolhe a opção de pagamento por cartão de crédito; <br><br> Insere as informações do cartão e finaliza a compra.|
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
 ### 3. Emitir certificados digitais
 
-| **Título** |
-|  |
-|  |  
-| **Objetivo** |
-|   |
-| **Contexto**|
-|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** |
-|  |
-| **Recursos** | 
-|  |
-| **Episódios** |
-|  |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | |
+| **Objetivo** | |
+| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
+| **Atores** | |
+| **Recursos** | |
+| **Episódios** | |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
 
 ### 4. Realizar pré-postagem
 
-| **Título** |
-|  |
-| Realizar pré-postagem |  
-| **Objetivo** |
-| Abrir o aplicativo dos correios e realizar a tarefa de fazer uma pré-postagem |
-| **Contexto** | 
-|**Local**: casa do usuário <br><br> **Tempo**: início da noite <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Conhecimento das informações de preenchimento obrigatório <li>Dinheiro para pagar a pré-postagem </ul>|
-| **Atores** |
-| Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
-| **Recursos** | 
-| Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre o endereço do remetente e do destinatário <br><br> Informações sobre a encomenda <br><br> Meio de pagamento |
-| **Episódios** |
-| Usuário acessa a tela de pré-postagem <br><br> Usuário realiza login <br><br> Aplicativo carrega endereço do remetente a partir do endereço principal na conta do usuário <br><br> Usuário insere CEP do destinatário <br><br> Apliativo carrega informações do destinatário a partir do CEP fornecido <br><br> Usuário insere nome, email e número do endereço do destinatário <br><br> Usuário informa tipo da embalagem <br><br> Usuário fornece dimensões da embalagem <br><br> Usuário escolhe serviço SEDEX <br><br> Usuário fornece dados da nota fiscal eletrônica do produto da encomenda <br><br> Usuário confere informações e adiciona postagem ao carrinho <br><br> Usuário escolhe pagar com cartão <br><br> Aplicativo gera pop-up de confirmação do meio de pagamento <br><br> Usuário confirma meio de pagamento, preenche dados do cartão e finaliza a compra |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** |Realizar pré-postagem |  
+| **Objetivo** | Abrir o aplicativo dos correios e realizar a tarefa de fazer uma pré-postagem |
+| **Contexto** | **Local**: casa do usuário <br><br> **Tempo**: início da noite <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Conhecimento das informações de preenchimento obrigatório <li>Dinheiro para pagar a pré-postagem </ul>|
+| **Atores** | Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
+| **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre o endereço do remetente e do destinatário <br><br> Informações sobre a encomenda <br><br> Meio de pagamento |
+| **Episódios** | Usuário acessa a tela de pré-postagem <br><br> Usuário realiza login <br><br> Aplicativo carrega endereço do remetente a partir do endereço principal na conta do usuário <br><br> Usuário insere CEP do destinatário <br><br> Apliativo carrega informações do destinatário a partir do CEP fornecido <br><br> Usuário insere nome, email e número do endereço do destinatário <br><br> Usuário informa tipo da embalagem <br><br> Usuário fornece dimensões da embalagem <br><br> Usuário escolhe serviço SEDEX <br><br> Usuário fornece dados da nota fiscal eletrônica do produto da encomenda <br><br> Usuário confere informações e adiciona postagem ao carrinho <br><br> Usuário escolhe pagar com cartão <br><br> Aplicativo gera pop-up de confirmação do meio de pagamento <br><br> Usuário confirma meio de pagamento, preenche dados do cartão e finaliza a compra |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
 
-| **Título** |
-|  |
-|  |  
-| **Objetivo** |
-|   |
-| **Contexto**|
-|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** |
-|  |
-| **Recursos** | 
-|  |
-| **Episódios** |
-|  |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | |
+| **Objetivo** | |
+| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
+| **Atores** | |
+| **Recursos** | |
+| **Episódios** | |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
 
 ### 6. Rastrear encomendas
 
-| **Título** |
-|  |
-|  |  
-| **Objetivo** |
-|   |
-| **Contexto**|
-|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** |
-|  |
-| **Recursos** | 
-|  |
-| **Episódios** |
-|  |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | |
+| **Objetivo** | |
+| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
+| **Atores** | |
+| **Recursos** | |
+| **Episódios** | |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
 ### 7. Buscar por documentos perdidos :
 
-| **Título** |
-| |
-| Buscar por Documentos Perdidos |
-| **Objetivo** |
-| Permitir ao usuário do aplicativo dos Correios verificar se seus documentos perdidos foram encontrados e estão disponíveis para retirada. |
-| **Contexto** |
-|**Local**: Qualquer local com acesso ao aplicativo dos Correios <br><br> **Tempo**: Qualquer horário <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Informações sobre o tipo de documento e nome completo </ul>|
-| **Atores** |
-| Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
-| **Recursos** |
-| Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre os documentos perdidos |
-| **Episódios** |
-| Usuário acessa a tela de busca por documentos perdidos <br><br> Usuário seleciona o tipo de documento <br><br> Usuário insere o nome completo <br><br> Usuário clica no botão "Buscar" <br><br> Aplicativo verifica nos registros de achados e perdidos <br><br> Aplicativo exibe resultados indicando se o documento foi encontrado ou não <br><br> Caso encontrado, aplicativo fornece informações sobre a agência onde o documento pode ser retirado <br><br> Usuário pode optar por mais informações ou instruções de retirada |
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | Buscar por Documentos Perdidos |
+| **Objetivo** | Permitir ao usuário do aplicativo dos Correios verificar se seus documentos perdidos foram encontrados e estão disponíveis para retirada. |
+| **Contexto** | **Local**: Qualquer local com acesso ao aplicativo dos Correios <br><br> **Tempo**: Qualquer horário <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Informações sobre o tipo de documento e nome completo </ul>|
+| **Atores** | Usuário do aplicativo dos Correios <br><br>Sistema do aplicativo dos Correios |
+| **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre os documentos perdidos |
+| **Episódios** | Usuário acessa a tela de busca por documentos perdidos <br><br> Usuário seleciona o tipo de documento <br><br> Usuário insere o nome completo <br><br> Usuário clica no botão "Buscar" <br><br> Aplicativo verifica nos registros de achados e perdidos <br><br> Aplicativo exibe resultados indicando se o documento foi encontrado ou não <br><br> Caso encontrado, aplicativo fornece informações sobre a agência onde o documento pode ser retirado <br><br> Usuário pode optar por mais informações ou instruções de retirada |
+| **Exceções** | |
+| **Restrições** | |
 
 <font size="2"><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
