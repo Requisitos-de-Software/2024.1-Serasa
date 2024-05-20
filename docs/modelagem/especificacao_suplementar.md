@@ -87,6 +87,37 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
+## Suportabilidade
+
+**Suportabilidade** é a capacidade do software de fornecer suporte, tanto para si próprio quanto para o usuário. Ela engloba várias características importantes:
+
+1. **Testabilidade**: Refere-se à facilidade com que o software pode ser testado. Um sistema testável permite a criação de casos de teste eficazes e a identificação rápida de problemas.
+
+2. **Adaptabilidade**: Diz respeito à capacidade do software de se adaptar a diferentes ambientes, dispositivos ou contextos. Um software adaptável pode funcionar bem em diferentes sistemas operacionais, navegadores ou dispositivos.
+
+3. **Manutenibilidade**: Refere-se à facilidade de manter e atualizar o software. Um sistema de fácil manutenção permite correções de bugs, melhorias e atualizações sem grandes dificuldades.
+
+4. **Compatibilidade**: Envolve a capacidade do software de funcionar bem com outros sistemas, aplicativos ou componentes. Um software compatível pode interagir com outras soluções sem problemas.
+
+5. **Instalabilidade**: Trata da facilidade de instalação do software. Um processo de instalação simples e intuitivo é essencial para uma boa experiência do usuário.
+
+6. **Portabilidade**: Refere-se à capacidade do software de ser executado em diferentes plataformas. Um software portátil pode ser usado em diferentes sistemas operacionais ou arquiteturas sem grandes modificações.
+
+<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+
+| ID   | Descrição                                                                                                                                                                                                                   |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente.                                                      |
+| SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?".                                                                                                           |
+| SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda         |
+| SU04 | O app deverá ter uma melhor acessibilidade.                                                                         |
+| SU05 | O app deverá ter uma interface fluída e estável.                                       |
+| SU06 | O aplicativo requer uma interface amigável e fácil de usar. |
+| SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
+| SU08 | A interface deve ser intuitiva para fácil realização do procedimento. |
+
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ## Bibliografia
 
 > 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
