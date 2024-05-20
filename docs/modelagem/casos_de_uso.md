@@ -138,9 +138,9 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 | **Atores** | <p></p> |
 | **Pré-condição** | <p>Acesso a internet<br>App instalado<br>Usuario autenticado</p> |
 | **Pós-condição** | <p>Usuario sem pendencias alfandegarias.</p> |
-| **Fluxo principal** | <p>A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.</p> |
-| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
-| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
+| **Fluxo principal** | <p> **Consulta de Importações:** <br>O usuário acessa a seção de gerenciamento de importações no aplicativo.<br>O sistema exibe a lista de importações associadas à conta do usuário.<br>O usuário pode visualizar detalhes como status, datas, valores e informações relevantes de cada importação.<br>**Resolução de Situações Alfandegárias:** <br>O usuário seleciona uma importação específica que possui uma situação alfandegária pendente.<br>O sistema exibe os detalhes da situação, como descrição do problema, documentos necessários e prazos.<br>O usuário pode tomar ações para resolver a situação, como fornecer documentos adicionais, pagar taxas ou contestar valores.</p> |
+| **Fluxo alternativo** | <p> **Consulta de Histórico de Situações Alfandegárias:** <br>O usuário acessa a seção de histórico de situações alfandegárias.<br>O sistema exibe uma lista cronológica das situações anteriores enfrentadas pelo usuário.<br>O usuário pode revisar os detalhes dessas situações para referência ou análise.</p> |
+| **Fluxo de exceções** | **Erro de Autenticação:** <br>Se o usuário não estiver autenticado, o sistema solicita que ele faça login.<br>Após a autenticação, o usuário pode continuar com as operações de gerenciamento de importações. |
 
 </center>
 
