@@ -103,6 +103,8 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 6. **Portabilidade**: Refere-se à capacidade do software de ser executado em diferentes plataformas. Um software portátil pode ser usado em diferentes sistemas operacionais ou arquiteturas sem grandes modificações.
 
+Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
+
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
 | ID   | Descrição                                                                                                                                                                                                                   |
@@ -117,6 +119,10 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 | SU08 | A interface deve ser intuitiva para fácil realização do procedimento. |
 
 <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+## + Ajuda e Documentação
+
+A seção de Ajuda e Documentação de um aplicativo é composta por uma série de recursos projetados para instruir e informar os usuários acerca da operação, funcionalidades e práticas recomendadas para o uso do aplicativo. Esta parte é essencial para assegurar que os usuários consigam empregar o aplicativo eficientemente, esclarecer incertezas e extrair o máximo proveito de suas capacidades. Na tabela 5 temos os requitos elicitados para tal.
 
 ## Bibliografia
 
