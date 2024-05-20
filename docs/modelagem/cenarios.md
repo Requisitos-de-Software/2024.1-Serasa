@@ -31,8 +31,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
@@ -49,8 +49,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
@@ -67,8 +67,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
@@ -82,17 +82,17 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 | **Título** |
 |  |
-|  |  
+| Realizar pré-postagem |  
 | **Objetivo** |
-|   |
+| Abrir o aplicativo dos correios e realizar a tarefa de fazer uma pré-postagem |
 | **Contexto** | 
-|  |
+|**Local**: casa do usuário <br><br> **Tempo**: início da noite <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Conhecimento das informações de preenchimento obrigatório <li>Dinheiro para pagar a pré-postagem </ul>|
 | **Atores** |
-|  |
+| Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
 | **Recursos** | 
-|  |
+| Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre o endereço do remetente e do destinatário <br><br> Informações sobre a encomenda <br><br> Meio de pagamento |
 | **Episódios** |
-|  |
+| Usuário acessa a tela de pré-postagem <br><br> Usuário realiza login <br><br> Aplicativo carrega endereço do remetente a partir do endereço principal na conta do usuário <br><br> Usuário insere CEP do destinatário <br><br> Apliativo carrega informações do destinatário a partir do CEP fornecido <br><br> Usuário insere nome, email e número do endereço do destinatário <br><br> Usuário informa tipo da embalagem <br><br> Usuário fornece dimensões da embalagem <br><br> Usuário escolhe serviço SEDEX <br><br> Usuário fornece dados da nota fiscal eletrônica do produto da encomenda <br><br> Usuário confere informações e adiciona postagem ao carrinho <br><br> Usuário escolhe pagar com cartão <br><br> Aplicativo gera pop-up de confirmação do meio de pagamento <br><br> Usuário confirma meio de pagamento, preenche dados do cartão e finaliza a compra |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
@@ -103,8 +103,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
@@ -121,8 +121,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
@@ -139,8 +139,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 |  |  
 | **Objetivo** |
 |   |
-| **Contexto** | 
-|  |
+| **Contexto**|
+|**Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
 | **Atores** |
 |  |
 | **Recursos** | 
