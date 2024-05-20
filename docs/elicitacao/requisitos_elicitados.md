@@ -70,6 +70,12 @@ Legenda para elementos da tabela 1 e 2:
 | AD04 | O usuário deve ser notificado quando o recebimento for efetuado. | RF46 | Não |
 | AD05 | O usuário deve poder mudar local de de rebimento da encomenda | RF47 | Não |
 | AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF48 | Não |
+| AD09 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | RF |  Sim|
+| AD10 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | RF |  Não|
+| AD11 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | RF | Não |
+| AD12 | O usuário deve ser perguntado sobre a confirmação de operações críticas | RNF | Sim |
+| AD13 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF |  Sim|
+| AD14 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não|
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
@@ -127,3 +133,4 @@ Legenda para elementos da tabela 1 e 2:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.0`    | 20/05/2024 | Adiciona requisitos da análise documental | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [](https://www.github.com/) |
