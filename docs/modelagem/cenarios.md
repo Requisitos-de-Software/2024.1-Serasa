@@ -6,25 +6,149 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 <font size="2"><p style="text-align: center">Tabela 01 - estrutura de um cenário.</p></font>
 
-| **Título:** |
+| **Título** |
 |  |
 | Um nome que identifica o cenário. |  
 | **Objetivo** |
 | A finalidade do cenário.  |
-| **Contexto:** | 
+| **Contexto** | 
 | Descreve o estado inicial do cenário, suas pré-condições e locais físicos e tempo. |
-| **Atores:** |
+| **Atores** |
 | Pessoa ou estruturaorganizacional que tem o papel no cenário. |
-| **Recursos:** | 
+| **Recursos** | 
 | Identifica os objetos passivos com os quais lidam os atores. |
-| **Episódios:** |
+| **Episódios** |
 | Cada episódio apresenta uma ação realizada por um ator onde participam outros atores utilizando os recursos disponíveis, um episódio pode pertencer a outro cenário, e  neles podemos ter restrições e exceções. As restrições são qualquer coisa que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma ação excepsional ou de erro. |
-
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
 ## Cenários 
 
+### 1. Calcular preços e prazos de entrega
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+
+### 2. Realizar compras na loja online
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+
+### 3. Emitir certificados digitais
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+
+### 4. Realizar pré-postagem
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
+
+### 5. Gerenciar minhas importações
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
+
+### 6. Rastrear encomendas
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
+
+### 7. Buscar por documentos perdidos em envios:
+
+| **Título** |
+|  |
+|  |  
+| **Objetivo** |
+|   |
+| **Contexto** | 
+|  |
+| **Atores** |
+|  |
+| **Recursos** | 
+|  |
+| **Episódios** |
+|  |
+
+<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
 
 ## Bibliografia
 > 1. Engenharia de Requisitos - Sheila Reinehr. Acesso 15 de maio de 2024.
