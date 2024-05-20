@@ -94,7 +94,22 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-### 3. Emitir certificados digitais
+### 3. Mudar locais de recebimento de pacotes
+
+<font size="2"><p style="text-align: center">**Tabela 5 - Mudar locais de recebimento de pacotes.**</p></font>
+<center>
+
+| UCxx | Nome do caso de uso |
+|-|-|
+| **Descrição** | <p>Usuário quer mudar o endereço de recebimento de um pacote</p> |
+| **Atores** | <p>Usuário</p> |
+| **Pré-condição** | <ul><li>Ter acesso ao app <li> Possuir conexão com a internet <li> Estar logado na conta dos Correios <ul> |
+| **Pós-condição** | <p>Usuário redirecionado para as opções de recebimento de encomendas disponíveis</p> |
+| **Fluxo principal** | <ul><li>**1. O usuário faz login no aplicativo** <li> **2. Usuário escolhe a opção mudar endereço de recebimento** <li>**3. Escolhe a opção "mudar meu endereço residencial"** <li>**4. Insere o CEP novo** <li>**5. Confirma a operação com senha**<ul> |
+| **Fluxo alternativo** | <ol> <li value ="6"> **Usuário escolhe a opção "retirar no local não residencial"** <ul> <li> Usuário não pretende retirar o pacote em uma área residencial <li> escolhe entre retirada no locker, caixa postal ou agência </ul><li value ="7">**Insere o CEP próximo do local onde deseja buscar** <ul><li> Assim dependendo da região onde esteja pode fazer melhor a retirada |
+| **Fluxo de exceções** | <ol> <li value="1">**O usuário faz login no aplicativo** <ul><li>usuário não encontrado ou login incorreto </ul><li value ="4">**Insere o CEP novo** <ul><li>CEP não encontrado, ou não identificado como residencial </ul><li value="5">**Confirma a operação com senha** <ul><li>Senha fornecida dada como incorreta </ul><li value="7">**Insere o CEP próximo do local onde deseja buscar** <ul><li>Não há locais para retirada próximo ao seu CEP <li>Locais para retirada já lotados |
+
+</center>
 
 ### 4. Realizar pré-postagem
 
