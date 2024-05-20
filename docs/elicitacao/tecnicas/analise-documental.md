@@ -18,14 +18,23 @@ Legenda para as tabelas:
 - RNF: Requisito Não-Funcional
 - ADxx: Requisito nºx elicitado pelo questionário.
 
+<center>
+
+<font size="2"><p><b>Tabela 1</b> - Modelo de estrutura. </p></font>
+
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
 | - | - | - | - | - |
+| Pergunta levantada para o requisito. | A pergunta foi respondida? Sim/Não | Expecificação do requisito. | Identificação do requisito. | Tipo do requisito. |
 
-## Recebimento de encomendas
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Pablo S. Costa][PabloGH], 2024 </p></font>
 
-<font size="2"><p><b>Tabela 1</b> - Requisitos elicitados para o Recebimento de encomendas. </p></font>
+</center>
+
+### Recebimento de encomendas
 
 <center>
+
+<font size="2"><p><b>Tabela 2</b> - Requisitos elicitados para o Recebimento de encomendas. </p></font>
 
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
 |--|--|--|--|--|
@@ -43,11 +52,11 @@ Legenda para as tabelas:
 
 </center>
 
-## Realizar uma pré-postagem
+### Realizar uma pré-postagem
 
 <center>
 <font size="2"><p>
-    <b>Tabela 2</b> - Requisitos elicitados para realizar uma pré-postagem.
+    <b>Tabela 3</b> - Requisitos elicitados para realizar uma pré-postagem.
 </p></font>
 
 | Pergunta| Respondida | Requisito elicitado | ID | Código |
@@ -63,11 +72,27 @@ Legenda para as tabelas:
 
 </center>
 
+
+### Minhas importações
+
+<center>
+
+<font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para o Minhas Importações. </p></font>
+
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+|--|--|--|--|--|
+| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | AD01 |  |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
+
+</center>
+
 ### Requisitos Funcionais
 
 <center>
 
-<font size="2"><p> **Tabela 3** - Requisitos Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 5** - Requisitos Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -90,7 +115,7 @@ Legenda para as tabelas:
 
 <center>
 
-<font size="2"><p> **Tabela 4** - Requisitos Não-Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 6** - Requisitos Não-Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
