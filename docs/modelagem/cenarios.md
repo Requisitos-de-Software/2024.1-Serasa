@@ -83,15 +83,15 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 <font><p style="text-align: center">Tabela 06 - Cenário para gerenciar minhas importações</p></font>
 
 | **Elemento** | **Descrição** |
-| | |
-| **Título** | |
-| **Objetivo** | |
-| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** | |
-| **Recursos** | |
-| **Episódios** | |
-| **Exceções** | |
-| **Restrições** | |
+|-------------|----------------|
+| **Título** | Gerenciamento de Importações |
+| **Objetivo** | Permitir que o usuário gerencie suas importações, resolva pendências alfandegárias e mantenha-se atualizado sobre o status de suas encomendas. |
+| **Contexto** | **Local**:  Qualquer local com acesso ao aplicativo dos Correios <br><br> **Tempo**:  Qualquer horário<br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> Aplicativo instalado <li> Acesso à internet <li>Possuir conta no aplicativo dos Correios <li> Código de rastreio <li> Ter realizado importações </ul> |
+| **Atores** | Usuário, Sistema de Gerenciamento de Importações, Alfândega |
+| **Recursos** | Aplicativo de gerenciamento de importações, Banco de dados de importações, Interface de usuário responsiva, Notificações push, Métodos de pagamento integrados |
+| **Episódios** | 1. O usuário acessa a lista de importações.<br>2. O usuário seleciona uma importação para resolver pendências.<br>3. O usuário fornece documentos necessários ou realiza pagamentos.<br>4. O usuário recebe confirmação de que a pendência foi resolvida.<br>5. O usuário visualiza o histórico de importações e pendências resolvidas. |
+| **Restrição**   | O aplicativo deve estar em conformidade com as regulamentações alfandegárias e proteger a privacidade e segurança dos dados do usuário. |
+| **Exceção**     | Falhas de conexão com a internet, problemas de autenticação do usuário, indisponibilidade do sistema de gerenciamento de importações ou falhas no processamento de pagamentos. |
 
 <font><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
 
