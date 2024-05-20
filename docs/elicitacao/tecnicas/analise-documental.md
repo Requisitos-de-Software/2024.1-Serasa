@@ -31,9 +31,11 @@
 | Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder escolher o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 | 
 | O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 |
 | A opção de locker é útil?| Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 |
+| É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar  local de de rebimento da encomenda | AD05 |
+| Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 |
 | O tempo de resposta nessa área é bom? | Não |  |
-| Essa funcionalidade já existe no site, sua interface é útil? | Sim | A interface deve ser intuitiva para fácil realização do procedimento. | AD05 |
-| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser de fácil acesso, pela página principal. | AD06 |
+| Essa funcionalidade já existe no site, sua interface é útil? | Sim | A interface deve ser intuitiva para fácil realização do procedimento. | AD07 |
+| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser de fácil acesso, pela página principal. | AD08 |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 

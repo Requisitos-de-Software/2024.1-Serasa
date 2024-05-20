@@ -68,6 +68,8 @@ Legenda para elementos da tabela 1 e 2:
 | AD02 | O usuário deve escolher o método de recebimento em até 3 cliques desde iniciar a ação. | RF44 | Não |
 | AD03 | O sistema deve permitir que o usuário reserve o locker mais próximo de sua casa com base no CEP informado, de acordo com a disponibilidade. | RF45 | Não |
 | AD04 | O usuário deve ser notificado quando o recebimento for efetuado. | RF46 | Não |
+| AD05 | O usuário deve poder mudar local de de rebimento da encomenda | RF47 | Não |
+| AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF48 | Não |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
@@ -111,8 +113,8 @@ Legenda para elementos da tabela 1 e 2:
 | Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF34 | Sim |
 | Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF35 | Sim |
 | Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF36 | Não |
-| AD05 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF38 | Não | 
-| AD06 | A funcionalidade deve ser de fácil acesso pela página principal | RNF37 | Não |
+| AD07 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF38 | Não | 
+| AD08 | A funcionalidade deve ser de fácil acesso pela página principal | RNF37 | Não |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
