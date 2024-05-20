@@ -35,7 +35,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | <a id="cep">**L09 - CEP**</a> | Objeto | É a sigla de Código de Endereçamento Postal que serve para organizar e facilitar a postagem, <a href="#rastrear">rastreio</a> e distribuição das <a href="#encomenda">encomendas</a> de forma lógica. | O CEP é utilizado para identificar rapidamente o endereço que será utilizado para fins de <a href="#simular">simulação</a> e postagens das <a href="#encomenda">encomendas</a> e correspondências.  | Código de Endereçamento Postal |[Claudio Henrique](https://github.com/claudiohsc) |
 
 
-<center>**Fonte**: Autores das descrições dos léxicos do tipo Objetos, 2024. </center>
+<center>**Fonte**: Autores, 2024. </center>
 
 ## Verbo
 
@@ -53,7 +53,7 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 |<a id="taxar">**L15 - Taxar**</a> | Verbo | Ato de fazer a cobrança de um imposto, multa ou outros tributos monetários. | Possibilita o usuário implementar cobranças devidas de tributos e taxas aplicáveis às <a href="#encomenda">encomendas</a>.  | Tributar, Tarifar. |[Pablo Santos](https://github.com/pabloheika) |
 |<a id="rastrear">**L16 - Rastrear**</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
-<center>**Fonte**: Autores das descrições dos léxicos do tipo Verbo, 2024. </center>
+<center>**Fonte**: Autores, 2024. </center>
 
 
 ## Estado
@@ -73,7 +73,7 @@ Nos léxicos do tipo estado são definidos: qual o significado das ações e qua
 | <a id="transito">**L23 - Em Trânsito**</a> | Estado | A <a href="#encomenda">encomenda</a> está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da <a href="#encomenda">encomenda</a> está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
 | **L24 - Entregue** | Estado | A <a href="#encomenda">encomenda</a> foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a <a href="#encomenda">encomenda</a> e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
 
-<center>**Fonte**: Autores das descrições dos léxicos do tipo Estado, 2024. </center>
+<center>**Fonte**: Autores, 2024. </center>
 
 
 
