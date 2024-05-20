@@ -134,21 +134,21 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 7. Buscar por documentos perdidos :
 
-| Título |
+| **Título** |
 | |
 | Buscar por Documentos Perdidos |
-| Objetivo |
+| **Objetivo** |
 | Permitir ao usuário do aplicativo dos Correios verificar se seus documentos perdidos foram encontrados e estão disponíveis para retirada. |
-| Contexto |
-|Local: Qualquer local com acesso ao aplicativo dos Correios <br><br> Tempo: Qualquer horário <br><br> Pré-condição: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Informações sobre o tipo de documento e nome completo </ul>|
-| Atores |
+| **Contexto** |
+|**Local**: Qualquer local com acesso ao aplicativo dos Correios <br><br> **Tempo**: Qualquer horário <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>Aplicativo instalado <li>Acesso à internet <li>Possuir conta no aplicativo <li>Informações sobre o tipo de documento e nome completo </ul>|
+| **Atores** |
 | Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
-| Recursos |
+| **Recursos** |
 | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre os documentos perdidos |
-| Episódios |
+| **Episódios** |
 | Usuário acessa a tela de busca por documentos perdidos <br><br> Usuário seleciona o tipo de documento <br><br> Usuário insere o nome completo <br><br> Usuário clica no botão "Buscar" <br><br> Aplicativo verifica nos registros de achados e perdidos <br><br> Aplicativo exibe resultados indicando se o documento foi encontrado ou não <br><br> Caso encontrado, aplicativo fornece informações sobre a agência onde o documento pode ser retirado <br><br> Usuário pode optar por mais informações ou instruções de retirada |
 
-<font size="2"><p style="text-align: center"> [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
 ## Bibliografia
 > 1. Engenharia de Requisitos - Sheila Reinehr. Acesso 15 de maio de 2024.
