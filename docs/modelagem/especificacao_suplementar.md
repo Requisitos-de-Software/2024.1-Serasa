@@ -2,21 +2,86 @@
 
 ## Introdução
 
-## Subtitulo
+Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema.1 Ela é complementar aos casos de uso, pois ela captura os requisitos do sistema que não foram elicitados no método anterior. Entre os requisitos capturados estão incluídos: Requisitos legais e de regulamentação, padrões de aplicativos, atributos de qualidade, requisitos de utilidade, confiabilidade, desempenho, suportabilidade e outros requisitos como sistemas e ambientes operacionais, requisitos de compatibilidade e restrições de design. A metodologia mais utilizada para a produção de uma especificação suplementar é a FURPS+.
+## Metodologia
 
-<font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
+Para a produção desse artefato será utilizado uma versão modificada do FURPS+, que é uma metodologia na qual os requisitos são dividido nas seguintes categorias: F de Functionality (Funcionalidade), U de Usability (Usabilidade), R de Reliability (Confiabilidade), P de Performance (Desempenho), S de Supportability (Suportabilidade) e + que engloba outros requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos). Nessa versão os requisitos de interface, além da seção de componentes adquiridos serão omitidos, dado que são atributos já especificados em outros artefatos, como os requisitos não-funcionais elicitados pelas técnicas de Observação, de Questionário e de Brainstorming.
+
+## Usabilidade
+
+Diz respeito ao quão fácil é para o usuário realizar uma tarefa com a aplicação.
+
+Para essa categoria os requisitos identificados estão representados na tabela 1 a seguir.
+
+<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
 
 <center>
 
-| Coluna 1 | Coluna 2 | Coluna 3 |
-|:--------:|----------|---------:|
-|1.1|1.2|1.2|
-|2.1|2.2|2.3|
-|3.1|3.2|3.3|
+| ID    | Descrição                                                                                                                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| USA01 | O app deverá ter uma interface fluída e estável                         |
+| USA02 | O sistema de envio de encomendas deve ser robusto o suficiente para lidar com diferentes tipos de objetos      |
+| USA03 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado                                                                         |
+| USA04 | O aplicativo requer uma interface amigável e fácil de usar.                                   |
+| USA05 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
+| USA06 | O aplicativo deve fornecer notificações sobre o status da entrega.      |
+| USA07 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo)      |
+| USA08 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente |
+| USA09 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"       |
+| USA10 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda      |
+| USA11 | O app deve bloquear as funções em caso de furto/roubo      |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
+
+## Confiabilidade
+
+Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+
+Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
+
+<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
+
+<center>
+
+| ID    | Descrição                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| CON01 | O aplicativo deve manter a privacidade dos dados do usuário.                                                                 |
+| CON02 | O acesso aos pagamentos deve ser protegido por autenticação do usuário                                                 |
+| CON03 | A compra de certificados digitais deve ser segura e protegida                                          |
+| CON04 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável                            |
+| CON05 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado                                 |
+| CON06 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano)                      |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
+
+## Desempenho
+
+Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
+
+Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
+
+<font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
+
+| ID    | Descrição                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| DES01 | O app deverá mostrar a localização da entrega em tempo real                              |
+| DES02 | O app deverá possui um código de rastreio mais eficiente e simples                                     |
+| DES03 | O app deverá ter um menor delay nas notificações de entrega                                  |
+| DES04 | O sistema de rastreamento de encomendas deve ser rápido e eficiente |
+| DES05 | A busca por agências deve ser precisa e baseada na localização do usuário          |
+| DES06 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido          |
+| DES07 | A visualização de mensagens deve ser rápida e fácil de usar          |
+| DES08 | A busca por objetos perdidos deve ser eficiente e precisa          |
+| DES09 | O aplicativo requer uma interface amigável e fácil de usar.          |
+| DES10 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas)          |
+| DES11 | O aplicativo deve notificar o usuário com eficácia (deve enviar uma notificação 100% das vezes em que houver uma atualização sobre qualquer encomenda)          |
+| DES12 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda)          |
+
+<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Bibliografia
 
