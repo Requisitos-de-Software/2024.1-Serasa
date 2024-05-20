@@ -36,7 +36,7 @@ Analisando o gráfico 01 logo acima percebe-se que a faixa etária com mais inci
 
 A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativo serem homens, com quase três quartos do total sendo usuários masculinos.
 
-A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativoo serem homens, com mais de três quartos do total sendo usuários masculinos.
+A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativo serem homens, com quase três quartos do total sendo usuários masculinos.
 
 <!-- Gráfico 03 -->
 
@@ -84,7 +84,7 @@ Tendo em vista a figura 04 percebemos que a maior parte dos usuários que partic
 
 Analisando a figura 05 vemos que mais de noventa porcenta dos participantes são solteiros, o que já era um pouco previsível tendo em vista a figura 01 que mostra a maior parte dos usuários sendo jovens de dezoito a vinte e cinco anos.
 
-Analisando a figura 05
+Analisando a figura 05 vemos que mais de noventa porcenta dos participantes são solteiros, o que já era um pouco previsível tendo em vista o gráfico um que mostra a maior parte dos usuários sendo jovens de dezoito a vinte e cinco anos.
 
 <!-- Gráfico 06 -->
 
