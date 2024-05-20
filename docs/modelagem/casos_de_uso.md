@@ -56,6 +56,8 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 ### 1. Calcular preços e prazos de entrega
 
+Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "Calcular preços e prazos de entrega".
+
 <font size="2"><p style="text-align: center">Tabela 3 - Calcular preços e prazos de entrega.</p></font>
 
 <center>
@@ -66,8 +68,8 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 | **Atores** | Usuário |
 | **Pré-condição** | 1. Estar conectado à internet<br>2.Usuário estar na tela inicial ou menu. |
 | **Pós-condição** | O usuário deve visualizar as comparações de serviços de entrega. |
-| **Fluxo principal** | 1.  Na seção Preços e Prazos, o usuário seleciona a opção Nacional.<br>3. O aplicativo exibe uma tela com as informações de CEP, formato do 	objeto, peso e o valor declarado.<br>4. O usuário cadastra todas as informações e clica em "Simular".<br>5. O aplicativo exibe uma tela com as comparações dos tipos de serviços. |
-| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
+| **Fluxo principal** | 1.  Na seção "Preços e Prazos", o usuário seleciona a opção "Nacional".<br>2. O aplicativo exibe uma tela com as informações de CEP, formato do objeto, peso e o valor declarado.<br>3. Nos campos de CEP, o usuário escreve o CEP e seleciona clicando no símbolo de "Lupa" ao lado.<br> 4. Depois, o usuário escolhe o formato do objeto e informa as dimensões. <br> 5. O usuário seleciona o peso do objeto. <br> 6. O usuário informa o valor declarado. <br> 7. Após o usuário cadastrar todas as informações, ele clica em "Simular".<br>8. O aplicativo exibe uma tela com as comparações dos tipos de serviços, exibindo os preços e prazos de entrega. |
+| **Fluxo alternativo** | <ol> <li value = "1"> **CEP inválido**</li> <ol> <li> Na seção "Preços e Prazos", o usuário seleciona a opção "Nacional".</li> <li> O aplicativo exibe uma tela com as informações de CEP, formato do objeto, peso e o valor declarado.</li> <li>Nos campos de CEP, o usuário escreve um CEP inválido e seleciona clicando no símbolo de "Lupa" ao lado.</li><li>O aplicativo exibe uma mensagem abaixo do campo sinalizando o CEP inválido. Finaliza o fluxo.</li> </ol> <li value = "2"> **Campos em Branco** <ol> <li> Na seção "Preços e Prazos", o usuário seleciona a opção "Nacional".</li> <li> O aplicativo exibe uma tela com as informações de CEP, formato do objeto, peso e o valor declarado.</li> <li>O usuário deixa todos os campos em branco.</li><li>O usuário clica em "Simular", em seguida o aplicativo exibe uma mensagem abaixo do campos obrigatórios sinalizando que o CEP e o formato devem ser informados. Finaliza o fluxo.</li> </ol>  <li value = "3"> **Embalagem dos Correios** </li> <ol> <li> Na seção "Preços e Prazos", o usuário seleciona a opção "Nacional".</li> <li> O aplicativo exibe uma tela com as informações de CEP, formato do objeto, peso e o valor declarado.</li> <li>Nos campos de CEP, o usuário escreve o CEP e seleciona clicando no símbolo de "Lupa" ao lado.</li><li>Depois, o usuário escolhe o formato do objeto, e seleciona a opção "Correios". </li><li>O aplicativo exibe uma lista de embalagens dos Correios.</li> <li>O usuário seleciona alguma embalagem, e o aplicativo volta a tela anterior.</li> <li>O usuário informa o valor declarado.</li><li>Após o usuário cadastrar todas as informações, ele clica em "Simular".</li> <li>O aplicativo exibe uma tela com as comparações dos tipos de serviços, exibindo os preços e prazos de entrega.</li> </ol> |
 | **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
 
 </center>
