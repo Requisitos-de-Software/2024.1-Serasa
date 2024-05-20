@@ -4,37 +4,41 @@ Os cenários são parte da composição de um caso de uso. Em um cenário temos 
 ## Metodologia
 Como metodologia, usamos o método em que um cenário deve ter os seguintes elementos característicos: contexto, atores, objetivos, planejamento, ações, eventos e avaliações (CARROLL, 2002; COOPER, 1999), sendo feito da maneira apresentada na Tabela 01, com o título de cada atributo e uma descrição do mesmo.
 
-<font size="2"><p style="text-align: center">Tabela 01 - estrutura de um cenário.</p></font>
+<font ><p style="text-align: center">Tabela 01 - Estrutura de um cenário.</p></font>
 
 | **Elemento** | **Descrição** |
-| | |
+|-------------|----------------|
 | **Título** | Um nome que identifica o cenário. |  
 | **Objetivo** | A finalidade do cenário.  |
 | **Contexto** | Descreve o estado inicial do cenário, suas pré-condições e locais físicos e tempo. |
 | **Atores** | Pessoa ou estruturaorganizacional que tem o papel no cenário. |
 | **Recursos** | Identifica os objetos passivos com os quais lidam os atores. |
-| **Episódios** | Cada episódio apresenta uma ação realizada por um ator onde participam outros atores utilizando os recursos disponíveis, um episódio pode pertencer a outro cenário, e  neles podemos ter restrições e exceções. As restrições são qualquer coisa que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma ação excepsional ou de erro. |
-| **Exceções** | |
-| **Restrições** | |
+| **Episódios** | Cada episódio apresenta uma ação realizada por um ator, na qual participam outros atores utilizando os recursos disponíveis. Um episódio pode pertencer a outro cenário, e neles podemos ter restrições e exceções. As restrições são qualquer coisa que limite um episódio em um cenário. Uma exceção é o tratamento para uma ação excepcional ou de erro.  |
+| **Restrição**   | As características que o cenário deve seguir  |
+| **Exceção**     | O que impedem a realização do cenário  |
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
+
+
+<font><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
 ## Cenários 
 
 ### 1. Calcular preços e prazos de entrega
 
-| **Elemento** | **Descrição** |
-| | |
-| **Título** | |
-| **Objetivo** | |
-| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** | |
-| **Recursos** | |
-| **Episódios** | |
-| **Exceções** | |
-| **Restrições** | |
+<font><p style="text-align: center">Tabela 02 - Cenário para Cálculo de preços e prazos de entrega.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+| **Elemento**    | **Descrição**                                                                           |
+|-------------|-------------------------------------------------------------------------------------|
+| **Objetivo**    |  Calcular preços e prazos através do aplicativo Correios  |
+| **Contexto**    | Local: em casa<br>Tempo: Durante o dia, aproximadamente 2 minutos<br> Pré-condições: ter o CEP de origem e destino, saber o formato e peso da 	encomenda, possuir um celular com sistema Android ou IOS, ter o 	aplicativo Correios Instalado. |
+| **Atores**      |  usuário  |
+| **Recursos**    |  Internet, Sistema Android ou IOS, aplicativo Correios  |
+| **Episódios**   | Na seção Preços e Prazos, o usuário seleciona a opção Nacional. <br> O aplicativo exibe uma tela com as informações de CEP, formato do 	objeto, peso e o valor declarado. <br>O usuário cadastra todas as informações e clica em "Simular". <br> O aplicativo exibe uma tela com as comparações dos tipos de serviços.   |
+| **Restrição**   |  CEP deve existir <br> Dimensões da encomenda devem estar dentro dos padrões dos Correios.  |
+| **Exceção**     | Celular sem conexão com a internet   |
+
+
+<font><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ### 2. Realizar compras na loja online
 
@@ -49,7 +53,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
+<font><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
 ### 3. Emitir certificados digitais
 
@@ -64,7 +68,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+<font><p style="text-align: center">Fonte: [](), 2024.</p></font>
 
 ### 4. Realizar pré-postagem
 
@@ -79,7 +83,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
+<font><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
 
@@ -94,7 +98,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
+<font><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
 
 ### 6. Rastrear encomendas
 
@@ -109,7 +113,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
+<font><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
 ### 7. Buscar por documentos perdidos :
 
@@ -124,7 +128,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 | **Exceções** | |
 | **Restrições** | |
 
-<font size="2"><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
+<font><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
 ## Bibliografia
 > 1. Engenharia de Requisitos - Sheila Reinehr. Acesso 15 de maio de 2024.
