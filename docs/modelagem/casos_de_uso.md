@@ -30,13 +30,11 @@ Existem alguns tipos de relacionamento:
 - Extensão: indica que um caso de uso estendido será realizado somente algumas vezes em que um caso de uso base for realizado, só irá ocorrer quando alguns critérios forem cumpridos. É representado por uma seta tracejada apontando do caso estendido para o caso de uso base;
 - Generalização (ou herança): indica uma hierarquia entre os casos de uso. Isso significa que um caso de uso especializado (secundário) herda comportamentos e características de um caso de uso geral (primário), mas também cada caso de uso secundário acrescenta algo novo ao caso de uso. É representado por uma seta simples, apontado do caso de uso secundário para o primário.
 
-
-
 ## Diagrama de Casos de Uso
 
 ## Especificação dos casos de uso
 
-Modelo:
+A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema, na tebela 1 temos o modelo base usado em nossas especificações dos casos de uso.
 
 <font size="2"><p style="text-align: center">Tabela 2 - Modelo de especificação de caso de uso.</p></font>
 
@@ -81,6 +79,23 @@ Modelo:
 ### 4. Realizar pré-postagem
 
 ### 5. Gerenciar minhas importações
+<font size="2"><p style="text-align: center">Tabela 7 - Especificação de caso de uso para gerenciar minhas importações.</p></font>
+
+<center>
+
+| UCxx | Gerenciar minhas importações |
+|-|-|
+| **Descrição** | <p>Neste caso de uso o usuario pode consultar e resolver situações alfandegarias.</p> |
+| **Atores** | <p></p> |
+| **Pré-condição** | <p>Acesso a internet<br>App instalado<br>Usuario autenticado</p> |
+| **Pós-condição** | <p>Usuario sem pendencias alfandegarias.</p> |
+| **Fluxo principal** | <p>A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.</p> |
+| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
+| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ### 6. Rastrear encomendas
 
@@ -97,9 +112,6 @@ Modelo:
 | **Fluxo principal** | <p>1. O usuário acessa o site dos correios. <br> 2. O usuário acessa a página de rastreamento de encomendas. <br>3. O usuário insere o número de rastreamento da sua encomenda. <br>4. O sistema verifica o número de rastreamento e recupera as informações da encomenda. <br>5. O sistema exibe ao usuário o status atualizado da sua encomenda, incluindo sua localização e status de entrega.</p> |
 | **Fluxo alternativo** | <p>1. Se o número de rastreamento fornecido pelo usuário for inválido, o sistema exibe uma mensagem de erro. <br> 2. O usuário pode corrigir o número de rastreamento e tentar novamente.</p> |
 | **Fluxo de exceções** | <p>1. Se houver um problema ao recuperar as informações da encomenda, como falha de conexão com o serviço de rastreamento, o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde.</p> |
-
-
-
 
 </center>
 
@@ -127,9 +139,11 @@ Modelo:
 
 ## Bibliografia
 
-> 1. Tutorial de Caso de Uso UML. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 15 de maio de 2024.
+> 1. Tutorial de Caso de Uso UML. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 15 de Maio de 2024.
 >
-> 2. SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acessado em 14 de maio de 2024.
+> 2. SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acessado em 14 de Maio de 2024.
+>
+> 3. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo Bilheteria Digital. Disponível em : https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 19 de Maio de 2024
 ‌
 
 ## Histórico de Versões
