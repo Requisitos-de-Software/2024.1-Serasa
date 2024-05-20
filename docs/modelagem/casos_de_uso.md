@@ -34,7 +34,7 @@ Existem alguns tipos de relacionamento:
 
 ## Especificação dos casos de uso
 
-A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema, na tebela 1 temos o modelo base usado em nossas especificações dos casos de uso.
+A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema, na tabela 2 temos o modelo base usado em nossas especificações dos casos de uso.
 
 <font size="2"><p style="text-align: center">Tabela 2 - Modelo de especificação de caso de uso.</p></font>
 
@@ -56,18 +56,36 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 ### 1. Calcular preços e prazos de entrega
 
-### 2. Realizar compras na loja online
+<font size="2"><p style="text-align: center">Tabela 3 - Calcular preços e prazos de entrega.</p></font>
 
-<font size="2"><p style="text-align: center">**Tabela 4 - Realizar Compras na Loja Online.**</p></font>
 <center>
 
-| UC02 | Nome do caso de uso |
+| UC01 | Calcular preços e prazos de entrega |
+|-|-|
+| **Descrição** | Permite o usuário simular os preços e prazos de uma entrega antes de postá-la. |
+| **Atores** | Usuário |
+| **Pré-condição** | 1. Estar conectado à internet<br>2.Usuário estar na tela inicial ou menu. |
+| **Pós-condição** | O usuário deve visualizar as comparações de serviços de entrega. |
+| **Fluxo principal** | 1.  Na seção Preços e Prazos, o usuário seleciona a opção Nacional.<br>3. O aplicativo exibe uma tela com as informações de CEP, formato do 	objeto, peso e o valor declarado.<br>4. O usuário cadastra todas as informações e clica em "Simular".<br>5. O aplicativo exibe uma tela com as comparações dos tipos de serviços. |
+| **Fluxo alternativo** | <p>Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal.</p> |
+| **Fluxo de exceções** | <p>Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.</p> |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+### 2. Realizar compras na loja online
+
+<font size="2"><p style="text-align: center">Tabela 4 - Realizar Compras na Loja Online.</p></font>
+<center>
+
+| UC02 | Realizar compras na loja online |
 |-|-|
 | **Descrição** | <p>Neste caso de uso é possível realizar compras de diversos itens na loja online.</p> |
 | **Atores** | <p>Usuário</p> |
 | **Pré-condição** | <p> 1. É necessário que o usuário acesse a página da loja online dos correios e esteja logado. </p> |
 | **Pós-condição** | <p>O usuário realiza uma compra na loja online.</p> |
-| **Fluxo principal** | <p>1.O usuário navega até a opção compras e logo em seguida loja online. <br>2. O usuário realiza o seu cadastro/login.<br>3.O usuário escolhe um ou mais produtos clicando neles e prosseguindo através da opção "Comprar". <br>4. O usuário edita a quantidade de itens antes de fechar a compra.<5. O usuário insere o CEP ou edita ele.> <br>6. O usuário prossegue para a etapa de pagamento clicando em fechar pedido. <br> 7.O Usuário escolhe a forma de pagamento e finaliza a compra.  <p> |
+| **Fluxo principal** | <p>1.O usuário navega até a opção compras e logo em seguida loja online. <br>2. O usuário realiza o seu cadastro/login.<br>3.O usuário escolhe um ou mais produtos clicando neles e prosseguindo através da opção "Comprar". <br>4. O usuário edita a quantidade de itens antes de fechar a compra.<br>5. O usuário insere o CEP ou edita ele. <br>6. O usuário prossegue para a etapa de pagamento clicando em fechar pedido. <br> 7.O Usuário escolhe a forma de pagamento e finaliza a compra.  <p> |
 | **Fluxo alternativo** |  |
 | **Fluxo de exceções** |  |
 
@@ -85,7 +103,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 | **Pré-condição** | <ul> <li> Ter acesso ao app <li> Possuir conexão com a internet <li> Estar logado na conta dos Correios <ul> |
 | **Pós-condição** | Usuário recebe um código de confirmação da pré-postagem |
 | **Fluxo principal** | <ol> <li> **Usuário faz o login** <li> **Usuário acessa a funcionalidade de pré-postagem** <li> **Usuário insere informações sobre endereço e objeto** <li> **Usuário adiciona pré-postagem ao carrinho** <li> **Usuário realiza pagamento** <ol> |
-| **Fluxo alternativo** | <ol> <li value = "4"> **Usuário adiciona pré-postagem ao carrinho** <ul> <li> Usuário decidi adicionar mais uma postagem ao carrinho <li> usuário decidi remover uma, ou mais, postagens do carrinho </ul> <li value = "5"> **Usuário realiza pagamento** <ul> <li> Usuário escolhe pagar com pix <li> Usuário escolhe pagar com boleto </ul> <ol> |
+| **Fluxo alternativo** | <ol> <li value = "4"> **Usuário adiciona pré-postagem ao carrinho** <ul> <li> Usuário decide adicionar mais uma postagem ao carrinho <li> usuário decide remover uma, ou mais, postagens do carrinho </ul> <li value = "5"> **Usuário realiza pagamento** <ul> <li> Usuário escolhe pagar com pix <li> Usuário escolhe pagar com boleto </ul> <ol> |
 | **Fluxo de exceções** | <ol> <li> **Usuário faz o login** <ul> <li> Usuário fornece informações de login incorretas </ul> <li value = "3"> **Usuário insere informações sobre endereço e objeto** <ul> <li> Usuário desconhece informações de preechimento obrigatório </ul> <li> **Usuário realiza pagamento** <ul> <li> **Usuário escolhe pagar com pix** <ul> <li> Opção não pode ser escolhida </ul> <li> **Usuário escolhe pagar com boleto** <ul> <li> Opção não pode ser escolhida </ul> </ul> <ol> |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
