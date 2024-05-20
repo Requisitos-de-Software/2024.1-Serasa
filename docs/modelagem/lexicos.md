@@ -44,33 +44,33 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-|<a id="simular">L08 - Simular</a> | Verbo | O usuário pode <a href="#simular">simular</a>, antes do envio, os preços e prazos de entrega de uma <a href="#encomenda">encomenda</a> a partir do CEP de origem e destino. |  | |[Claudio Henrique](https://github.com/claudiohsc) |
-|L09 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|<a id="enviar">L10 - Enviar </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma <a href="#encomenda">encomenda</a> para um destinatário. | A <a href="#encomenda">encomenda</a> é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao <a href="#destinatário">destinatário</a>.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
-|L11 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
-|L12 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
-|L13 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-|<a id="rastrear">L14 - Rastrear</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
+|<a id="simular">L09 - Simular</a> | Verbo | O usuário pode <a href="#simular">simular</a>, antes do envio, os preços e prazos de entrega de uma <a href="#encomenda">encomenda</a> a partir do CEP de origem e destino. |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+|L10 - | Verbo |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|<a id="enviar">L11 - Enviar </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma <a href="#encomenda">encomenda</a> para um destinatário. | A <a href="#encomenda">encomenda</a> é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao <a href="#destinatário">destinatário</a>.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+|L12 - | Verbo |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
+|L13 - | Verbo |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
+|L14 - | Verbo |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+|<a id="rastrear">L15 - Rastrear</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
 <center>**Fonte**: Autores das descrições dos léxicos do tipo Verbo, 2024. </center>
 
 
 ## Estado
 
-Nos léxicos do tipo estado são definidos: qual o significado das ações e quais levaram a esse estado, e mostrar quais outros estados e ações que pode-se chegar e realizar apartir do estado atual. Abaixo na tabela 04 são elencados os léxicos do tipo estado.
+Nos léxicos do tipo estado são definidos: qual o significado das ações e quais levaram a esse estado, e mostrar quais outros estados e ações que pode-se chegar e realizar a partir do estado atual. Abaixo na tabela 04 são elencados os léxicos do tipo estado.
 
 <font size="3"><p style="text-align: center">**Tabela 04: Léxicos do tipo Estado** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-| L15 - | Estado |  |  | |[Claudio Henrique](https://github.com/claudiohsc) |
-| L16 - | Estado |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-| <a id="embaraço_aduaneiro">L17 - Embaraço Aduaneiro </a> | Estado | A  <a href="#encomenda">encomenda</a> fica retida em uma sede de inspeção da receita federal para a averiguação do objeto e possível tributação.O objeto é levado para a aduana por ser identificado algum item que não foi tributado ou foi tributado de maneira incorreta. | Pode-se realizar o <a href="#pagamentodetaxas">pagamento de taxas</a> alfandegárias ou <a href="#cancelar_o_recebimento">cancelar o recebimento</a> da encomenda. | Restrição alfandegária |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
-| L18 - | Estado |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
-| L19 - | Estado |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
-| L20 - | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
-| L21 - Em Trânsito | Estado | A <a href="#encomenda">encomenda</a> está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da <a href="#encomenda">encomenda</a> está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
-| L22 - Entregue | Estado | A <a href="#encomenda">encomenda</a> foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a <a href="#encomenda">encomenda</a> e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
+| <a id="logado">L16 - Usuário logado</a> | Estado | Ocorre quando o usuário faz o seu Login no aplicativo do <a href="#correios">Correios</a>.  | É possível realizar pré-postagem, ver mensagens, vales postais e sobre a conta. Quando o usuário desconecta da sua conta, ele sai do estado atual.  | Usuário conectado |[Claudio Henrique](https://github.com/claudiohsc) |
+| L17 - | Estado |  |  | |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| <a id="embaraço_aduaneiro">L18 - Embaraço Aduaneiro </a> | Estado | A  <a href="#encomenda">encomenda</a> fica retida em uma sede de inspeção da receita federal para a averiguação do objeto e possível tributação.O objeto é levado para a aduana por ser identificado algum item que não foi tributado ou foi tributado de maneira incorreta. | Pode-se realizar o <a href="#pagamentodetaxas">pagamento de taxas</a> alfandegárias ou <a href="#cancelar_o_recebimento">cancelar o recebimento</a> da encomenda. | Restrição alfandegária |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| L19 - | Estado |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
+| L20 - | Estado |  |  | |[Gabriel Fernando](https://github.com/MMcLovin) |
+| L21 - | Estado |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+| L22 - Em Trânsito | Estado | A <a href="#encomenda">encomenda</a> está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da <a href="#encomenda">encomenda</a> está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
+| L23 - Entregue | Estado | A <a href="#encomenda">encomenda</a> foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a <a href="#encomenda">encomenda</a> e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
 
 <center>**Fonte**: Autores das descrições dos léxicos do tipo Estado, 2024. </center>
 
