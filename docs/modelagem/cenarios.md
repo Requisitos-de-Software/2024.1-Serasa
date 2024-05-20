@@ -32,7 +32,7 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 |-------------|-------------------------------------------------------------------------------------|
 | **Objetivo**    |  Calcular preços e prazos através do aplicativo Correios  |
 | **Contexto**    | Local: em casa<br>Tempo: Durante o dia, aproximadamente 2 minutos<br> Pré-condições: ter o CEP de origem e destino, saber o formato e peso da 	encomenda, possuir um celular com sistema Android ou IOS, ter o 	aplicativo Correios Instalado. |
-| **Atores**      |  usuário  |
+| **Atores**      |  Usuário do aplicativo dos Correios  |
 | **Recursos**    |  Internet, Sistema Android ou IOS, aplicativo Correios  |
 | **Episódios**   | Na seção Preços e Prazos, o usuário seleciona a opção Nacional. <br> O aplicativo exibe uma tela com as informações de CEP, formato do 	objeto, peso e o valor declarado. <br>O usuário cadastra todas as informações e clica em "Simular". <br> O aplicativo exibe uma tela com as comparações dos tipos de serviços.   |
 | **Restrição**   |  CEP deve existir <br> Dimensões da encomenda devem estar dentro dos padrões dos Correios.  |
