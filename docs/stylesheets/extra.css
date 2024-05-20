@@ -3,10 +3,12 @@
         width: 90px;
     }
 }
-p{
+body{
     text-align: justify;
 }
-
+.md-nav{
+    text-align: left;
+}
 .logo_correios{
     img{
         border: 10px solid FFD400; 
