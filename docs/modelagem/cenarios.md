@@ -149,6 +149,40 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
+### 8. Mudar endereço de recebimento
+
+<font><p style="text-align: center">Tabela 09 - Cenário para mudar endereço de recebimento.</p></font>
+
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | Mudar endereço de recebimento |
+| **Objetivo** | Conseguir mudar onde a entrega será recebida |
+| **Contexto**| **Local**: Em uma viagem <br><br> **Tempo**:  <br>Qualquer horário do dia<br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>O pacote ainda não foi enviado <li>O aparelho telefônico usado deve ter conexão com a internet <li>Usuário logado corretamente para alterar o destino do recebimento </ul>|
+| **Atores** | Usuário do sistema de recebimento dos Correios <br><br>O aplicativo dos Correios |
+| **Recursos** | Usuário do aplicativo dos Correios <br><br>Aparelho telefônico <br><br>Internet disponível <br><br>Ter um recebimento pelo sistema de Correios <br><br>Conta no aplicativo dos Correios |
+| **Episódios** | Usuário acessa a página principal do aplicativo dos Correios <br><br>Acessa a opção de mudar endereço de recebimento <br><br>Usuário efetua o login <br><br>Seleciona a opção endereço residencial <br><br>Digita o código do pacote que deseja mudar o endereço <br><br>Digita o novo CEP de recebimento <br><br>Aperta a tecla confirma <br><br>Digite a senha para confirmar <br><br>Aplicativo retorna uma mensagem de sucesso <br><br>Quando a encomenda chega ele recebe uma mensagem no próprio aplicativo |
+| **Exceções** | Encomenda já postada <br><br>Dados de login inválidos <br><br> Falha na conexão de internet <br><br>Novo CEP digitado é inválido <br><br>CEP digitado não é cadastrado como residencial |
+| **Restrições** | O prazo de alteração, somente até a encomenda ser postada <br><br>Restrição de localidades de difícil acesso, ou remotas |
+
+<font><p style="text-align: center"> Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+### 9. Receber em um local não residencial
+
+<font><p style="text-align: center">Tabela 08 - Cenário para receber em um local não residencial.</p></font>
+
+| **Elemento** | **Descrição** |
+| | |
+| **Título** | Retirar em um local não residencial |
+| **Objetivo** | Conseguir receber uma encomenda em um local não-residencial |
+| **Contexto**| **Local**: Em uma viagem <br><br> **Tempo**: A qualquer hora do dia <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li>O pacote ainda não ter saído para entrega <li>Ter um aparelho telefônico com o aplicativo dos Correios <li>Ter acesso a internet <li>Uma conta no sistema do Correios </ul>|
+| **Atores** | Usuário do sistema dos Correios <br><br>O aplicativo dos Correios |
+| **Recursos** | Usuário do aplicativo dos Correios <br><br>Aparelho telefônico <br><br>Internet disponível <br><br>Ter um recebimento pelo sistema de Correios <br><br>Conta no aplicativo dos Correios |
+| **Episódios** | Usuário entra na página principal do aplicativo dos Correios <br><br>Seleciona a opção mudar endereço de entrega <br><br>Usuário efetua o login <br><br>Seleciona a opção endereço não residencial <br><br>Escolhe a melhor opção entre locker caixa postal, ou agência mais próxima <br><br>Confirma com senha <br><br>Digita seu CEP para verificar melhores opções <br><br>Aplicativo retorna uma mensagem de sucesso na operação <br><br>Quando a encomenda chega ele recebe uma mensagem no próprio aplicativo |
+| **Exceções** | Encomenda já saiu para entrega <br><br>Não há nenhuma dessas opções disponíveis para o seu CEP <br><br>Falha na conexão de internet ou com servidores dos Correios <br><br>Falha no login do usuário |
+| **Restrições** | Encomendas grandes que não cabem nos lockers ou caixas postais <br><br>Disponibilidade de locais onde as opções estão disponíveis <br><br>Disponibilidade de lockers e caixas postais <br><br>Prazo que as entregas podem ficar nos locais como agências <br><br> Horário de funcionamento das agências |
+
+<font><p style="text-align: center"> Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
 ## Bibliografia
 > 1. Engenharia de Requisitos - Sheila Reinehr. Acesso 15 de maio de 2024.
 > 2. BERGMANN, Ulf; LEITE, Julio Cesar S. do Prado; BREITMAN, Karin Koogan. Um Mecanismo de Rastreamento da Evolução de Cenários Baseado em Transformações. Anais do Simpósio Brasileiro de Engenharia de Software (SBES), [S.l.], p. 63-78, out. 2003. ISSN 0000-0000. Disponível em: <https://sol.sbc.org.br/index.php/sbes/article/view/23853>. Acesso em: 18 maio 2024.
