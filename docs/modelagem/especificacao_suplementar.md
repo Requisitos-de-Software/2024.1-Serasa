@@ -148,7 +148,7 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 15/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.0`  | 20/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) &  [Danilo Carvalho Antuneres](https://github.com/Danilo-Carvalho-Antunes)|  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
