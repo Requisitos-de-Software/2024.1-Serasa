@@ -24,6 +24,8 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 ### 1. Calcular preços e prazos de entrega
 
+O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de entrega". Sua descrição detalhada pode ser encontrada na tabela 2.
+
 <font><p style="text-align: center">Tabela 02 - Cenário para Cálculo de preços e prazos de entrega.</p></font>
 
 | **Elemento**    | **Descrição**                                                                           |
