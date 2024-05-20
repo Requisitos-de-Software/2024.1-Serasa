@@ -111,6 +111,8 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazia][GabrielBGH], 2024.</p></font>
+
 ### 4. Realizar pré-postagem
 
 | UC04 | Realizar pré-postagem |
