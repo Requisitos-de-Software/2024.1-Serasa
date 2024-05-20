@@ -124,6 +124,18 @@ Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
 
 A seção de Ajuda e Documentação de um aplicativo é composta por uma série de recursos projetados para instruir e informar os usuários acerca da operação, funcionalidades e práticas recomendadas para o uso do aplicativo. Esta parte é essencial para assegurar que os usuários consigam empregar o aplicativo eficientemente, esclarecer incertezas e extrair o máximo proveito de suas capacidades. Na tabela 5 temos os requitos elicitados para tal.
 
+<font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
+
+| ID  | Descrição |
+|-----|-----------|
+| AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. |
+| AD02 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?" |
+| AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda |
+| AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) |
+| AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |
+
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ## Bibliografia
 
 > 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
