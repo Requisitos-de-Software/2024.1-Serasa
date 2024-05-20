@@ -79,8 +79,9 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 
 ### 4. Realizar pré-postagem
 
-<font><p style="text-align: center">Tabela 05 - Cenário para realizar pré-postagem.</p></font>
+O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correios, é ilustrado na Tabela 05, detalhando os elementos envolvidos no processo, desde o objetivo até as exceções e restrições encontradas pelo usuário.
 
+<font><p style="text-align: center">Tabela 05 - Cenário para realizar pré-postagem.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -90,8 +91,8 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 | **Atores** | Usuário do aplicativo dos Correios e sistema do aplicativo dos Correios |
 | **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre o endereço do remetente e do destinatário <br><br> Informações sobre a encomenda <br><br> Meio de pagamento |
 | **Episódios** | Usuário acessa a tela de pré-postagem <br><br> Usuário realiza login <br><br> Aplicativo carrega endereço do remetente a partir do endereço principal na conta do usuário <br><br> Usuário insere CEP do destinatário <br><br> Apliativo carrega informações do destinatário a partir do CEP fornecido <br><br> Usuário insere nome, email e número do endereço do destinatário <br><br> Usuário informa tipo da embalagem <br><br> Usuário fornece dimensões da embalagem <br><br> Usuário escolhe serviço SEDEX <br><br> Usuário fornece dados da nota fiscal eletrônica do produto da encomenda <br><br> Usuário confere informações e adiciona postagem ao carrinho <br><br> Usuário escolhe pagar com cartão <br><br> Aplicativo gera pop-up de confirmação do meio de pagamento <br><br> Usuário confirma meio de pagamento, preenche dados do cartão e finaliza a compra |
-| **Exceções** | |
-| **Restrições** | |
+| **Exceções** | Usuário não consegue escolher outro meio de pagamento além de cartão de crédito <br><br> Usuário fecha o app antes de terminar o pagamento e ao voltar, não consegue mais editar o carrinho |
+| **Restrições** | Aplicativo não está fora do ar <br><br> Pelo menos um meio de pagamento deve estar disponível |
 
 <font><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
