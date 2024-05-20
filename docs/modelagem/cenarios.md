@@ -121,14 +121,14 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 | **Elemento** | **Descrição** |
 | | |
-| **Título** | |
-| **Objetivo** | |
-| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** | |
-| **Recursos** | |
-| **Episódios** | |
-| **Exceções** | |
-| **Restrições** | |
+| **Título** | Rastrear encomendas |
+| **Objetivo** | Permitir ao usuário do aplicativo dos Correios rastrear suas encomendas. |
+| **Contexto**| **Local**:  Qualquer local com acesso ao aplicativo dos Correios <br><br> **Tempo**:  Qualquer horário<br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> Aplicativo instalado <li> Acesso à internet <li>Possuir conta no aplicativo dos Correios <li> Código de rastreio </ul> |
+| **Atores** | Usuário do aplicativo dos Correios |
+| **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Código de rastreamento da encomenda |
+| **Episódios** | Usuário acessa a função de rastreamento de encomendas no aplicativo dos Correios <br><br> Usuário acessa aba "Em Trânsito" <br><br> Usuário insere o código de rastreamento da encomenda <br><br> Aplicativo exibe as informações de rastreamento para o usuário |
+| **Restrições** | Aplicativo deve ter acesso à internet <br><br> Código de rastreamento válido deve ser fornecido |
+| **Exceções** | Falha na conexão com a internet <br><br> Código de rastreamento inválido <br><br> Falha no sistema dos Correios ao buscar informações  |
 
 <font><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
