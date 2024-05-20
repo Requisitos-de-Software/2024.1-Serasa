@@ -6,15 +6,20 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 
 <font size="2"><p style="text-align: center">Tabela 01 - estrutura de um cenário.</p></font>
 
-| Título | Descrição |
-|  |  |
-| **Contexto** | Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário. |
-| **Atores** | Pessoas interagindo com o computador ou outros elementos do ambiente; Características pessoas relevantes ao cenário. |
-| **Objetivos** | Efeitos na situação que motivam as ações pelos atores. |
-| **Planejamento** | Atividade mental dirigida para transformar um objetivo em um comportamento ou em um conjunto de ações. |
-| **Ações** | Comportamento observável. |
-| **Eventos** | Ações externas ou reações produzidas pelo computador ou ouras características do ambiente; algumas delas podem ser ocultas ao ator mas importantes para o cenário. |
-| **Avaliação** | Atividade mental dirigida para interpretar a situação. |
+| **Título:** |
+|  |
+| Um nome que identifica o cenário. |  
+| **Objetivo** |
+| A finalidade do cenário.  |
+| **Contexto:** | 
+| Descreve o estado inicial do cenário, suas pré-condições e locais físicos e tempo. |
+| **Atores:** |
+| Pessoa ou estruturaorganizacional que tem o papel no cenário. |
+| **Recursos:** | 
+| Identifica os objetos passivos com os quais lidam os atores. |
+| **Episódios:** |
+| Cada episódio apresenta uma ação realizada por um ator onde participam outros atores utilizando os recursos disponíveis, um episódio pode pertencer a outro cenário, e  neles podemos ter restrições e exceções. As restrições são qualquer coisa que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma ação excepsional ou de erro. |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
@@ -24,6 +29,7 @@ Como metodologia, usamos o método em que um cenário deve ter os seguintes elem
 ## Bibliografia
 > 1. Engenharia de Requisitos - Sheila Reinehr. Acesso 15 de maio de 2024.
 > 2. BERGMANN, Ulf; LEITE, Julio Cesar S. do Prado; BREITMAN, Karin Koogan. Um Mecanismo de Rastreamento da Evolução de Cenários Baseado em Transformações. Anais do Simpósio Brasileiro de Engenharia de Software (SBES), [S.l.], p. 63-78, out. 2003. ISSN 0000-0000. Disponível em: <https://sol.sbc.org.br/index.php/sbes/article/view/23853>. Acesso em: 18 maio 2024.
+> 3. Slides professora Milene presente no site do aprender da matéria de requisitos, disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1218860>. Acesso em: 18 de maio de 2024.
 
 ## Histórico de Versões
 
