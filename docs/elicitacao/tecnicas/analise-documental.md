@@ -61,17 +61,30 @@ Legenda para as tabelas:
 
 | Pergunta| Respondida | Requisito elicitado | ID | Código |
 |--|--|--|--|--|
-| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD10 | RF |
-| O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF |
-| O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD12 | RF |
-| O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações críticas | AD13 | RNF |
-| O aplicativo agiliza o processo de realizar pagamento com cartão de crédito?  | Sim | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | AD14 | RF |
+| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD09 | RF |
+| O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD10 | RF |
+| O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD11 | RF |
+| O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações críticas | AD12 | RNF |
+| O aplicativo agiliza o processo de realizar pagamento com cartão de crédito?  | Sim | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | AD13 | RF |
 
-
+### 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 </center>
 
+### Busca por documentos perdidos
+
+<center>
+
+<font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para o Minhas Importações. </p></font>
+
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+|--|--|--|--|--|
+| O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD14 | RF |
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho][DaniloGH], 2024 </p></font>
+
+</center>
 
 ### Minhas importações
 
@@ -81,18 +94,18 @@ Legenda para as tabelas:
 
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
 |----------|------------|---------------------|----|--------|
-| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD15 | Requisito Funcional |
-| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD16 | Requisito Funcional |
-| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD17 | Requisito Funcional |
-| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD18 | Requisito Funcional |
-| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD19 | Requisito Funcional |
-| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD20 | Requisito Funcional |
-| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD21 | Requisito Funcional |
-| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD22 | Requisito Funcional |
-| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD23 | Requisito Funcional |
-| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD24 | Requisito Não-Funcional |
-| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD25 | Requisito Não-Funcional |
-| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD26 | Requisito Não-Funcional |
+| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD15 | RF |
+| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD16 | RF |
+| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD17 | RF |
+| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD18 | RF |
+| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD19 | RF |
+| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD20 | RF |
+| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD21 | RF |
+| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD22 | RF |
+| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD23 | RF |
+| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD24 | RNF |
+| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD25 | RNF |
+| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD26 | RNF |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
@@ -113,10 +126,22 @@ Legenda para as tabelas:
 | AD04 | O usuário deve ser notificado quando o recebimento for efetuado. | RF | Não |
 | AD05 | O usuário deve poder mudar local de de rebimento da encomenda | RF | Não |
 | AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF | Não |
-| AD07 |      | RF |  |
-| AD08 |      | RF |  |
-| AD09 |      | RF |  |
-| AD010 |     | RF |  |
+| AD09 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | RF |  Sim|
+| AD10 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | RF |  Não|
+| AD11 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | RF | Não |
+| AD12 | O usuário deve ser perguntado sobre a confirmação de operações críticas | RNF | Sim |
+| AD13 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF |  Sim|
+| AD14 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não|
+| AD15 | O Usuário deve ser capaz de gerenciar suas importações | RF | Sim |
+| AD16 | O Usuário deve ser capaz de resolver situações alfandegárias | RF | sim |
+| AD17 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | RF | Sim |
+| AD18 | O usuário deve ser capaz de inserir novas importações | RF | Sim |
+| AD19 | O usuário deve ter acesso a meios de pagamento de taxas | RF | Sim |
+| AD20 | O usuário deve ser notificado sobre atualizações de importações | RF | Sim |
+| AD21 | O usuário deve poder contestar taxas e tributações | RF | Sim |
+| AD22 | O Usuário deve ser capaz de emitir comprovante | RF | Sim |
+| AD23 | O usuário deve ser capaz de emitir DIS | RF | Sim |
+
 
 </center>
 
@@ -130,24 +155,17 @@ Legenda para as tabelas:
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
-| AD0 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF | Não | 
-| AD0 | A funcionalidade deve ser de fácil acesso pela página principal | RNF | Não |
-| AD012 |      | RNF |  |
-| AD013 |      | RNF |  |
-| AD014 |      | RNF |  |
-| AD015 |      | RNF |  |
-| AD016 |      | RNF |  |
-| AD017 |      | RNF |  |
-| AD018 |      | RNF |  |
-| AD019 |      | RNF |  |
-| AD012 |      | RNF |  |
-
+| AD07 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF38 | Não | 
+| AD08 | A funcionalidade deve ser de fácil acesso pela página principal | RNF37 | Não |
+| AD24 | As informações devem ser atualizadas em tempo de execução | RNF | Sim |
+| AD25 | A liberação das encomendas deve ser automática | RNF | Sim |
+| AD26 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim |
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 ## Referências
-> 1. Retraining Requirements Enginereeing. Análise de Documentos, 2024. Disponível em: [URL](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 20 de maio de 2024.
+> 1. Retraining Requirements Enginereeing. Análise de Documentos, 2024. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos. Acesso em: 20 de maio de 2024.
 > 2. Vazquez, Carlos. Simões, Guilherme. Engenharia de Requisitos. Brasport, 2016. Disponível em: .Acesso em: 20 de maio de 2024
 
 ## Bibliografia
