@@ -60,7 +60,7 @@ Os requisitos 5, 6 e 7 não foram elicitados pelas técnicas utilizadas pelo gru
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 20/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 20/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
