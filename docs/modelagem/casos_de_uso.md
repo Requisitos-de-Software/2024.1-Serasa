@@ -99,7 +99,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 <font size="2"><p style="text-align: center">**Tabela 5 - Mudar locais de recebimento de pacotes.**</p></font>
 <center>
 
-| UCxx | Nome do caso de uso |
+| UC03 | Nome do caso de uso |
 |-|-|
 | **Descrição** | <p>Usuário quer mudar o endereço de recebimento de um pacote</p> |
 | **Atores** | <p>Usuário</p> |
@@ -132,7 +132,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 <center>
 
-| UCxx | Gerenciar minhas importações |
+| UC05 | Gerenciar minhas importações |
 |-|-|
 | **Descrição** | <p>Neste caso de uso o usuario pode consultar e resolver situações alfandegarias.</p> |
 | **Atores** | <p></p> |
