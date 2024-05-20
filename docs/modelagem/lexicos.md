@@ -6,7 +6,7 @@ O léxico é uma notação utilizada para apresentar os símbolos de uma linguag
 
 Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.md) na etapa anterior identificamos e apresentamos os devidos léxicos separando em três tipos de classificação que são: Objeto, Verbo e Estado que são descritos logo abaixo. Na tabela 01 é mostrado o formato ao qual os léxicos estão estruturados, para a criação dos léxicos utilizamos o LAL (Léxico Ampliado da Imagem) que é uma maneira mais refinada de registro de termos próprios da aplicação.
 
-<font size="3"><p style="text-align: center">**Tabela 01: Formato do Léxico** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 01 - Formato do Léxico** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
@@ -20,7 +20,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 
 Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais se relaciona e as ações que poderão ser empregadas ao objeto. Na tabela 02 logo abaixo estão descritos os léxicos do tipo objeto.
 
-<font size="3"><p style="text-align: center">**Tabela 02: Léxicos do tipo Objeto** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 02 - Léxicos do tipo Objeto** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
@@ -30,7 +30,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | **L04 -** | Objeto |  |  | |[Gabriel Basto](https://github.com/Bertolazi) |
 | <a id="destinatario">**L05 - Destinatário**</a> | Objeto | Pessoa que recebe uma <a href="#encomenda">encomenda</a> <a href="#enviar">enviada</a> por um <a href="#remetente">remetente</a> | Tem suas informações preenchidas durante a <a href=#prepostagem>pré-postagem</a> | |[Gabriel Fernando](https://github.com/MMcLovin) |
 | <a id="remetente">**L06 - Remetente**</a> | Objeto | Usuário do aplicativo dos <a href="#correios">Correios</a> que <a href="#enviar">envia</a> uma <a href="#encomenda">encomenda</a> | É o responsável por preencher as informações da <a href=#prepostagem>pré-postagem</a> | | [Gabriel Fernando](https://github.com/MMcLovin) |  
-| **L07 -** | Objeto |  |  | |[Pablo Santos](https://github.com/pabloheika) |
+| **L07 - Alfândega** | Objeto | A alfândega é um órgão governamental oficial responsável pelo controle das operações de entrada e saída de mercadorias do país, tanto para o exterior quanto provenientes dele. Além disso, a alfândega é encarregada de cobrar os tributos e taxas aduaneiras aplicáveis às mercadorias que cruzam as fronteiras. | Entidade responsável por informar e manter as situações alfandegárias das encomendas internacionais nos Correios. |Aduana |[Pablo Santos](https://github.com/pabloheika) |
 | **L08 - Código de rastreio** | Objeto | Sequência de caracteres alfanuméricos que representa a <a href="#encomenda">encomenda</a> e permite rastrear e verificar seu status. | Acompanhar o status e localização da <a href="#encomenda">encomenda</a>. | Número de rastreio |[Ricardo Augusto](https://github.com/avmricardo) |
 | <a id="cep">**L09 - CEP**</a> | Objeto | É a sigla de Código de Endereçamento Postal que serve para organizar e facilitar a postagem, <a href="#rastrear">rastreio</a> e distribuição das <a href="#encomenda">encomendas</a> de forma lógica. | O CEP é utilizado para identificar rapidamente o endereço que será utilizado para fins de <a href="#simular">simulação</a> e postagens das <a href="#encomenda">encomendas</a> e correspondências.  | Código de Endereçamento Postal |[Claudio Henrique](https://github.com/claudiohsc) |
 
@@ -41,7 +41,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 
 Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quais os processos realizados e quais os reflexos da ação no ambiente. Abaixo na tabela 03 estão descritos os léxicos do tipo verbo.
 
-<font size="3"><p style="text-align: center">**Tabela 03: Léxicos do tipo Verbo** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 03 - Léxicos do tipo Verbo** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
@@ -60,7 +60,7 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 
 Nos léxicos do tipo estado são definidos: qual o significado das ações e quais levaram a esse estado, e mostrar quais outros estados e ações que pode-se chegar e realizar a partir do estado atual. Abaixo na tabela 04 são elencados os léxicos do tipo estado.
 
-<font size="3"><p style="text-align: center">**Tabela 04: Léxicos do tipo Estado** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 04 - Léxicos do tipo Estado** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
