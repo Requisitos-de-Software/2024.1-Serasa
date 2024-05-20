@@ -59,25 +59,7 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 
 <font><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
-### 3. Emitir certificados digitais
-
-<font><p style="text-align: center">Tabela 04 - Cenário para .</p></font>
-
-
-| **Elemento** | **Descrição** |
-| | |
-| **Título** | |
-| **Objetivo** | |
-| **Contexto**| **Local**:  <br><br> **Tempo**:  <br><br> **Pré-condição**: <ul style="list-style; padding-left: 70px;"> <li> oi </ul>|
-| **Atores** | |
-| **Recursos** | |
-| **Episódios** | |
-| **Exceções** | |
-| **Restrições** | |
-
-<font><p style="text-align: center">Fonte: [](), 2024.</p></font>
-
-### 4. Realizar pré-postagem
+### 3. Realizar pré-postagem
 
 O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correios, é ilustrado na Tabela 05, detalhando os elementos envolvidos no processo, desde o objetivo até as exceções e restrições encontradas pelo usuário.
 
@@ -96,10 +78,9 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
 
-### 5. Gerenciar minhas importações
+### 4. Gerenciar minhas importações
 
 <font><p style="text-align: center">Tabela 06 - Cenário para gerenciar minhas importações</p></font>
-
 
 | **Elemento** | **Descrição** |
 | | |
@@ -114,10 +95,9 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center">Fonte: [Pablo S. Costa](PabloGH), 2024.</p></font>
 
-### 6. Rastrear encomendas
+### 5. Rastrear encomendas
 
 <font><p style="text-align: center">Tabela 07 - Cenário para rastrear encomendas.</p></font>
-
 
 | **Elemento** | **Descrição** |
 | | |
@@ -132,7 +112,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
-### 7. Buscar por documentos perdidos:
+### 6. Buscar por documentos perdidos:
 
 <font><p style="text-align: center">Tabela 08 - Cenário para buscar por documentos perdidos.</p></font>
 
@@ -149,7 +129,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
-### 8. Mudar endereço de recebimento
+### 7. Mudar endereço de recebimento
 
 <font><p style="text-align: center">Tabela 09 - Cenário para mudar endereço de recebimento.</p></font>
 
@@ -166,7 +146,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 <font><p style="text-align: center"> Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-### 9. Receber em um local não residencial
+### 8. Receber em um local não residencial
 
 <font><p style="text-align: center">Tabela 08 - Cenário para receber em um local não residencial.</p></font>
 
@@ -192,7 +172,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 15/04/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | |
+| `1.0`  | 15/04/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
