@@ -80,8 +80,19 @@ Legenda para as tabelas:
 <font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para o Minhas Importações. </p></font>
 
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
-|--|--|--|--|--|
-| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | AD01 |  |
+|----------|------------|---------------------|----|--------|
+| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD15 | Requisito Funcional |
+| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD16 | Requisito Funcional |
+| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD17 | Requisito Funcional |
+| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD18 | Requisito Funcional |
+| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD19 | Requisito Funcional |
+| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD20 | Requisito Funcional |
+| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD21 | Requisito Funcional |
+| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD22 | Requisito Funcional |
+| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD23 | Requisito Funcional |
+| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD24 | Requisito Não-Funcional |
+| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD25 | Requisito Não-Funcional |
+| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD26 | Requisito Não-Funcional |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
@@ -155,7 +166,7 @@ Legenda para as tabelas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa](https://github.com/pabloheika)  | []()  |
+| `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | []()  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
