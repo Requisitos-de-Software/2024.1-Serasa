@@ -129,7 +129,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-### 7. Buscar por documentos perdidos em envios:
+### 7. Buscar por documentos perdidos:
 
 <font size="2"><p style="text-align: center">Tabela 9 - Buscar por documentos perdidos em envios.</p></font>
 
@@ -147,7 +147,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho ANtunes][DaniloGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Bibliografia
 
