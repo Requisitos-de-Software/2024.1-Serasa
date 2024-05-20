@@ -135,7 +135,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 <center>
 
-| UC07 | Buscar por documentos perdidos em envios |
+| UC07 | Buscar por documentos perdidos|
 |-|-|
 | **Descrição** | <p>Este caso de uso permite que os usuários do site dos correios busquem pelo seus documentos caso tenham perdido algum deles, escolhendo o tipo do documento e o colocando o seu nome completo.</p> |
 | **Atores** | <p>Usuário.</p> |
