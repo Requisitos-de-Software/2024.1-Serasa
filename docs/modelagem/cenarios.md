@@ -107,8 +107,8 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 | **Atores** | Usuário do aplicativo dos Correios |
 | **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Código de rastreamento da encomenda |
 | **Episódios** | Usuário acessa a função de rastreamento de encomendas no aplicativo dos Correios <br><br> Usuário acessa aba "Em Trânsito" <br><br> Usuário insere o código de rastreamento da encomenda <br><br> Aplicativo exibe as informações de rastreamento para o usuário |
-| **Restrições** | Aplicativo deve ter acesso à internet <br><br> Código de rastreamento válido deve ser fornecido |
 | **Exceções** | Falha na conexão com a internet <br><br> Código de rastreamento inválido <br><br> Falha no sistema dos Correios ao buscar informações  |
+| **Restrições** | Aplicativo deve ter acesso à internet <br><br> Código de rastreamento válido deve ser fornecido |
 
 <font><p style="text-align: center">Fonte: [Ricardo Augusto](RicardoGH), 2024.</p></font>
 
@@ -124,8 +124,8 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 | **Atores** | Usuário do aplicativo dos Correios <br><br>Sistema do aplicativo dos Correios |
 | **Recursos** | Aparelho celular <br><br> Internet <br><br> Conta no aplicativo dos Correios <br><br> Informações sobre os documentos perdidos |
 | **Episódios** | Usuário acessa a tela de busca por documentos perdidos <br><br> Usuário seleciona o tipo de documento <br><br> Usuário insere o nome completo <br><br> Usuário clica no botão "Buscar" <br><br> Aplicativo verifica nos registros de achados e perdidos <br><br> Aplicativo exibe resultados indicando se o documento foi encontrado ou não <br><br> Caso encontrado, aplicativo fornece informações sobre a agência onde o documento pode ser retirado <br><br> Usuário pode optar por mais informações ou instruções de retirada |
-| **Exceções** | |
-| **Restrições** | |
+| **Exceções** |  <br><br>Dados de preenchimento inválidos <br><br> Falha na conexão de internet <br><br>O nome digitado é inválido <br><br>O documento selcionado não foi encontrado |
+| **Restrições** | Aplicativo deve ter acesso à internet <br><br> Os dados precisam ser preenchido de forma correta <br><br> A agência deve estar ao alcance do usuário. |
 
 <font><p style="text-align: center"> Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
