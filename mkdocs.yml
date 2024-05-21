@@ -37,6 +37,7 @@ nav:
   - Modelagem:
     - Cenários: modelagem/cenarios.md
     - Casos de Uso: modelagem/casos_de_uso.md
+    - Validação dos Casos de Uso: modelagem/validacao.md
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexicos.md
 extra_css:
