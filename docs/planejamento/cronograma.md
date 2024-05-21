@@ -113,13 +113,13 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: |
-| Ata de Reunião | Início: 19/04 Fim: 19/04 | Ricardo | Início: Início: 19/04 Fim: 19/04 | Gabriel B. Bertolazi |
-| Modelagem de Requisitos: Cenários|  Início: 20/04 Fim: 22/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 22/04 Fim: 23/04  | Ricardo  |
-| Modelagem de Requisitos: Léxico  |  Início: 22/04 Fim: 24/04 |  Elias e Cláudio |  Início: 24/04 Fim: 24/04 | Cláudio |
-| Modelagem de Requisitos: Use Case |  Início: 24/05 Fim: 26/04 |  Pablo e Ricardo | Início: 26/04 Fim: 26/04  |  Gabriel F. J. Silva |
-| Modelagem de Requisitos: Especificação Suplementar |  Início: 26/04 Fim: 29/04 | Danilo e Pablo  | Início: 29/04 Fim: 29/04 | Elias  |
-| Gravação da Apresentação e  Entrega | Início: 03/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 04/05 Fim: 04/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Corrreção pós apresentação | Início: 07/05 Fim: 08/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 08/05 Fim: 08/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Ata de Reunião | Início: 02/05 Fim: 06/05 | Ricardo | Início: Início: 06/05 Fim: 09/05 | Gabriel B. Bertolazi |
+| Modelagem de Requisitos: Cenários|  Início:03/05 Fim: 07/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 07/05 Fim: 10/05  | Cláudio  |
+| Modelagem de Requisitos: Léxico  |  Início: 04/05 Fim: 08/05 |  Elias e Cláudio |  Início: 08/05 Fim: 12/05 | Ricardo |
+| Modelagem de Requisitos: Use Case |  Início: 06/05 Fim: 10/05 |  Pablo e Ricardo | Início: 10/05 Fim: 13/05  |  Gabriel F. J. Silva |
+| Modelagem de Requisitos: Especificação Suplementar |  Início: 08/05 Fim: 12/05 | Danilo e Pablo  | Início: 12/05 Fim: 15/05 | Elias  |
+| Gravação da Apresentação e  Entrega | Início: 18/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 20/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Corrreção pós apresentação | Início: 21/05 Fim: 25/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 25/05 Fim: 25/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -129,7 +129,17 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
     <b>Tabela 6</b> - Executado da entrega 3
 </p></font> 
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| :---: | :---: | :---: | :---: | :---: |
+| Ata de Reunião | Início: 15/05 Fim: 20/05 | Ricardo | Início: Início: 20/05 Fim: 20/05 | Gabriel B. Bertolazi |
+| Modelagem de Requisitos: Cenários|  Início: 18/05 Fim: 20/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 20/05 Fim: 20/05  | Cláudio  |
+| Modelagem de Requisitos: Léxico  |  Início: 15/05 Fim: 20/05 |  Elias e Cláudio |  Início: 20/05 Fim: 20/05 | Ricardo |
+| Modelagem de Requisitos: Use Case |  Início: 14/05 Fim: 20/04 |  Pablo e Ricardo | Início: 20/05 Fim: 20/05  |  Gabriel F. J. Silva |
+| Modelagem de Requisitos: Especificação Suplementar |  Início: 20/05 Fim: 20/05 | Danilo e Pablo  | Início: 20/05 Fim: 20/05 | Elias  |
+| Gravação da Apresentação e  Entrega | Início: 20/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 20/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Corrreção pós apresentação | Início: 21/05 Fim: 26/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: -- Fim: -- | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 
 ## Entrega 4 - Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
@@ -275,3 +285,4 @@ Disponível em:
 | `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
 | `1.4` | 25/04/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo) |
 | `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
+| `1.6` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
