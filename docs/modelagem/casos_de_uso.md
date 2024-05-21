@@ -88,6 +88,8 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 ### 2. Realizar compras na loja online
 
+Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "Realizar compras na loja online".
+
 <font size="2"><p style="text-align: center">Tabela 4 - Realizar Compras na Loja Online.</p></font>
 <center>
 
@@ -105,6 +107,8 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### 3. Mudar locais de recebimento de pacotes
+
+Abaixo, na tabela 5, está especificado o caso de uso para a funcionalidade de "Mudar locais de recebimento de pacotes".
 
 <font size="2"><p style="text-align: center">**Tabela 5 - Mudar locais de recebimento de pacotes.**</p></font>
 <center>
@@ -125,6 +129,10 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 ### 4. Realizar pré-postagem
 
+Abaixo, na tabela 6, está especificado o caso de uso para a funcionalidade de "Realizar pré-postagem".
+
+<font size="2"><p style="text-align: center">Tabela 6 - Realizar uma pré-postagem.</p></font>
+
 | UC04 | Realizar pré-postagem |
 |-|-|
 | **Descrição** | <p>Usuário realiza o processo de postagem pelo app</p> |
@@ -138,6 +146,9 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
+
+Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "Gerenciar minhas importações".
+
 <font size="2"><p style="text-align: center">Tabela 7 - Especificação de caso de uso para gerenciar minhas importações.</p></font>
 
 <center>
@@ -158,6 +169,8 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 ### 6. Rastrear encomendas
 
+Abaixo, na tabela 8, está especificado o caso de uso para a funcionalidade de "Rastrear encomendas".
+
 <font size="2"><p style="text-align: center">Tabela 8 - Rastrear encomendas.</p></font>
 
 <center>
@@ -177,6 +190,8 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ### 7. Buscar por documentos perdidos:
+
+Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "Buscar por documentos perdidos".
 
 <font size="2"><p style="text-align: center">Tabela 9 - Buscar por documentos perdidos em envios.</p></font>
 
@@ -209,7 +224,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 14/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | [Gabriel F][GabrielFGH] |
+| `1.0`  | 14/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | [Gabriel F. J. Silva][GabrielFGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
