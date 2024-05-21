@@ -8,7 +8,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 ## Metodologia
 
-A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas e gerenciar importações) que ou estavam implementadas ou também poderiam ser implementadas no aplicativo, mas que passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)), logo, elicitamos os requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), onde, presente na Tabela 01, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta, o ID desse requisito e o seu tipo. Ao final da página, também temos as tabelas 3 e 4 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados.
+A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que ou estavam implementadas ou também poderiam ser implementadas no aplicativo, mas que passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)), logo, elicitamos os requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), onde, presente na Tabela 01, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta, o ID desse requisito e o seu tipo. Ao final da página, também temos as tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados.
 
 ## Requisitos Elicitados
 
@@ -32,6 +32,8 @@ Legenda para as tabelas:
 
 ### Recebimento de encomendas
 
+Abaixo, na tabela 2, está os requisitos elicitados para  o Recebimento de encomendas.
+
 <center>
 
 <font size="2"><p><b>Tabela 2</b> - Requisitos elicitados para o Recebimento de encomendas. </p></font>
@@ -54,6 +56,8 @@ Legenda para as tabelas:
 
 ### Realizar uma pré-postagem
 
+Na tabela 3 está os requisitos elicitados para a funcionalidade de Pré-postagem.
+
 <center>
 <font size="2"><p>
     <b>Tabela 3</b> - Requisitos elicitados para realizar uma pré-postagem.
@@ -67,16 +71,17 @@ Legenda para as tabelas:
 | O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações críticas | AD12 | RNF |
 | O aplicativo agiliza o processo de realizar pagamento com cartão de crédito?  | Sim | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | AD13 | RF |
 
-### 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 </center>
 
 ### Busca por documentos perdidos
 
+Na tabela 4 está os requisitos elicitados para a funcionalidade de Busca por documentos perdidos.
+
 <center>
 
-<font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para o Minhas Importações. </p></font>
+<font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para a Busca por documentos perdidos. </p></font>
 
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
 |--|--|--|--|--|
@@ -88,9 +93,11 @@ Legenda para as tabelas:
 
 ### Minhas importações
 
+Na tabela 5 está os requisitos elicitados para a funcionalidade de Minhas Importações.
+
 <center>
 
-<font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para o Minhas Importações. </p></font>
+<font size="2"><p><b>Tabela 5</b> - Requisitos elicitados para o Minhas Importações. </p></font>
 
 | Pergunta | Respondida | Requisito elicitado | ID | Código |
 |----------|------------|---------------------|----|--------|
@@ -114,9 +121,11 @@ Legenda para as tabelas:
 
 ### Requisitos Funcionais
 
+Na tabela 6, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+
 <center>
 
-<font size="2"><p> **Tabela 5** - Requisitos Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 6** - Requisitos Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -149,9 +158,11 @@ Legenda para as tabelas:
 
 ### Requisitos Não-Funcionais
 
+Abaixo, na tabela 7, está especificado os Requisitos Não-funcionais e se estão implementados ou não.
+
 <center>
 
-<font size="2"><p> **Tabela 6** - Requisitos Não-Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 7** - Requisitos Não-Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -184,7 +195,7 @@ Legenda para as tabelas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | []()  |
+| `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
