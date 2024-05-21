@@ -38,10 +38,10 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 Requisitos a serem modelados por integrantes:
  
-1. OBS10 O aplicativo oferece a visualização de vales postais: Elias;
-2. OBS11 O aplicativo oferece uma área de busca por objetos perdidos em envios: Danilo;
-3. OBS02 O aplicativo permite rastreamento de encomendas por código: Ricardo;
-4. OBS06 O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais: Cláudio;
+1. Realizar compras na loja online: Elias;
+2. Buscar documentos perdidos: Danilo;
+3. Rastreamento de encomendas por código: Ricardo;
+4. Cálculo de preços e prazos de encomendas nacionais: Cláudio;
 5. Pré postagem - Gabriel F;
 6. minhas importações - Pablo;
 7. Receber encomendas - Gabriel B.
@@ -61,6 +61,7 @@ Os requisitos 5, 6 e 7 não foram elicitados pelas técnicas utilizadas pelo gru
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 20/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH] |
+| `1.1` | 20/05/2024 | Alterando requisitos | [Ricardo Augusto][RicardoGH] | 
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
