@@ -24,6 +24,7 @@ nav:
     - Perfil de Usuário: elicitacao/perfil_de_usuario/perfil_de_usuario.md
     - Personas: elicitacao/personas.md
     - Técnicas:
+      - Análise Documental: elicitacao/tecnicas/analise-documental.md
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Questionário: elicitacao/tecnicas/questionario.md
@@ -34,6 +35,8 @@ nav:
     - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
   - Modelagem:
     - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Léxicos: modelagem/lexicos.md
     - Cenários: modelagem/cenarios.md
 extra_css:
   - stylesheets/extra.css
