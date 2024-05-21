@@ -132,8 +132,8 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: |
 | Ata de Reunião | Início: 15/05 Fim: 20/05 | Ricardo | Início: Início: 20/05 Fim: 20/05 | Gabriel B. Bertolazi |
-| Modelagem de Requisitos: Cenários|  Início: 18/05 Fim: 20/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 20/05 Fim: 20/05  | Ricardo  |
-| Modelagem de Requisitos: Léxico  |  Início: 15/05 Fim: 20/05 |  Elias e Cláudio |  Início: 20/05 Fim: 20/05 | Cláudio |
+| Modelagem de Requisitos: Cenários|  Início: 18/05 Fim: 20/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 20/05 Fim: 20/05  | Cláudio  |
+| Modelagem de Requisitos: Léxico  |  Início: 15/05 Fim: 20/05 |  Elias e Cláudio |  Início: 20/05 Fim: 20/05 | Ricardo |
 | Modelagem de Requisitos: Use Case |  Início: 14/05 Fim: 20/04 |  Pablo e Ricardo | Início: 20/05 Fim: 20/05  |  Gabriel F. J. Silva |
 | Modelagem de Requisitos: Especificação Suplementar |  Início: 20/05 Fim: 20/05 | Danilo e Pablo  | Início: 20/05 Fim: 20/05 | Elias  |
 | Gravação da Apresentação e  Entrega | Início: 20/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 20/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
