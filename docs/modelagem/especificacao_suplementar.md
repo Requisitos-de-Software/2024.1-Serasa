@@ -136,6 +136,26 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+## + Restrições de Design
+
+**Restrições de Design** são limitações específicas e condições que devem ser consideradas durante o processo de criação e desenvolvimento de um produto, seja ele um aplicativo, um site, um objeto físico ou qualquer outro artefato de design. Essas restrições podem abranger uma variedade de áreas, incluindo aspectos técnicos, estéticos, funcionais, orçamentários, temporais, culturais, entre outros. Elas são fatores que impõem limites ou direcionam as decisões de design para atender a determinados critérios ou requisitos.
+
+Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restrições de Design** elicitados para o aplicativo "Correios".
+
+<font><p style="text-align: center">**Tabela 5** - Requisitos + Restrições de Design.</p></font>
+
+| ID  | Descrição |
+|-----|-----------|
+| RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. |
+| RD02 | O app deverá ter uma interface fluída e estável. |
+| RD03 | A visualização de mensagens deve ser rápida e fácil de usar. |
+| RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado |
+| RD05 | O aplicativo requer uma interface amigável e fácil de usar. |
+| RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
