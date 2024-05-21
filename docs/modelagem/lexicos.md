@@ -18,7 +18,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 
 ## Objeto
 
-Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais se relaciona e as ações que poderão ser empregadas ao objeto. Na tabela 02 logo abaixo estão descritos os léxicos do tipo objeto.
+Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais se relacionam e as ações que poderão ser empregadas ao objeto. Na tabela 02 logo abaixo estão descritos os léxicos do tipo objeto.
 
 <font size="3"><p style="text-align: center">**Tabela 02 - Léxicos do tipo Objeto** </p></font>
 
@@ -28,8 +28,8 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | <a id="documento-identificacao">**L02 - Documento**</a> | Objeto | Documento utilizado para identificar oficialmente uma pessoa, podendo ser RG, CPF, passaporte, entre outros. | Utilizado por órgãos públicos e privados para confirmação de identidade e acesso a serviços. | Documento de identificação |[Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | <a id="encomenda">**L03 - Encomenda** </a> | Objeto | Objeto que é embalado e enviado de um local para outro, quando o <a href="#usuario">usuário</a> realiza um <a href="#enviar">envio</a> ou recebe alguma  <a href="#encomenda">encomenda</a>. | É possível realizar o <a href="#enviar">envio</a>, <a href="#adiamento">adiamento</a> ou <a href="#cancelamento">cancelamento</a> da entrega da encomenda. | Pacote |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 | <a id="remetente">**L04 - Transportadora**</a> | Objeto | Empresa privada ou pública responsável pelo transporte e entrega de encomendas de um local para outro | A escolha da transportadora impacta diretamente no prazo e qualidade do serviço de entrega das encomendas para o usuário. | Empresa de Logística, Serviço de Entregas |[Gabriel Basto](https://github.com/Bertolazi) |
-| <a id="destinatario">**L05 - Destinatário**</a> | Objeto | Pessoa que recebe uma <a href="#encomenda">encomenda</a> <a href="#enviar">enviada</a> por um <a href="#remetente">remetente</a> | Tem suas informações preenchidas durante a <a href=#prepostagem>pré-postagem</a> | |[Gabriel Fernando](https://github.com/MMcLovin) |
-| <a id="remetente">**L06 - Remetente**</a> | Objeto | Usuário do aplicativo dos <a href="#correios">Correios</a> que <a href="#enviar">envia</a> uma <a href="#encomenda">encomenda</a> | É o responsável por preencher as informações da <a href=#prepostagem>pré-postagem</a> | | [Gabriel Fernando](https://github.com/MMcLovin) |  
+| <a id="destinatario">**L05 - Destinatário**</a> | Objeto | Pessoa que recebe uma <a href="#encomenda">encomenda</a> <a href="#enviar">enviada</a> por um <a href="#remetente">remetente</a> | Tem suas informações preenchidas durante a <a href=#prepostagem>pré-postagem</a> | Receptor |[Gabriel Fernando](https://github.com/MMcLovin) |
+| <a id="remetente">**L06 - Remetente**</a> | Objeto | Usuário do aplicativo dos <a href="#correios">Correios</a> que <a href="#enviar">envia</a> uma <a href="#encomenda">encomenda</a> | É o responsável por preencher as informações da <a href=#prepostagem>pré-postagem</a> | Fornecedor | [Gabriel Fernando](https://github.com/MMcLovin) |  
 | <a id="alfandega">**L07 - Alfândega**</a> | Objeto | A alfândega é de uma repartição da Receita Federal, e um órgão governamental oficial responsável pelo controle das operações de entrada e saída de mercadorias do país. Além disso, a alfândega é encarregada de <a href="#taxar">cobrar os tributos e taxas aduaneiras</a> aplicáveis às mercadorias que cruzam as fronteiras. | Entidade responsável por informar e manter as situações alfandegárias das <a href="#encomenda">encomendas</a> internacionais nos <a href="#correios">Correios</a>. | Aduana | [Pablo Santos](https://github.com/pabloheika) |
 | <a id="rastreio">**L08 - Código de rastreio**</a> | Objeto | Sequência de caracteres alfanuméricos que representa a <a href="#encomenda">encomenda</a> e permite rastrear e verificar seu status. | Acompanhar o status e localização da <a href="#encomenda">encomenda</a>. | Número de rastreio |[Ricardo Augusto](https://github.com/avmricardo) |
 | <a id="cep">**L09 - CEP**</a> | Objeto | É a sigla de Código de Endereçamento Postal que serve para organizar e facilitar a postagem, <a href="#rastrear">rastreio</a> e distribuição das <a href="#encomenda">encomendas</a> de forma lógica. | O CEP é utilizado para identificar rapidamente o endereço que será utilizado para fins de <a href="#simular">simulação</a> e postagens das <a href="#encomenda">encomendas</a> e correspondências.  | Código de Endereçamento Postal |[Claudio Henrique](https://github.com/claudiohsc) |
@@ -41,17 +41,17 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 
 ## Verbo
 
-Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quais os processos realizados e quais os reflexos da ação no ambiente. Abaixo na tabela 03 estão descritos os léxicos do tipo verbo.
+Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer dentro do aplicativo. Deve-se descrever: quem realiza, quando realiza, quais os processos realizados e quais os reflexos da ação no ambiente. Abaixo na tabela 03 estão descritos os léxicos do tipo verbo.
 
 <font size="3"><p style="text-align: center">**Tabela 03 - Léxicos do tipo Verbo** </p></font>
 
 |Léxico|Classificação|Noção|Impacto|Sinônimo|Autor|
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
-|<a id="simular">**L11 - Simular**</a> | Verbo | O usuário pode <a href="#simular">simular</a>, antes do envio, os preços e prazos de entrega de uma <a href="#encomenda">encomenda</a> a partir do CEP de origem e destino. |  | |[Claudio Henrique](https://github.com/claudiohsc) |
+|<a id="simular">**L11 - Simular**</a> | Verbo | O usuário pode <a href="#simular">simular</a>, antes do envio, os preços e prazos de entrega de uma <a href="#encomenda">encomenda</a> a partir do CEP de origem e destino. | O <a href="#usuario">usuário</a> pode decidir enviar ou não pelo Correios, se as condições simuladas forem aceitas por ele. | Prever, emular |[Claudio Henrique](https://github.com/claudiohsc) |
 | <a id="buscar">**L12 - Buscar**</a> | Verbo | O usuário pode <a href="#buscar">buscar</a> informações ou objetos, como documentos, utilizando critérios específicos de pesquisa. | Facilita o acesso rápido a informações ou localização de itens. | Procurar, Pesquisar | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |<a id="enviar">**L13 - Enviar** </a> | Verbo | O envio pode ser realizado pelo <a href="#usuario">usuário</a> ao expedir uma <a href="#encomenda">encomenda</a> para um destinatário. | A <a href="#encomenda">encomenda</a> é enviada entregando ela em uma agência dos correios, e seu envio pode ser feito por diferentes meios de transporte chegando até ao <a href="#destinatario">destinatário</a>.  | expedir |[Elias F. Oliveira](https://www.github.com/EliasOliver21) |
 | <a id="rastrear">**L14 - Receber**</a> | Verbo | O usuário pode receber uma encomenda em um endereço residencial, comercial, locker, caixa postal ou agência dos Correios. | O recebimento da encomenda pelo usuário finaliza o processo de entrega realizado pelos Correios | Obter, Adquirir |[Gabriel Basto](https://github.com/Bertolazi) |
-|<a id="prepostagem">**L15 - Pré-postar**</a> | Verbo | O <a href="#remetente">remetente</a> pode optar por fazer a maior parte do processo de postar uma <a href="#encomenda">encomenda</a> pelo próprio aplicativo dos <a href="#correios">Correios</a>| A página de <>Minhas Postagens<> deve ser atualizada com a <a href="#prepostagem">pré-postagem</a> na seção de <a href="#aguardando">espera</a>| |[Gabriel Fernando](https://github.com/MMcLovin) |
+|<a id="prepostagem">**L15 - Pré-postar**</a> | Verbo | O <a href="#remetente">remetente</a> pode optar por fazer a maior parte do processo de postar uma <a href="#encomenda">encomenda</a> pelo próprio aplicativo dos <a href="#correios">Correios</a>| A página de Minhas Postagens deve ser atualizada com a <a href="#prepostagem">pré-postagem</a> na seção de <a href="#aguardando">espera</a>| Postagem antecipada |[Gabriel Fernando](https://github.com/MMcLovin) |
 |<a id="taxar">**L16 - Taxar**</a> | Verbo | Ato de fazer a cobrança de um imposto, multa ou outros tributos monetários. | Possibilita o usuário implementar cobranças devidas de tributos e taxas aplicáveis às <a href="#encomenda">encomendas</a>.  | Tributar, Tarifar. |[Pablo Santos](https://github.com/pabloheika) |
 |<a id="rastrear">**L17 - Rastrear**</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
@@ -60,7 +60,7 @@ Nos léxicos do tipo verbo deve-se descrever: quem realiza, quando realiza, quai
 
 ## Estado
 
-Nos léxicos do tipo estado são definidos: qual o significado das ações e quais levaram a esse estado, e mostrar quais outros estados e ações que pode-se chegar e realizar a partir do estado atual. Abaixo na tabela 04 são elencados os léxicos do tipo estado.
+Os léxicos do tipo Estado se referem às condições ou situações específicas que o aplicativo pode apresentar. São definidos: qual o significado das ações e quais levaram a esse estado, e mostrar quais outros estados e ações que pode-se chegar e realizar a partir do estado atual. Abaixo na tabela 04 são elencados os léxicos do tipo estado.
 
 <font size="3"><p style="text-align: center">**Tabela 04 - Léxicos do tipo Estado** </p></font>
 
