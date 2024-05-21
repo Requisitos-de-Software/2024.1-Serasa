@@ -209,7 +209,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 14/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] |  |
+| `1.0`  | 14/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | [Gabriel F][GabrielFGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
