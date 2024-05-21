@@ -33,6 +33,9 @@ Nome | Presença/Apresentação - ✅/❌
 Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 </p></font>
 
+## Bibliografia
+> 1. YouTube. Disponível em: [YouTube](https://youtu.be/WN_XigQCYec). Acesso em: 20 de Maio de 2024.
+
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
