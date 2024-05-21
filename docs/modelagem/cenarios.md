@@ -63,7 +63,7 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 
 O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correios, é ilustrado na Tabela 05, detalhando os elementos envolvidos no processo, desde o objetivo até as exceções e restrições encontradas pelo usuário.
 
-<font><p style="text-align: center">Tabela 05 - Cenário para realizar pré-postagem.</p></font>
+<font><p style="text-align: center">Tabela 04 - Cenário para realizar pré-postagem.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -80,7 +80,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 ### 4. Gerenciar minhas importações
 
-<font><p style="text-align: center">Tabela 06 - Cenário para gerenciar minhas importações</p></font>
+<font><p style="text-align: center">Tabela 05 - Cenário para gerenciar minhas importações</p></font>
 
 | **Elemento** | **Descrição** |
 |-------------|----------------|
@@ -97,7 +97,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 ### 5. Rastrear encomendas
 
-<font><p style="text-align: center">Tabela 07 - Cenário para rastrear encomendas.</p></font>
+<font><p style="text-align: center">Tabela 06 - Cenário para rastrear encomendas.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -114,7 +114,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 ### 6. Buscar por documentos perdidos:
 
-<font><p style="text-align: center">Tabela 08 - Cenário para buscar por documentos perdidos.</p></font>
+<font><p style="text-align: center">Tabela 07 - Cenário para buscar por documentos perdidos.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -131,7 +131,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 ### 7. Mudar endereço de recebimento
 
-<font><p style="text-align: center">Tabela 09 - Cenário para mudar endereço de recebimento.</p></font>
+<font><p style="text-align: center">Tabela 08 - Cenário para mudar endereço de recebimento.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -148,7 +148,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 ### 8. Receber em um local não residencial
 
-<font><p style="text-align: center">Tabela 08 - Cenário para receber em um local não residencial.</p></font>
+<font><p style="text-align: center">Tabela 09 - Cenário para receber em um local não residencial.</p></font>
 
 | **Elemento** | **Descrição** |
 | | |
@@ -172,7 +172,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  |18/05/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Elias F.Oliveira][EliasGH] |
+| `1.0`  |18/05/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
