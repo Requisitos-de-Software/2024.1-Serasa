@@ -171,6 +171,7 @@ Abaixo, na tabela 7, está especificado os Requisitos Não-funcionais e se estã
 | AD24 | As informações devem ser atualizadas em tempo de execução | RNF | Sim |
 | AD25 | A liberação das encomendas deve ser automática | RNF | Sim |
 | AD26 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim |
+
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
