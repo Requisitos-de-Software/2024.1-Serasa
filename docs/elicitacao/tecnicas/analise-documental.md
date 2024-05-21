@@ -119,13 +119,39 @@ Na tabela 5 está os requisitos elicitados para a funcionalidade de Minhas Impor
 
 </center>
 
-### Requisitos Funcionais
+### Minhas importações
 
-Na tabela 6, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+Na tabela 6 estão os requisitos elicitados para a funcionalidade da loja online dos correios.
 
 <center>
 
-<font size="2"><p> **Tabela 6** - Requisitos Funcionais elicitados. </p></font>
+<font size="2"><p><b>Tabela 6</b> - Requisitos elicitados para a loja online. </p></font>
+
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+|----------|------------|---------------------|----|--------|
+||||||
+
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
+
+</center>
+
+### Requisitos Funcionais
+
+Na tabela 8, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+
+<center>
+
+<font size="2"><p> **Tabela 8** - Requisitos Funcionais elicitados. </p></font>
+
+
+### Requisitos Funcionais
+
+Na tabela 8, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+
+<center>
+
+<font size="2"><p> **Tabela 8** - Requisitos Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -158,11 +184,11 @@ Na tabela 6, está especificado os Requisitos Funcionais e se estão implementad
 
 ### Requisitos Não-Funcionais
 
-Abaixo, na tabela 7, está especificado os Requisitos Não-funcionais e se estão implementados ou não.
+Abaixo, na tabela 8, está especificado os Requisitos Não-funcionais e se estão implementados ou não.
 
 <center>
 
-<font size="2"><p> **Tabela 7** - Requisitos Não-Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 8** - Requisitos Não-Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
