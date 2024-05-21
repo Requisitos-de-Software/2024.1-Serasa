@@ -38,6 +38,8 @@ Existem alguns tipos de relacionamento:
 
 ![Diagrama de caso de uso](../assets/modelagem/use-case/diagrama-caso-uso.svg)
 
+Acesse a imagem nesse [link](../assets/modelagem/use-case/diagrama-caso-uso.svg)
+
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Cláudio][ClaudioGH], [Danilo][DaniloGH], [Elias][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo][PabloGH], [Ricardo][RicardoGH], 2024.</p></font>
