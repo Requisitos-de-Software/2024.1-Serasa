@@ -119,13 +119,33 @@ Na tabela 5 está os requisitos elicitados para a funcionalidade de Minhas Impor
 
 </center>
 
-### Requisitos Funcionais
+### Loja Online
 
-Na tabela 6, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+Na tabela 6 estão os requisitos elicitados para a loja online dos correios.
 
 <center>
 
-<font size="2"><p> **Tabela 6** - Requisitos Funcionais elicitados. </p></font>
+<font size="2"><p><b>Tabela 6</b> - Requisitos elicitados para a loja online. </p></font>
+
+| Pergunta | Respondida | Requisito elicitado | ID | Código |
+|----------|------------|---------------------|----|--------|
+|O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.|AD27|RNF|
+|O usuário tem uma boa experiência de utilização da loja online.|Sim|A utilização da loja deveria ser intuitiva e simples, para uma boa interação e experiência do usuário.|AD28|RF|
+|O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. |AD29|RF|
+
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
+
+</center>
+
+
+### Requisitos Funcionais
+
+Na tabela 7, está especificado os Requisitos Funcionais e se estão implementados no aplicativo.
+
+<center>
+
+<font size="2"><p> **Tabela 7** - Requisitos Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -150,19 +170,19 @@ Na tabela 6, está especificado os Requisitos Funcionais e se estão implementad
 | AD21 | O usuário deve poder contestar taxas e tributações | RF | Sim |
 | AD22 | O Usuário deve ser capaz de emitir comprovante | RF | Sim |
 | AD23 | O usuário deve ser capaz de emitir DIS | RF | Sim |
-
-
+| AD28 | A interface deve ser intuitiva e agradável ao usuário | RF | Não |
+| AD29 | O Usuário deve ter a total liberdade nas etapas disponibilizadas pelos sistema| RF | Não |
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 ### Requisitos Não-Funcionais
 
-Abaixo, na tabela 7, está especificado os Requisitos Não-funcionais e se estão implementados ou não.
+Abaixo, na tabela 8, está especificado os Requisitos Não-funcionais e se estão implementados ou não.
 
 <center>
 
-<font size="2"><p> **Tabela 7** - Requisitos Não-Funcionais elicitados. </p></font>
+<font size="2"><p> **Tabela 8** - Requisitos Não-Funcionais elicitados. </p></font>
 
 | ID | Descrição    | Código | Implementado |
 | -------------- | --------------- | :------: | :------: |
@@ -171,7 +191,7 @@ Abaixo, na tabela 7, está especificado os Requisitos Não-funcionais e se estã
 | AD24 | As informações devem ser atualizadas em tempo de execução | RNF | Sim |
 | AD25 | A liberação das encomendas deve ser automática | RNF | Sim |
 | AD26 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim |
-
+| AD27 | O usuário deve estar informad sobre a quantidade de itens disopníveis | RNF | Não |
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
