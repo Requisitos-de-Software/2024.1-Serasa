@@ -63,7 +63,28 @@ Legenda para elementos da tabela 1 e 2:
 | Q03 | Assistente virtual dos correios | RF39 | Não |
 | Q04 | Chat para se comunicar diretamente com o fornecedor | RF40 | Não |
 | Q05 | Chat para se comunicar diretamente com o entregador | RF41 | Não |
-| Q06 | Pagamento de tributos e taxas de importação | RF42 | Não 
+| Q06 | Pagamento de tributos e taxas de importação | RF42 | Não |
+| AD01 | O usuário deve poder escolher a opção de recebimento dentro do aplicativo antes de sua encomenda ser enviada. | RF43 | Não |
+| AD02 | O usuário deve escolher o método de recebimento em até 3 cliques desde iniciar a ação. | RF44 | Não |
+| AD03 | O sistema deve permitir que o usuário reserve o locker mais próximo de sua casa com base no CEP informado, de acordo com a disponibilidade. | RF45 | Não |
+| AD04 | O usuário deve ser notificado quando o recebimento for efetuado. | RF46 | Não |
+| AD05 | O usuário deve poder mudar local de de rebimento da encomenda | RF47 | Não |
+| AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF48 | Não |
+| AD09 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | RF |  Sim|
+| AD10 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | RF |  Não|
+| AD11 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | RF | Não |
+| AD12 | O usuário deve ser perguntado sobre a confirmação de operações críticas | RNF | Sim |
+| AD13 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF |  Sim|
+| AD14 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não|
+| AD15 | O Usuário deve ser capaz de gerenciar suas importações | RF | Sim |
+| AD16 | O Usuário deve ser capaz de resolver situações alfandegárias | RF | sim |
+| AD17 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | RF | Sim |
+| AD18 | O usuário deve ser capaz de inserir novas importações | RF | Sim |
+| AD19 | O usuário deve ter acesso a meios de pagamento de taxas | RF | Sim |
+| AD20 | O usuário deve ser notificado sobre atualizações de importações | RF | Sim |
+| AD21 | O usuário deve poder contestar taxas e tributações | RF | Sim |
+| AD22 | O Usuário deve ser capaz de emitir comprovante | RF | Sim |
+| AD23 | O usuário deve ser capaz de emitir DIS | RF | Sim |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
@@ -107,15 +128,21 @@ Legenda para elementos da tabela 1 e 2:
 | Q10 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF34 | Sim |
 | Q11 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF35 | Sim |
 | Q12 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | RNF36 | Não |
+| AD07 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF38 | Não | 
+| AD08 | A funcionalidade deve ser de fácil acesso pela página principal | RNF37 | Não |
+| AD24 | As informações devem ser atualizadas em tempo de execução | RNF | Sim |
+| AD25 | A liberação das encomendas deve ser automática | RNF | Sim |
+| AD26 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
 
 ## Bibliografia
 
->* Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
+> 1. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.0`    | 20/05/2024 | Adiciona requisitos da análise documental | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [](https://www.github.com/) |
