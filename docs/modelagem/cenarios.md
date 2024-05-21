@@ -172,7 +172,7 @@ O cenário de criar e pagar uma pré-postagem utilizando o aplicativo dos Correi
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 15/04/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | |
+| `1.0`  |18/05/2024 | Criação do documento | [Gabriel B. Bertolazi](https://github.com/Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Elias F.Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
