@@ -35,7 +35,7 @@ nav:
     - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
   - Modelagem:
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
-  - Modelagem: 
+    - Léxicos: modelagem/lexicos.md
     - Cenários: modelagem/cenarios.md
 extra_css:
   - stylesheets/extra.css
