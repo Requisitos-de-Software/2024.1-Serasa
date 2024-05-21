@@ -284,3 +284,4 @@ Disponível em:
 | `1.2` | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
 | `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
 | `1.4` | 25/04/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.5` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
