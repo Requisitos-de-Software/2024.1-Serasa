@@ -54,8 +54,8 @@ O cenário mencionado refere-se ao objetivo de "Calcular preços e prazos de ent
 | **Atores** | Usuário do aplicativo e site dos correios. |
 | **Recursos** | Celular. <br>Acesso à internet. <br> CEP e informações do endereço para a entrega.  |
 | **Episódios** | O usuário acessa a o ambiente da loja online dos correios; <br><br> Busca pelos selos desejados inserindo a temática deles no campo de busca; <br><br> Encontra os selos desejados e clica no item; <br><br> Adiciona ao carrinho clicando em comprar; <br><br> Altera a quantidade de itens e insere o CEP do destinatári; <br><br> Confere os dados de envio e dos itens escolhidos; <br><br> Escolhe a opção de pagamento por cartão de crédito; <br><br> Insere as informações do cartão e finaliza a compra.|
-| **Exceções** | |
-| **Restrições** | |
+| **Exceções** | Usuário não consegue finalizar a compra devido a problemas com o servidor. <br><br> Informações do cartão de crédito são rejeitadas pelo sistema de pagamento. <br><br> O item desejado não está disponível em estoque no momento da compra. |
+| **Restrições** | O aplicativo e o site precisam estar operacionais e acessíveis. <br><br> O usuário deve possuir uma conexão estável à internet. <br><br> O método de pagamento escolhido deve ser aceito pelo sistema. |
 
 <font><p style="text-align: center">Fonte: [Elias F. Oliveira](https://www.github.com/EliasOliver21), 2024.</p></font>
 
