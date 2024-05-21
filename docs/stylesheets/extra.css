@@ -3,6 +3,10 @@
         width: 90px;
     }
 }
+
+p{
+    text-align: justify;
+}
 body{
     text-align: justify;
 }
