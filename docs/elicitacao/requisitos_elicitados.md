@@ -138,7 +138,7 @@ Legenda para elementos da tabela 1 e 2:
 
 ## Bibliografia
 
->* Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
+> 1. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo  Bilheteria Digital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
 
 ## Histórico de Versões
 

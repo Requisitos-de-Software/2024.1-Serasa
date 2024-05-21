@@ -10,6 +10,7 @@ nav:
     - Reunião 1: atas/ata1.md
     - Reunião 2: atas/ata2.md
     - Reunião 3: atas/ata3.md
+    - Reunião 4: atas/ata4.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
     - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
@@ -32,6 +33,11 @@ nav:
       - First Things First: priorizacao/tecnicas/firstThingsFirst.md
       - In Or Out: priorizacao/tecnicas/inorout.md
     - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
+  - Modelagem:
+    - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Léxicos: modelagem/lexicos.md
+    - Cenários: modelagem/cenarios.md
 extra_css:
   - stylesheets/extra.css
 theme:
