@@ -32,6 +32,16 @@ Existem alguns tipos de relacionamento:
 
 ## Diagrama de Casos de Uso
 
+<font size="2"><p style="text-align: center">Figura 1 - Diagrama de Casos de Uso.</p></font>
+
+<center>
+
+![Diagrama de caso de uso](../assets/modelagem/use-case/diagrama-caso-uso.svg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Cláudio][ClaudioGH], [Danilo][DaniloGH], [Elias][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo][PabloGH], [Ricardo][RicardoGH], 2024.</p></font>
+
 ## Especificação dos casos de uso
 
 A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema, na tabela 2 temos o modelo base usado em nossas especificações dos casos de uso.
