@@ -7,7 +7,12 @@
 p{
     text-align: justify;
 }
-
+body{
+    text-align: justify;
+}
+.md-nav{
+    text-align: left;
+}
 .logo_correios{
     img{
         border: 10px solid FFD400; 

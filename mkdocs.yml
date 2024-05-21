@@ -34,6 +34,7 @@ nav:
       - In Or Out: priorizacao/tecnicas/inorout.md
     - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
   - Modelagem:
+    - Casos de Uso: modelagem/casos_de_uso.md
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexicos.md
     - Cenários: modelagem/cenarios.md

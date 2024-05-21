@@ -20,6 +20,8 @@ A metodologia utilizada para a criação de um perfil de usuário para o aplicat
 
 Analisando a figura 01 logo acima percebe-se que a faixa etária com mais incidência entre os usuários do aplicativo dos correios são jovens e adultos de 18 a 35 anos, tendo em vista que o principal ambiente onde o formulário foi disseminado foi em embiente acadêmico.
 
+Analisando a figura 01 logo acima percebe-se que a faixa etária com mais incidência entre os usuários do aplicativo dos correios são jovens e adultos de 18 a 35 anos, tendo em vista que o principal ambiente onde o formulário foi disseminado foi em embiente acadêmico.
+
 <!-- Gráfico 02 -->
 
 <font size="3"><p style="text-align: center">**Figura 02:** Gráfico 02</p></font>
@@ -31,6 +33,8 @@ Analisando a figura 01 logo acima percebe-se que a faixa etária com mais incid�
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativo serem homens, com quase três quartos do total sendo usuários masculinos.
 
 A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o aplicativo serem homens, com quase três quartos do total sendo usuários masculinos.
 
@@ -48,6 +52,8 @@ A figura 02 mostra uma tendência para a maior parte de usuários que utilizam o
 
 A figura 03 denota que grande parte dos usuários que participaram da pesquisa são estudantes universitários graduandos ou prós-graduandos, tendo ainda alguns que possuem apenas o ensino médio.
 
+A figura 03 denota que grande parte dos usuários que participaram da pesquisa são estudantes universitários graduandos ou prós-graduandos, tendo ainda alguns que possuem apenas o ensino médio.
+
 <!-- Gráfico 04 -->
 
 <font size="3"><p style="text-align: center">**Figura 04:** Gráfico 04</p></font>
@@ -62,6 +68,8 @@ A figura 03 denota que grande parte dos usuários que participaram da pesquisa s
 
 Tendo em vista a figura 04 percebemos que a maior parte dos usuários que participaram da pesquisa possuem uma vasta experiência e utilização com dispositivos eletrônicos.
 
+Tendo em vista a figura 04 percebemos que a maior parte dos usuários que participaram da pesquisa possuem uma vasta experiência e utilização com dispositivos eletrônicos.
+
 <!-- Gráfico 05 -->
 
 <font size="3"><p style="text-align: center">**Figura 05:** Gráfico 05</p></font>
@@ -73,6 +81,8 @@ Tendo em vista a figura 04 percebemos que a maior parte dos usuários que partic
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+Analisando a figura 05 vemos que mais de noventa porcenta dos participantes são solteiros, o que já era um pouco previsível tendo em vista a figura 01 que mostra a maior parte dos usuários sendo jovens de dezoito a vinte e cinco anos.
 
 Analisando a figura 05 vemos que mais de noventa porcenta dos participantes são solteiros, o que já era um pouco previsível tendo em vista a figura 01 que mostra a maior parte dos usuários sendo jovens de dezoito a vinte e cinco anos.
 
