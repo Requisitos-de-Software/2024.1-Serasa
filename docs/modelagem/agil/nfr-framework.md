@@ -1,0 +1,67 @@
+# NFR Framework
+
+## Introdução
+
+O NFR Framework é uma abordagem conceitual projetada para representar e analisar os Requisitos Não-Funcionais (RNFs) em sistemas de software. Utilizando o conceito de "softgoals", que são objetivos que não possuem uma clara definição nem critérios de satisfação precisos, o framework permite a representação das características do sistema e do domínio, considerando inter-relações entre esses softgoals. Além disso, oferece um método qualitativo para analisar o status dos softgoals, com base na satisfação de outros softgoals relacionados.
+
+Com catálogos de requisitos organizados, o NFR Framework auxilia os desenvolvedores na escolha de alternativas de desenvolvimento, considerando interdependências e trade-offs entre os RNFs específicos. Essa estrutura flexível contribui para a implementação de soluções personalizadas que atendam às necessidades do sistema e do usuário.
+
+### Tipos de softgoals
+
+- Softgoals NFR: Característica abstrata, a qual se deseja considerar na análise, visando saber se a mesma será cumprida ou não cumprida. Representam requisitos não-funcionais em um sistema de software. Eles geralmente não possuem critérios de satisfação precisos e são expressos de forma qualitativa.
+
+- Softgoals de Operacionalização: Representam as soluções de implementação de forma concreta para vibilizar ou não as características abstratas, como os softgoals NFR ou outros softgoals de operacionalização. Essencialmente os softgoals de operacionalização são as funcionalidades.
+
+- Softgoals de Afirmação: Anotações que podem ser acrescentadas ao modelo, argumentando algo sobre um ponto específico da modelagem. Os softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facilitando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento da rastreabilidade.
+
+<font size="2"><p style="text-align: center">Figura 1 - Tipos de softgoals.</p></font>
+
+<center>
+
+![Tipos de softgoals](../../assets/modelagem/agil/tipos-softgoals.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: (CHUNG et al., 2000)</p></font>
+
+A figura 1 ilustra as representações dos tipos de softgoals utilizados no nfr framework, eles são representados por nuvens podendo ter linhas mais claras, mais escuras e linhas tracejadas.
+
+### Decomposições
+
+### Contribuições
+
+## Subtitulo
+
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
+
+<center>
+
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|:--------:|----------|---------:|
+|1.1|1.2|1.2|
+|2.1|2.2|2.3|
+|3.1|3.2|3.3|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
+
+## Bibliografia
+
+> 1. SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019.
+
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 23/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] |   |
+
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
