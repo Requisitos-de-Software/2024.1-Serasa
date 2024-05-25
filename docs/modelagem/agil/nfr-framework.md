@@ -26,7 +26,14 @@ Com catálogos de requisitos organizados, o NFR Framework auxilia os desenvolved
 
 A figura 1 ilustra as representações dos tipos de softgoals utilizados no nfr framework, eles são representados por nuvens podendo ter linhas mais claras, mais escuras e linhas tracejadas.
 
+## Interdependências
+
+As interdependências representam as ligações entre os softgoals e os tipos de interdependência utilizadas pelo framework são: os refinamentos e as contribuições(CHUNG et al., 2000).Os refinamentos são o tipo de interdependência que se sucede de cima para baixo com um softgoal pai que produz softgoals filhos aos quais se conectam com seu ancestral. Os tipos de refinamento são: decomposição, operacionalização e afirmação.
+
 ### Decomposições
+As decomposições realizam o refinamento dos softgoals obtendo softgoals mais específicos e especializados contribuindo para o projeto. Os quatro tipos de decomposição são descritos abaixo:
+
+* **Decomposição de Softgoal NFR:** Realiza o refinamento de softgoals subdivindindo em softgoals mais específicos 
 
 ### Contribuições
 
@@ -55,7 +62,7 @@ A figura 1 ilustra as representações dos tipos de softgoals utilizados no nfr 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 23/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] |   |
+| `1.0`  | 23/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Elias F. Oliveira][EliasGH] |   |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
