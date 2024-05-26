@@ -15,23 +15,36 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 
 ### Temas
 
-Tema 1: Rastreamento e Envio de Encomendas
-Tema 2: Notificações e Alertas
-Tema 3: Suporte e Ajuda ao Usuário
-Tema 4: Serviços de Pagamento e Importação
-Tema 5: Busca e Contato
+- **Tema 1: Rastreamento e Envio de Encomendas**
+- **Tema 2: Notificações e Alertas**
+- **Tema 3: Suporte e Ajuda ao Usuário**
+- **Tema 4: Serviços de Pagamento e Importação**
+- Tema 5: Busca e Contato  //(precisa definir melhor)
 
 
 ### Épicos
 
 #### **EP01 - Rastreamento no Mapa**
 
-
 #### **EP02 - Informações de Entrega**
 
-#### **EP03 - Histórico de Notificações**
+#### **EP03 - Cálculo de Preços e Prazos**
 
-#### **EP04 - **
+#### **EP04 - Histórico de Notificações**
+
+#### **EP05 - Notificações Multicanais**
+
+#### **EP06 - Chatbot e Suporte ao Cliente**
+
+#### **EP07 - FAQ e Tutoriais**
+
+#### **EP08 - Pagamento de Taxas e Impostos**
+
+#### **EP09 - Cadastro e Login**
+
+#### **EP10 - Busca e Contato**
+
+
 
 
 
