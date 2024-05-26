@@ -18,7 +18,7 @@ Com catálogos de requisitos organizados, o NFR Framework auxilia os desenvolved
 
 <center>
 
-![Tipos de softgoals](../../assets/modelagem/agil/tipos-softgoals.png)
+![Tipos de softgoals](../../assets/modelagem/agil/nfr/tipos-softgoals.png)
 
 </center>
 
@@ -54,25 +54,30 @@ No NFR Framework pode-se utilizar de vários tipos de contribuições que explic
 
 ## Propagação de Impactos
 
-## Metodologia
+## Cartão de Especificação
 
-## 
+O uso de cartões de especificação oferece uma maneira organizada e concisa de descrever cada requisito não funcional, fornecendo informações essenciais, como descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico de modificações. A tabela 1 oferece uma visão abrangente e acessível dos RNFs, descrevendo cada tópico a ser elaborado no cartão de especificação.
 
-## Subtitulo
-
-<font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Cartão de especificação utilizado para exemplificar os RNFs.</p></font>
 
 <center>
 
-| Coluna 1 | Coluna 2 | Coluna 3 |
-|:--------:|----------|---------:|
-|1.1|1.2|1.2|
-|2.1|2.2|2.3|
-|3.1|3.2|3.3|
+| **NR Requisito** | Um número sequencial + sua classificação |
+|-|-|
+| **Descrição** | Declaração única do significado do requisito |
+| **Justificativa** | Justificativa sobre a criação do requisito |
+| **Origem** | Origem do requisito (stackeholder, norma técnica, etc) |
+| **Critério de ajuste** | Métrica do requisito que possa ser testada e que deve ser satisfeita |
+| **Dependências** | Requisitos relacionados a este |
+| **Prioridade** | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs. Número variando de 1 a 10 onde 1 é a prioridade mínima e 10 a máxima |
+| **Conflitos** | Requisitos conflitantes com este |
+| **História** | Data de criação e de modificações |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio. 2019</p></font>
+
+## Metodologia
 
 ## Bibliografia
 
