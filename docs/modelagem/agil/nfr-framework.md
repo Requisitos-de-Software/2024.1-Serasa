@@ -8,11 +8,11 @@ Com catálogos de requisitos organizados, o NFR Framework auxilia os desenvolved
 
 ### Tipos de softgoals
 
-- Softgoals NFR: Característica abstrata, a qual se deseja considerar na análise, visando saber se a mesma será cumprida ou não cumprida. Representam requisitos não-funcionais em um sistema de software. Eles geralmente não possuem critérios de satisfação precisos e são expressos de forma qualitativa.
+- **Softgoals NFR**: Característica abstrata, a qual se deseja considerar na análise, visando saber se a mesma será cumprida ou não cumprida. Representam requisitos não-funcionais em um sistema de software. Eles geralmente não possuem critérios de satisfação precisos e são expressos de forma qualitativa.
 
-- Softgoals de Operacionalização: Representam as soluções de implementação de forma concreta para vibilizar ou não as características abstratas, como os softgoals NFR ou outros softgoals de operacionalização. Essencialmente os softgoals de operacionalização são as funcionalidades.
+- **Softgoals de Operacionalização**: Representam as soluções de implementação de forma concreta para viabilizar ou não as características abstratas, como os softgoals NFR ou outros softgoals de operacionalização. Essencialmente os softgoals de operacionalização são as funcionalidades.
 
-- Softgoals de Afirmação: Anotações que podem ser acrescentadas ao modelo, argumentando algo sobre um ponto específico da modelagem. Os softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facilitando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento da rastreabilidade.
+- **Softgoals de Afirmação**: Anotações que podem ser acrescentadas ao modelo, argumentando algo sobre um ponto específico da modelagem. Os softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facilitando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento da rastreabilidade.
 
 <font size="2"><p style="text-align: center">Figura 1 - Tipos de softgoals.</p></font>
 
@@ -78,6 +78,68 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 <font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio. 2019</p></font>
 
 ## Metodologia
+
+<font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
+
+<center>
+
+
+| Requisito | Classificação | ID |
+|-|-|-|
+| O aplicativo deve manter a privacidade dos dados do usuário. | Confiabilidade | RNFxx |
+| O acesso aos pagamentos deve ser protegido por autenticação do usuário. | Confiabilidade | RNFxx |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH] e [Elias][EliasGH]. 2019</p></font>
+
+## NFR Usabilidade
+
+## NFR Confiabilidade
+
+<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O aplicativo deve manter a privacidade dos dados do usuário. |
+| **Justificativa** | Garantir a segurança e privacidade das informações pessoais dos usuários, cumprindo normas e regulamentações de proteção de dados. |
+| **Origem** | Equipe de desenvolvimento |
+| **Critério de ajuste** | Verificação de que os dados do usuário são protegidos contra acesso não autorizado e utilizados apenas para os fins previstos, conforme políticas de privacidade. |
+| **Dependências** | Requisitos de segurança e normas de proteção de dados. |
+| **Prioridade** | 10 |
+| **Conflitos** | Requisitos que comprometam a segurança ou privacidade dos dados do usuário. |
+| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH]. 2019</p></font>
+
+
+<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O acesso aos pagamentos deve ser protegido por autenticação do usuário. |
+| **Justificativa** | Garantir a segurança das transações financeiras dos usuários, prevenindo acesso não autorizado e fraudes. |
+| **Origem** | Equipe de desenvolvimento |
+| **Critério de ajuste** | Verificação de que o acesso aos pagamentos requer autenticação do usuário antes de permitir transações financeiras. |
+| **Dependências** | Requisitos de segurança e privacidade do sistema. |
+| **Prioridade** | 9 |
+| **Conflitos** | Requisitos que comprometam a segurança do sistema ou a integridade dos dados financeiros dos usuários. |
+| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH]. 2019</p></font>
+
+
+## NFR Desempenho
+
+## NFR Suportabilidade
 
 ## Bibliografia
 
