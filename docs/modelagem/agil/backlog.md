@@ -24,8 +24,14 @@ Tema 5: Busca e Contato
 
 ### Épicos
 
-#### EPXX
+#### **EP01 - Rastreamento no Mapa**
 
+
+#### **EP02 - Informações de Entrega**
+
+#### **EP03 - Histórico de Notificações**
+
+#### **EP04 - **
 
 
 
