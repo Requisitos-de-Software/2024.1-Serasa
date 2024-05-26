@@ -40,6 +40,24 @@ As decomposições realizam o refinamento dos softgoals obtendo softgoals mais e
 
 ### Contribuições
 
+No NFR Framework pode-se utilizar de vários tipos de contribuições que explicam de que maneira a satisfação ou não de um softgoal descendente auxilia a satisfação do softgoal ascendente. Abaixo estão os tipo de contribuições:
+
+* **AND:** Define que se os softgoals descendentes são satisfeitos os ascendentes também serão.
+* **OR:** Afirma que se pelomenos um softgoal descendente for satisfeito o ascendente também será.
+* **MAKE(++):** Denota uma contribuição razoavelmente positiva entre o softgoal ascendente e o descendente. Assim, em caso de utilizar MAKE se o softgoal descendente for satisfeito o ascendente também será.
+* **BREAK(--):** 
+* **HELP(+):**
+* **HURT(-):**
+* **UNKNOWN(?):**
+* **EQUALS:**
+* **SOME:**
+
+## Propagação de Impactos
+
+## Metodologia
+
+## 
+
 ## Subtitulo
 
 <font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
