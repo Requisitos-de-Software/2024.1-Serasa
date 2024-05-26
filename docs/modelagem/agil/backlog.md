@@ -25,24 +25,47 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 ### Épicos
 
 #### **EP01 - Rastreamento no Mapa**
+Eu, como usuário, desejo visualizar minha encomenda no mapa para acompanhar sua localização em tempo real.
 
 #### **EP02 - Informações de Entrega**
+Eu, como usuário, desejo visualizar as atualizações do prazo de entrega para estar ciente de variações no tempo de entrega da minha encomenda.
+
 
 #### **EP03 - Cálculo de Preços e Prazos**
+Eu, como usuário, desejo calcular os preços e prazos de encomendas nacionais e internacionais para planejar minhas remessas.
+
 
 #### **EP04 - Histórico de Notificações**
+Eu, como usuário, desejo acessar o histórico de notificações do objeto para revisar as atualizações de status da minha encomenda.
+
 
 #### **EP05 - Notificações Multicanais**
+Eu, como usuário, desejo receber notificações por múltiplos canais, como WhatsApp e e-mail, para estar informado sobre o status da minha encomenda.
+
 
 #### **EP06 - Chatbot e Suporte ao Cliente**
+Eu, como usuário, desejo acessar um chatbot para suporte ao cliente para obter ajuda rápida e eficiente.
+
 
 #### **EP07 - FAQ e Tutoriais**
+Eu, como usuário, desejo acessar uma página de FAQ e tutoriais para encontrar respostas e orientações sobre o rastreamento e outros serviços.
+
 
 #### **EP08 - Pagamento de Taxas e Impostos**
+Eu, como usuário, desejo realizar o pagamento de impostos e taxas de importação pelo aplicativo para facilitar o processo de liberação da minha encomenda.
+
 
 #### **EP09 - Cadastro e Login**
+Eu, como usuário, desejo realizar cadastro e login no aplicativo para acessar funcionalidades personalizadas e seguras.
+
 
 #### **EP10 - Busca e Contato**
+Eu, como usuário, desejo buscar agências próximas e acessar contatos das empresas que postaram a encomenda para obter informações adicionais e suporte.
+
+
+
+
+
 
 
 
