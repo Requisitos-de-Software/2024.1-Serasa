@@ -6,10 +6,17 @@ A metodologia ágil é uma abordagem flexível de gestão de projetos que foca n
 
 ## Metodologia
 
+A metodologia utilizada para a definição do Backlog da nossa equipe tira como base os [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/), e por meio desses, é perceptível 
 
 ## Backlog
 
 ### Temas
+
+Tema 1: Encomendas
+Tema 2: Experiência do Usuário
+Tema 3: Pagamentos e Segurança
+Tema 4: Notificações e Comunicações
+Tema 5: Funcionalidades Gerais do Aplicativo
 
 
 ### Épicos
