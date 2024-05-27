@@ -40,6 +40,8 @@ nav:
     - Validação dos Casos de Uso: modelagem/validacao.md
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexicos.md
+    - Ágil:
+      - Histórias de usuário: modelagem/agil/historias_de_usuario.md
 extra_css:
   - stylesheets/extra.css
 theme:
