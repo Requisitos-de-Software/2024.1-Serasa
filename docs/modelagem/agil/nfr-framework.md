@@ -128,6 +128,8 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 |-|-|-|
 | O aplicativo deve manter a privacidade dos dados do usuário. | Confiabilidade | RNFxx |
 | O acesso aos pagamentos deve ser protegido por autenticação do usuário. | Confiabilidade | RNFxx |
+| O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | Suportabilidade | RNFxx |
+| O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | Suportabilidade | RNFxx |
 
 </center>
 
@@ -158,7 +160,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de confiabilidade com e sem propagação de impactos.
 
-<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
@@ -166,9 +168,9 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 |-|-|
 | **Descrição** | O aplicativo deve manter a privacidade dos dados do usuário. |
 | **Justificativa** | Garantir a segurança e privacidade das informações pessoais dos usuários, cumprindo normas e regulamentações de proteção de dados. |
-| **Origem** | Equipe de desenvolvimento |
+| **Origem** | [CON01 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que os dados do usuário são protegidos contra acesso não autorizado e utilizados apenas para os fins previstos, conforme políticas de privacidade. |
-| **Dependências** | Requisitos de segurança e normas de proteção de dados. |
+| **Dependências** | Nenhuma |
 | **Prioridade** | 10 |
 | **Conflitos** | Nenhum |
 | **História** | 26/05/2024 |
@@ -178,7 +180,7 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
-<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
@@ -186,9 +188,9 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 |-|-|
 | **Descrição** | O acesso aos pagamentos deve ser protegido por autenticação do usuário. |
 | **Justificativa** | Garantir a segurança das transações financeiras dos usuários, prevenindo acesso não autorizado e fraudes. |
-| **Origem** | Equipe de desenvolvimento |
+| **Origem** | [CON02 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que o acesso aos pagamentos requer autenticação do usuário antes de permitir transações financeiras. |
-| **Dependências** | Requisitos de segurança e privacidade do sistema. |
+| **Dependências** | RNenhuma |
 | **Prioridade** | 9 |
 | **Conflitos** | Nenhum |
 | **História** | 26/05/2024 |
@@ -260,6 +262,70 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 </center>
 
 ## NFR Suportabilidade
+
+Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de suportabilidade com e sem propagação de impactos.
+
+<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
+| **Justificativa** | Assegurar que o aplicativo seja acessível a uma ampla base de usuários, independentemente do sistema operacional de seus dispositivos móveis, aumentando assim sua usabilidade e alcance. |
+| **Origem** | [SU07 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Critério de ajuste** | Verificação de que o aplicativo é funcional e mantém sua integridade em diferentes sistemas operacionais de smartphones, como Android e iOS |
+| **Dependências** | Nenhuma |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **História** | 26/05/2024 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". |
+| **Justificativa** | Fornecer suporte e orientação aos usuários durante a utilização do aplicativo, facilitando a resolução de dúvidas e problemas de forma rápida e eficiente. |
+| **Origem** | [SU02 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Critério de ajuste** | Verificação da presença e funcionamento adequado da tela de ajuda e do pop-up "Precisa de ajuda?" no aplicativo, garantindo que os usuários tenham acesso fácil e eficaz ao suporte disponível. |
+| **Dependências** | Nenhuma |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **História** | 26/05/2024 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+### Sem propagação de impactos
+
+<font size="2"><p style="text-align: center">Figura x - SIG de Suportabilidade sem propagação de impactos.</p></font>
+
+<center>
+
+![Confiabilidade SIG](../../assets/modelagem/agil/nfr/suportabilidade-sig.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+### Com propagação de impactos
+
+<font size="2"><p style="text-align: center">Figura x - SIG de Suportabilidade com propagação de impactos.</p></font>
+
+<center>
+
+![Confiabilidade SIG](../../assets/modelagem/agil/nfr/suportabilidade-impacto.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ## Bibliografia
 
