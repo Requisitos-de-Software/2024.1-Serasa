@@ -38,19 +38,27 @@ As decomposições realizam o refinamento dos softgoals obtendo softgoals mais e
 * **Decomposição de Afirmação:** Refina um softgoal de afirmação em softgoals menores. A decomposição de afirmação é útil para afirmar ou negar justificativas mais específicas do projeto.
 * **Priorização**: Sendo um tipo especial de decomposição, a priorização aprimora um softgoal em outro com as mesmas características e tópicos, mas com uma prioridade associada.
 
+Abaixo temos os tipos de decomposições na figura 02:
+
+<font size="2"><p style="text-align: center">Figura 02 - Tipos de Decomposições</p></font>
+
+![Decomposições](../../assets/modelagem/agil/nfr/decomposicoes.png)
+
+<font size="2"><p style="text-align: center">Fonte: (CHUNG et al., 2000) </p></font>
+
 ### Contribuições
 
 No NFR Framework pode-se utilizar de vários tipos de contribuições que explicam de que maneira a satisfação ou não de um softgoal descendente auxilia a satisfação do softgoal ascendente. Abaixo estão os tipo de contribuições:
 
 * **AND:** Define que se os softgoals descendentes são satisfeitos os ascendentes também serão.
 * **OR:** Afirma que se pelomenos um softgoal descendente for satisfeito o ascendente também será.
-* **MAKE(++):** Denota uma contribuição razoavelmente positiva entre o softgoal ascendente e o descendente. Assim, em caso de utilizar MAKE se o softgoal descendente for satisfeito o ascendente também será.
-* **BREAK(--):** 
-* **HELP(+):**
-* **HURT(-):**
-* **UNKNOWN(?):**
-* **EQUALS:**
-* **SOME:**
+* **MAKE(++):** Concede uma contribuição razoavelmente positiva entre o softgoal ascendente e o descendente. Assim, em caso de utilizar MAKE se o softgoal descendente for satisfeito o ascendente também será.
+* **BREAK(--):** Concede uma contribuição razoavelmente negativa entre um softgoal descendente e um ascendente. Ao utilizar o BREAK caso o softgoal descendente for suficientemente satisfeito o ascendente será negado.
+* **HELP(+):**  Concede uma contribuição moderadamente positiva entre um softgoal anscendente e um descendente. Assim ao usar o HELP em caso do softgoal descentente for moderadamente satisfeito o ascendente também será. 
+* **HURT(-):** Concede uma contribuição moderadamente negativa entre um softgoal anscendente e um descendente. Assim ao usar o HELP em caso do softgoal descentente for moderadamente satisfeito o ascendente será moderadamente negado.
+* **UNKNOWN(?):** Concede uma contribuição desconhecida entre o softgoal ascendente e o descendente, podendo ser negativa ou positiva.
+* **EQUALS:** Afirma que se o softgoal ascendente for satisfeito o descendente definitivamente também será e em caso do ascendente ser negado o descendente também será.
+* **SOME:**  É utilizado em caso se conhecer o sinal de uma contribuição mas não sabendo se é parcial ou total, então ficando a dúvida de se utilizar HELP ou Make, HURT ou BREAK, utiliza-se o SOME.
 
 ## Propagação de Impactos
 
