@@ -76,9 +76,9 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 ### Modelo da tabela:
 <p align="center" > <strong> Tabela 1 - </Strong>Modelo do backlog</font> <gitbr></p>
 
-|Tema|Épico|Histórias de Usuário|ID História de usuário|Prioridade|Rastreabilidade|
-|:--|:--|:--|:--|:--|:--|
-|Código do Épico|nome do tema|Descrição da História de Usuário|identificador da História de Usuário|Prioriade baseada na técnica do three level scale|Código do requisito referente a História de usuário|
+|Tema|Épico|Histórias de Usuário|ID História de usuário|Rastreabilidade|
+|:--:|:--:|:--:|:--:|:--:|
+|Nome do Tema|Nome do épico|História de Usuário|identificador da História de Usuário|Código do requisito referente a História de usuário|
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) & [Claudio Henrique][ClaudioGH], 2024</p></font>
 
@@ -86,30 +86,30 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 
 <p align="center" > <strong> Tabela 2 - </strong>Backlog</font></p>
 
-|Tema|Épico|Histórias de Usuário|ID História de Usuário|Prioridade|Rastreabilidade|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|Rastreamento de Encomendas|EP01|Visualizar Encomenda no Mapa|US01|Alta|RF18|
-|Rastreamento de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
-|Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF07|
-|Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF06|
-| Envio de Encomendas |EP03| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05|Alta|RF30|
-| Envio de Encomendas |EP04| Realizar nova Postagem |US06|Alta|RF49|
-| Envio de Encomendas |EP04| Realizar pagamento da Postagem |US07|Alta|RF50|
-| Envio de Encomendas |EP05| Alterar Endereço de Entrega |US08|Alta|RF47|
-| Envio de Encomendas |EP05| Reservar um locker |US09|Alta|RF45|
-| Notificações e Alertas |EP06| Acessar Histórico de Notificações |US10|Alta|RF03|
-| Notificações e Alertas |EP07| Receber Notificações por WhatsApp |US11|Alta|RF11|
-| Notificações e Alertas |EP07| Receber Notificações por E-mail |US12|Alta|RF22|
-| Suporte e Ajuda ao Usuário |EP08| Acessar Chatbot para Suporte |US13|Alta|RF12|
-| Suporte e Ajuda ao Usuário |EP09| Acessar Página de FAQ |US14|Alta|RF17|
-| Suporte e Ajuda ao Usuário |EP09| Visualizar Tutorial de Rastreamento |US15|Alta|RF13|
-| Serviços de Pagamento e Importação |EP10| Realizar Pagamento de Impostos|US16|Alta|RF23|
-| Cadastro e Login |EP11| Realizar Cadastro no Aplicativo|US17|Alta|RF01|
-| Cadastro e Login |EP11| Realizar Login no Aplicativo|US18|Alta|RF25|
-| Busca e Contato |EP12| Buscar Agências Próximas |US19|Alta|RF29|
-| Busca e Contato |EP12| Acessar Contatos das Empresas |US20|Alta|RF08|
-| Busca e Contato |EP12| Buscar Objetos Perdidos |US21|Alta|RF53|
-| Busca e Contato |EP12|Acessar Área de Contato sobre Violência contra a Mulher |US22|Alta|RF36|
+|Tema|Épico|Histórias de Usuário|ID História de Usuário|Rastreabilidade|
+|:--:|:--:|:--:|:--:|:--:|
+|Rastreamento de Encomendas|EP01 - Rastreamento no Mapa |Visualizar Encomenda no Mapa|US01| RF18|
+|Rastreamento de Encomendas|EP01 - Rastreamento no Mapa|Atualização de Localização em Tempo Real|US02| RF18|
+|Rastreamento de Encomendas|EP02 - Informações de Entrega|Atualização de Prazo de Entrega|US03| RF07|
+|Rastreamento de Encomendas|EP02 - Informações de Entrega|Estipulação de Prazo de Entrega|US04| RF06|
+| Envio de Encomendas |EP03 - Cálculo de Preços e Prazos| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05| RF30|
+| Envio de Encomendas |EP04 - Realizar uma pré-postagem| Realizar nova Postagem |US06| RF49|
+| Envio de Encomendas |EP04 - Realizar uma pré-postagem| Realizar pagamento da Postagem |US07| RF50|
+| Envio de Encomendas |EP05 - Alterar recebimento de encomendas| Alterar Endereço de Entrega |US08| RF47|
+| Envio de Encomendas |EP05 - Alterar recebimento de encomendas| Reservar um locker |US09| RF45|
+| Notificações e Alertas |EP06 - Histórico de Notificações| Acessar Histórico de Notificações |US10| RF03|
+| Notificações e Alertas |EP07 - Notificações Multicanais| Receber Notificações por WhatsApp |US11| RF11|
+| Notificações e Alertas |EP07 - Notificações Multicanais| Receber Notificações por E-mail |US12| RF22|
+| Suporte e Ajuda ao Usuário |EP08 - Chatbot e Suporte ao Cliente| Acessar Chatbot para Suporte |US13| RF12|
+| Suporte e Ajuda ao Usuário |EP09 - FAQ e Tutoriais| Acessar Página de FAQ |US14| RF17|
+| Suporte e Ajuda ao Usuário |EP09 - FAQ e Tutoriais| Visualizar Tutorial de Rastreamento |US15| RF13|
+| Serviços de Pagamento e Importação |EP10 - Pagamento de Taxas e Impostos| Realizar Pagamento de Impostos|US16| RF23|
+| Cadastro e Login |EP11 - Cadastro e Login| Realizar Cadastro no Aplicativo|US17| RF01|
+| Cadastro e Login |EP11 - Cadastro e Login| Realizar Login no Aplicativo|US18| RF25|
+| Busca e Contato |EP12 - Busca e Contato| Buscar Agências Próximas |US19| RF29|
+| Busca e Contato |EP12 - Busca e Contato| Acessar Contatos das Empresas |US20| RF08|
+| Busca e Contato |EP12 - Busca e Contato| Buscar Objetos Perdidos |US21| RF53|
+| Busca e Contato |EP12 - Busca e Contato|Acessar Área de Contato sobre Violência contra a Mulher |US22| RF36|
 
 
 
