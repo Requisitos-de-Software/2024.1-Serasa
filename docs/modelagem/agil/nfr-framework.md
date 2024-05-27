@@ -158,7 +158,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 ## NFR Confiabilidade
 
-Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de confiabilidade com e sem propagação de impactos.
+Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de confiabilidade com e sem propagação de impactos.
 
 <font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
 
@@ -263,7 +263,7 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 
 ## NFR Suportabilidade
 
-Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de suportabilidade com e sem propagação de impactos.
+Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de suportabilidade com e sem propagação de impactos.
 
 <font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
 
