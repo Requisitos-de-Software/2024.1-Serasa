@@ -2,15 +2,15 @@
 
 ## Introdução
 
-A metodologia ágil é uma abordagem flexível de gestão de projetos que foca na colaboração, adaptação e entrega contínua de valor ao cliente. Dentro dessa metodologia, o Product Backlog é fundamental, pois é uma lista priorizada de requisitos, funcionalidades e tarefas a serem executadas no projeto ou produto. Ele destaca a divisão de grandes tarefas em temas, épicos e histórias do usuário.
+A metodologia ágil é uma abordagem flexível de gestão de projetos que foca na colaboração, adaptação e entrega contínua de valor ao cliente. Dentro dessa metodologia, o Product Backlog é fundamental, pois é uma lista priorizada de requisitos, funcionalidades e tarefas a serem executadas no projeto ou produto. Ele destaca a divisão de grandes tarefas em temas, épicos e histórias de usuário.
 
 ## Metodologia
 
-A metodologia utilizada para a definição do Backlog da nossa equipe tira como base os [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/), e por meio desses, é possível agrupar e dividir os requisitos em 3 grupos: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário](). Os Temas são os conjuntos de épicos que se relacionam de alguma forma, já os Épicos são grandes partes de trabalho, e que por sua vez também são divididos em tarefas menores, que são as Histórias de Usuário.
+A metodologia utilizada para a definição do Backlog da nossa equipe baseia-se nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/). A partir desses requisitos, é possível agrupá-los e dividi-los em três grupos:: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário]().Os Temas são conjuntos de épicos que se relacionam de alguma forma, enquanto os Épicos são grandes partes do trabalho que, por sua vez, são divididos em tarefas menores, chamadas Histórias de Usuário.
 
-A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histórias de usuário e a prioridade de cada história de usuário.
+A partir dessa divisão, na Tabela 1, é possível ver os temas, épicos, histórias de usuário e a prioridade de cada história de usuário.
 
-#### **Temas**
+## **Temas**
 
 * **Tema 1:** Rastreamento de Encomendas
 * **Tema 2:** Envio de Encomendas
@@ -21,7 +21,7 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 * **Tema 7:** Busca e Contato
 
 
-#### **Épicos**
+## **Épicos**
 
 **EP01 - Rastreamento no Mapa**
 
