@@ -137,6 +137,8 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 ## NFR Confiabilidade
 
+Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de confiabilidade com e sem propagação de impactos.
+
 <font size="2"><p style="text-align: center">Tabela x - .</p></font>
 
 <center>
@@ -149,8 +151,8 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 | **Critério de ajuste** | Verificação de que os dados do usuário são protegidos contra acesso não autorizado e utilizados apenas para os fins previstos, conforme políticas de privacidade. |
 | **Dependências** | Requisitos de segurança e normas de proteção de dados. |
 | **Prioridade** | 10 |
-| **Conflitos** | Requisitos que comprometam a segurança ou privacidade dos dados do usuário. |
-| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+| **Conflitos** | Nenhum |
+| **História** | 26/05/2024 |
 
 </center>
 
@@ -169,12 +171,36 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 | **Critério de ajuste** | Verificação de que o acesso aos pagamentos requer autenticação do usuário antes de permitir transações financeiras. |
 | **Dependências** | Requisitos de segurança e privacidade do sistema. |
 | **Prioridade** | 9 |
-| **Conflitos** | Requisitos que comprometam a segurança do sistema ou a integridade dos dados financeiros dos usuários. |
-| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+| **Conflitos** | Nenhum |
+| **História** | 26/05/2024 |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH]. 2019</p></font>
+
+### Sem propagação de Impactos
+
+<font size="2"><p style="text-align: center">Figura x - SIG de Confiabilidade sem propagação de impactos.</p></font>
+
+<center>
+
+![Confiabilidade SIG](../../assets/modelagem/agil/nfr/confiabilidade-sig.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+### Com propagação de impactos
+
+<font size="2"><p style="text-align: center">Figura x - SIG de Confiabilidade com propagação de impactos.</p></font>
+
+<center>
+
+![Confiabilidade SIG](../../assets/modelagem/agil/nfr/confiabilidade-impacto.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
 ## NFR Desempenho
