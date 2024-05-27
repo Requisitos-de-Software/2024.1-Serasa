@@ -137,11 +137,13 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 ## NFR Usabilidade
 
-<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR que esta localizado nas figuras 01 e 02.
+
+<font size="2"><p style="text-align: center">**Tabela 03** - Cartão de Especificação RNF - USA04.</p></font>
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF01 |
 |-|-|
 | **Descrição** | O aplicativo requer uma interface amigável e fácil de usar. |
 | **Justificativa** | O sistema deverá possuir uma interface de fácil utilização e que produza uma boa experiência para o usuário. |
@@ -154,13 +156,45 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">**Tabela 04** - RNF - USA08.</p></font>
+
+<center>
+
+| **NR Requisito** | RNF02 |
+|-|-|
+| **Descrição** | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. |
+| **Justificativa** | O sistema deve oferecer um meio rápido e simples de sanar as duvidas do usuário de maneira, ou encaminha-lo para falar com um atendente. |
+| **Origem** | [USA08- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Critério de aceitação** | Nenhum. |
+| **Dependências** | Nenhuma Dependência.  |
+| **Prioridade** | 7 |
+| **Conflitos** | Nenhum conflito foi encontrado para este requisito. |
+| **História** | Criado em 20/05/2024, modificado pela última vez em 20/05/2024. |
+
+</center>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">**Figura 05:** NFR Usabilidade Sem proagação de Impactos.</p></font>
+<center>
+![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade.png)
+</center>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">**Figura 06:** NFR Usabilidade com proagação de Impactos.</p></font>
+<center>
+![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade_impacto.png)
+</center>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## NFR Confiabilidade
 
 Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de confiabilidade com e sem propagação de impactos.
 
-<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+
+<font size="2"><p style="text-align: center">**Tabela 05 -** Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
@@ -180,7 +214,8 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
-<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+
+<font size="2"><p style="text-align: center">**Tabela 06** - Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
@@ -201,7 +236,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 ### Sem propagação de Impactos
 
-<font size="2"><p style="text-align: center">Figura x - SIG de Confiabilidade sem propagação de impactos.</p></font>
+<font size="2"><p style="text-align: center">**Figura 07** - SIG de Confiabilidade sem propagação de impactos.</p></font>
 
 <center>
 
@@ -213,7 +248,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 ### Com propagação de impactos
 
-<font size="2"><p style="text-align: center">Figura x - SIG de Confiabilidade com propagação de impactos.</p></font>
+<font size="2"><p style="text-align: center">**Figura 08** - SIG de Confiabilidade com propagação de impactos.</p></font>
 
 <center>
 
@@ -225,7 +260,10 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 
 ## NFR Desempenho
-<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+
+Abaixo nas tabelas xx e xx encontram-se os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR de desempenho ilutrado logo abaixo na figura xx.
+
+<font size="2"><p style="text-align: center">**Tabela 07** - RNF - DS01 .</p></font>
 
 <center>
 
@@ -244,7 +282,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+<font size="2"><p style="text-align: center">**Tabela 08** - RNF - DS03 .</p></font>
 
 <center>
 
@@ -257,9 +295,23 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 | **Dependências** | Nenhuma Dependência. |
 | **Prioridade** | 9 |
 | **Conflitos** | Nenhum conflito foi encontrado para este requisito. |
-| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+| **História** | Criado em 20/05/2024, modificado pela última vez em 20/05/2024. |
 
 </center>
+
+<font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem proagação de Impactos.</p></font>
+<center>
+![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_desempenho.png)
+</center>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">**Figura 10:** NFR Desempenho com proagação de Impactos.</p></font>
+<center>
+![NFRDesempenho](../../assets/modelagem/agil/nfr/Desemopenho_impacto.png)
+</center>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+
 
 ## NFR Suportabilidade
 
