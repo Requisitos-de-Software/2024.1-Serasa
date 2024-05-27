@@ -9,9 +9,9 @@ Uma História de Usuário descreve uma funcionalidade valiosa para o usuário do
 
 <center>
 
-| ID | Tema | Épico | História de Usuário | Critério de aceitação | Prioridade |
-| :--: | ---- | ---- | ---- | ---- | :---: |
-| USxx | [Tema]() associado | [Épico]() associado | Como um <usuário\>, quero <algum recurso\>, para que <algum motivo\> | elementos que possibilitam mensurar se o objetivo foi atingido | Prioridade atribuída à implementação na validação | 
+| ID | Épico | História de Usuário | Critério de aceitação | Prioridade |
+| :--: | ---- | ---- | ---- | :---: |
+| USxx | [Épico]() associado | Como um <usuário\>, quero <algum recurso\>, para que <algum motivo\> | elementos que possibilitam mensurar se o objetivo foi atingido | Prioridade atribuída à implementação na validação | 
 
 </center>
 
@@ -23,15 +23,32 @@ Uma História de Usuário descreve uma funcionalidade valiosa para o usuário do
 
 <center>
 
-| ID | Tema | Épico | História de Usuário | Critério de aceitação | Prioridade |
+| ID | Épico | História de Usuário | Critério de aceitação | Prioridade |
 | :--: | ---- | ---- | ---- | ---- | :---: |
-| US | [Rastreamento de Encomendas][temas] | [E0X][epicos] |  |  |  |
-| US | [Envio de Encomendas][temas] | [E0X][epicos] |  |  |  |
-| US | [Notificações e Alertas][temas] | [E0X][epicos] |  |  |  | 
-| US | [Suporte e Ajuda ao Usuário][temas] | [E0X][epicos] |  |  |  |
-| US | [Serviços de Pagamento e Importação][temas] | [E0X][epicos] |  |  |  |
-| US | [Cadastro e Login][temas] | [E0X][epicos] |  |  |  |
-| US | [Busca e Contato][temas] | [E0X][epicos] |  |  |  |
+| US01 | [EP01][epicos] | Visualizar Encomenda no Mapa | US01 | Alta |
+
+
+|Rastreamento de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
+|Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF07|
+|Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF06|
+| Envio de Encomendas |EP03| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05|Alta|RF30|
+| Envio de Encomendas |EP04| Realizar nova Postagem |US06|Alta|RF49|
+| Envio de Encomendas |EP04| Realizar pagamento da Postagem |US07|Alta|RF50|
+| Envio de Encomendas |EP05| Alterar Endereço de Entrega |US08|Alta|RF47|
+| Envio de Encomendas |EP05| Reservar um locker |US09|Alta|RF45|
+| Notificações e Alertas |EP06| Acessar Histórico de Notificações |US10|Alta|RF03|
+| Notificações e Alertas |EP07| Receber Notificações por WhatsApp |US11|Alta|RF11|
+| Notificações e Alertas |EP07| Receber Notificações por E-mail |US12|Alta|RF22|
+| Suporte e Ajuda ao Usuário |EP08| Acessar Chatbot para Suporte |US13|Alta|RF12|
+| Suporte e Ajuda ao Usuário |EP09| Acessar Página de FAQ |US14|Alta|RF17|
+| Suporte e Ajuda ao Usuário |EP09| Visualizar Tutorial de Rastreamento |US15|Alta|RF13|
+| Serviços de Pagamento e Importação |EP10| Realizar Pagamento de Impostos|US16|Alta|RF23|
+| Cadastro e Login |EP11| Realizar Cadastro no Aplicativo|US17|Alta|RF01|
+| Cadastro e Login |EP11| Realizar Login no Aplicativo|US18|Alta|RF25|
+| Busca e Contato |EP12| Buscar Agências Próximas |US19|Alta|RF29|
+| Busca e Contato |EP12| Acessar Contatos das Empresas |US20|Alta|RF08|
+| Busca e Contato |EP12| Buscar Objetos Perdidos |US21|Alta|RF53|
+| Busca e Contato |EP12|Acessar Área de Contato sobre Violência contra a Mulher |US22|Alta|RF36|
 
 </center>
 
