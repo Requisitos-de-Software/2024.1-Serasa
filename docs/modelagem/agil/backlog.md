@@ -6,7 +6,7 @@ A metodologia ágil é uma abordagem flexível de gestão de projetos que foca n
 
 ## Metodologia
 
-A metodologia utilizada para a definição do Backlog da nossa equipe baseia-se nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/). A partir desses requisitos, é possível agrupá-los e dividi-los em três grupos:: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário]().Os Temas são conjuntos de épicos que se relacionam de alguma forma, enquanto os Épicos são grandes partes do trabalho que, por sua vez, são divididos em tarefas menores, chamadas Histórias de Usuário.
+A metodologia utilizada para a definição do Backlog da nossa equipe baseia-se nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/). A partir desses requisitos, é possível agrupá-los e dividi-los em três grupos:: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario).Os Temas são conjuntos de épicos que se relacionam de alguma forma, enquanto os Épicos são grandes partes do trabalho que, por sua vez, são divididos em tarefas menores, chamadas Histórias de Usuário.
 
 A partir dessa divisão, na Tabela 1, é possível ver os temas, épicos, histórias de usuário e a prioridade de cada história de usuário.
 
