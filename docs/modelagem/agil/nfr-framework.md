@@ -60,7 +60,31 @@ No NFR Framework pode-se utilizar de vários tipos de contribuições que explic
 * **EQUALS:** Afirma que se o softgoal ascendente for satisfeito o descendente definitivamente também será e em caso do ascendente ser negado o descendente também será.
 * **SOME:**  É utilizado em caso se conhecer o sinal de uma contribuição mas não sabendo se é parcial ou total, então ficando a dúvida de se utilizar HELP ou Make, HURT ou BREAK, utiliza-se o SOME.
 
+Abaixo nas figuras 03 e 04 encontra-se respectivamente exemplos das contribuições " AND ", " OR " e " MAKE ", "BREAK", " HELP " e " HURT ".
+
+
+<font size="2"><p style="text-align: center">**Figura 03** - Tipos de Decomposições</p></font>
+
+![AND, OR](../../assets/modelagem/agil/nfr/contrib_and_or.png)
+
+<font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES).</p></font>
+
+
+<font size="2"><p style="text-align: center">**Figura 04** - Tipos de Decomposições</p></font>
+
+![Anothers Contrib](../../assets/modelagem/agil/nfr/contirb_anothers.png)
+
+<font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES).</p></font>
+
 ## Propagação de Impactos
+
+
+* ✓ : 
+* 𝒲+ :
+* X :
+* 𝒲- :
+* 🗲 :
+* u :
 
 ## Cartão de Especificação
 
