@@ -113,7 +113,7 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio. 2019</p></font>
+<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio, 2024</p></font>
 
 ## Metodologia
 
@@ -131,7 +131,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH] e [Elias][EliasGH]. 2019</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH] e [Elias][EliasGH], 2024</p></font>
 
 ## NFR Usabilidade
 
@@ -154,7 +154,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH]. 2019</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
 <font size="2"><p style="text-align: center">Tabela x - .</p></font>
@@ -174,10 +174,12 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH]. 2019</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
 ## NFR Desempenho
+
+
 
 ## NFR Suportabilidade
 
