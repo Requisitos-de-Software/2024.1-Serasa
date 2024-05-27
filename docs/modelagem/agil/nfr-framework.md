@@ -135,6 +135,25 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 ## NFR Usabilidade
 
+<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O aplicativo requer uma interface amigável e fácil de usar. |
+| **Justificativa** | O sistema deverá possuir uma interface de fácil utilização e que produza uma boa experiência para o usuário. |
+| **Origem** | [USA04- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Critério de aceitação** | Nenhum. |
+| **Dependências** | Nenhuma Dependência.  |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum conflito foi encontrado para este requisito. |
+| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
 ## NFR Confiabilidade
 
 Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figura X ilustram o SIG de confiabilidade com e sem propagação de impactos.
@@ -204,8 +223,41 @@ Nesse tópico, as tabelas abaixo descrevem o cartão de especificação dos requ
 
 
 ## NFR Desempenho
+<font size="2"><p style="text-align: center">Tabela x - .</p></font>
 
+<center>
 
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O aplicativo deve mostrar a entrega em tempo real |
+| **Justificativa** | É necessário que o feedback da localização das encomendas sejam mais específicos e precisos ao informar a localização e status ao usuário. |
+| **Origem** | [DS01- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Critério de aceitação** | O usuário deve ser capaz de ver a a localização exata ou aproximada da sua encomenda em tempo real. |
+| **Dependências** | Nenhuma Dependência. |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum conflito foi encontrado para este requisito. |
+| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela x - .</p></font>
+
+<center>
+
+| **NR Requisito** | RNFxx |
+|-|-|
+| **Descrição** | O sistema deve fornecer as notificações ao usuário com um menor tempo de delay possível. |
+| **Justificativa** | Os usuários devem ser notificados em tempo hábil pela aplicação |
+| **Origem** | [DS03- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)  |
+| **Critério de ajuste** | As notificações dever ser entregues ao usuário em menor tempo. |
+| **Dependências** | Nenhuma Dependência. |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum conflito foi encontrado para este requisito. |
+| **História** | Criado em [data de criação], modificado pela última vez em [data de modificação]. |
+
+</center>
 
 ## NFR Suportabilidade
 
