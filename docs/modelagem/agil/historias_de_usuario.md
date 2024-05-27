@@ -6,7 +6,7 @@ Uma História de Usuário descreve uma funcionalidade valiosa para o usuário do
 
 ## Metodologia
 
-Para desenvolver as histórias de usuário, iniciamos com a elicitação de requisitos, empregando técnicas como análise documental, brainstorming, questionários e observação. Após a coleta dos requisitos, procedemos com a priorização, utilizando métodos como $100, First Things First e In or Out. Esses documentos foram elaborados em entregas passadas.
+Para desenvolver as histórias de usuário, iniciamos com a elicitação de requisitos, empregando técnicas como [análise documental](../../elicitacao/tecnicas/analise-documental.md), [brainstorming](../../elicitacao/tecnicas/brainstorming.md), [questionários](../../elicitacao/tecnicas/questionario.md) e [observação](../../elicitacao/tecnicas/observacao.md). Após a coleta dos requisitos, procedemos com a priorização, utilizando métodos como [$100](../../priorizacao/tecnicas/$100.md), [First Things First](../../priorizacao/tecnicas/firstThingsFirst.md) e [In or Out](../../priorizacao/tecnicas/inorout.md). Esses documentos foram elaborados em entregas passadas.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo de uma história de usuário.</p></font>
 
