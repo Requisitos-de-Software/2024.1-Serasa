@@ -36,26 +36,26 @@ Eu, como usuário, desejo calcular os preços e prazos de encomendas nacionais e
 **EP05 - Alterar recebimento de encomendas**
 
 
-**EP04 - Histórico de Notificações**
+**EP06 - Histórico de Notificações**
 Eu, como usuário, desejo acessar o histórico de notificações do objeto para revisar as atualizações de status da minha encomenda.
 
 
-**EP05 - Notificações Multicanais**
+**EP07 - Notificações Multicanais**
 Eu, como usuário, desejo receber notificações por múltiplos canais, como WhatsApp e e-mail, para estar informado sobre o status da minha encomenda.
 
-**EP06 - Chatbot e Suporte ao Cliente**
+**EP08 - Chatbot e Suporte ao Cliente**
 Eu, como usuário, desejo acessar um chatbot para suporte ao cliente para obter ajuda rápida e eficiente.
 
-**EP07 - FAQ e Tutoriais**
+**EP09 - FAQ e Tutoriais**
 Eu, como usuário, desejo acessar uma página de FAQ e tutoriais para encontrar respostas e orientações sobre o rastreamento e outros serviços.
 
-**EP08 - Pagamento de Taxas e Impostos**
+**EP10 - Pagamento de Taxas e Impostos**
 Eu, como usuário, desejo realizar o pagamento de impostos e taxas de importação pelo aplicativo para facilitar o processo de liberação da minha encomenda.
 
-**EP09 - Cadastro e Login**
+**EP11 - Cadastro e Login**
 Eu, como usuário, desejo realizar cadastro e login no aplicativo para acessar funcionalidades personalizadas e seguras.
 
-**EP10 - Busca e Contato**
+**EP12 - Busca e Contato**
 Eu, como usuário, desejo buscar agências próximas e acessar contatos das empresas que postaram a encomenda para obter informações adicionais e suporte.
 
 ### Modelo da tabela:
@@ -74,10 +74,10 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 |Tema|Épico|Histórias de Usuário|ID História de Usuário|Prioridade|Rastreabilidade|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |Rastreamento de Encomendas|EP01|Visualizar Encomenda no Mapa|US01|Alta|RF18|
-|Rastreamento e Envio de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
-|Rastreamento e Envio de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF18|
-|Rastreamento e Envio de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF18|
-|Cálculo de Preços e Prazos|EP03|Estipulação de Prazo de Entrega|US05|Alta|RF18|
+|Rastreamento de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
+|Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF18|
+|Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF18|
+| Envio de Encomendas |EP03| Calcular Preços de Encomendas Nacionais e Internacionais |US05|Alta|RF18|
 
 
 
