@@ -78,13 +78,15 @@ Abaixo nas figuras 03 e 04 encontra-se respectivamente exemplos das contribuiç�
 
 ## Propagação de Impactos
 
+A propagação de impactos denota a relação entre os requisitos não-funcionais e como a mudança em um requisito pode provocar mudanças em requisitos relacionados. São utilizados para representar esses impactos os softgoals de impacto. Abaixo estão representados a notação com a qual eles são utilizados:
 
-* ✓ : 
-* 𝒲+ :
-* X :
-* 𝒲- :
-* 🗲 :
-* u :
+
+* **✓** (Satisfeito): Mostra que que o requisitos não-funcional colabora positivamente para a satisfação de outro requisitos;
+* **𝒲+** (Minimamente Satisfeito): Mostra uma relação positiva mas em menor grau.
+* **X** (Negado): Denota um requisitos não funcional que influencia negativamente outro requisito, gerando contradição na relação de ambos.
+* **𝒲-** (Minimamente Negado): Mostra uma relação negativa entre requisitos não funcionais, mas com um grau menor.
+* **🗲** (Conflitante): Denota uma relação conflitante entre dois requisitos não funcionais, isso acontece quando um requisito que possui característica positiva se relaciona com um que possui característica negativa.
+* **u** (Indeterminado): Ocorre quando não há informações suficientemente para afirmar a qual o impacto de um requisito para com outro.
 
 ## Cartão de Especificação
 
@@ -172,6 +174,19 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 ## NFR Desempenho
 
 ## NFR Suportabilidade
+
+
+## Requisitos Não-Funcionais
+
+Abaixo na tabela XX temos os requisitos não-funcionais utilizados para a elaboração do NFR Framework.
+
+|ID|Descrição|Rastreabilidade|Implementação|
+|--|--|--|--|
+
+Logo abaixo na tabela XX temos os requisitos elicitados pelo NFR Framework.
+
+|ID|Requisito|
+|--|--|
 
 ## Bibliografia
 
