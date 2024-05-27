@@ -17,7 +17,9 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 * **Tema 3:** Notificações e Alertas
 * **Tema 4:** Suporte e Ajuda ao Usuário
 * **Tema 5:** Serviços de Pagamento e Importação
+* **Tema 6:** Cadastro e Login
 * **Tema 6:** Busca e Contato
+
 
 #### **Épicos**
 
@@ -77,14 +79,24 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 |Rastreamento de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
 |Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF18|
 |Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF18|
-| Envio de Encomendas |EP03| Calcular Preços de Encomendas Nacionais e Internacionais |US05|Alta|RF18|
-
-
-
-
-
-
-
+| Envio de Encomendas |EP03| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05|Alta|RF18|
+| Envio de Encomendas |EP04| Realizar nova Postagem |US06|Alta|RF18|
+| Envio de Encomendas |EP04| Realizar pagamento da Postagem |US07|Alta|RF18|
+| Envio de Encomendas |EP05| Alterar Endereço de Entrega |US08|Alta|RF18|
+| Envio de Encomendas |EP05| Reservar um locker |US09|Alta|RF18|
+| Notificações e Alertas |EP06| Acessar Histórico de Notificações |US10|Alta|RF18|
+| Notificações e Alertas |EP07| Receber Notificações por WhatsApp |US11|Alta|RF18|
+| Notificações e Alertas |EP07| Receber Notificações por E-mail |US12|Alta|RF18|
+| Suporte e Ajuda ao Usuário |EP08| Acessar Chatbot para Suporte |US13|Alta|RF18|
+| Suporte e Ajuda ao Usuário |EP09| Acessar Página de FAQ |US14|Alta|RF18|
+| Suporte e Ajuda ao Usuário |EP09| Visualizar Tutorial de Rastreamento |US15|Alta|RF18|
+| Serviços de Pagamento e Importação |EP10| Realizar Pagamento de Impostos|US16|Alta|RF18|
+| Cadastro e Login |EP11| Realizar Cadastro no Aplicativo|US17|Alta|RF18|
+| Cadastro e Login |EP11| Realizar Login no Aplicativo|US18|Alta|RF18|
+| Busca e Contato |EP12| Buscar Agências Próximas |US19|Alta|RF18|
+| Busca e Contato |EP12| Acessar Contatos das Empresas |US20|Alta|RF18|
+| Busca e Contato |EP12| Buscar Objetos Perdidos |US21|Alta|RF18|
+| Busca e Contato |EP12|Acessar Área de Contato sobre Violência contra a Mulher |US22|Alta|RF18|
 
 
 
