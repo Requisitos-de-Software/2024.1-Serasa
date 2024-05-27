@@ -42,6 +42,7 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Ágil:
       - Backlog: modelagem\agil\backlog.md
+      - Histórias de Usuário: modelagem\agil\historias_de_usuario.md
 
 extra_css:
   - stylesheets/extra.css
