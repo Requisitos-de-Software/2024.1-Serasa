@@ -179,19 +179,6 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 ## NFR Suportabilidade
 
-
-## Requisitos Não-Funcionais
-
-Abaixo na tabela XX temos os requisitos não-funcionais utilizados para a elaboração do NFR Framework.
-
-|ID|Descrição|Rastreabilidade|Implementação|
-|--|--|--|--|
-
-Logo abaixo na tabela XX temos os requisitos elicitados pelo NFR Framework.
-
-|ID|Requisito|
-|--|--|
-
 ## Bibliografia
 
 > 1. SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019.
