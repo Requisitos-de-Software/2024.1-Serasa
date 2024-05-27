@@ -190,7 +190,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 | **Justificativa** | Garantir a segurança das transações financeiras dos usuários, prevenindo acesso não autorizado e fraudes. |
 | **Origem** | [CON02 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que o acesso aos pagamentos requer autenticação do usuário antes de permitir transações financeiras. |
-| **Dependências** | RNenhuma |
+| **Dependências** | Nenhuma |
 | **Prioridade** | 9 |
 | **Conflitos** | Nenhum |
 | **História** | 26/05/2024 |
