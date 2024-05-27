@@ -117,6 +117,8 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 ## Metodologia
 
+Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados os requisitos não funcionais elicitados pela técnica de [elicitação suplementar](../especificacao_suplementar.md), que utiliza na técnica FURPS+. Dentro dos requisitos não funcionais elicitados, foram escolhidos alguns presentes em cada tópico (usabilidade, confiabilidade, desempenho e suportabilidade) para a elaboração dos SIGs e dos cartões de especificação. Os requisitos não funcionais escolhidos estão representados na tabela 2.
+
 <font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
 
 <center>
