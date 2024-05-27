@@ -41,6 +41,7 @@ nav:
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexicos.md
     - Ágil:
+      - Backlog: modelagem/agil/backlog.md
       - Histórias de usuário: modelagem/agil/historias_de_usuario.md
 extra_css:
   - stylesheets/extra.css
