@@ -12,11 +12,12 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 
 #### **Temas**
 
-* **Tema 1:** Rastreamento e Envio de Encomendas
-* **Tema 2:** Notificações e Alertas
-* **Tema 3:** Suporte e Ajuda ao Usuário
-* **Tema 4:** Serviços de Pagamento e Importação
-* **Tema 5:** Busca e Contato
+* **Tema 1:** Rastreamento de Encomendas
+* **Tema 2:** Envio de Encomendas
+* **Tema 3:** Notificações e Alertas
+* **Tema 4:** Suporte e Ajuda ao Usuário
+* **Tema 5:** Serviços de Pagamento e Importação
+* **Tema 6:** Busca e Contato
 
 #### **Épicos**
 
@@ -29,6 +30,11 @@ Eu, como usuário, desejo visualizar as atualizações do prazo de entrega para 
 
 **EP03 - Cálculo de Preços e Prazos**
 Eu, como usuário, desejo calcular os preços e prazos de encomendas nacionais e internacionais para planejar minhas remessas.
+
+**EP04 - Realizar uma pré-postagem**
+
+**EP05 - Alterar recebimento de encomendas**
+
 
 **EP04 - Histórico de Notificações**
 Eu, como usuário, desejo acessar o histórico de notificações do objeto para revisar as atualizações de status da minha encomenda.
@@ -55,32 +61,34 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 ### Modelo da tabela:
 <p align="center" > <strong> Tabela 1 - </Strong>Modelo do backlog</font> <gitbr></p>
 
-|Épico|Tema|Histórias de Usuário|ID História de usuário|Prioridade|Rastreabilidade|
+|Tema|Épico|Histórias de Usuário|ID História de usuário|Prioridade|Rastreabilidade|
 |:--|:--|:--|:--|:--|:--|
 |Código do Épico|nome do tema|Descrição da História de Usuário|identificador da História de Usuário|Prioriade baseada na técnica do three level scale|Código do requisito referente a História de usuário|
 
-<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) & [Claudio Henrique][ClaudioGH], 2024</p></font>
 
 ## Backlog
 
-<p align="center" > <strong> Tabela 2 - </Strong>Backlog</font> <gitbr></p>
+<p align="center" > <strong> Tabela 2 - </strong>Backlog</font></p>
 
-|Épico|Tema|Histórias de Usuário|ID História de Usuário|Prioridade|Rastreabilidade|
-|:--|:--|:--|:--|:--|:--|
-|EP01|Rastreamento e Envio de Encomendas|Como usuário, eu quero rastrear minhas encomendas em tempo real no mapa para saber exatamente onde elas estão e quando chegarão.|US01|Alta|RF18|
-|EP01|Rastreamento e Envio de Encomendas|Como usuário, eu quero receber informações detalhadas sobre o status da minha encomenda, incluindo datas de envio, previsão de entrega e histórico de movimentação.|US02|Alta|RF19|
-|EP02|Notificações e Alertas|Como usuário, eu quero receber notificações push pelo aplicativo para ser informado sobre atualizações da minha encomenda.|US03|Média|RF09|
-|EP02|Notificações e Alertas|Como usuário, eu quero receber notificações por SMS para ser informado sobre atualizações da minha encomenda.|US04|Média|RF10|
-|EP02|Notificações e Alertas|Como usuário, eu quero receber notificações pelo WhatsApp para ser informado sobre atualizações da minha encomenda.|US05|Baixa|RF11|
-|EP02|Notificações e Alertas|Como usuário, eu quero receber notificações por e-mail para ser informado sobre atualizações da minha encomenda.|US06|Baixa|RF22|
-|EP03|Suporte e Ajuda ao Usuário|Como usuário, eu quero acessar um centro de ajuda com tutoriais e FAQs para resolver problemas comuns de forma rápida e eficiente.|US07|Média|RF13|
-|EP03|Suporte e Ajuda ao Usuário|Como usuário, eu quero ter acesso a um chat de suporte ao vivo para resolver dúvidas e problemas em tempo real.|US08|Alta|RF12|
-|EP04|Serviços de Pagamento e Importação|Como usuário, eu quero realizar pagamentos de taxas de importação diretamente pelo aplicativo para facilitar o processo de liberação de encomendas internacionais.|US09|Alta|RF23|
-|EP04|Serviços de Pagamento e Importação|Como usuário, eu quero acessar um histórico de pagamentos e importações para acompanhar todas as transações feitas através do aplicativo.|US10|Média|RF24|
-|EP05|Busca e Contato|Como usuário, eu quero buscar informações sobre agências próximas, horários de funcionamento e serviços oferecidos para planejar visitas e envios.|US11|Média|RF29|
-|EP05|Busca e Contato|Como usuário, eu quero ter acesso rápido aos contatos do serviço de atendimento ao cliente para reportar problemas ou fazer perguntas diretamente aos Correios.|US12|Alta|RF36|
+|Tema|Épico|Histórias de Usuário|ID História de Usuário|Prioridade|Rastreabilidade|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|Rastreamento de Encomendas|EP01|Visualizar Encomenda no Mapa|US01|Alta|RF18|
+|Rastreamento e Envio de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
+|Rastreamento e Envio de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF18|
+|Rastreamento e Envio de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF18|
+|Cálculo de Preços e Prazos|EP03|Estipulação de Prazo de Entrega|US05|Alta|RF18|
 
-<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
+
+
+
+
+
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) & [Claudio Henrique][ClaudioGH], 2024</p></font>
 
 ## Bibliografia
 
