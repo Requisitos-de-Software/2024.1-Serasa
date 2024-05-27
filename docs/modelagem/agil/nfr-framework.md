@@ -113,7 +113,7 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio, 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio, 2019</p></font>
 
 ## Metodologia
 
