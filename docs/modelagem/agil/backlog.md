@@ -34,9 +34,10 @@ Eu, como usuário, desejo visualizar as atualizações do prazo de entrega para 
 Eu, como usuário, desejo calcular os preços e prazos de encomendas nacionais e internacionais para planejar minhas remessas.
 
 **EP04 - Realizar uma pré-postagem**
+Eu, como usuário, desejo realizar uma pré-postagem para agilizar o envio em uma agência dos Correios.
 
 **EP05 - Alterar recebimento de encomendas**
-
+Eu, como usuário, desejo alterar o recebimentos das minhas encomendas para mudar o endereço de entrega e receber em outro local.
 
 **EP06 - Histórico de Notificações**
 Eu, como usuário, desejo acessar o histórico de notificações do objeto para revisar as atualizações de status da minha encomenda.
