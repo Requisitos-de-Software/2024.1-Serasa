@@ -96,7 +96,7 @@ A propagação de impactos denota a relação entre os requisitos não-funcionai
 
 O uso de cartões de especificação oferece uma maneira organizada e concisa de descrever cada requisito não funcional, fornecendo informações essenciais, como descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico de modificações. A tabela 1 oferece uma visão abrangente e acessível dos RNFs, descrevendo cada tópico a ser elaborado no cartão de especificação.
 
-<font size="2"><p style="text-align: center">Tabela 1 - Cartão de especificação utilizado para exemplificar os RNFs.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 1** - Cartão de especificação utilizado para exemplificar os RNFs.</p></font>
 
 <center>
 
@@ -126,10 +126,14 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 | Requisito | Classificação | ID |
 |-|-|-|
-| O aplicativo deve manter a privacidade dos dados do usuário. | Confiabilidade | RNFxx |
-| O acesso aos pagamentos deve ser protegido por autenticação do usuário. | Confiabilidade | RNFxx |
-| O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | Suportabilidade | RNFxx |
-| O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | Suportabilidade | RNFxx |
+| O aplicativo requer uma interface amigável e fácil de usar.| Usabilidade | RNF01 |
+| O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente.|Usabilidade|RNF02|
+| O aplicativo deve manter a privacidade dos dados do usuário. | Confiabilidade | RNF03 |
+| O acesso aos pagamentos deve ser protegido por autenticação do usuário. | Confiabilidade | RNF04 |
+| O aplicativo deve mostrar a entrega em tempo real| Desempenho |RNF05|
+| O sistema deve fornecer as notificações ao usuário com um menor tempo de delay possível.|Desempenho|RNF06|
+| O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | Suportabilidade | RNF07 |
+| O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | Suportabilidade | RNF08 |
 
 </center>
 
@@ -198,7 +202,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF03 |
 |-|-|
 | **Descrição** | O aplicativo deve manter a privacidade dos dados do usuário. |
 | **Justificativa** | Garantir a segurança e privacidade das informações pessoais dos usuários, cumprindo normas e regulamentações de proteção de dados. |
@@ -219,7 +223,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF04 |
 |-|-|
 | **Descrição** | O acesso aos pagamentos deve ser protegido por autenticação do usuário. |
 | **Justificativa** | Garantir a segurança das transações financeiras dos usuários, prevenindo acesso não autorizado e fraudes. |
@@ -261,15 +265,15 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 ## NFR Desempenho
 
-Abaixo nas tabelas xx e xx encontram-se os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR de desempenho ilutrado logo abaixo na figura xx.
+Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR de desempenho ilutrado logo abaixo nas figuras 09 e 10.
 
 <font size="2"><p style="text-align: center">**Tabela 07** - RNF - DS01 .</p></font>
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF05 |
 |-|-|
-| **Descrição** | O aplicativo deve mostrar a entrega em tempo real |
+| **Descrição** | O aplicativo deve mostrar a entrega em tempo real. |
 | **Justificativa** | É necessário que o feedback da localização das encomendas sejam mais específicos e precisos ao informar a localização e status ao usuário. |
 | **Origem** | [DS01- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de aceitação** | O usuário deve ser capaz de ver a a localização exata ou aproximada da sua encomenda em tempo real. |
@@ -286,7 +290,7 @@ Abaixo nas tabelas xx e xx encontram-se os cartões de especificação dos requi
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF06 |
 |-|-|
 | **Descrição** | O sistema deve fornecer as notificações ao usuário com um menor tempo de delay possível. |
 | **Justificativa** | Os usuários devem ser notificados em tempo hábil pela aplicação |
@@ -317,11 +321,11 @@ Abaixo nas tabelas xx e xx encontram-se os cartões de especificação dos requi
 
 Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de suportabilidade com e sem propagação de impactos.
 
-<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 09** - Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF07 |
 |-|-|
 | **Descrição** | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
 | **Justificativa** | Assegurar que o aplicativo seja acessível a uma ampla base de usuários, independentemente do sistema operacional de seus dispositivos móveis, aumentando assim sua usabilidade e alcance. |
@@ -336,11 +340,11 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Tabela x - Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 10** - Cartão de especificação do requisito RNFxx.</p></font>
 
 <center>
 
-| **NR Requisito** | RNFxx |
+| **NR Requisito** | RNF08 |
 |-|-|
 | **Descrição** | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". |
 | **Justificativa** | Fornecer suporte e orientação aos usuários durante a utilização do aplicativo, facilitando a resolução de dúvidas e problemas de forma rápida e eficiente. |
@@ -357,7 +361,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 ### Sem propagação de impactos
 
-<font size="2"><p style="text-align: center">Figura x - SIG de Suportabilidade sem propagação de impactos.</p></font>
+<font size="2"><p style="text-align: center">Figura 11 - SIG de Suportabilidade sem propagação de impactos.</p></font>
 
 <center>
 
@@ -369,7 +373,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 ### Com propagação de impactos
 
-<font size="2"><p style="text-align: center">Figura x - SIG de Suportabilidade com propagação de impactos.</p></font>
+<font size="2"><p style="text-align: center">Figura 12 - SIG de Suportabilidade com propagação de impactos.</p></font>
 
 <center>
 
