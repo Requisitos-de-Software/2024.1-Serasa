@@ -27,7 +27,7 @@ Para desenvolver as histórias de usuário, iniciamos com a elicitação de requ
 <center>
 
 | ID | Épico | História de Usuário | Critério de aceitação | Prioridade |
-| :--: | ---- | ---- | ---- | ---- | :---: |
+| :--: | ---- | ---- | ---- | ---- | 
 | US01 | [EP01][epicos] | Visualizar Encomenda no Mapa | US01 | Alta |
 
 
