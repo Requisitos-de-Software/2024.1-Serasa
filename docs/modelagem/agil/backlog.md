@@ -18,47 +18,59 @@ A partir dessa divisão, na tabela 1, é possível ver os temas, épicos, histó
 * **Tema 4:** Suporte e Ajuda ao Usuário
 * **Tema 5:** Serviços de Pagamento e Importação
 * **Tema 6:** Cadastro e Login
-* **Tema 6:** Busca e Contato
+* **Tema 7:** Busca e Contato
 
 
 #### **Épicos**
 
 **EP01 - Rastreamento no Mapa**
+
 Eu, como usuário, desejo visualizar minha encomenda no mapa para acompanhar sua localização em tempo real.
 
 
 **EP02 - Informações de Entrega**
+
 Eu, como usuário, desejo visualizar as atualizações do prazo de entrega para estar ciente de variações no tempo de entrega da minha encomenda.
 
 **EP03 - Cálculo de Preços e Prazos**
+
 Eu, como usuário, desejo calcular os preços e prazos de encomendas nacionais e internacionais para planejar minhas remessas.
 
 **EP04 - Realizar uma pré-postagem**
+
 Eu, como usuário, desejo realizar uma pré-postagem para agilizar o envio em uma agência dos Correios.
 
 **EP05 - Alterar recebimento de encomendas**
+
 Eu, como usuário, desejo alterar o recebimentos das minhas encomendas para mudar o endereço de entrega e receber em outro local.
 
 **EP06 - Histórico de Notificações**
+
 Eu, como usuário, desejo acessar o histórico de notificações do objeto para revisar as atualizações de status da minha encomenda.
 
 
 **EP07 - Notificações Multicanais**
+
 Eu, como usuário, desejo receber notificações por múltiplos canais, como WhatsApp e e-mail, para estar informado sobre o status da minha encomenda.
 
 **EP08 - Chatbot e Suporte ao Cliente**
+
 Eu, como usuário, desejo acessar um chatbot para suporte ao cliente para obter ajuda rápida e eficiente.
 
 **EP09 - FAQ e Tutoriais**
+
 Eu, como usuário, desejo acessar uma página de FAQ e tutoriais para encontrar respostas e orientações sobre o rastreamento e outros serviços.
 
 **EP10 - Pagamento de Taxas e Impostos**
+
 Eu, como usuário, desejo realizar o pagamento de impostos e taxas de importação pelo aplicativo para facilitar o processo de liberação da minha encomenda.
 
 **EP11 - Cadastro e Login**
+
 Eu, como usuário, desejo realizar cadastro e login no aplicativo para acessar funcionalidades personalizadas e seguras.
 
 **EP12 - Busca e Contato**
+
 Eu, como usuário, desejo buscar agências próximas e acessar contatos das empresas que postaram a encomenda para obter informações adicionais e suporte.
 
 ### Modelo da tabela:
@@ -78,26 +90,26 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |Rastreamento de Encomendas|EP01|Visualizar Encomenda no Mapa|US01|Alta|RF18|
 |Rastreamento de Encomendas|EP01|Atualização de Localização em Tempo Real|US02|Alta|RF18|
-|Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF18|
-|Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF18|
-| Envio de Encomendas |EP03| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05|Alta|RF18|
-| Envio de Encomendas |EP04| Realizar nova Postagem |US06|Alta|RF18|
-| Envio de Encomendas |EP04| Realizar pagamento da Postagem |US07|Alta|RF18|
-| Envio de Encomendas |EP05| Alterar Endereço de Entrega |US08|Alta|RF18|
-| Envio de Encomendas |EP05| Reservar um locker |US09|Alta|RF18|
-| Notificações e Alertas |EP06| Acessar Histórico de Notificações |US10|Alta|RF18|
-| Notificações e Alertas |EP07| Receber Notificações por WhatsApp |US11|Alta|RF18|
-| Notificações e Alertas |EP07| Receber Notificações por E-mail |US12|Alta|RF18|
-| Suporte e Ajuda ao Usuário |EP08| Acessar Chatbot para Suporte |US13|Alta|RF18|
-| Suporte e Ajuda ao Usuário |EP09| Acessar Página de FAQ |US14|Alta|RF18|
-| Suporte e Ajuda ao Usuário |EP09| Visualizar Tutorial de Rastreamento |US15|Alta|RF18|
-| Serviços de Pagamento e Importação |EP10| Realizar Pagamento de Impostos|US16|Alta|RF18|
-| Cadastro e Login |EP11| Realizar Cadastro no Aplicativo|US17|Alta|RF18|
-| Cadastro e Login |EP11| Realizar Login no Aplicativo|US18|Alta|RF18|
-| Busca e Contato |EP12| Buscar Agências Próximas |US19|Alta|RF18|
-| Busca e Contato |EP12| Acessar Contatos das Empresas |US20|Alta|RF18|
-| Busca e Contato |EP12| Buscar Objetos Perdidos |US21|Alta|RF18|
-| Busca e Contato |EP12|Acessar Área de Contato sobre Violência contra a Mulher |US22|Alta|RF18|
+|Rastreamento de Encomendas|EP02|Atualização de Prazo de Entrega|US03|Alta|RF07|
+|Rastreamento de Encomendas|EP02|Estipulação de Prazo de Entrega|US04|Alta|RF06|
+| Envio de Encomendas |EP03| Simular Preços e prazos de Encomendas Nacionais e Internacionais |US05|Alta|RF30|
+| Envio de Encomendas |EP04| Realizar nova Postagem |US06|Alta|RF49|
+| Envio de Encomendas |EP04| Realizar pagamento da Postagem |US07|Alta|RF50|
+| Envio de Encomendas |EP05| Alterar Endereço de Entrega |US08|Alta|RF47|
+| Envio de Encomendas |EP05| Reservar um locker |US09|Alta|RF45|
+| Notificações e Alertas |EP06| Acessar Histórico de Notificações |US10|Alta|RF03|
+| Notificações e Alertas |EP07| Receber Notificações por WhatsApp |US11|Alta|RF11|
+| Notificações e Alertas |EP07| Receber Notificações por E-mail |US12|Alta|RF22|
+| Suporte e Ajuda ao Usuário |EP08| Acessar Chatbot para Suporte |US13|Alta|RF12|
+| Suporte e Ajuda ao Usuário |EP09| Acessar Página de FAQ |US14|Alta|RF17|
+| Suporte e Ajuda ao Usuário |EP09| Visualizar Tutorial de Rastreamento |US15|Alta|RF13|
+| Serviços de Pagamento e Importação |EP10| Realizar Pagamento de Impostos|US16|Alta|RF23|
+| Cadastro e Login |EP11| Realizar Cadastro no Aplicativo|US17|Alta|RF01|
+| Cadastro e Login |EP11| Realizar Login no Aplicativo|US18|Alta|RF25|
+| Busca e Contato |EP12| Buscar Agências Próximas |US19|Alta|RF29|
+| Busca e Contato |EP12| Acessar Contatos das Empresas |US20|Alta|RF08|
+| Busca e Contato |EP12| Buscar Objetos Perdidos |US21|Alta|RF53|
+| Busca e Contato |EP12|Acessar Área de Contato sobre Violência contra a Mulher |US22|Alta|RF36|
 
 
 
