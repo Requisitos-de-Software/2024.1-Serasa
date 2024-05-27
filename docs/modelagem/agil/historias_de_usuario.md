@@ -1,9 +1,12 @@
 # Histórias de Usuário
 
 ## Introdução
+
 Uma História de Usuário descreve uma funcionalidade valiosa para o usuário do software, que é aplicável em qualquer metodologia ágil, não apenas no Scrum (B. Andrea, 2011). As User Stories têm três componentes principais: uma descrição escrita para planejamento, conversas para detalhamento e testes para verificar a conclusão. Elas devem ser pequenas, uma vez que histórias muito grandes são chamadas de Épicos, que são divididas em histórias menores.
 
 ## Metodologia
+
+Para desenvolver as histórias de usuário, iniciamos com a elicitação de requisitos, empregando técnicas como [análise documental](../../elicitacao/tecnicas/analise-documental.md), [brainstorming](../../elicitacao/tecnicas/brainstorming.md), [questionários](../../elicitacao/tecnicas/questionario.md) e [observação](../../elicitacao/tecnicas/observacao.md). Após a coleta dos requisitos, procedemos com a priorização, utilizando métodos como [$100](../../priorizacao/tecnicas/$100.md), [First Things First](../../priorizacao/tecnicas/firstThingsFirst.md) e [In or Out](../../priorizacao/tecnicas/inorout.md). Esses documentos foram elaborados em entregas passadas.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo de uma história de usuário.</p></font>
 
@@ -103,7 +106,7 @@ Uma História de Usuário descreve uma funcionalidade valiosa para o usuário do
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 27/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |   |
+| `1.0`  | 27/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Pablo S. Costa][PabloGH]  |   |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
