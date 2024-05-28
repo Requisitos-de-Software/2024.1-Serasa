@@ -86,7 +86,7 @@ Para validar as histórias de usuário, realizamos uma entrevista com o Product 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 27/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Pablo S. Costa][PabloGH] e [Gabriel B. Bertolazi][GabrielBGH] |  [Ricardo Augusto][RicardoGH] |
-| `1.0`  | 27/05/2024 | Corrigindo prioridade | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  [][] |
+| `1.0`  | 27/05/2024 | Corrigindo prioridade | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  [Gabriel B. Bertolazi][GabrielBGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
