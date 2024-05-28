@@ -13,6 +13,26 @@ body{
 .md-nav{
     text-align: left;
 }
+.table_his_usuario{
+        th, td {
+            padding: 20px 8px !important;
+        }
+        th:first-child{
+            width: 70px;
+            min-width: 70px !important;
+        }
+        th:nth-child(7){
+            width: 20px;
+            min-width: 20px !important;
+        }
+        th:nth-child(5){
+            width: 20px;
+            min-width: 20px !important;
+        }th:nth-child(6){
+            width: 20px;
+            min-width: 20px !important;
+        }
+}
 .logo_correios{
     img{
         border: 10px solid FFD400; 
