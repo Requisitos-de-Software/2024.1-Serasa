@@ -44,7 +44,7 @@ As decomposições realizam o refinamento dos softgoals obtendo softgoals mais e
 
 Abaixo temos os tipos de decomposições na figura 02:
 
-<font size="3"><p style="text-align: center">**Figura 02** - Tipos de Decomposições</p></font>
+<font size="2"><p style="text-align: center">**Figura 02** - Tipos de Decomposições</p></font>
 
 ![Decomposições](../../assets/modelagem/agil/nfr/decomposicoes.png)
 
@@ -141,7 +141,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 ## NFR Usabilidade
 
-Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR que esta localizado nas figuras 01 e 02.
+Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR que esta localizado nas figuras 05 e 06.
 
 <font size="2"><p style="text-align: center">**Tabela 03** - Cartão de Especificação RNF - USA04.</p></font>
 
@@ -181,13 +181,17 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Figura 05:** NFR Usabilidade Sem proagação de Impactos.</p></font>
+### Sem propagação de impactos
+
+<font size="2"><p style="text-align: center">**Figura 05:** NFR Usabilidade Sem propagação de Impactos.</p></font>
 <center>
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade.png)
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Figura 06:** NFR Usabilidade com proagação de Impactos.</p></font>
+### Com propagação de impactos
+
+<font size="2"><p style="text-align: center">**Figura 06:** NFR Usabilidade com propagação de Impactos.</p></font>
 <center>
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade_impacto.png)
 </center>
@@ -195,10 +199,10 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 ## NFR Confiabilidade
 
-Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de confiabilidade com e sem propagação de impactos.
+Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos requisitos não funcionais de confiabilidade presentes na tabela 1. Por fim as figuras 07 e 08 ilustram o SIG de confiabilidade com e sem propagação de impactos.
 
 
-<font size="2"><p style="text-align: center">**Tabela 05 -** Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 05 -** Cartão de especificação do requisito RNF03.</p></font>
 
 <center>
 
@@ -219,7 +223,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 
 
-<font size="2"><p style="text-align: center">**Tabela 06** - Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 06** - Cartão de especificação do requisito RNF04.</p></font>
 
 <center>
 
@@ -303,13 +307,17 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 </center>
 
-<font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem proagação de Impactos.</p></font>
+### Sem propagação de impactos
+
+<font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem propagação de Impactos.</p></font>
 <center>
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_desempenho.png)
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Figura 10:** NFR Desempenho com proagação de Impactos.</p></font>
+### Com propagação de impactos
+
+<font size="2"><p style="text-align: center">**Figura 10:** NFR Desempenho com propagação de Impactos.</p></font>
 <center>
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/Desemopenho_impacto.png)
 </center>
@@ -319,9 +327,9 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 ## NFR Suportabilidade
 
-Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figuras X ilustram o SIG de suportabilidade com e sem propagação de impactos.
+Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos requisitos não funcionais de suportabilidade presentes na tabela 1. Por fim as figuras 11 e 12 ilustram o SIG de suportabilidade com e sem propagação de impactos.
 
-<font size="2"><p style="text-align: center">**Tabela 09** - Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 09** - Cartão de especificação do requisito RNF07.</p></font>
 
 <center>
 
@@ -340,7 +348,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Tabela 10** - Cartão de especificação do requisito RNFxx.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 10** - Cartão de especificação do requisito RNF08.</p></font>
 
 <center>
 
