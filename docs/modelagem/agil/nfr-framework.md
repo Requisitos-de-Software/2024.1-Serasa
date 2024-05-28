@@ -26,13 +26,13 @@ Gráfico de interdependências entre softgoals é um gráfico que registra as co
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: (CHUNG et al., 2000)</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** (CHUNG et al., 2000)</p></font>
 
 A figura 1 ilustra as representações dos tipos de softgoals utilizados no nfr framework, eles são representados por nuvens podendo ter linhas mais claras, mais escuras e linhas tracejadas.
 
-## Interdependências
+### Interdependências
 
-As interdependências representam as ligações entre os softgoals e os tipos de interdependência utilizadas pelo framework são: os refinamentos e as contribuições(CHUNG et al., 2000).Os refinamentos são o tipo de interdependência que se sucede de cima para baixo com um softgoal pai que produz softgoals filhos aos quais se conectam com seu ancestral. Os tipos de refinamento são: decomposição, operacionalização e afirmação.
+As interdependências representam as ligações entre os softgoals, os tipos de interdependência utilizadas pelo framework são: os refinamentos e as contribuições(CHUNG et al., 2000).Os refinamentos são o tipo de interdependência que se sucede de cima para baixo com um softgoal pai que produz softgoals filhos aos quais se conectam com seu ancestral. Os tipos de refinamento são: decomposição, operacionalização e afirmação.
 
 ### Decomposições
 As decomposições realizam o refinamento dos softgoals obtendo softgoals mais específicos e especializados contribuindo para o projeto. Os quatro tipos de decomposição são descritos abaixo:
@@ -44,11 +44,11 @@ As decomposições realizam o refinamento dos softgoals obtendo softgoals mais e
 
 Abaixo temos os tipos de decomposições na figura 02:
 
-<font size="2"><p style="text-align: center">Figura 02 - Tipos de Decomposições</p></font>
+<font size="3"><p style="text-align: center">**Figura 02** - Tipos de Decomposições</p></font>
 
 ![Decomposições](../../assets/modelagem/agil/nfr/decomposicoes.png)
 
-<font size="2"><p style="text-align: center">Fonte: (CHUNG et al., 2000) </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** (CHUNG et al., 2000) </p></font>
 
 ### Contribuições
 
@@ -80,7 +80,7 @@ Abaixo nas figuras 03 e 04 encontra-se respectivamente exemplos das contribuiç�
 
 <font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES).</p></font>
 
-## Propagação de Impactos
+### Propagação de Impactos
 
 A propagação de impactos denota a relação entre os requisitos não-funcionais e como a mudança em um requisito pode provocar mudanças em requisitos relacionados. São utilizados para representar esses impactos os softgoals de impacto. Abaixo estão representados a notação com a qual eles são utilizados:
 
@@ -113,13 +113,13 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: SILVA, Reinaldo Antônio, 2019</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** SILVA, Reinaldo Antônio, 2019</p></font>
 
 ## Metodologia
 
 Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados os requisitos não funcionais elicitados pela técnica de [elicitação suplementar](../especificacao_suplementar.md), que utiliza na técnica FURPS+. Dentro dos requisitos não funcionais elicitados, foram escolhidos alguns presentes em cada tópico (usabilidade, confiabilidade, desempenho e suportabilidade) para a elaboração dos SIGs e dos cartões de especificação. Os requisitos não funcionais escolhidos estão representados na tabela 2.
 
-<font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 2** - Requisitos não funcionais.</p></font>
 
 <center>
 
@@ -338,7 +338,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 <font size="2"><p style="text-align: center">**Tabela 10** - Cartão de especificação do requisito RNFxx.</p></font>
 
@@ -357,7 +357,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ### Sem propagação de impactos
 
@@ -369,11 +369,11 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ### Com propagação de impactos
 
-<font size="2"><p style="text-align: center">Figura 12 - SIG de Suportabilidade com propagação de impactos.</p></font>
+<font size="2"><p style="text-align: center">**Figura 12** - SIG de Suportabilidade com propagação de impactos.</p></font>
 
 <center>
 
@@ -381,7 +381,7 @@ Nesse tópico, as tabelas abaixo descrevem os cartões de especificação dos re
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ## Bibliografia
 
