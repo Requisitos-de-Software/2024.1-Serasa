@@ -185,7 +185,9 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 <font size="2"><p style="text-align: center">**Figura 05:** NFR Usabilidade Sem propagação de Impactos.</p></font>
 <center>
+  
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade.png)
+
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
@@ -193,7 +195,9 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 <font size="2"><p style="text-align: center">**Figura 06:** NFR Usabilidade com propagação de Impactos.</p></font>
 <center>
+  
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade_impacto.png)
+
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
@@ -313,7 +317,9 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 <font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem propagação de Impactos.</p></font>
 <center>
+  
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_desempenho.png)
+
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
@@ -321,7 +327,9 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 <font size="2"><p style="text-align: center">**Figura 10:** NFR Desempenho com propagação de Impactos.</p></font>
 <center>
+  
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/Desemopenho_impacto.png)
+
 </center>
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
@@ -402,7 +410,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 23/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Elias F. Oliveira][EliasGH] |   |
+| `1.0`  | 23/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Elias F. Oliveira][EliasGH] | [Pablo S. Costa][PabloGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
