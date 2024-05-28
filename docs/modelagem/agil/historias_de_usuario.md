@@ -28,7 +28,7 @@ Na tabela 2, as histórias de usuários são apresentadas juntamente com suas ca
 
 <center class="table_his_usuario">
 
-| ID | Títulos | Histórias de Usuário | Critério de aceitação | Prioridade | Rastreabilidade | Épico |
+| ID | Título | Histórias de Usuário | Critério de aceitação | Prioridade | Rastreabilidade | Épico |
 | :---: | --- | --- | --- | :---: | :---: | :---: |
 | **US01** | Visualizar Encomenda no Mapa | Como um usuário, quero visualizar minha encomenda no mapa, para que eu possa acompanhar seu status. | É exibido um mapa com a última localização atualizada da encomenda | Alta | RF18 | [EP01][epicos] |
 | **US02** | Atualização de Localização em Tempo Real | Como um usuário, quero ver a atualização de localização em tempo real, para que eu possa saber onde minha encomenda está a qualquer momento. | As atualizações automáticas são exibidas com um atraso máximo de 5 minutos | Alta | RF18 | [EP01][epicos] |
