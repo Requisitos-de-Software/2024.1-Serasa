@@ -152,14 +152,12 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Ata de reunião | Início: 08/05 Fim 08/05 | Ricardo | Início: 09/05 Fim: 09/05| Elias |
-| Modelagem de requisitos: Histórias de usuários | Início: 09/05 Fim: 10/05| Gabriel F. J. Silva e Pablo | Início: 10/05 Fim: 11/05 | Ricardo |
-| Modelagem de requisitos: Backlog | Início: 09/05 Fim: 10/05 | Danilo e Cláudio | Início: 10/05 Fim: 11/05 | Gabriel F. J. Silva |
-| NFR: Framework | Início: 09/05 Fim: 10/05 | Elias e Ricardo | Início: 10/05 Fim: 11/05 | Pablo |
-| RNF: Requisitos não funcionais | Início: 09/05 Fim: 10/05 | Gabriel B. Bertolazi | Início: 10/05 Fim: 11/05 | Gabriel F. J. Silva |
-| Softgoals | Início: 09/05 Fim: 10/05 | Danilo e Cláudio | Início: 10/05 Fim: 11/05 | Pablo |
-| Gravação de apresentação | Início: 12/05 Fim: 13/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 13/05 Fim: 13/05 |  Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
-| Corrreção pós apresentação | Início: 14/05 Fim: 17/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 17/05 Fim: 21/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Ata de reunião | Início: 23/05 Fim 23/05 | Ricardo | Início: 24/05 Fim: 24/05| Elias |
+| Histórias de usuário | Início: 23/05 Fim: 25/05| Gabriel F. J. Silva, Pablo e Gabriel B. Bertolazi | Início: 25/05 Fim: 26/05 | Ricardo |
+| NFR: Framework | Início: 23/05 Fim: 25/05 | Elias e Ricardo | Início: 25/05 Fim: 26/05 | Pablo |
+| Backlog | Início: 23/05 Fim: 25/05 | Danilo e Cláudio | Início: 25/05 Fim: 26/05 | Pablo |
+| Gravação de apresentação | Início: 27/05 Fim: 27/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 27/05 Fim: 27/05 |  Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
+| Corrreção pós apresentação | Início: 28/05 Fim: 12/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B.Bertolazi | Início: 12/06 Fim: 20/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
@@ -169,7 +167,15 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
     <b>Tabela 8</b> - Executado da entrega 4
 </p></font> 
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Ata de reunião | Início: 23/05 Fim 23/05 | Ricardo | Início: 24/05 Fim: 24/05| Elias |
+| Histórias de usuário | Início: 23/05 Fim: 25/05| Gabriel F. J. Silva, Pablo e Gabriel B. Bertolazi | Início: 25/05 Fim: 26/05 | Ricardo |
+| NFR: Framework | Início: 23/05 Fim: 25/05 | Elias e Ricardo | Início: 25/05 Fim: 26/05 | Pablo |
+| Backlog | Início: 23/05 Fim: 25/05 | Danilo e Cláudio | Início: 25/05 Fim: 26/05 | Pablo |
+| Gravação de apresentação | Início: 27/05 Fim: 27/05 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 27/05 Fim: 27/05 |  Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | 
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
