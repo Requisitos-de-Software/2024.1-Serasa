@@ -13,12 +13,25 @@ A partir dessa divisão, na Tabela 1, é possível ver os temas, épicos, histó
 ## **Temas**
 
 * **Tema 1:** Rastreamento de Encomendas
+    - Agrupa as funcionalidades de rastreio de encomendas e a forma como o usuário pode visualizar isso.
+
 * **Tema 2:** Envio de Encomendas
+    - Agrupa as funcionalidades referentes a postagem de encomendas e simulação de preços e prazos de envio.
+
 * **Tema 3:** Notificações e Alertas
+    - Esse tema reúne as funcionalidades que notificam e alertam o usuário sobre as encomendas.
+
 * **Tema 4:** Suporte e Ajuda ao Usuário
+    - Esse tema refere-se a todas as funcionalidades que promovem algum tipo de auxílio ao usuário do aplicativo.
+
 * **Tema 5:** Serviços de Pagamento e Importação
+    - Agrupa as funcionalidades de pagamentos de taxas/impostos e informações sobre importações.
+
 * **Tema 6:** Cadastro e Login
+    - Esse tema reúne as funcionalidades responsáveis pelo Login e Cadastro do usuário na aplicação.
+
 * **Tema 7:** Busca e Contato
+    - Agrupa as funcionalidades de busca e de contato de relevância para o usuário.
 
 
 ## **Épicos**
