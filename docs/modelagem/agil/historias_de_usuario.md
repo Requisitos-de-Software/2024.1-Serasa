@@ -60,7 +60,7 @@ Na tabela 2, as histórias de usuários são apresentadas juntamente com suas ca
 
 ## Reunião de Validação
 
-Para validar as histórias de usuário, realizamos uma entrevista com o Product Owner (PO) [**Diego Medeiros**](https://www.instagram.com/diegoomedeiros23/). A entrevista está disponível através de um video não listado no Youtube. A sessão ocorreu via **Teams** no dia **27/05/2024 às 21h**. Es 
+Para validar as histórias de usuário, realizamos uma entrevista com o Product Owner (PO) [**Diego Medeiros**](https://www.instagram.com/diegoomedeiros23/). A entrevista está disponível através de um video não listado no Youtube. A sessão ocorreu via **Teams** no dia **27/05/2024 às 21h**. 
 
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://youtube.com/embed/_QHMTiSvG_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
