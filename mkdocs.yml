@@ -41,6 +41,8 @@ nav:
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexicos.md
     - Ágil:
+      - Backlog: modelagem/agil/backlog.md
+      - Histórias de usuário: modelagem/agil/historias_de_usuario.md
       - NFR Framework: modelagem/agil/nfr-framework.md
       
 extra_css:
