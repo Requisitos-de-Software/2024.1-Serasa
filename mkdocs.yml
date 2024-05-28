@@ -43,6 +43,9 @@ nav:
     - Ágil:
       - Backlog: modelagem/agil/backlog.md
       - Histórias de usuário: modelagem/agil/historias_de_usuario.md
+    - Ágil:
+      - NFR Framework: modelagem/agil/nfr-framework.md
+      
 extra_css:
   - stylesheets/extra.css
 theme:
