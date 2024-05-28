@@ -307,6 +307,8 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
 ### Sem propagação de impactos
 
 <font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem propagação de Impactos.</p></font>
