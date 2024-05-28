@@ -58,7 +58,17 @@ Na tabela 2, as histórias de usuários são apresentadas juntamente com suas ca
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin) (US01 - US08); [Gabriel B. Bertolazi][GabrielBGH] (US09 - US15); [Pablo S. Costa][PabloGH] (US16 - US22), 2024.</p></font>
 
+## Reunião de Validação
 
+Para validar as histórias de usuário, realizamos uma entrevista com o Product Owner (PO) **Diego Medeiros**. A entrevista está disponível através de um video não listado no Youtube. A sessão ocorreu via **Teams** no dia **27/05/2024 às 21h**. 
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xdzdI7nH645654189" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center">
+    <a href="https://youtube.com/xdzdI7nHwks">Link para o vídeo</a>
+</p>
 
 ## Referências Bibliográficas
 
