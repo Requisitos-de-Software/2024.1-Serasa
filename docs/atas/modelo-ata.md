@@ -30,9 +30,9 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 |  | |  | Teams |
 
 </center>
-<font size="2" >
-<p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
-</font>
+<font size="2"><p style="text-align: center">
+    Fonte: [Ricardo Augusto][RicardoGH], 2024.
+</p></font>
 
 ## Resultados da reunião
  
