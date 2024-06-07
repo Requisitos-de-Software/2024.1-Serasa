@@ -104,7 +104,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Gabriel B. Bertolazi][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
