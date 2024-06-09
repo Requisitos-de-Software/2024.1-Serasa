@@ -48,7 +48,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 > 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-
+> 2. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 020): Identificação das Partes, Verificação e Validação. UnB Gama, Brasília, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em 06/06/2024.
 
 ## Histórico de Versões
 
