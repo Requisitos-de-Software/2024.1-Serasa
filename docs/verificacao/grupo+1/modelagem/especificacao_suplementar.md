@@ -244,7 +244,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |03| Os requisitos apresentados são verificáveis?|Sim|FURPS+ - QualidadeBR| 
 |04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? |-|Requisitos – Aula 13(pgs. 28 - 30)|
 |05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? |-|FURPS+ - QualidadeBR|
-|06| Os requisitos não funcionais apresentados são verificáveis? |Sim|FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? |-|FURPS+ - QualidadeBR|
 |07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? |-|Requisitos – Aula 13(pgs. 28 - 30)|
 |08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? |-|FURPS+ - QualidadeBR|
 |09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? |-|FURPS+ - QualidadeBR|
