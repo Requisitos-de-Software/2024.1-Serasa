@@ -45,8 +45,14 @@ Dados obtidos na verificação.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
 
+## Problemas Encontrados
 
-## Integrante 01
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+
+## U: Usabilidade (Usability)
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
@@ -82,7 +88,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 **ID xx:** Explicação do problema e comentário.
 
-## Integrante 02
+## R: Confiabilidade (Reliability)
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
@@ -118,7 +124,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 **ID xx:** Explicação do problema e comentário.
 
-## Integrante 03
+## Desempenho (Performance)
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
@@ -154,7 +160,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 **ID xx:** Explicação do problema e comentário.
 
-## Integrante 04
+## S: Suporte (Supportability)
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
@@ -190,7 +196,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 **ID xx:** Explicação do problema e comentário.
 
-## Integrante 05
+## +: Restrições de Design
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
@@ -226,7 +232,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 **ID xx:** Explicação do problema e comentário.
 
-## Integrante 06
+## +: Ajuda e Documentação/Interfaces
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
