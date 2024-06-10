@@ -21,7 +21,14 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">1</a>. pg 166 |
+| **1** | Priorização Inicial: Verificar se a priorização inicial das histórias de usuário foi realizada, distinguindo entre o que deve ser incluído nas primeiras iterações e o que pode esperar. |  | <a href="#ref1">1</a>. "CHAPTER 16 First things first: Setting requirement priorities" pg. 313 |
+| **2** | Urgência e Importância: Avaliar se as necessidades urgentes e importantes, como os relatórios exigidos pelo departamento de saúde e segurança, foram identificadas e priorizadas. |  | <a href="#ref1">1</a>. "CHAPTER 16 First things first: Setting requirement priorities" pg. 313 |
+| **3** | Funcionalidade Imediata: Checar se funcionalidades que oferecem valor imediato, como a função de busca no catálogo online, estão planejadas para desenvolvimento inicial. |  | <a href="#ref1">1</a>. "CHAPTER 16 First things first: Setting requirement priorities" pg. 313 |
+| **4** | Consenso dos Stakeholders: Confirmar se houve um esforço para alcançar um consenso entre os stakeholders sobre quais funcionalidades implementar primeiro. |  | <a href="#ref1">1</a>. "CHAPTER 16 First things first: Setting requirement priorities" pg. 313 |
+| **5** | Benefício Relativo: Verifique se cada requisito foi avaliado corretamente em termos de benefício relativo para o cliente ou negócio numa escala de 1 a 9. |  | <a href="#ref1">1</a>. "Prioritization based on value, cost, and risk" pg. 322 |
+| **6** | Penalidade Relativa: Confirme se a penalidade relativa, caso o requisito não seja incluído, foi estimada de forma precisa na mesma escala. |  | <a href="#ref1">1</a>. "Prioritization based on value, cost, and risk" pg. 322 |
+| **7** | Custo Relativo: Assegure-se de que o custo relativo para implementar cada requisito foi estimado pelos desenvolvedores, também numa escala de 1 a 9. |  | <a href="#ref1">1</a>. "Prioritization based on value, cost, and risk" pg. 322 |
+| **8** | Risco Relativo: Verifique se o risco técnico associado a cada requisito foi avaliado corretamente, utilizando a mesma escala. |  | <a href="#ref1">1</a>. "Prioritization based on value, cost, and risk" pg. 322 |
 
 </center>
 
@@ -38,7 +45,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
-> 1<a id="ref1">.</a> Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. p>
+> 1<a id="ref1">.</a> WIEGERS, Karl; BEATTY, Joy. **Software Requirements**. 3. ed. [S.l.]: Microsoft Press, 2013.
 
 
 ## Histórico de Versões
