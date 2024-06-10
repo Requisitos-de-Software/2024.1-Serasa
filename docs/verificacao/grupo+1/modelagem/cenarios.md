@@ -14,7 +14,7 @@ Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos 
 
 ## Apresentação dos Dados
 
-Abaixo, na tabela 1, está apresentado o checklist para os cenários e logo após as observações dos itens com resultado negativo.
+Abaixo, na tabela 1, está apresentado o checklist para os cenários e logo após as observações dos itens com resultado negativo. A aplicação do checklist para cenário está nas tabelas de 2 a 8.
 
 ### Checklist Requisitos Elicitados
 

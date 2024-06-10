@@ -14,7 +14,7 @@ Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos 
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+Aqui será apresentado os resultados do checklist, na tabela 1, e logo após as observações dos itens com resultado negativo.
 
 ### Checklist Perfil do Usuário
 
