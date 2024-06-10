@@ -242,9 +242,17 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: Não
+    - Comentário: Essas 3 características não estão descritas no contexto do cenário.
+
+- ID 04: As características pessoais dos atores são relevantes ao cenário?
+    - Avaliação: Não
+    - Comentário: Nesse canário, as características dos atores não são relevantes ao cenário.
+
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Não
+    - Comentário: O cenário 7 não possui ligação com os léxicos.
 
 
 
