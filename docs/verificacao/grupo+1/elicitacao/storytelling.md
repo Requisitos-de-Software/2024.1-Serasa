@@ -33,6 +33,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
+Gravação da verificação:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UKUnzxguu0I?si=5ydLIla60A4WIQPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Problemas Encontrados
 
