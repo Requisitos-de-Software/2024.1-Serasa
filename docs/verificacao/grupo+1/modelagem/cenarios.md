@@ -24,7 +24,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|1| O artefato possui ? |  | <a href="#ref1">REF1</a>. pg 166 |
+|1| Todos os cenários possuem os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 172 |
 
 
 
@@ -46,7 +46,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
-> 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> 1<a id="ref1">.</a> LEITE, Julio, BALANGUER, Frederico, MAIORANA, Vanessa. Enhancing a Requirements Baseline with Scenarios.IEEE, 1997. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>
 
 > 2. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 020): Identificação das Partes, Verificação e Validação. UnB Gama, Brasília, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em 06/06/2024.
 
