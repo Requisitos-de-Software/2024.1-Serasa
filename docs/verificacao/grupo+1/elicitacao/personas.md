@@ -21,22 +21,15 @@ Apresentação dos dados coletados e observados ao realizar a verificação do a
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01||||
-|02||||
-|03||||
-|04||||
-|05||||
-|06||||
-|07||||
-|08||||
-|09||||
-|10||||
-|11||||
-|12||||
-|13||||
+|01| O documento possui poersonas primárias e secundárias? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|02| Existem pelomenos uma persona por papel de usuário? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|03| O documento apresenta a antipersona? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|04| O elenco de personas está dentro do escopo de 3 a 12 personas? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|05| As personas possuem os elementos: Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|06| Alguma persona tem seus objetivos pessoais violados? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|07| Foi elencado nas personas algum falso objetivo? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
 
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 
 ## Problemas Encontrados
