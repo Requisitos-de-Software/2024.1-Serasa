@@ -20,12 +20,12 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| ------- | :-------: | :-------: |
-| **1** | foram examinados documentos que especificam os requisitos do sistema atual ou de sistemas similares? |  | <a href="#ref1">1</a>. pg 128 |
-| **2** | foi considerado se os documentos utilizados estão atualizados? |  | <a href="#ref1">1</a>. pg 128 |
-| **3** | foram analisados relatórios de problemas e solicitações de melhoria coletados dos usuários? |  | <a href="#ref1">1</a>. pg 128 |
-| **4** | Caso tenham sido examinados sistemas existentes, foram identificadas funcionalidades que devem ser mantidas ou que são obsoletas? |  | <a href="#ref1">1</a>. pg 128 |
-| **5** | foram considerados documentos que descrevem normas coorporativas, industriais ou legais que devem ser seguidas? |  | <a href="#ref1">1</a>. pg 128 |
-| **6** | foram listados os documentos utilizados? |  | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck1">**1**</a> | foram examinados documentos que especificam os requisitos do sistema atual ou de sistemas similares? | sim | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck2">**2**</a> | foi considerado se os documentos utilizados estão atualizados? | sim | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck3">**3**</a> | foram analisados relatórios de problemas e solicitações de melhoria coletados dos usuários? | sim | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck4">**4**</a>| Caso tenham sido examinados sistemas existentes, foram identificadas funcionalidades que devem ser mantidas ou que são obsoletas? | sim | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck5">**5**</a> | foram considerados documentos que descrevem normas coorporativas, industriais ou legais que devem ser seguidas? | sim | <a href="#ref1">1</a>. pg 128 |
+| <a id="ck6">**6**</a> | foram listados os documentos utilizados? | sim | <a href="#ref1">1</a>. pg 128 |
 
 
 </center>
@@ -35,11 +35,11 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+Não foram encontrados problemas relevantes com base no checklist elaborado, porém, alguns comentários foram feitos para os itens abaixo:
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID <a href="#ck2">2</a>: 
+    - Avaliação: sim
+    - Comentário: foi identificada a versão do termo de uso, mas também poderia ter sido disponibilizada faixa de tempo das datas das avaliações coletadas dos usuários.
 
 ## Bibliografia
 
