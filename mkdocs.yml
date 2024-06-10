@@ -52,8 +52,9 @@ nav:
         - Elicitação:
           - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
           - Storytelling: verificacao/grupo+1/elicitacao/storytelling.md 
-          
+          - Brainstorming: verificacao/grupo+1/elicitacao/brainstorming.md           
         - Priorização:
+          - First Things First: verificacao/grupo+1/elicitacao/firstThingsFirst.md
           - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
       - Modelagem:
         - Cenários: verificacao/grupo+1/modelagem/cenarios.md
@@ -63,7 +64,7 @@ nav:
         - Léxicos: verificacao/grupo+1/template.md
         - Ágil:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
-          - Histórias de Usuário: verificacao/grupo+1/template.md
+          - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/template.md
     - Grupo:
       - Divisão de Tarefas: verificacao/grupo/template.md
