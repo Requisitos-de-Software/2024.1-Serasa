@@ -41,6 +41,35 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação:
     - Comentário:
 
+## Resultados
+
+### **NFR02- Ajuda e Documentação**
+
+<font size="2"><p style="text-align: center">Tabela 3 - NFR02- Ajuda e Documentação.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+|1| O artefato possui SIG (Softgoal Interdependency Graph)? |Sim|<a href="#ref1">1</a> pg. 30|
+|2| No SIG, os tipos de softgoals utilizados estão descritos?|Sim|<a href="#ref1">1</a> pg. 31|
+|3| No SIG, as interdependências entre os softgoals estão representadas? |Sim|<a href="#ref1">1</a> pg. 32|
+|4| No SIG, as contribuições utilizadas estão especificadas? |Sim|<a href="#ref1">1</a> pg. 33|
+|5| O artefato possui cartão de especificação para exemplificar os NFRs? |Sim|<a href="#ref1">1</a> pg. 45|
+|6| O cartão de especificação possui algum dos tópicos a seguir ou outros tópicos relacionados: nr requisito, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos, história ? |Sim|<a href="#ref1">1</a> pg. 45|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
+
+### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação: OK
+    - Comentário: Não possui nenhum problema 
+
 ## Bibliografia
 
 > 1<a id="ref1">.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019.
