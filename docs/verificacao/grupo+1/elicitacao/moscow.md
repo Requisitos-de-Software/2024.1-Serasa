@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de pri
 
 ## Metodologia
 
-Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não" ou "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -20,24 +20,28 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-| **1** | Caso um cliente tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? |  | <a href="#ref2">2</a>. pg 142 |
-| **2** | Todos os requisitos priorizados estão relacionados a uma das siglas da técnica MoSCoW? |  | <a href="#ref1">1</a>. pg 321 |
-| **3** | Para os requisitos na categoria W (Won't), foi diferenciado se ele apenas não é uma prioridade ou se ele nunca será implementado? |  | <a href="#ref1">1</a>. pg 321 |
-| **4** | Essa diferenciação foi explicada para os stakeholders? |  | <a href="#ref1">1</a>. pg 321 |
-
+| <a id="ck1">**1**</a> | Caso um cliente tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? | sim | <a href="#ref2">2</a>. pg 142 |
+| <a id="ck2">**2**</a> | Todos os requisitos priorizados estão relacionados a uma das siglas da técnica MoSCoW? | sim | <a href="#ref1">1</a>. pg 321 |
+| <a id="ck3">**3**</a> | Para os requisitos na categoria W (Won't), foi diferenciado se ele apenas não é uma prioridade ou se ele nunca será implementado? | não | <a href="#ref1">1</a>. pg 321 |
+| <a id="ck4">**4**</a> | Essa diferenciação foi explicada para os stakeholders? | não | <a href="#ref1">1</a>. pg 321 |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+Não foram encontrados problemas relevantes com base no checklist elaborado, porém, alguns comentários foram feitos para os itens abaixo:
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID <a href="#ck1">1</a>: 
+    - Avaliação: sim
+    - Comentário: Foi dito no texto de introdução ao vídeo de reunião que o participante leu e aceitou o termo de consentimento, porém, isso é algo que não estava presente no vídeo.
+- ID <a href="#ck3">3</a>: 
+    - Avaliação: não
+    - Comentário: a avaliação foi "não" pois o item não se aplica, uma vez que não houveram requisitos na categoria W (won't)
+- ID <a href="#ck4">4</a>: 
+    - Avaliação: não
+    - Comentário: apesar de nenhum requisito ter sido atribuído à categoria W (won't), não foi diferenciada a questão do que pode significar a categoria.
 
 ## Bibliografia
 
