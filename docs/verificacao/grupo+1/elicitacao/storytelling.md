@@ -20,10 +20,10 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-|1| Cada história inclui um conflito central relacionado ao problema? ||<a href="#ref1">1</a> pg. 10|
+|1| Cada história inclui um conflito central (problema a ser resolvido) relacionado ao problema? ||<a href="#ref1">1</a> pg. 10|
 |2| O tema central (objetivo do projeto) está claramente identificado em cada história?||<a href="#ref1">1</a> pg. 10|
 |3| O tempo e o local em que a história está ocorrendo? ||<a href="#ref1">1</a> pg. 11|
-|4| O trama da história está bem desenvolvido?||<a href="#ref1">1</a> pg. 11|
+|4| O trama da história (ordem dos eventos) está bem desenvolvido?||<a href="#ref1">1</a> pg. 11|
 |5| Os personagens são claramente identificados?||<a href="#ref1">1</a> pg. 11|
 |6| As histórias possuem diferentes pontos de vista?||<a href="#ref1">1</a> pg. 11|
 |7| Os requisitos foram extraídos das histórias de forma clara e detalhada?| | <a href="#ref1">1</a> pg. 10 |
