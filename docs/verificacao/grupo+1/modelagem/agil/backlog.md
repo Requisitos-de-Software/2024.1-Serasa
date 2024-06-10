@@ -40,6 +40,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Comentário:
 
 ## Bibliografia
+>1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
 
 ## Referências Bibliográficas
 
