@@ -114,10 +114,10 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |2| O modo para atingir o objetivo está descrito no cenário ? | Sim. | <a href="#ref1">REF1</a>. pg 49 |
 |3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim. | <a href="#ref1">REF1</a>. pg 49 |
 |4|  As características pessoais dos atores são relevantes ao cenário? | Sim. | <a href="#ref2">REF2</a>. pg 172 |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
-|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
-|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim. | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? | Não. | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim. | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 | Sim. | <a href="#ref1">REF1</a>. pg 49 |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -126,9 +126,9 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: O cenário 03 não possui nenhum ligação com os léxicos.
+    - Comentário: Uma sugestão seria adicionar hyperlinks com termos utilizados nos léxicos.
 
 
 ## Cenário 4: Consulta de CNPJ - gov.br
