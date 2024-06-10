@@ -35,7 +35,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework).
 
 - ID xx: Descrição
     - Avaliação:
