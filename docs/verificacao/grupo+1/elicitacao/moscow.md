@@ -21,8 +21,8 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
 | **1** | Caso um cliente tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? |  | <a href="#ref2">2</a>. pg 142 |
-| **2** | A todos os requisitos priorizados foram atribuidas uma das siglas da técnica MoSCoW? |  | <a href="#ref1">1</a>. pg 321 |
-| **3** | Para os requisitos na categoria W (Won't), foi diferenciado se ele apenas não é uma prioridade ou de que nunca será implementado? |  | <a href="#ref1">1</a>. pg 321 |
+| **2** | Todos os requisitos priorizados estão relacionados a uma das siglas da técnica MoSCoW? |  | <a href="#ref1">1</a>. pg 321 |
+| **3** | Para os requisitos na categoria W (Won't), foi diferenciado se ele apenas não é uma prioridade ou se ele nunca será implementado? |  | <a href="#ref1">1</a>. pg 321 |
 | **4** | Essa diferenciação foi explicada para os stakeholders? |  | <a href="#ref1">1</a>. pg 321 |
 
 
@@ -41,7 +41,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
-> 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. p>
+> 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. >
 >
 >2. Gabriel, Arthur; Santos, Isaque. **MoSCoW**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/moscow>. Acesso em: 09 maio 2023.
 

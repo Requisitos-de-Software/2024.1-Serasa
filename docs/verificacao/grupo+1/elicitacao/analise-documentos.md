@@ -43,7 +43,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
-> 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. p>
+> 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3.>
 >
 >2. Berg, Caio. **Análise de Documentos**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos>. Acesso em: 09 maio 2023.
 >

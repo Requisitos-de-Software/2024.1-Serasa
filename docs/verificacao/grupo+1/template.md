@@ -37,7 +37,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
-> 1<a id="ref1">.</a> Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. p>
+> 1<a id="ref1">.</a> Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. >
 
 ## Histórico de Versões
 
