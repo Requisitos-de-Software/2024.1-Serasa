@@ -64,7 +64,7 @@ nav:
         - Ágil:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/template.md
-          - NFR Framework: verificacao/grupo+1/template.md
+          - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
       - Divisão de Tarefas: verificacao/grupo/template.md
       
