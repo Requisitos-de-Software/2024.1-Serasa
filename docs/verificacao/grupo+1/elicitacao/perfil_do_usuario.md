@@ -50,7 +50,13 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Incompleto.
     - Comentário: O questionário apresenta alguns desses dados, porém faltou perguntas sobre o nível de instrução e experiência do usuário.
 
+### Gravação
 
+Abaixo no Vídeo 1, está a gravação dessa verificação.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yy9yiCVFGtA?si=Mfxc2Zw3POmy0nG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Clique aqui](https://www.youtube.com/watch?v=Yy9yiCVFGtA) para assistir em outra aba.
 
 
 
