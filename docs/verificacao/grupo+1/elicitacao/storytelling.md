@@ -20,13 +20,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-|1| Cada história inclui um conflito central (problema a ser resolvido) relacionado ao problema? ||<a href="#ref1">1</a> pg. 10|
-|2| O tema central (objetivo do projeto) está claramente identificado em cada história?||<a href="#ref1">1</a> pg. 10|
-|3| O tempo e o local em que a história está ocorrendo? ||<a href="#ref1">1</a> pg. 11|
-|4| O trama da história (ordem dos eventos) está bem desenvolvido?||<a href="#ref1">1</a> pg. 11|
-|5| Os personagens são claramente identificados?||<a href="#ref1">1</a> pg. 11|
-|6| As histórias possuem diferentes pontos de vista?||<a href="#ref1">1</a> pg. 11|
-|7| Os requisitos foram extraídos das histórias de forma clara e detalhada?| | <a href="#ref1">1</a> pg. 10 |
+|1| Cada história inclui um conflito central (problema a ser resolvido) relacionado ao problema? |Incompleto|<a href="#ref1">1</a> pg. 10|
+|2| O tema central (objetivo do projeto) está claramente identificado em cada história?|Sim|<a href="#ref1">1</a> pg. 10|
+|3| O tempo e o local em que a história está ocorrendo? |Incompleto|<a href="#ref1">1</a> pg. 11|
+|4| O trama da história (ordem dos eventos) está bem desenvolvido?|Sim|<a href="#ref1">1</a> pg. 11|
+|5| Os personagens são claramente identificados?| Sim |<a href="#ref1">1</a> pg. 11|
+|6| As histórias possuem diferentes pontos de vista?|Não|<a href="#ref1">1</a> pg. 11|
+|7| Os requisitos foram extraídos das histórias de forma clara e detalhada?| Incompleto | <a href="#ref1">1</a> pg. 10 |
 
 
 </center>
@@ -38,9 +38,21 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Cada história inclui um conflito central (problema a ser resolvido) relacionado ao problema? 
+    - Avaliação: Incompleto
+    - Comentário: A história "Olimar Gonçalves" não elabora muito um conflito central, apenas relata que o Olimar Gonçalves recebeu indicação de instalar o gov.br para utilizar recursos de sua aposentadoria.
+
+- ID 03: O tempo e o local em que a história está ocorrendo?
+    - Avaliação: Incompleto
+    - Comentário: As histórias no geral não exemplificam muito bem a data e o local em que ocorreram, não é necessário dar uma data específica, mas existem expressões muito genéricas como "recentemente" ou "um dia". Sobre os locais, algumas histórias exemplificam, outras deixam subentendido e outras não comentam.
+
+- ID 06: As histórias possuem diferentes pontos de vista?
+    - Avaliação: Não
+    - Comentário: Todas as histórias possuem mais de um personagem, sendo um que utiliza o sistema e os outros que na maioria dos casos sugerem o aplicativo/funcionalidade a quem irá utilizar. Mas as histórias não abordam diferentes pontos de vista dos personagens sobre as funcionalidades descritas.
+
+- ID 07: Os requisitos foram extraídos das histórias de forma clara e detalhada?
+    - Avaliação: Incompleto
+    - Comentário: Existem requisitos que possuem descrições muito subjetivas, como a necessidade de uma funcionalidade intuitiva, rápida, e eficiênte, que deixam a descrição mais qualitativa que quantitativa, criando dificuldades na hora de elaborar formas de testar esses requisitos.
 
 ## Bibliografia
 
