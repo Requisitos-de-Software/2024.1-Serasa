@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ar
 
 ## Metodologia
 
-Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
+Este artefato foi verificado por [X](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
 
 ## Apresentação dos Dados
 
@@ -16,9 +16,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
+<center>
+
 | ID | Descrição | Avaliação | Referência|
 |:--:| :-------: | :-------: | :-------: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">REF1</a>. pg 166 |
+| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">1</a>. pg 166 |
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
