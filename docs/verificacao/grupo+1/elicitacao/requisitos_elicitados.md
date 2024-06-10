@@ -24,7 +24,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|1| O artefato possui ? |  | <a href="#ref1">REF1</a>. pg 166 |
+|1| O artefato possui tabelas separadas para requisitos "funcionais" e "não funcionais"? |  | N/A |
+|2| Nas tabelas, é mostrado se os requisitos estão implementados ou não? |  | N/A |
+|3| Existe uma legenda para acompanhar o tipo e a rastreabilidade? |  | N/A |
+|4| Todos os requisitos possuem uma rastreabilidade e com hyperlink? |  | N/A |
+|5| Os requisitos elicitados estão classificados e organizados corretamente? |  | N/A |
 
 
 
