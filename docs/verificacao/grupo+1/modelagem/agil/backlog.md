@@ -19,7 +19,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência|
-|:--:| :-------: | :-------: | :-------: |
+|:--:| ------- | :-------: | :-------: |
 | **1** | O backlog contém uma lista dos requisitos a serem implementados? |  | <a href="#ref1">1</a>. pg 38 |
 | **2** | Os requisitos estão descritos como histórias de usuário? |  | <a href="#ref1">1</a>. pg 38 |
 | **3** | Os requisitos estão priorizados? |  | <a href="#ref1">1</a>. pg 38 |
