@@ -24,11 +24,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|1| O artefato possui tabelas separadas para requisitos "funcionais" e "não funcionais"? |  | N/A |
-|2| Nas tabelas, é mostrado se os requisitos estão implementados ou não? |  | N/A |
-|3| Existe uma legenda para acompanhar o tipo e a rastreabilidade? |  | N/A |
-|4| Todos os requisitos possuem uma rastreabilidade e com hyperlink? |  | N/A |
-|5| Os requisitos elicitados estão classificados e organizados corretamente? |  | N/A |
+|1| O artefato possui tabelas separadas para requisitos "funcionais" e "não funcionais"? | Não | N/A |
+|2| Nas tabelas, é mostrado se os requisitos estão implementados ou não? | Sim | N/A |
+|3| Existe uma legenda para acompanhar o tipo e a rastreabilidade? | Sim  | N/A |
+|4| Todos os requisitos possuem uma rastreabilidade e com hyperlink? | Sim | N/A |
+|5| Os requisitos elicitados estão classificados(Funcionais e Não Funcionais) e organizados corretamente? | Sim | N/A |
 
 
 
@@ -39,13 +39,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
-
-
-
-
+- ID 1: O artefato possui tabelas separadas para requisitos "funcionais" e "não funcionais"? 
+    - Avaliação: Não.
+    - Comentário: Os requisitos elicitados, requisitos funcionais e não funcionais, estão todos na mesma tabela. Seria ideal para melhor visualização e reconhecimento que dividissem uma tabela separada para cada um.
 
 
 ## Bibliografia
