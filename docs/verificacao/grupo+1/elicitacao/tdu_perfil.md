@@ -37,16 +37,16 @@ A criação de um checklist para verificação de um Termo de Consentimento Livr
 
 | ID  | Descrição                                                                                                                      | Avaliação | Observação |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| 01  | O TCLE apresenta uma introdução clara sobre o estudo e seu objetivo? <a id="anchor_1" href="#REF1">^1^</a>                     |          |           |
-| 02  | O TCLE especifica os motivos da participação e o título do estudo? <a id="anchor_1" href="#REF1">^1^</a>                       |          |           |
-| 03  | O TCLE descreve detalhadamente a participação do voluntário, incluindo procedimentos e frequências? <a id="anchor_1" href="#REF1">^1^</a> |          |           |
-| 04  | O TCLE informa sobre os riscos e benefícios potenciais da pesquisa? <a id="anchor_1" href="#REF1">^1^</a>                      |          |           |
-| 05  | O TCLE menciona os direitos do participante, incluindo assistência e confidencialidade? <a id="anchor_1" href="#REF1">^1^</a> |          |           |
-| 06  | O TCLE aborda a possibilidade de retirada do consentimento a qualquer momento? <a id="anchor_1" href="#REF1">^1^</a>          |          |          |
-| 07  | O TCLE inclui informações sobre o Comitê de Ética em Pesquisa e contatos? <a id="anchor_1" href="#REF1">^1^</a>                |          |           |
-| 08  | O TCLE apresenta campos de rubrica ou confirmação para o pesquisador responsável e o participante? <a id="anchor_1" href="#REF1">^1^</a>      |          |           |
-| 09  | O TCLE é escrito em linguagem clara e acessível, evitando termos técnicos? <a id="anchor_1" href="#REF1">^1^</a>               |          |           |
-| 10  | O TCLE informa sobre a confidencialidade do participante? <a id="anchor_1" href="#REF1">^1^</a>                              |          |           |
+| 01  | O TCLE apresenta uma introdução clara sobre o estudo e seu objetivo? <a id="anchor_1" href="#REF1">^1^</a>                     |    Sim    |     Sem Observação       |
+| 02  | O TCLE especifica os motivos da participação e o título do estudo? <a id="anchor_1" href="#REF1">^1^</a>                       |     Não      |     Sem Observação       |
+| 03  | O TCLE descreve detalhadamente a participação do voluntário, incluindo procedimentos e frequências? <a id="anchor_1" href="#REF1">^1^</a> |     Não     |     Sem Observação     |
+| 04  | O TCLE informa sobre os riscos e benefícios potenciais da pesquisa? <a id="anchor_1" href="#REF1">^1^</a>                      |     Sim     |     Sem Observação      |
+| 05  | O TCLE menciona os direitos do participante, incluindo assistência e confidencialidade? <a id="anchor_1" href="#REF1">^1^</a> |     Sim      |     Sem Observação      |
+| 06  | O TCLE aborda a possibilidade de retirada do consentimento a qualquer momento? <a id="anchor_1" href="#REF1">^1^</a>          |     Sim     |    Sem Observação      |
+| 07  | O TCLE inclui informações sobre o Comitê de Ética em Pesquisa e contatos? <a id="anchor_1" href="#REF1">^1^</a>                |     Incompleto     |     Sem o mencionamento do Comitê de Ética em Pesquisa    |
+| 08  | O TCLE apresenta campos de rubrica ou confirmação para o pesquisador responsável e o participante? <a id="anchor_1" href="#REF1">^1^</a>      |     Incompleto     |     Não está registrado a forma de confirmação      |
+| 09  | O TCLE é escrito em linguagem clara e acessível, evitando termos técnicos? <a id="anchor_1" href="#REF1">^1^</a>               |    Sim      |     Sem Observação      |
+| 10  | O TCLE informa sobre a confidencialidade do participante? <a id="anchor_1" href="#REF1">^1^</a>                              |    Sim      |      Sem Observação     |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
