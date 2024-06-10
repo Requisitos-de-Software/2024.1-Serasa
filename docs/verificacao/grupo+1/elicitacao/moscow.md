@@ -10,7 +10,7 @@ Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLov
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já preenchido com base no artefato em questão. 
 
 ### Checklist de verificação
 

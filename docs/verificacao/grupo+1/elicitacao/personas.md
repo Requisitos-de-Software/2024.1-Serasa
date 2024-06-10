@@ -11,7 +11,7 @@ A metodologia utilizada para verificar o artefato emprega o método de inspeçã
 
 ## Apresentação dos Dados
 
-Apresentação dos dados coletados e observados ao realizar a verificação do artefato.
+Ao analisar o artefato [personas](https://requisitos-de-software.github.io/2024.1-Gov.br/#/Personas/Personas) conclui-se que as personas foram bem elaboradas e estruturadas de maneira 
 
 ### Checklist Personas
 
@@ -21,20 +21,42 @@ Apresentação dos dados coletados e observados ao realizar a verificação do a
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01| O documento possui poersonas primárias e secundárias? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|02| Existem pelomenos uma persona por papel de usuário? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|03| O documento apresenta a antipersona? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|04| O elenco de personas está dentro do escopo de 3 a 12 personas? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|05| As personas possuem os elementos: Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|06| Alguma persona tem seus objetivos pessoais violados? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|07| Foi elencado nas personas algum falso objetivo? ||IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|01| O documento possui personas primárias e secundárias? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|02| Existem pelomenos uma persona por papel de usuário? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|03| O documento apresenta a antipersona? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|04| O elenco de personas está dentro do escopo de 3 a 12 personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|05| As personas possuem os elementos: Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|06| Alguma persona tem seus objetivos pessoais violados? | Não. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|07| Foi elencado nas personas algum falso objetivo? |Não.|IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
+|08| A persona primária possui uma solidez tangível(nível alto de especificidade) para colocar os pressupostos de design em perspectiva?| Não. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
+|09| A persona primária possui elasticidade(nível baixo de especificidade)?| Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
+|10| No documento é justificada a quantidade de personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
+|11| As personas apresentam os objetivos: pessoais, corporativos e práticos?| Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 170)|
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
+## Gravação Identificando os Problemas
+<center>
+
+<font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asdasdasdasi=1qwdKif6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+</center>
 
 ## Problemas Encontrados
 
-Problemas encontrados na verificação do artefato.
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID 05**: As personas possuem quase todos os elementos elencados por Courage e Baxter (2005), mas faltou o o campo de requitos do usuário para apresentar o que a persona necessita, e no documento isso está sendo descrito em outro campo como no de tarefas.
+
+**ID 08 e 09**: Algumas personas não possuem uma solidez em suas descrições deixando-as elasticas e não bem definidas, como as personas descritas nas tabelas 04 e 05, que precisam ser mais específicas em seus objetivos.
+
+**ID 11**: No documento os objetivos não estão bem estruturados, não denotando de forma clara os objetivos pessoais, corporativos e práticos. Um exemplo é a persona mostrada na tabela 05 de nome: Olimar Gonçalves que tem descrito como objetivo: "Foi orientado pela sua família a instalar o app gov.br para acessar recursos relacionados à sua aposentadoria."
+
+
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.

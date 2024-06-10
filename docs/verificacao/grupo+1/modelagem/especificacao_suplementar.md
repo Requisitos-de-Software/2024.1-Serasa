@@ -18,8 +18,7 @@ Dados obtidos na verificação.
 
 ### Checklist Especificação Suplementar
 
-
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
 
 
 |ID| Descrição | Avaliação | Referência|
@@ -46,10 +45,228 @@ Dados obtidos na verificação.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
 
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+
+## U: Usabilidade (Usability)
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []() , 2024.</p></font>
+
 
 ## Problemas Encontrados
 
-Problemas Encontrados na verificação do artefato.
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+## R: Confiabilidade (Reliability)
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
+
+
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+## Desempenho (Performance)
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
+
+
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+## S: Suporte (Supportability)
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
+
+
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+## +: Restrições de Design
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
+
+
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
+
+## +: Ajuda e Documentação/Interfaces
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|01| O artefato de especificação suplementar utiliza a metodologia FURPS?||Requisitos – Aula 13(pgs. 28 - 30)|
+|02| Apresenta os requisitos em funcionalidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|03| Os requisitos apresentados são verificáveis?||FURPS+ - QualidadeBR| 
+|04| Em usabilidade os requisitos não funcionais levam em consideração a prevenção de erros? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|05| Em usabilidade os requisitos não funcionais levam em consideração a estética e design? ||FURPS+ - QualidadeBR|
+|06| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|07| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de recuperação? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|08| Em Confiabilidade os requisitos não funcionais levam em consideração possibilidade de previsão? ||FURPS+ - QualidadeBR|
+|09| Em Confiabilidade os requisitos não funcionais levam em consideração tempo médio entre falhas? ||FURPS+ - QualidadeBR|
+|10| Os requisitos não funcionais apresentados são verificáveis? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|11| Em Desempenho os requisitos não funcionais levam em consideração tempo de resposta?  ||FURPS+ - QualidadeBR|
+|12| Em Desempenho os requisitos não funcionais levam em consideração Utilização da CPU?||FURPS+ - QualidadeBR|
+|13| Em Desempenho os requisitos não funcionais levam em consideração capacidade de carga e disponibilidade da aplicação? ||FURPS+ - QualidadeBR|
+|14| Os requisitos não funcionais apresentados são verificáveis? ||FURPS+ - QualidadeBR|
+|15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
+|16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
+|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+
+
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
+
+
+## Problemas Encontrados
+
+Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
+
+**ID xx:** Explicação do problema e comentário.
 
 
 ## Bibliografia
