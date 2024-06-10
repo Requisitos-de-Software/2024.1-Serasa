@@ -50,6 +50,7 @@ nav:
       - Elicitação: 
         - Elicitação:
           - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
+          - Personas: verificacao/grupo+1/elicitacao/personas.md
         - Priorização:
           - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
       - Modelagem:
