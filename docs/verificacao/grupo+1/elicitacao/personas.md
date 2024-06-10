@@ -21,6 +21,19 @@ Apresentação dos dados coletados e observados ao realizar a verificação do a
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
+|01||||
+|02||||
+|03||||
+|04||||
+|05||||
+|06||||
+|07||||
+|08||||
+|09||||
+|10||||
+|11||||
+|12||||
+|13||||
 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
