@@ -47,10 +47,12 @@ nav:
       - NFR Framework: modelagem/agil/nfr-framework.md
   - Verificação:
     - Grupo + 1:
-      - Elicitação: 
+      - Elicitação:
+        - Personas: verificacao/grupo+1/elicitacao/personas.md
         - Elicitação:
           - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
-          - Personas: verificacao/grupo+1/elicitacao/personas.md
+          - Storytelling: verificacao/grupo+1/elicitacao/storytelling.md 
+          
         - Priorização:
           - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
       - Modelagem:
