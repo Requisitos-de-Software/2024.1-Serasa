@@ -48,7 +48,10 @@ nav:
   - Verificação:
     - Grupo + 1:
       - Elicitação: 
-        - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
+        - Elicitação:
+          - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
+        - Priorização:
+          - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
       - Modelagem:
         - Cenários: verificacao/grupo+1/modelagem/cenarios.md
         - Casos de Uso: verificacao/grupo+1/template.md
