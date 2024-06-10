@@ -73,7 +73,7 @@ Dados obtidos na verificação.
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []() , 2024.</p></font>
 
 
 ## Problemas Encontrados
@@ -109,7 +109,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
 
 
 ## Problemas Encontrados
@@ -145,7 +145,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
 
 
 ## Problemas Encontrados
@@ -181,7 +181,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
 
 
 ## Problemas Encontrados
@@ -217,7 +217,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
 
 
 ## Problemas Encontrados
@@ -253,7 +253,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: []().</p></font>
 
 
 ## Problemas Encontrados
