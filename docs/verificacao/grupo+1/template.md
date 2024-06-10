@@ -19,7 +19,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência|
-|:--:| :-------: | :-------: | :-------: |
+|:--:| --------- | :-------: | :-------: |
 | **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">1</a>. pg 166 |
 
 </center>
