@@ -169,27 +169,36 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 <font size="2"><p style="text-align: center">Tabela 6 - Checklist com perguntas para o Cenário 5: Agendamento de Visita ao Palácio do Planalto.</p></font>
 
 
-|ID| Descrição | Avaliação | Referência|
-|:--:|:--:|:--:|:--:|
-|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
-|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
-|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+| ID  | Descrição | Avaliação | Referência|
+| :-: | :-------: | :-------: | :-------: |
+| **1** | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | sim | <a href="#ref1">REF1</a>. pg 49 |
+| **2** | O modo para atingir o objetivo está descrito no cenário ? | sim | <a href="#ref1">REF1</a>. pg 49 |
+| **3** |  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | incompleto | <a href="#ref1">REF1</a>. pg 49 |
+| **4** |  As características pessoais dos atores são relevantes ao cenário? | não | <a href="#ref2">REF2</a>. pg 172 |
+| **5** |  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | não | <a href="#ref1">REF1</a>. pg 49 |
+| **6** |  Os cenários possuem alguma ligação com os léxicos? | incompleto | <a href="#ref1">REF1</a>. pg 50 |
+| **7** |  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | sim | <a href="#ref1">REF1</a>. pg 50 |
+| **8** | O título do cenário é autoexplicativo?	 | sim | <a href="#ref1">REF1</a>. pg 49 |
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de cenários para [agendar uma visita ao Palácio do Planalto](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios?id=cen%c3%a1rio-5-agendamento-de-visita-ao-pal%c3%a1cio-do-planalto-govbr).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 3: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: incompleto
+    - Comentário: o contexto contém quase todas as características do estado inicial, com exceção do tempo
+- ID 4: As características pessoais dos atores são relevantes ao cenário??
+    - Avaliação: não
+    - Comentário: não foram mencionadas características pessoais dos atores
+- ID 5: Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? 	
+    - Avaliação: não
+    - Comentário: apenas no segundo e terceiro episódio não foram identificados explicitamente os atores
+- ID 6: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: incompleto
+    - Comentário: existem termos usados no cenário como, por exemplo, agendamento e usuário, que estão presentes no léxico, porém, não há nada que direcione diretamente para os léxicos.
 
 
 ## Cenário 6: Consulta do Histórico de Login no Aplicativo gov.br
