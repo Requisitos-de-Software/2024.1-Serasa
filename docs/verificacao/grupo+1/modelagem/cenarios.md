@@ -77,19 +77,18 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 3 - Checklist com perguntas para o Cenário 2: Simulação de Aposentadoria.</p></font>
 
-
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
-|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
-|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |
+|3| O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |
+|4| As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 |
+|5| Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Não | <a href="#ref1">REF1</a>. pg 49 |
+|6| Os cenários possuem alguma ligação com os léxicos? | Não | <a href="#ref1">REF1</a>. pg 50 |
+|7| Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
 
 
 ## Problemas Encontrados
@@ -97,8 +96,8 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+    - Avaliação: OK
+    - Comentário: Sem nenhuma observação para a avalição, apenas que caso tenha a utilização dos lexicos na tabela não possui um link de referência.
 
 
 
