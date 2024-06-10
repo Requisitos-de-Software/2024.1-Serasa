@@ -57,7 +57,7 @@ nav:
         - Cenários: verificacao/grupo+1/modelagem/cenarios.md
         - Casos de Uso: verificacao/grupo+1/template.md
         - Validação dos Casos de Uso: verificacao/grupo+1/template.md
-        - Especificação Suplementar: verificacao/grupo+1/template.md
+        - Especificação Suplementar: verificacao/grupo+1/modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo+1/template.md
         - Ágil:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
