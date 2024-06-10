@@ -75,15 +75,177 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Cenário 2: Simulação de Aposentadoria - gov.br
 
+<font size="2"><p style="text-align: center">Tabela 3 - Checklist com perguntas para o Cenário 2: Simulação de Aposentadoria.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+
+
 ## Cenário 3: Redefinição de Senha no Aplicativo gov.br
+
+
+<font size="2"><p style="text-align: center">Tabela 4 - Checklist com perguntas para o Cenário 3: Redefinição de Senha no Aplicativo.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
 
 ## Cenário 4: Consulta de CNPJ - gov.br
 
+
+<font size="2"><p style="text-align: center">Tabela 5 - Checklist com perguntas para o Cenário 4: Consulta de CNPJ.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+
 ## Cenário 5: Agendamento de Visita ao Palácio do Planalto - gov.br
+
+
+<font size="2"><p style="text-align: center">Tabela 6 - Checklist com perguntas para o Cenário 5: Agendamento de Visita ao Palácio do Planalto.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
 
 ## Cenário 6: Consulta do Histórico de Login no Aplicativo gov.br
 
+
+<font size="2"><p style="text-align: center">Tabela 7 - Checklist com perguntas para o Cenário 6: Consulta do Histórico de Login no Aplicativo.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+
 ## Cenário 7: Consulta dos Termos de Uso do Aplicativo gov.br
+
+
+<font size="2"><p style="text-align: center">Tabela 8 - Checklist com perguntas para o Cenário 7: Consulta dos Termos de Uso do Aplicativo.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+
+<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+
+
+ ## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
 
 
 
