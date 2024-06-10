@@ -1,12 +1,13 @@
-# Verificação do Artefato Perfil de Usuário
+# Verificação do Artefato First Things First
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Artefato](link do artefato) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [First Things First
+](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/FirstThingsFirst) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [X](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.4` datada do dia 22/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -24,7 +25,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 
 ## Problemas Encontrados
@@ -44,7 +45,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 10/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
