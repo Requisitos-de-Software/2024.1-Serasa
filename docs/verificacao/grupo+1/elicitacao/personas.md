@@ -35,7 +35,7 @@ Ao analisar o artefato [personas](https://requisitos-de-software.github.io/2024.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-## Gravação Idetificando os Problemas
+## Gravação Identificando os Problemas
 <center>
 
 <font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
