@@ -2,15 +2,19 @@
 
 ## Introdução
 
+Este documento apresenta a verificação do artefato de [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do grupo 04 da matéria de Requisitos de software, que utiliza no desenvolvimento do seu projeto o aplicativo gov.br.
 
 ## Objetivo
 
+O objetivo deste documento é apresentar e mostrar os erros encontrados no artefato da [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do projeto realizado pelo grupo 04 da matéria de requisitos de software.
 
 ## Metodologia
 
+A metodologia utilizada para verificar o artefato é utilizando o método de inspeção através da utilização de um checklist criado utilizando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento.
 
 ## Apresentação dos Dados
 
+Dados obtidos na verificação.
 
 ### Checklist Especificação Suplementar
 
@@ -44,10 +48,14 @@
 
 ## Problemas Encontrados
 
+Problemas Encontrados na verificação do artefato.
+
 
 ## Bibliografia
 
 > 1. Especificação Suplementar do MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845018/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acessado em 10/06/2024.
+> 2. Requisitos – Aula 13 - Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acessado em : 09/06/2024.
+> 3. FURPS+ - QualidadeBR Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A>Acessado em : 09/06/2024.
 
 
 ## Histórico de Versões
