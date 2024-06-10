@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar e mostrar os erros encontrados no artef
 
 ## Metodologia
 
-A metodologia utilizada para verificar o artefato é utilizando o método de inspeção através da utilização de um checklist criado utilizando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento.
+A metodologia utilizada para verificar o artefato é utilizando o método de inspeção através da utilização de um checklist criado utilizando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Nas tabelas checklist para a verificação foi utilizado um " - " para os campos que não se aplicam para o tópico analisado, isso foi feito para minimizar o tamanho do artefato e evitar a poluição visual com diferentes checklists.
 
 ## Apresentação dos Dados
 
