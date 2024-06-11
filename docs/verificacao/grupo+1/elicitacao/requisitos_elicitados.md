@@ -54,4 +54,4 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 06/06/2024 | Criação do documento |[Claudio Henrique](https://github.com/claudiohsc) | [ ]() |
+| `1.0`  | 06/06/2024 | Criação do documento |[Claudio Henrique](https://github.com/claudiohsc) | [Ricardo Augusto ](https://www.github.com/avmricardo) |
