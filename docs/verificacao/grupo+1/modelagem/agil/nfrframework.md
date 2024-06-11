@@ -52,7 +52,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
 |1| O artefato possui SIG (Softgoal Interdependency Graph)? |Sim|<a href="#ref1">1</a> pg. 30|
-|2| No SIG, os tipos de softgoals utilizados estão descritos?|Não|<a href="#ref1">1</a> pg. 31|
+|2| No SIG, os tipos de softgoals utilizados estão descritos?|Incompleto|<a href="#ref1">1</a> pg. 31|
 |3| No SIG, as interdependências entre os softgoals estão representadas? |Sim|<a href="#ref1">1</a> pg. 32|
 |4| No SIG, as contribuições utilizadas estão especificadas? |Sim|<a href="#ref1">1</a> pg. 33|
 |5| O artefato possui cartão de especificação para exemplificar os NFRs? |Sim|<a href="#ref1">1</a> pg. 45|
@@ -69,7 +69,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework).
 
 - ID 02: No SIG, os tipos de softgoals utilizados estão descritos?
-    - Avaliação: Não
+    - Avaliação: Incompleto
     - Comentário: Faltou alguma explicação sobre os tipos de Softgoals utilizados SIG.
 
 ### **NFR02- Ajuda e Documentação**
