@@ -297,4 +297,12 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [ ]() |
+| `1.0`  | 09/06/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Danilo][DaniloGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
