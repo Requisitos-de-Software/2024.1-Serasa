@@ -6,13 +6,34 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Br
 
 ## Metodologia
 
-Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) (tabela 2) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) (tabela 1) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 ## Apresentação dos Dados
 
-Abaixo temos a realização em video e tabela 1 da verificação. 
+### Checklist de verificação
 
-<font size="2"><p style="text-align: center">Tabela 1 - check list preenchido.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito do brainstorming, como levantar necessidades dos usuários ou gerar ideias para um projeto. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
+| **2** | Participantes: Escolha participantes com perfis semelhantes ou conduza sessões separadas para diferentes perfis. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
+| **3** | Moderador: Tenha um moderador para guiar a sessão, esclarecer dúvidas e manter o foco. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
+| **4** | Regras da Sessão: Estabeleça regras claras, como evitar críticas e encorajar a criatividade. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
+| **5** | Participação Equilibrada: Assegurar que todos os participantes tiveram a oportunidade de expressar suas ideias e que ninguém dominou a sessão. |  | <a href="#ref1">2</a>. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+### Verificação
+
+
+Abaixo temos a realização em video e tabela 2 da verificação. 
+
+<font size="2"><p style="text-align: center">Tabela 2 - check list preenchido.</p></font>
 
 <center>
 
@@ -30,25 +51,6 @@ Abaixo temos a realização em video e tabela 1 da verificação.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoWCgRCiZbI?si=xERPqP1NDnj1XD3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Checklist de verificação
-
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas elaboradas de acordo com os objetivos.</p></font>
-
-<center>
-
-| ID | Descrição | Avaliação | Referência|
-|:--:| --------- | :-------: | :-------: |
-| **1** | Objetivo Claro: Defina o propósito do brainstorming, como levantar necessidades dos usuários ou gerar ideias para um projeto. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
-| **2** | Participantes: Escolha participantes com perfis semelhantes ou conduza sessões separadas para diferentes perfis. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
-| **3** | Moderador: Tenha um moderador para guiar a sessão, esclarecer dúvidas e manter o foco. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
-| **4** | Regras da Sessão: Estabeleça regras claras, como evitar críticas e encorajar a criatividade. |  | <a href="#ref1">1</a>. "7.5.4 Brainstorming de Necessidades e Desejos dos Usuários" pg 152 |
-| **5** | Participação Equilibrada: Assegurar que todos os participantes tiveram a oportunidade de expressar suas ideias e que ninguém dominou a sessão. |  | <a href="#ref1">2</a>. |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
-
 
 ## Problemas Encontrados
 
