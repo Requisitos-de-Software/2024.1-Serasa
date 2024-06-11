@@ -168,7 +168,7 @@ Não foram encontrados problemas na História de Usuário "HSU06 - Listar Docume
 
 ## HSU07 - Revisar Informações de Perfil
 
-<font size="2"><p style="text-align: center">Tabela x - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 7 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
@@ -190,7 +190,7 @@ Não foram encontrados problemas ao verificar o a história de usuário 07.
 
 ## HSU08 - Cancelar Agendamento
 
-<font size="2"><p style="text-align: center">Tabela 7 - Checklist para História de Usuário - Cancelar Agendamento.</p></font>
+<font size="2"><p style="text-align: center">Tabela 8 - Checklist para História de Usuário - Cancelar Agendamento.</p></font>
 
 <center>
 
@@ -211,7 +211,7 @@ Não foram encontrados problemas na História de Usuário "HSU04 - Acessar Servi
 
 ## HSU9 - Alterar Senha de Acesso
 
-<font size="2"><p style="text-align: center">Tabela x - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 9 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
@@ -229,11 +229,10 @@ Não foram encontrados problemas na História de Usuário "HSU04 - Acessar Servi
 ## Problemas Encontrados
 
 Não foram encontrados problemas ao verificar o a história de usuário 09.
->>>>>>> f11b86d (adding historys 07 and 09)
 
 ## HSU10 - Solicitar Nova Certidão
 
-<font size="2"><p style="text-align: center">Tabela x - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 10 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
@@ -258,7 +257,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## HSU11 - Visualizar Notificações de Pagamento
 
-<font size="2"><p style="text-align: center">Tabela x - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 11 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
@@ -323,7 +322,7 @@ Não foram encontrados problemas para a [HSU13 - Registrar Queixas e Reclamaçõ
 
 ## HSU14 - Login no sistema
 
-<font size="2"><p style="text-align: center">Tabela 15 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 14 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
