@@ -195,8 +195,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - Não foram encontrados problemas para a "HSU11 - Visualizar Notificações de Pagamento", todos os tópicos foram bem elaborados.
 
-<<<<<<< HEAD
-=======
 ## HSU14 - Login no sistema
 
 <font size="2"><p style="text-align: center">Tabela 15 - Perguntas elaboradas de acordo com os objetivos.</p></font>
@@ -239,7 +237,6 @@ Nenhum porblema foi encontrado na história HSU14
 
 Nenhum porblema foi encontrado na história HSU15
 
->>>>>>> e37f321 (historias prontas brtyolaz\i)
 
 ## Bibliografia
 
