@@ -51,7 +51,7 @@ nav:
     - Grupo + 1:
       - Elicitação:
         - Perfil de Usuario: verificacao/grupo+1/elicitacao/perfil_do_usuario.md
-        - Termo de Consentimento: verificacao/grupo+1/elicitacao/tdu_persona.md
+        - Termo de Consentimento: verificacao/grupo+1/elicitacao/tdu_perfil.md
         - Personas: verificacao/grupo+1/elicitacao/personas.md
         - Elicitação:
           - Termo de Consentimento: verificacao/grupo+1/elicitacao/tdu_priorizacao.md
