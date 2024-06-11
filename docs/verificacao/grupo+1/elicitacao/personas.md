@@ -40,7 +40,7 @@ Ao analisar o artefato [personas](https://requisitos-de-software.github.io/2024.
 
 <font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/asdasdasdasi=1qwdKif6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qy_XcqLBxeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
