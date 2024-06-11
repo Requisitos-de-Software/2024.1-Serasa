@@ -144,7 +144,7 @@ Não foram encontrados problemas na História de Usuário "HSU05 - Renovação d
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+Não foram encontrados problemas na História de Usuário "HSU06 - Listar Documentos", de acordo com o Checklist.
 
 
 ## HSU10 - Solicitar Nova Certidão
