@@ -304,6 +304,67 @@ ID 08: A especificação do caso de uso possui Fluxo Alternativo?
 Avaliação: não
 Comentário: o caso de uso não apresenta um fluxo alternativo
 
+
+### UC09 - Emitir 2ª via
+
+<p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Emitir 2ª via </font></p>
+
+
+| ID | Descrição | Avaliação | Referência |
+| --- | --- | --- | --- |
+| **01** | Possui especificação do caso de uso ? | Sim | [^1^](#REF1) |
+| **02** | A especificação do caso de uso possui Nome ? | Sim | [^1^](#REF1) |
+| **03** | A especificação do caso de uso possui Descrição ? | Sim | [^1^](#REF1) |
+| **04** | A especificação do caso de uso possui Atores ? | Sim | [^1^](#REF1) |
+| **05** | A especificação do caso de uso possui Pré-Condição ? | Sim | [^1^](#REF1) |
+| **06** | A especificação do caso de uso possui Pós-Condição ? | Sim | [^1^](#REF1) |
+| **07** | A especificação do caso de uso possui Fluxo Principal ? | Sim | [^1^](#REF1) |
+| **08** | A especificação do caso de uso possui Fluxo Alternativo ? | Não | [^1^](#REF1) |
+| **09** | A especificação do caso de uso possui Fluxo de Exceção ? | Sim | [^1^](#REF1) |
+| **10** | A especificação do caso de uso possui Rastrabilidade ? | Sim | [^1^](#REF1) |
+| **11** | Possui especificação do caso de uso ? | Sim | [^1^](#REF1) |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024</p></font>
+
+## Problemas Encontrados
+
+- ID 08: A especificação do caso de uso possui Fluxo Alternativo?
+    - Avaliação: não
+    - Comentário: o caso de uso não apresenta um fluxo alternativo
+
+### UC10 - Agendar Atendimento
+
+<p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Agendar Atendimento </font></p>
+
+
+| ID | Descrição | Avaliação | Referência |
+| --- | --- | --- | --- |
+| **01** | Possui especificação do caso de uso ? | Sim | [^1^](#REF1) |
+| **02** | A especificação do caso de uso possui Nome ? | Sim | [^1^](#REF1) |
+| **03** | A especificação do caso de uso possui Descrição ? | Sim | [^1^](#REF1) |
+| **04** | A especificação do caso de uso possui Atores ? | Sim | [^1^](#REF1) |
+| **05** | A especificação do caso de uso possui Pré-Condição ? | Sim | [^1^](#REF1) |
+| **06** | A especificação do caso de uso possui Pós-Condição ? | Sim | [^1^](#REF1) |
+| **07** | A especificação do caso de uso possui Fluxo Principal ? | Sim | [^1^](#REF1) |
+| **08** | A especificação do caso de uso possui Fluxo Alternativo ? | Não | [^1^](#REF1) |
+| **09** | A especificação do caso de uso possui Fluxo de Exceção ? | Sim | [^1^](#REF1) |
+| **10** | A especificação do caso de uso possui Rastrabilidade ? | Sim | [^1^](#REF1) |
+| **11** | Possui especificação do caso de uso ? | Sim | [^1^](#REF1) |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024</p></font>
+
+## Problemas Encontrados
+
+- ID 08: A especificação do caso de uso possui Fluxo Alternativo?
+    - Avaliação: não
+    - Comentário: o caso de uso não apresenta um fluxo alternativo
+- ID XX: -
+    - Avaliação: -
+    - Comentário: A especificação está duplicada
+
+
 ### UC11 - **Solicitar Prova de Vida**
 
 <p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
