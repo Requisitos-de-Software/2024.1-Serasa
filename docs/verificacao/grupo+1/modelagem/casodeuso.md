@@ -65,6 +65,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |10|A especificação do caso de uso possui Rastrabilidade ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |11|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 
+
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ## Problemas Encontrados
@@ -79,7 +80,88 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## **Resultado da avaliação de cada Caso de Uso feito pelos integrantes**
 
-### UC11 - Solicitar Prova de Vida
+### **UC03 - Emitir Erro de Login**
+
+<p align="center" > <strong> Tabela 1 - </strong>Checklist para a Consultar Benefícios</font></p>
+
+|ID|Descrição|Avaliação|Observação|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
+|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
+|11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
+
+
+### **UC04 - Atualizar Dados Pessoais**
+
+<p align="center" > <strong> Tabela 2 - </strong>Checklist para a Consultar Benefícios</font></p>
+
+|ID|Descrição|Avaliação|Observação|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
+|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
+|11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
+
+### **UC05 - Consultar Benefícios**
+
+<p align="center" > <strong> Tabela 3 - </strong>Checklist para a Consultar Benefícios</font></p>
+
+|ID|Descrição|Avaliação|Observação|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024</p></font>
+
+### **UC06 - Baixar Certidões**
+
+<p align="center" > <strong> Tabela 4 - </strong>Especificação do Caso de uso - Baixar Certidões</font></p>
+
+|ID|Descrição|Avaliação|Observação|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024</p></font>
+
+### UC11 - **Solicitar Prova de Vida**
 
 <p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
 
@@ -104,7 +186,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - Não foram encontrados problemas para a "UC11 - Solicitar Prova de Vida", todos os tópicos foram bem elaborados.
 
-### UC12 - Ver Histórico de Prova de Vida
+### UC12 - **Ver Histórico de Prova de Vida**
 
 <p align="center" > <strong> Tabela 13 - </strong>Especificação do Caso de uso - Ver Histórico de Prova de Vida</font></p>
 
