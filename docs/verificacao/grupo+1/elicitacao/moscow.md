@@ -60,4 +60,12 @@ Não foram encontrados problemas relevantes com base no checklist elaborado, por
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B][GabrielBGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
