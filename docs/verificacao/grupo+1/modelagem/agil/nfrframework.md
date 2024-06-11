@@ -33,7 +33,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework).
 
@@ -64,7 +64,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 
-## Problemas Encontrados
+#### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework).
 
@@ -91,7 +91,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
 
-### Problemas Encontrados
+#### Problemas Encontrados
 
 - Comentário: Não possui nenhum problema 
 
@@ -114,9 +114,33 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-### Problemas Encontrados
+#### Problemas Encontrados
 
 Não foi atestado problemas encontrados no NFR 04
+
+### **NFR05 - Usabilidade**
+
+<font size="2"><p style="text-align: center">Tabela 6 - (NFR05) Ajuda e Documentação.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+|1| O artefato possui SIG (Softgoal Interdependency Graph)? |Sim|<a href="#ref1">1</a> pg. 30|
+|2| No SIG, os tipos de softgoals utilizados estão descritos?|Sim|<a href="#ref1">1</a> pg. 31|
+|3| No SIG, as interdependências entre os softgoals estão representadas? |Sim|<a href="#ref1">1</a> pg. 32|
+|4| No SIG, as contribuições utilizadas estão especificadas? |Sim|<a href="#ref1">1</a> pg. 33|
+|5| O artefato possui cartão de especificação para exemplificar os NFRs? |Sim|<a href="#ref1">1</a> pg. 45|
+|6| O cartão de especificação possui algum dos tópicos a seguir ou outros tópicos relacionados: nr requisito, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos, história ? |Sim|<a href="#ref1">1</a> pg. 45|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+#### Problemas Encontrados
+
+Não foram encontrados problemas com base no checklist de verificação aplicado ao artefato de NFR Framework para [NFR05 - Usabilidade](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework?id=nfr05-usabilidade).
+
 
 ## Bibliografia
 
