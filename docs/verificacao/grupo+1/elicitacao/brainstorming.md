@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Br
 
 ## Metodologia
 
-Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 21/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) (tabela 2) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 ## Apresentação dos Dados
 
@@ -33,7 +33,7 @@ Abaixo temos a realização em video e tabela 1 da verificação.
 
 ### Checklist de verificação
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
