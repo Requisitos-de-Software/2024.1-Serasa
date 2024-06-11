@@ -77,6 +77,121 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - Não foram encontrados problemas para a "HSU11 - Visualizar Notificações de Pagamento", todos os tópicos foram bem elaborados.
 
+## HSU01 - Consultar Documentos	
+
+<font size="2"><p style="text-align: center">Tabela 2 - Checklist para História de Usuário - Consultar Documentos</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+
+
+## HSU02 - Upload de Documentos	
+
+<font size="2"><p style="text-align: center">Tabela 3 - Checklist para História de Usuário - Upload de Documentos</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+
+## HSU03 - Editar Informações de Documentos
+
+<font size="2"><p style="text-align: center">Tabela 4 - Checklist para História de Usuário - Editar Informações de Documentos</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+
+
+## HSU05 - Renovação de Documentos
+
+<font size="2"><p style="text-align: center">Tabela 5 - Checklist para História de Usuário - Renovação de Documentos</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+
+## HSU06 - Listar Documentos
+
+<font size="2"><p style="text-align: center">Tabela 6 - Checklist para História de Usuário - Listar Documentos</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+
+
+
+
 ## Bibliografia
 
 > 1<a id="ref1">.</a> Pressman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016.
