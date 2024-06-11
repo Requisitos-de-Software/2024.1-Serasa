@@ -79,6 +79,56 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## **Resultado da avaliação de cada Caso de Uso feito pelos integrantes**
 
+### UC11 - Solicitar Prova de Vida
+
+<p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
+
+|ID|Descrição|Avaliação|Referência|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|10|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+
+<font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
+## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+
+- Não foram encontrados problemas para a "UC11 - Solicitar Prova de Vida", todos os tópicos foram bem elaborados.
+
+### UC12 - Ver Histórico de Prova de Vida
+
+<p align="center" > <strong> Tabela 13 - </strong>Especificação do Caso de uso - Ver Histórico de Prova de Vida</font></p>
+
+|ID|Descrição|Avaliação|Referência|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|10|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+
+<font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
+
+## Problemas Encontrados
+- ID 10: A especificação do caso de uso possui Rastrabilidade ?
+    - Avaliação: Não
+    - Comentário: O caso de uso 12 não possui rastreabilidade.
+
 ### **UC13 - Baixar Certidões**
 
 <p align="center" > <strong> Tabela 14 - </strong>Especificação do Caso de uso - Baixar Certidões</font></p>
