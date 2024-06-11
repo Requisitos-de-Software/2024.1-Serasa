@@ -49,7 +49,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+Não foram encontrados problemas na História de Usuário "HSU01 - Consultar Documentos", de acordo com o Checklist.
 
 
 ## HSU02 - Upload de Documentos	
@@ -72,7 +72,7 @@ Não foram encontrados problemas na História de Usuário, de acordo com o Check
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+Não foram encontrados problemas na História de Usuário "HSU02 - Upload de Documentos", de acordo com o Checklist.
 
 ## HSU03 - Editar Informações de Documentos
 
@@ -85,7 +85,7 @@ Não foram encontrados problemas na História de Usuário, de acordo com o Check
 | **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
 | **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
 | **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
-| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Incompleto | <a href="#ref1">1</a>. pg 88 |
 
 </center>
 
@@ -94,7 +94,12 @@ Não foram encontrados problemas na História de Usuário, de acordo com o Check
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+
+- ID 04:
+    - Avaliação: Incompleto
+    - Comentário: A história define uma funcionalidade com atualização em tempo real, porém deve-se especificar em dados quantitativos, como milissegundos.
+
 
 
 ## HSU05 - Renovação de Documentos
@@ -117,7 +122,7 @@ Não foram encontrados problemas na História de Usuário, de acordo com o Check
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas na História de Usuário, de acordo com o Checklist.
+Não foram encontrados problemas na História de Usuário "HSU05 - Renovação de Documentos", de acordo com o Checklist.
 
 ## HSU06 - Listar Documentos
 
