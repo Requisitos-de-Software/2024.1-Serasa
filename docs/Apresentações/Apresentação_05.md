@@ -7,12 +7,12 @@ Esta página tem como foco o vídeo de apresentação da etapa 04 do projeto. A 
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R85420F1lI?si=uN7ea4v4cL2I6YFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/xfldqIYgKgg" title="Reunião em  General  20240610 233712 Gravação de Reunião" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
 <p style="text-align: center">
-    <a href="https://www.youtube.com/playlist?list=PLrcIuA8cnvjWa2MmrgmMOkx1FwaqEfR3B">Link para o vídeo</a>
+    <a href="https://www.youtube.com/xfldqIYgKgg>Link para o vídeo</a>
 </p>
 
 ## Integrantes Presentes
