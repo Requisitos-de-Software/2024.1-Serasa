@@ -52,7 +52,7 @@ A criação de um checklist para verificação de um Termo de Consentimento Livr
 
 ## Video da Verificação
 
-<iframe width="560" height="315" src="https://youtu.be/WESwsD5C5qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WESwsD5C5qI?si=bOUa560NkvBd_bLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">
     <a href="https://youtu.be/WESwsD5C5qI">Link para o vídeo</a>
