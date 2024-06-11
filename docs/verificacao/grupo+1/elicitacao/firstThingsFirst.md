@@ -75,7 +75,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 10/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | []() |
+| `1.0`  | 10/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Gabriel F.](GabrielFGH) |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
