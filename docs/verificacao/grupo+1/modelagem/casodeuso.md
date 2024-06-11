@@ -184,7 +184,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Abaixo estão os problemas encontrados problemas para a [UC07 - Visualizar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc07-visualizar-documentos).
 
-ID 08: A especificação do caso de uso possui Fluxo Alternativo ?
+ID 08: A especificação do caso de uso possui Fluxo Alternativo?
 Avaliação: não
 Comentário: o caso de uso não apresenta um fluxo alternativo
 
@@ -211,7 +211,7 @@ Comentário: o caso de uso não apresenta um fluxo alternativo
 
 Abaixo estão os problemas encontrados problemas para a [UC08 - Baixar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc08-baixar-documentos).
 
-ID 08: A especificação do caso de uso possui Fluxo Alternativo ?
+ID 08: A especificação do caso de uso possui Fluxo Alternativo?
 Avaliação: não
 Comentário: o caso de uso não apresenta um fluxo alternativo
 
