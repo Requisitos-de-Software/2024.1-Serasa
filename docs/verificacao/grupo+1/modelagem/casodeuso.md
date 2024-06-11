@@ -53,16 +53,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|02|A especificação do caso de uso possui Nome ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|03|A especificação do caso de uso possui Descrição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|04|A especificação do caso de uso possui Atores ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|05|A especificação do caso de uso possui Pré-Condição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|06|A especificação do caso de uso possui Pós-Condição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|07|A especificação do caso de uso possui Fluxo Principal ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-|10|A especificação do caso de uso possui Rastrabilidade ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |11|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 
 
@@ -86,16 +86,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Observação|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
-|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
+|**01**|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**02**|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**03**|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**04**|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**05**|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**06**|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
+|**10**|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
 |11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
@@ -107,16 +107,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Observação|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
-|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
+|**01**|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**02**|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**03**|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**04**|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**05**|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**06**|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Faltou essa parte |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Também não tem essa parte |
+|**10**|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Não | Não tem uma rastreabilidade |
 |11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
@@ -127,16 +127,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Observação|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**01**|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**02**|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**03**|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**04**|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**05**|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**06**|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**10**|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 |11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024</p></font>
@@ -147,19 +147,73 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Observação|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
-|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**01**|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**02**|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**03**|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**04**|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**05**|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**06**|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | No documento é utilizado o termo básico ao invés de principal. |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| Sim. | Sem Observação |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
+|**10**|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 |11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| Sim | Sem Observação |
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024</p></font>
+
+### UC07 - **Solicitar Prova de Vida**
+
+<p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
+
+|ID|Descrição|Avaliação|Referência|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+
+<font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
+## Problemas Encontrados
+
+Abaixo estão os problemas encontrados problemas para a [UC07 - Visualizar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc07-visualizar-documentos).
+
+ID 08: A especificação do caso de uso possui Fluxo Alternativo ?
+Avaliação: não
+Comentário: o caso de uso não apresenta um fluxo alternativo
+
+### UC08 - Baixar documentos
+
+<p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
+
+| ID | Descrição | Avaliação | Referência |
+| :-:| --------- | :-------: | :--------: |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/avmricardo), 2024</p></font>
+
+## Problemas Encontrados
+
+Abaixo estão os problemas encontrados problemas para a [UC08 - Baixar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc08-baixar-documentos).
+
+ID 08: A especificação do caso de uso possui Fluxo Alternativo ?
+Avaliação: não
+Comentário: o caso de uso não apresenta um fluxo alternativo
 
 ### UC11 - **Solicitar Prova de Vida**
 
@@ -167,16 +221,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|10|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
@@ -192,16 +246,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|10|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
@@ -217,16 +271,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|10|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |11|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
@@ -243,16 +297,16 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|10|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |11|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
