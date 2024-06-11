@@ -5,7 +5,11 @@ Esta página tem como foco o vídeo de apresentação da etapa 04 do projeto. A 
 
 ## Apresentação
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R85420F1lI?si=uN7ea4v4cL2I6YFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">
     <a href="https://www.youtube.com/playlist?list=PLrcIuA8cnvjWa2MmrgmMOkx1FwaqEfR3B">Link para o vídeo</a>
