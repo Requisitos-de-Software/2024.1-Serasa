@@ -6,7 +6,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## Objetivos
 
-O objetivo deste documento é verificar se o artefato produzido [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Booking) possuem os itens e o padrão exigidos para tais.
+O objetivo deste documento é verificar se o artefato produzido [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) possuem os itens e o padrão exigidos para tais.
 
 ## Metodologia
 
@@ -76,9 +76,71 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: 
     - Comentário: 
 
-**Tabela para avaliação de cada Caso de Uso feito pelos integrantes**
+
 
 ## **Resultado da avaliação de cada Caso de Uso feito pelos integrantes**
+
+
+## **UC01 - Fazer Login**
+
+<p align="center" > <strong> Tabela 2 - </strong>Especificação do Caso de uso</font></p>
+
+|ID|Descrição|Avaliação|Referência|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|10|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+|11|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024</p></font>
+
+## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/modelagem/casos_de_uso.md).
+
+- ID 10: A especificação do caso de uso possui Rastreabilidade?
+    - Avaliação: Não;
+    - Comentário: O cartão de especificação não possui rastreabilidade, então não é possível saber de qual parte da elicitação surgiu a funcionalidade.
+
+
+## **UC02 - Validação Credenciais**
+
+<p align="center" > <strong> Tabela 2 - </strong>Especificação do Caso de uso</font></p>
+
+|ID|Descrição|Avaliação|Referência|
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|01|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|02|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|03|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|04|A especificação do caso de uso possui Atores ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|05|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|06|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|07|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|08|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|09|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|10|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+|11|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024</p></font>
+
+## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/modelagem/casos_de_uso.md).
+
+- ID 10: A especificação do caso de uso possui Rastreabilidade?
+    - Avaliação: Não;
+    - Comentário: O cartão de especificação não possui rastreabilidade, então não é possível saber de qual parte da elicitação surgiu a funcionalidade.
+
+
 
 ### **UC03 - Emitir Erro de Login**
 
