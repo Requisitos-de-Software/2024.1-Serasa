@@ -19,10 +19,10 @@ Abaixo será apresentada os resultados do checklist e logo após as observaçõe
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-| **1** | Caso um cliente tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? |  | <a href="#ref2">2</a>. pg 142 |
-| **2** | A todos os requisitos priorizados foram atribuidas a uns dos 3 níveis da técnica? |  | <a href="#ref1">1</a>. pg 319 |
-| **3** | REquisitos no quarto quadrante foram declarados como baixa prioridade ou elimindos? |  | <a href="#ref1">1</a>. pg 319 |
-| **4** | Foi executado o passo a passo definido pela técnica?  |  | <a href="#ref1">1</a>. pg 320 |
+| **1** | Caso um cliente tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? | Sim | <a href="#ref2">2</a>. pg 142 |
+| **2** | A todos os requisitos priorizados foram atribuidas a uns dos 3 níveis da técnica? | Sim | <a href="#ref1">1</a>. pg 319 |
+| **3** | REquisitos no quarto quadrante foram declarados como baixa prioridade ou elimindos? | Não | <a href="#ref1">1</a>. pg 319 |
+| **4** | Foi executado o passo a passo definido pela técnica?  | Sim | <a href="#ref1">1</a>. pg 320 |
 
 
 </center>
@@ -33,9 +33,9 @@ Abaixo será apresentada os resultados do checklist e logo após as observaçõe
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03 - REquisitos no quarto quadrante foram declarados como baixa prioridade ou elimindos? 
+    - Não
+    - Não tem o quarto quadrante
 
 ## Bibliografia
 
