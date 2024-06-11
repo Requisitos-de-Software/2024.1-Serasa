@@ -64,11 +64,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
-
-- ID xx: Descrição
-    - Avaliação: OK
-    - Comentário: Não possui nenhum problema 
+- Comentário: Não possui nenhum problema 
 
 ### **NFR04- Desempenho (Performance)**
 
