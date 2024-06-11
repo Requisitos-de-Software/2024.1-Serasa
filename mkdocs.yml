@@ -60,15 +60,13 @@ nav:
       - Modelagem:
         - Cenários: verificacao/grupo+1/modelagem/cenarios.md
         - Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
-        - Validação dos Casos de Uso: verificacao/grupo+1/template.md
+        - Validação dos Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
         - Especificação Suplementar: verificacao/grupo+1/modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo+1/modelagem/Léxicos.md
         - Ágil:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
-    - Grupo:
-      - Divisão de Tarefas: verificacao/grupo/template.md
       
 extra_css:
   - stylesheets/extra.css
