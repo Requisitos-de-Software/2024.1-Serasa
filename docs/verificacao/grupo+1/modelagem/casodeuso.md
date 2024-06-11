@@ -53,7 +53,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID|Descrição|Avaliação|Referência|
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-<<<<<<< HEAD
 |01|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |02|A especificação do caso de uso possui Nome ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |03|A especificação do caso de uso possui Descrição ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
@@ -65,19 +64,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |09|A especificação do caso de uso possui Fluxo de Exceção ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |10|A especificação do caso de uso possui Rastrabilidade ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
 |11|Possui especificação do caso de uso ? | A | <a id="anchor_1" href="#REF1">^1^</a> |
-=======
-|01|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|02|A especificação do caso de uso possui Nome ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|03|A especificação do caso de uso possui Descrição ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|04|A especificação do caso de uso possui Atores ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|05|A especificação do caso de uso possui Pré-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|06|A especificação do caso de uso possui Pós-Condição ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|07|A especificação do caso de uso possui Fluxo Principal ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|08|A especificação do caso de uso possui Fluxo Alternativo ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|09|A especificação do caso de uso possui Fluxo de Exceção ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|10|A especificação do caso de uso possui Rastreabilidade ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
-|11|Possui especificação do caso de uso ? <a id="anchor_1" href="#REF1">^1^</a>| A | O |
->>>>>>> a5876fa (add cases 05 and 06)
+
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
@@ -133,7 +120,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024</p></font>
 
-### UC11 - Solicitar Prova de Vida
+### UC11 - **Solicitar Prova de Vida**
 
 <p align="center" > <strong> Tabela 12 - </strong>Especificação do Caso de uso - Solicitar Prova de Vida</font></p>
 
@@ -158,7 +145,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - Não foram encontrados problemas para a "UC11 - Solicitar Prova de Vida", todos os tópicos foram bem elaborados.
 
-### UC12 - Ver Histórico de Prova de Vida
+### UC12 - **Ver Histórico de Prova de Vida**
 
 <p align="center" > <strong> Tabela 13 - </strong>Especificação do Caso de uso - Ver Histórico de Prova de Vida</font></p>
 
