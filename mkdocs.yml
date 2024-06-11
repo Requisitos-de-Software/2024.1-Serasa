@@ -46,6 +46,28 @@ nav:
       - Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
       - NFR Framework: modelagem/agil/nfr-framework.md
+  - Verificação:
+    - Grupo + 1:
+      - Elicitação:
+        - Personas: verificacao/grupo+1/elicitacao/personas.md
+        - Elicitação:
+          - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
+          - Storytelling: verificacao/grupo+1/elicitacao/storytelling.md 
+          - Brainstorming: verificacao/grupo+1/elicitacao/brainstorming.md           
+        - Priorização:
+          - First Things First: verificacao/grupo+1/elicitacao/firstThingsFirst.md
+          - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
+          - Three Level Scale: verificacao/grupo+1/elicitacao/threelevelscale.md
+      - Modelagem:
+        - Cenários: verificacao/grupo+1/modelagem/cenarios.md
+        - Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
+        - Validação dos Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
+        - Especificação Suplementar: verificacao/grupo+1/modelagem/especificacao_suplementar.md
+        - Léxicos: verificacao/grupo+1/modelagem/Léxicos.md
+        - Ágil:
+          - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
+          - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
+          - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
       
 extra_css:
   - stylesheets/extra.css
