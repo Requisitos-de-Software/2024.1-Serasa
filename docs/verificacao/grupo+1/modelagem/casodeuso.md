@@ -307,7 +307,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |**08**|A especificação do caso de uso possui Fluxo Alternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |**10**|A especificação do caso de uso possui Rastrabilidade ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|11|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
