@@ -16,10 +16,11 @@ Abaixo temos a realização em video e tabela 1 da verificação.
 <font size="2"><p style="text-align: center">Tabela 1 - Check list preenchido.</p></font>
 
 <center>
+
 | ID | Descrição | Avaliação | Observações |
 | --- | --- | --- | --- |
 | **1** | Priorização Inicial: Verificar se a priorização inicial das histórias de usuário foi realizada, distinguindo entre o que deve ser incluído nas primeiras iterações e o que pode esperar. | Sim |   |
-| **2** | Urgência e Importância: Avaliar se as necessidades urgentes e importantes, como os relatórios exigidos pelo departamento de saúde e segurança, foram identificadas e priorizadas. | Não se aplica | Este ponto não se por ser um projeto acadêmico independente sobre um software governamental já implementado. |
+| **2** | Urgência e Importância: Avaliar se as necessidades urgentes e importantes, como os relatórios exigidos pelo departamento de saúde e segurança, foram identificadas e priorizadas. | Não se aplica | Este ponto não se aplica por ser um projeto acadêmico independente sobre um software governamental já implementado. |
 | **3** | Funcionalidade Imediata: Checar se funcionalidades que oferecem valor imediato, como a função de busca no catálogo online, estão planejadas para desenvolvimento inicial. | Sim |   |
 | **4** | Consenso dos Stakeholders: Confirmar se houve um esforço para alcançar um consenso entre os stakeholders sobre quais funcionalidades implementar primeiro. | Sim |   |
 | **5** | Benefício Relativo: Verifique se cada requisito foi avaliado corretamente em termos de benefício relativo para o cliente ou negócio numa escala de 1 a 9. | Sim |   |
@@ -61,7 +62,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - ID 2: Urgência e Importância
     - Avaliação: Não se aplica
-    - Comentário: Este ponto não se por ser um projeto acadêmico independente sobre um software governamental já implementado.
+    - Comentário: Este ponto não se aplica por ser um projeto acadêmico independente sobre um software governamental já implementado.
 
 ## Bibliografia
 
