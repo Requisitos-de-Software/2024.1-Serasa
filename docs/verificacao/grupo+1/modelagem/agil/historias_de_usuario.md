@@ -29,14 +29,28 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+## HSU11 - Visualizar Notificações de Pagamento
+
+<font size="2"><p style="text-align: center">Tabela x - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- Não foram encontrados problemas para a "HSU11 - Visualizar Notificações de Pagamento", todos os tópicos foram bem elaborados.
 
 ## Bibliografia
 
