@@ -16,7 +16,7 @@ Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos 
 
 Abaixo, na tabela 1, está apresentado o checklist para os cenários e logo após as observações dos itens com resultado negativo. A aplicação do checklist para cenário está nas tabelas de 2 a 8.
 
-### Checklist Requisitos Elicitados
+### Checklist dos Cenários
 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
@@ -207,31 +207,42 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 ## Cenário 6: Consulta do Histórico de Login no Aplicativo gov.br
 
+Abaixo temos a realização em video e tabela 7 da verificação. 
 
 <font size="2"><p style="text-align: center">Tabela 7 - Checklist com perguntas para o Cenário 6: Consulta do Histórico de Login no Aplicativo.</p></font>
 
+| ID | Descrição | Avaliação | Referência |
+| --- | --- | --- | --- |
+| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | [REF1](#ref1). pg 49 |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim | [REF1](#ref1). pg 49 |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Incompleto | [REF1](#ref1). pg 49 |
+| 4 | As características pessoais dos atores são relevantes ao cenário? | Não | [REF2](#ref2). pg 172 |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Incompleto | [REF1](#ref1). pg 49 |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Incompleto | [REF1](#ref1). pg 50 |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). pg 50 |
+| 8 | O título do cenário é autoexplicativo? | Sim | [REF1](#ref1). pg 49 |
 
-|ID| Descrição | Avaliação | Referência|
-|:--:|:--:|:--:|:--:|
-|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |
-|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 |
-|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O1t62XdtbFs?si=kvsUhfPEOm_qm7bW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+- ID 3: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: Imcompleto
+    - Comentário: Não é imformado o local (físico) e o tempo.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 4: As características pessoais dos atores são relevantes ao cenário?
+    - Avaliação: Não
+    - Comentário: não há caracteristicas dos atores.
+
+- ID 5: Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis?
+    - Avaliação: Incompleto
+    - Comentário: Não ha participação de outros atores.
+
+- ID 6: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Incompleto
+    - Comentário: Olhando os artefato de léxicos se ver a utilização porem não há hiperlinks pros mesmos.
 
 
 ## Cenário 7: Consulta dos Termos de Uso do Aplicativo gov.br
@@ -269,11 +280,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 - ID 06: Os cenários possuem alguma ligação com os léxicos?
     - Avaliação: Não
     - Comentário: O cenário 7 não possui ligação com os léxicos.
-
-
-
-
-
 
 
 ## Bibliografia
