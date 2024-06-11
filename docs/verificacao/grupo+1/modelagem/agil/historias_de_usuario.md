@@ -47,7 +47,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Não foram encontrados problemas na História de Usuário "HSU01 - Consultar Documentos", de acordo com o Checklist.
 
@@ -70,7 +70,7 @@ Não foram encontrados problemas na História de Usuário "HSU01 - Consultar Doc
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Não foram encontrados problemas na História de Usuário "HSU02 - Upload de Documentos", de acordo com o Checklist.
 
@@ -92,7 +92,7 @@ Não foram encontrados problemas na História de Usuário "HSU02 - Upload de Doc
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
@@ -120,7 +120,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Não foram encontrados problemas na História de Usuário "HSU05 - Renovação de Documentos", de acordo com o Checklist.
 
@@ -142,7 +142,7 @@ Não foram encontrados problemas na História de Usuário "HSU05 - Renovação d
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Não foram encontrados problemas na História de Usuário "HSU06 - Listar Documentos", de acordo com o Checklist.
 
@@ -164,7 +164,7 @@ Não foram encontrados problemas na História de Usuário "HSU06 - Listar Docume
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
@@ -189,15 +189,36 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
 - Não foram encontrados problemas para a "HSU11 - Visualizar Notificações de Pagamento", todos os tópicos foram bem elaborados.
 
-## HSU12 - Upload de Documentos	
+## HSU12 - Responder Pesquisas de Satisfação
 
-<font size="2"><p style="text-align: center">Tabela 3 - Checklist para História de Usuário - Upload de Documentos</p></font>
+<font size="2"><p style="text-align: center">Tabela 12 - Checklist para História de Usuário - Responder Pesquisas de Satisfação </p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
+| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
+| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
+
+### Problemas Encontrados
+
+Não foram encontrados problemas para a [HSU12 - Responder Pesquisas de Satisfação](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu12-responder-pesquisas-de-satisfa%c3%a7%c3%a3o), todos os tópicos foram bem elaborados.
+
+## HSU13 - Registrar Queixas e Reclamações
+
+<font size="2"><p style="text-align: center">Tabela 13 - Checklist para História de Usuário - Registrar Queixas e Reclamações</p></font>
 
 <center>
 
@@ -208,18 +229,13 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
 | **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
 
-## HSU13 - Upload de Documentos	
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 3 - Checklist para História de Usuário - Upload de Documentos</p></font>
+</center>
 
-<center>
+### Problemas Encontrados
 
-| ID | Descrição | Avaliação | Referência|
-|:--:| --------- | :-------: | :-------: |
-| **1** | Objetivo Claro: Defina o propósito da história para comunicar informações ou ajudar a entender algum aspecto do software. | Sim | <a href="#ref1">1</a>. pg 88 |
-| **2** | Valor para o Cliente: Priorize histórias com base no valor de negócio global do recurso ou função. | Sim  | <a href="#ref1">1</a>. pg 88 |
-| **3** | Detalhamento Adequado: Garanta que a história tenha detalhes suficientes para ser implementada sem ser excessivamente complexa. | Sim | <a href="#ref1">1</a>. pg 88 |
-| **4** | Testes de Aceitação: Inclua critérios específicos que serão usados para verificar se a história atende aos requisitos do cliente. | Sim | <a href="#ref1">1</a>. pg 88 |
+Não foram encontrados problemas para a [HSU13 - Registrar Queixas e Reclamações](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu13-registrar-queixas-e-reclama%c3%a7%c3%b5es), todos os tópicos foram bem elaborados.
 
 ## HSU14 - Login no sistema
 
@@ -238,7 +254,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [GAbriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Nenhum porblema foi encontrado na história HSU14
 
@@ -259,7 +275,7 @@ Nenhum porblema foi encontrado na história HSU14
 
 <font size="2"><p style="text-align: center">Fonte: [GAbriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Nenhum porblema foi encontrado na história HSU15
 
