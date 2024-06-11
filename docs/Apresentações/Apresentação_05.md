@@ -5,10 +5,10 @@ Esta página tem como foco o vídeo de apresentação da etapa 04 do projeto. A 
 
 ## Apresentação
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R85420F1lI?si=uN7ea4v4cL2I6YFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">
-    <a href="">Link para o vídeo</a>
+    <a href="https://www.youtube.com/playlist?list=PLrcIuA8cnvjWa2MmrgmMOkx1FwaqEfR3B">Link para o vídeo</a>
 </p>
 
 ## Integrantes Presentes
@@ -37,4 +37,4 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 ## Histórico de versões
 | Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 | ------ | ---- | ------ | ---------- | ---------- |
-| `1.0` | 10/06/2024 | Documentação da Apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| `1.0` | 10/06/2024 | Documentação da Apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
