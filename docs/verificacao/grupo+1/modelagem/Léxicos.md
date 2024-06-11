@@ -84,25 +84,25 @@ Os léxicos do tipo estado verificados podem ser encontrados [aqui](https://requ
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-| **1** | Todos os léxicos possuem sinônimos, noção, impacto e símbolo |  | <a href="#ref1">1</a>. pg 3 |
-| **2** | Todos os sinônimos tem nos léxicos como um símbolo? | | <a href="#ref1">1</a>. pg 3 |
-| **3** | Temos os três tipos de léxicos (Verbo, Objeto e estado)? | | <a href="#ref1">1</a>. pg 2  |
-| **4** | A noção deixa claro quem é o sujeito? | | <a href="#ref1">1</a>. pg 3 |
-| **5** | O impacto deixa claro e explícito quais os impactos causados pelo agente? | | <a href="#ref1">1</a>. pg 5 |
-| **6** | Os símbolos constituem de forma correta o que é apresentado posteriormente nos léxicos? | | <a href="#ref1">1</a>. pg 7 |
+| **1** | Todos os léxicos possuem sinônimos, noção, impacto e símbolo | Sim | <a href="#ref1">1</a>. pg 3 |
+| **2** | Todos os sinônimos tem nos léxicos como um símbolo? | Não | <a href="#ref1">1</a>. pg 3 |
+| **3** | Temos os três tipos de léxicos (Verbo, Objeto e estado)? | Sim | <a href="#ref1">1</a>. pg 2  |
+| **4** | A noção deixa claro quem é o sujeito? | Sim | <a href="#ref1">1</a>. pg 3 |
+| **5** | O impacto deixa claro e explícito quais os impactos causados pelo agente? | Sim | <a href="#ref1">1</a>. pg 5 |
+| **6** | Os símbolos constituem de forma correta o que é apresentado posteriormente nos léxicos? | Sim | <a href="#ref1">1</a>. pg 7 |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
 ##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 02: Todos os sinônimos tem nos léxicos como um símbolo?
+    - Avaliação: Não
+    - Comentário: Os sinônimos dos léxicos do tipo estado não estão estão presentes como símbolos em outros léxicos.
 
 ## Bibliografia
 
