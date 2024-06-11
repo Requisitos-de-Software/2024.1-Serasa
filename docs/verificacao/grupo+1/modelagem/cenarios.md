@@ -281,6 +281,17 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Não
     - Comentário: O cenário 7 não possui ligação com os léxicos.
 
+## Gravação corrreção 
+
+<Center>
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Correção gravada.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0ZHWkYi1jE?si=Y05IaKuj0qvwy1-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+</center>
 
 ## Bibliografia
 
