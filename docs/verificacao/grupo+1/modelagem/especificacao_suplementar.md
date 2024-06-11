@@ -40,7 +40,7 @@ Dados obtidos na verificação.
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) , 2024.</p></font>
@@ -70,7 +70,7 @@ Dados obtidos na verificação.
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? |-|Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? |-|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? |-|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? |-|FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? |-|FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc) , 2024.</p></font>
@@ -115,7 +115,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? |-|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? |-|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? |-|FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? |-|FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes).</p></font>
@@ -187,7 +187,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: []().</p></font>
@@ -223,7 +223,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? ||Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? ||Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? ||FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: []().</p></font>
@@ -259,7 +259,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 |15| Em suportabilidade os requisitos não funcionais levam em consideração a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade? |-|Requisitos – Aula 13(pgs. 28 - 30)|
 |16| Os requisitos não funcionais apresentados são verificáveis? |-|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
 |17| O documento informa em qual plataforma o sistema opera? |Incompleto|Especificação Suplementar do MINISTÉRIO DA CIÊNCIA(Pgs. 5 - 7)|
-|18| O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos? |Incompleto|FURPS+ - QualidadeBR|
+|18| O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos? |Incompleto|FURPS+ - QualidadeBR|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
@@ -273,7 +273,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
     - Avaliação: Incompleto
     - Comentário: Os requisitos apenas comentam que o aplicativo deve oferecer suporte a múltiplas plataformas e navegadores, mas não exemplifica quais.
 
-- **ID 18:** O documento apresenta outros requitos nã-funcionais como: requistos de design, implementação, interface ou físicos?
+- **ID 18:** O documento apresenta outros requitos não-funcionais como: requistos de design, implementação, interface ou físicos?
     - Avaliação: Incompleto
     - Comentário: O documento exemplifica requisitos de interface, mas os outros exemplos não estão presentes no documento.
 
