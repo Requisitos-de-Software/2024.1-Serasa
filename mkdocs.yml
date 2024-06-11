@@ -49,11 +49,15 @@ nav:
   - Verificação:
     - Grupo + 1:
       - Elicitação:
+        - Perfil de Usuario: verificacao/grupo+1/elicitacao/perfil_do_usuario.md
+        - Termo de Consentimento: verificacao/grupo+1/elicitacao/tdu_persona.md
         - Personas: verificacao/grupo+1/elicitacao/personas.md
         - Elicitação:
+          - Termo de Consentimento: verificacao/grupo+1/elicitacao/tdu_priorizacao.md
           - Análise de Documentos: verificacao/grupo+1/elicitacao/analise-documentos.md
           - Storytelling: verificacao/grupo+1/elicitacao/storytelling.md 
-          - Brainstorming: verificacao/grupo+1/elicitacao/brainstorming.md           
+          - Brainstorming: verificacao/grupo+1/elicitacao/brainstorming.md
+          - Requisitos Elicitados: verificacao/grupo+1/elicitacao/requisitos_elicitados.md          
         - Priorização:
           - First Things First: verificacao/grupo+1/elicitacao/firstThingsFirst.md
           - MoSCoW: verificacao/grupo+1/elicitacao/moscow.md
@@ -61,7 +65,6 @@ nav:
       - Modelagem:
         - Cenários: verificacao/grupo+1/modelagem/cenarios.md
         - Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
-        - Validação dos Casos de Uso: verificacao/grupo+1/modelagem/casodeuso.md
         - Especificação Suplementar: verificacao/grupo+1/modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo+1/modelagem/Léxicos.md
         - Ágil:
