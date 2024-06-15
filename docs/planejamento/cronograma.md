@@ -247,11 +247,24 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 ### Executado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 14</b> - Executado da entrega 6
+    
 </p></font> 
 
 *EM BREVE...*
+<font size="2"><p style="text-align: center;">
+   <b>Tabela 14</b> - Executado da entrega 6
+</p></font> 
 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| :---: | :---: | :---: | :---: | :---: |
+| Ata de Reunião | Início: /06 Fim: /06 | Ricardo | Início: Início: /06 Fim: /06 | Gabriel B. Bertolazi |
+| Rastreabilidade Backward | Início: /06 Fim: /06| Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Rastreabilidade Forward | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravação da Apresentação e Entrega | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correção pós apresentação | Iníci/06/06  <br>Fim: 06/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 
 
