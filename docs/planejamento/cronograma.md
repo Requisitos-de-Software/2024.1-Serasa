@@ -261,6 +261,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Ata de Reunião | Início: /06 Fim: /06 | Ricardo | Início: Início: /06 Fim: /06 | Gabriel B. Bertolazi |
 | Rastreabilidade Backward | Início: /06 Fim: /06| Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Rastreabilidade Forward | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Matriz de rastreabilidade | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Gravação da Apresentação e Entrega | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correção pós apresentação | Iníci/06/06  <br>Fim: 06/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
