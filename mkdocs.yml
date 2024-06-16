@@ -75,7 +75,10 @@ nav:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
-      
+  - Pós-Rastreabilidade:
+    - Backward-From: pos-rastreabilidade/backward-from.md
+  
+
 extra_css:
   - stylesheets/extra.css
 theme:
