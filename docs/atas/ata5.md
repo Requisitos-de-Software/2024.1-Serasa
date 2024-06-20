@@ -37,23 +37,6 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 ## Resultados da reunião
 
 <center>
- 
-<font size="2"><p style="text-align: center">
-    <b>Tabela 2</b> - Divisão de artefatos para a entrega 1
-</p></font>
-
-| Artefato | Responsável Pela Verificação |
-| - | - |
-| Aplicativo Escolhido | Elias |
-| Termo de Uso| Claudio |
-| Ferramentas | Danilo |
-| Cronograma Planejado | Gabriel Bertolazi |
-| Cronograma Executado | Gabriel Fernando |
-| Heatmap | Pablo |
-
-<font size="2"><p style="text-align: center">
-    <b>Fonte:</b> - [Gabriel F. J. Silva][GabrielFGH]
-</p></font>
 
 <font size="2"><p style="text-align: center">
     <b>Tabela 3</b> - Divisão de artefatos para a entrega 2
@@ -61,18 +44,18 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Artefato | Responsável Pela Verificação |
 | - | - |
-| Perfil de Usuário | Ricardo |
-| Termo de Consentimento | Elias |
-| Personas | Claudio |
-| (Elicitação) termo de consentimento | Danilo |
-| (Elicitação) Analise de Documentos | Gabriel Bertolazi |
-| (Elicitação) Brainstorm | Gabriel Fernando |
-| (Elicitação) Storytelling | Pablo |
-| (Elicitação) Requisitos Elicitados | Ricardo |
-| (Priorização) termo de consentimento | Elias |
-| (Priorização) first things first | Claudio |
-| (Priorização) Three Level Scale | Danilo |
-| (Priorização) MoSCoW | Gabriel Bertolazi |
+| Perfil de Usuário | Cláudio |
+| Termo de Consentimento | Danilo |
+| Personas | Elias |
+| (Elicitação) termo de consentimento | Gabriel B |
+| (Elicitação) Analise de Documentos | Gabriel F |
+| (Elicitação) Brainstorm | Pablo |
+| (Elicitação) Storytelling | Ricardo |
+| (Elicitação) Requisitos Elicitados | Cláudio |
+| (Priorização) termo de consentimento | Danilo |
+| (Priorização) first things first | Pablo |
+| (Priorização) Three Level Scale | Gabriel B |
+| (Priorização) MoSCoW | Gabriel F |
 
 <font size="2"><p style="text-align: center">
     <b>Fonte:</b> - [Gabriel F. J. Silva][GabrielFGH]
@@ -84,10 +67,10 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Artefato | Responsável Pela Verificação |
 | - | - |
-| Cenários | Gabriel Fernando |
-| Casos de Uso | Pablo |
-| Especificação Suplementar | Ricardo |
-| Léxicos | Elias |
+| Cenários | Checklist: Claúdio + o resto do grupo avalia | 
+| Casos de Uso | Checklist: Danilo + o resto do grupo avalia |
+| Especificação Suplementar | Checklist: Elias + o resto do grupo avalia |
+| Léxicos | Checklist: Gabriel B + o resto do grupo avalia |
 
 <font size="2"><p style="text-align: center">
     <b>Fonte:</b> - [Gabriel F. J. Silva][GabrielFGH]
@@ -99,9 +82,9 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Artefato | Responsável Pela Verificação |
 | - | - |
-| Backlog | Claudio |
-| Histórias de Usuário | Danilo |
-| NFR Framework | Gabriel Bertolazi |
+| Backlog | Checklist: Gabriel F + o resto do grupo avalia |
+| Histórias de Usuário | Checklist: Pablo + o resto do grupo avalia |
+| NFR Framework | Checklist: Ricardo + o resto do grupo avalia |
 
 <font size="2"><p style="text-align: center">
     <b>Fonte:</b> - [Gabriel F. J. Silva][GabrielFGH]
@@ -122,6 +105,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Gabriel B. Bertolazi][GabrielBGH] |
+|`1.1`| 07/06/2024 | Ajuste em tarefas dos integrantes | [Ricardo Augusto][RicardoGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
