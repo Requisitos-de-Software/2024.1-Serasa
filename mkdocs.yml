@@ -84,6 +84,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - content.tabs.link
   palette:
     - scheme : default
       primary: amber
@@ -98,5 +99,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
 
 
