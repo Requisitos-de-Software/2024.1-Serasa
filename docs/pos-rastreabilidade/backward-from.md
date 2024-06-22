@@ -4,10 +4,48 @@
 
 A rastreabilidade tem como objetivo identificar e conectar requisitos durante a fase de desenvolvimento, juntamente rastreá-los ao longo do ciclo de vida do sistema.
 
-Este documento aborda a aplicação da técnica de rastreabilidade backward-from, que tem por objetivo rastrear as origens de cada requisito elicitado. Essa técnica possibilita simplificar a validação e verificação dos sistemas, contribuindo, assim, para a identificação de possíveis problemas.
+Este documento aborda a aplicação da técnica de rastreabilidade backward-from, que tem por objetivo ligar os requisitos aos artefatos de desenho e implementação (SAYÃO; LEITE, 2005). Essa técnica possibilita simplificar a validação e verificação dos sistemas, contribuindo, assim, para a identificação de possíveis problemas.
 
 ## Metodologia
 
+(apenas requisitos que foram usados, né?) -> definir metamodelo (metamodelo de toranzo + elo de evolução e responsabilidade que são do metamodelo de ramesh) -> informações sendo rastreadas -> elos usados 
+
+Tabelas de 1 a infitio apresentam a rastreabilidade backward-from para os requisitos usados dentro do projeto.
+
+## Rastreabilidade
+
+SUGESTÃO DE COMO FAZER ESSA PORRA
+### Requisitos Funcionais
+
+#### RFX
+
+<font size="2"><p style="text-align: center">Tabela 1 - tabela de elos e relacionamentos do RFX.</p></font>
+
+<Center>
+
+| Tipo de elo | Ligação/Relacionamentos | 
+| ----------- | ----------------------- |
+| *<a href="link pro artefato">RFX</a>* | |
+
+</Center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+### Requisitos Não-Funcionais
+
+#### RNFX
+
+<font size="2"><p style="text-align: center">Tabela X - tabela de elos e relacionamentos do RNFX.</p></font>
+
+<Center>
+
+| Tipo de elo | Ligação/Relacionamentos | 
+| ----------- | ----------------------- |
+| *<a href="link pro artefato">RNFX</a>* | |
+
+</Center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Bibliografia
 
@@ -17,7 +55,7 @@ Este documento aborda a aplicação da técnica de rastreabilidade backward-from
 
 ## Referências Bibliograficas
 
-> 1. 
+> 1. SAYÃO, Miriam; LEITE, Julio. **Rastreabilidade de Requisitos**. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 21 de junho de 2024.
 >
 
 ## Histórico de Versões
