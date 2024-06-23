@@ -8,9 +8,32 @@ Este documento aborda a aplicação da técnica de rastreabilidade backward-from
 
 ## Metodologia
 
+### Classificação das Informações
+
 (apenas requisitos que foram usados, né?) -> definir metamodelo (metamodelo de toranzo + elo de evolução e responsabilidade que são do metamodelo de ramesh) -> informações sendo rastreadas -> elos usados 
 
 Tabelas de 1 a infitio apresentam a rastreabilidade backward-from para os requisitos usados dentro do projeto.
+
+Toranzo (2002) propõe uma classificação que comporta 4 níveis de informação: ambiental, organizacional, gerencial e de desenvolvimento. Esses níveis e suas descrições estão presentes na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Níveis de informação segundo Toranzo..</p></font>
+
+<Center>
+
+| Nível de Informação | Descrição |
+| --- | --- |
+| Ambiental | Compreende conceitos relacionados ao contexto político, econômico e padrões que podem afetar uma organização. Essas informações são expressas em termos de objetivos e regras políticas e econômicas que precisam ser atendidas. |
+| Organizacional | Refere-se aos conceitos que impulsionam o desenvolvimento e crescimento de uma organização. Inclui a compra e uso de sistemas computacionais para agregar valor aos serviços da organização. |
+| Gerencial | Concentra-se no relacionamento entre tarefas e requisitos do sistema, permitindo um melhor acompanhamento e controle dos requisitos. Contribui para o sucesso do projeto e a satisfação dos requisitos. |
+| Desenvolvimento | Representa os elementos/artefatos produzidos nas diferentes atividades do desenvolvimento de software, como documentos de requisitos, diagramas e programas. Esse nível é essencial para o rastreamento de requisitos. |
+
+</Center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+Essa categorização definida por Toranzo tem o intuito de definir quais informações serão identificadas, assim como classificar elas para entender melhor o processo de rastreabilidade. Para o contexto desse trabalho, destaca-se que todas as informações estão presentes dentro do nível de desenvolvimento, visto que todos os artefatos produzidos são documentos de requisitos de software.
+
+### Meta-Modelo para o Rastreamento de Requisitos
 
 ## Rastreabilidade
 
