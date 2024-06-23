@@ -10,7 +10,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que estavam implementadas no aplicativo e passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)) e outras que não estavam implementadas no aplicativo. 
 
-Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato e o seu tipo. Ao final da página, também temos as tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, separados em *tabs* que permitem vizualizar a evolução de versões de cada requisito.
+Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato e o seu tipo. Ao final da página, também temos as Tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, separados em *tabs* que permitem vizualizar a evolução de versões de cada requisito.
 
 Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as datas dessas versões
 
@@ -29,7 +29,7 @@ Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as da
 
 ## Requisitos Elicitados
 
-Legenda para as tabelas:
+Legenda para as Tabelas:
 
 - RF: Requisito Funcional
 - RNF: Requisito Não-Funcional
@@ -51,7 +51,7 @@ Legenda para as tabelas:
 
 ### Recebimento de encomendas
 
-Abaixo, na tabela 3, está os requisitos elicitados para  o Recebimento de encomendas.
+Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de encomendas.
 
 <center>
 
@@ -75,7 +75,7 @@ Abaixo, na tabela 3, está os requisitos elicitados para  o Recebimento de encom
 
 ### Realizar uma pré-postagem
 
-Na tabela 4 está os requisitos elicitados para a funcionalidade de Pré-postagem.
+Na Tabela 4 estão os requisitos elicitados para a funcionalidade de Pré-postagem.
 
 <font size="2"><p style="text-align: center"> <b>Tabela 4</b>: Requisitos elicitados para realizar uma pré-postagem.</p></font>
 
@@ -84,7 +84,7 @@ Na tabela 4 está os requisitos elicitados para a funcionalidade de Pré-postage
 | Pergunta| Respondida | Requisito elicitado | ID | Tipo |
 |--|--|--|--|--|
 | O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD09 | RF |
-| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD10 | RF |
+| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | AD10 | RF |
 | O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF |
 | O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD12 | RF |
 | O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | AD13 | RNF |
@@ -97,7 +97,7 @@ Na tabela 4 está os requisitos elicitados para a funcionalidade de Pré-postage
 
 ### Busca por documentos perdidos
 
-Na tabela 5 está os requisitos elicitados para a funcionalidade de Busca por documentos perdidos.
+Na Tabela 5 estão os requisitos elicitados para a funcionalidade de Busca por documentos perdidos.
 
 
 <font size="2"><p style="text-align: center"><b>Tabela 5</b>: Requisitos elicitados para a Busca por documentos perdidos. </p></font>
@@ -115,7 +115,7 @@ Na tabela 5 está os requisitos elicitados para a funcionalidade de Busca por do
 
 ### Minhas importações
 
-Na tabela 6 está os requisitos elicitados para a funcionalidade de Minhas Importações.
+Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Importações.
 
 
 <font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
@@ -144,7 +144,7 @@ Na tabela 6 está os requisitos elicitados para a funcionalidade de Minhas Impor
 
 ### Loja Online
 
-Na tabela 7 estão os requisitos elicitados para a loja online dos correios.
+Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
 
 <font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
@@ -165,7 +165,7 @@ Na tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
 ### Requisitos Funcionais
 
-Na tabela 8, estão especificados os Requisitos Funcionais e se estão implementados no aplicativo, é possível ver a evolução dos requisitos por meio das *tabs* que representam diferentes versões.
+Na Tabela 8, estão especificados os Requisitos Funcionais e se estão implementados no aplicativo, é possível ver a evolução dos requisitos por meio das *tabs* que representam diferentes versões.
 
 
 === "`1.0`"
@@ -193,7 +193,7 @@ Na tabela 8, estão especificados os Requisitos Funcionais e se estão implement
 
 ### Requisitos Não-Funcionais
 
-Abaixo, na tabela 9, estão especificados os Requisitos Não-funcionais e se estão implementados ou não. É possível ver a evolução dos requisitos por meio das *tabs* que representam diferentes versões..
+Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se estão implementados ou não. É possível ver a evolução dos requisitos por meio das *tabs* que representam diferentes versões..
 
 === "`1.0`"
 
