@@ -234,9 +234,9 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <center>
 
-    | ID | Descrição    | Código | Implementado |
-    | ----------- | --------------- | :------: | :------: |
-    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
+    | ID | Descrição    | Código | Implementado | Versão |
+    | ----------- | --------------- | :------: | :------: |:----:|
+    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim | 
     | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
     | BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não |
     | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não |
@@ -244,12 +244,12 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
     | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
     | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
     | BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	 | RF08   | Não |
-    | BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
-    | BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
-    | BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
+    | BS09 | O usuário deve receber notificações push pelo aplicativo		  | RF09   | Sim |
+    | BS10 | O usuário deve receber notificações SMS		  | RF10   | Sim |
+    | BS11 | O usuário deve receber notificações pelo Whatsapp		  | RF11   | Não |
     | BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			  | RF12   | Não |
     | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não |
-    | BS14 | O usuário deve poder receber o status pelo WhatsApp(Ambiguo BS11)		  | RF14   | Não |
+    | BS14 | O usuário deve poder receber o status da encomenda pelo WhatsApp(Ambiguo BS11)		  | RF14   | Não |`1.1`|
     | BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não |
     | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
     | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
@@ -273,8 +273,8 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <center>
 
-    | ID | Descrição    | Código | Implementado |
-    | -------------- | --------------- | :------: | :------: |
+    | ID | Descrição    | Código | Implementado | Versão |
+    | -------------- | --------------- | :------: | :------: |:---:|
     | BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
     | BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
     | BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
