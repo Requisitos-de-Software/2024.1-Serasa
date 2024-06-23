@@ -187,7 +187,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados e com suas respectivas versões.
 
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais Atualizados.</p></font>
 
 <center>
 
@@ -233,90 +233,85 @@ Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados 
     - RNFx: Requisito Não-Funcional nºx
     - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-    <font size="3"><p style="text-align: center">Tabela 2: Requisitos Não Funcionais.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
 
     <center>
 
     | ID | Descrição    | Código | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
-    | BS14 | O usuário deve poder receber o status pelo WhatsApp		  | RF14   | Não | `1.0` |
-    | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app | RF16   | Não | `1.0` |
+    | BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não | `1.0` |
+    | BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não | `1.0` |
+    | BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim | `1.0` |
+    | BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |`1.0` |
+    | BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |`1.0` |
+    |  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |`1.0` |
+    |  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |`1.0` |
+    |  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |`1.0` |
+    |  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |`1.0` |
+    |  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |`1.0` |
+    |  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |`1.0` |
+    |  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |`1.0` |
+    |  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |`1.0` |
 
 
-=== "1.1"
+
+=== "2.0"
     
     Legenda Requisitos das tabelas:
 
     - RNFx: Requisito Não-Funcional nºx
     - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-    <font size="3"><p style="text-align: center">Tabela 2: Requisitos Não Funcionais.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
 
     <center>
 
     | ID | Descrição    | Código | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
-    | BS14 | O usuário deve poder receber o status da encomenda pelo WhatsApp  | RF14   | Não |`1.1`|
-    | BS16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | RF16   | Não | `1.1` |
+    | BS25 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | RNF01 | Não | `2.0` |
+    | BS26 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | RNF02 | Não | `2.0` |
+    | BS27 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código   | RNF03 | Sim |  `2.0` |
+    | BS28 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | RNF04 | Não | `2.0` |
+    | BS29 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt)| RNF05 | Não | `2.0` |
+    |  BS30 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega| RNF06 | Não | `2.0` |
+    |  BS31 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | RNF07 | Não | `2.0` |
+    |  BS32 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | RNF10| Não | `2.0` |
+    |  BS33 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | RNF11 | Não | `2.0` |
+    |  BS34 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques  | RNF12 | Não | `2.0` |
+    |  BS35 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status. | RNF13 | Não | `2.0` |
+    |  BS36 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | RNF14 | Não | `2.0` |
+    |  BS37 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF15 | Sim | `2.0` |
 
 
-<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
-
-<center>
-
-| ID | Descrição    | Código | Implementado |
-| -------------- | --------------- | :------: | :------: |
-| BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
-| BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
-| BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
-| BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |
-| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |
-|  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |
-|  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |
-|  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |
-|  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |
-|  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |
-|  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |
-|  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |
-|  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+Abaixo, na tabela 5, estão todo os requisitos não funcionais elicitados atualizados e com suas respectivas versões.
 
 
-
-
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
-
-<!-- ****************************        Tabela 2        ****************************** -->
-
-<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 5 : Requisitos Não Funcionais Atualizados.</p></font>
 
 <center>
 
 | ID | Descrição    | Código | Implementado | Versão |
-| -------------- | --------------- | :------: | :------: |:---:|
-| BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não | `1.0` |
-| BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não | `1.0` |
-| BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim | `1.0` |
-| BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não | `1.0` |
-| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não | `1.0` |
-|  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não | `1.0` |
-|  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não | `1.0` |
-|  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não | `1.0` |
-|  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não | `1.0` |
-|  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não | `1.0` |
-|  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não | `1.0` |
-|  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não | `1.0` |
-|  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim | `1.0` |
+| ----------- | --------------- | :------: | :------: |:----:|
+| BS25 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | RNF01 | Não | `2.0` |
+| BS26 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | RNF02 | Não | `2.0` |
+| BS27 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código   | RNF03 | Sim |  `2.0` |
+| BS28 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | RNF04 | Não | `2.0` |
+| BS29 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt)| RNF05 | Não | `2.0` |
+|  BS30 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega| RNF06 | Não | `2.0` |
+|  BS31 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | RNF07 | Não | `2.0` |
+|  BS32 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | RNF10| Não | `2.0` |
+|  BS33 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | RNF11 | Não | `2.0` |
+|  BS34 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques  | RNF12 | Não | `2.0` |
+|  BS35 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status. | RNF13 | Não | `2.0` |
+|  BS36 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | RNF14 | Não | `2.0` |
+|  BS37 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF15 | Sim | `2.0` |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
 
 ## Reuniões
