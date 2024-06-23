@@ -1,11 +1,11 @@
 ## Introdução
 
-O termo Brainstorm, traduzido do inglês significa "Chuva de ideias", e na elicitação de requisitos podemos realizar um brainstorming das necessidades e desejos do usuário, com os participantes alçando ideias e opniões de maneira livre entorno de um tema que é colocado.É possível utilizar esta técnica em qualquer tipo de serviço ou produto, tendo como objetivo catalogar quais aspectos e ações os usuários anseiam que o aplicativo possua.Essa técnica é utilizada dessa forma e normalmente apresenta mais resultados quando executada na fase de conceituação do desenvolvimento do aplicativo.
+O termo Brainstorm, traduzido do inglês significa "Chuva de ideias", e na elicitação de requisitos podemos realizar um brainstorming das necessidades e desejos do usuário, com os participantes alçando ideias e opiniões de maneira livre em torno de um tema que é colocado. É possível utilizar esta técnica em qualquer tipo de serviço ou produto, tendo como objetivo catalogar quais aspectos e ações os usuários anseiam que o aplicativo possua. Essa técnica é utilizada dessa forma e normalmente apresenta mais resultados quando executada na fase de conceituação do desenvolvimento do aplicativo.
 
 
 ## Metodologia
 
-Os participantes informados na tabela 1 logo abaixo, se reuniram de maneira remota através da plataforma do Teams e do Google Meet,mas de maneira separada em 4 reuniões diferentes que estão upadas no youtube e a disposição a todos no final deste documento.Nós documentamos todas as reuniões contendo os temas colocados e respostas dos participantes.Elegemos um membro da equipe para ser o moderador da conversa mantendo o foco e consistência da reunião centrados no nosso objetivo, e outro para ficar a cargo de fazer a documentação e anotações sobre os dados coletados.Foram apresentados temas e perguntas relacionados ao aplicativo para os usuários que responderam as perguntas e passaram as suas ideias e opniões sobre as características e detalhes específicos do aplicativo,após as reuniões utilizamos todas as informações coletadas e documentadas para elicitar os requisitos funcionais e não funcionais, que estão presentes respectivamente nas tabelas 02 e 03.
+Os participantes informados na tabela 1, logo abaixo, se reuniram de maneira remota através da plataforma do Teams e do Google Meet, mas de maneira separada em 4 reuniões diferentes que estão disponíveis no Youtube e no final deste documento. Nós documentamos todas as reuniões contendo os temas colocados e respostas dos participantes. Elegemos um membro da equipe para ser o moderador da conversa, mantendo o foco e consistência da reunião centrados no nosso objetivo, e outro para ficar a cargo de fazer a documentação e anotações sobre os dados coletados. Foram apresentados temas e perguntas relacionados ao aplicativo para os usuários que responderam as perguntas e passaram as suas ideias e opiniões sobre as características e detalhes específicos do aplicativo, após as reuniões utilizamos todas as informações coletadas e documentadas para elicitar os requisitos funcionais e não funcionais, que estão presentes respectivamente nas tabelas 03 e 05.
 
 
 ## Participantes
@@ -187,7 +187,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados e com suas respectivas versões.
 
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais Atualizados.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 3: Requisitos Funcionais Atualizados.**</p></font>
 
 <center>
 
@@ -286,7 +286,7 @@ Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados 
 Abaixo, na tabela 5, estão todo os requisitos não funcionais elicitados atualizados e com suas respectivas versões.
 
 
-<font size="3"><p style="text-align: center">Tabela 5 : Requisitos Não Funcionais Atualizados.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 5 : Requisitos Não Funcionais Atualizados.**</p></font>
 
 <center>
 
