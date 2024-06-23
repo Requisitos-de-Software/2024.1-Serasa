@@ -101,4 +101,8 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
 
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
