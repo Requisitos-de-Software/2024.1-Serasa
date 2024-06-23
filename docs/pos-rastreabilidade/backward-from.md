@@ -4,7 +4,7 @@
 
 A rastreabilidade tem como objetivo identificar e conectar requisitos durante a fase de desenvolvimento, juntamente rastreá-los ao longo do ciclo de vida do sistema.
 
-Este documento aborda a aplicação da técnica de rastreabilidade backward-from, que tem por objetivo ligar os requisitos aos artefatos de desenho e implementação (SAYÃO; LEITE, 2005). Essa técnica possibilita simplificar a validação e verificação dos sistemas, contribuindo, assim, para a identificação de possíveis problemas.
+Este documento aborda a aplicação da técnica de rastreabilidade backward-from, que tem por objetivo ligar os requisitos às suas fontes (SAYÃO; LEITE, 2005). Essa técnica possibilita simplificar a validação e verificação dos sistemas, contribuindo, assim, para a identificação de possíveis problemas.
 
 ## Metodologia
 
@@ -16,6 +16,15 @@ Tabelas de 1 a infitio apresentam a rastreabilidade backward-from para os requis
 
 SUGESTÃO DE COMO FAZER ESSA PORRA
 ### Requisitos Funcionais
+
+Legendas:
+
+> - RFx: Requisito Funcional n°X.
+> - RNFx: Requisito Não Funcional n°X 
+> - AD: Análise Documental
+> - BS: Brainstorm 
+> - OBS: Observação
+> - Q: Questionário
 
 #### RFX
 
