@@ -10,7 +10,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que estavam implementadas no aplicativo e passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)) e outras que não estavam implementadas no aplicativo. 
 
-Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato e o seu tipo. Ao final da página, também temos as Tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, separados em *tabs* que permitem vizualizar a evolução de versões de cada requisito.
+Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato,o seu tipo e a atual versão. Ao final da página, também temos as Tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, separados em *tabs* que permitem vizualizar a evolução de versões de cada requisito.
 
 Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as datas dessas versões
 
@@ -59,15 +59,15 @@ Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de enco
 
 | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
 |--|--|--|--|--|
-| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | AD01 | RF |
-| Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 | RNF |
-| O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 | RF |
-| A opção de locker é útil? | Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 | RF |
-| É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar local de de rebimento da encomenda, antes que a mesma tenha sido enviada. | AD05 | RF |
-| Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 | RF |
-| O tempo de resposta nessa área é bom? | Não |   |   |   |
-| Essa funcionalidade já existe no site, sua interface é útil? | Sim | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | AD07 | RNF |
-| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser aparente na página principal. | AD08 | RNF |
+| Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | AD01 | RF | `1.0` | 
+| Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 | RNF | `1.1` |
+| O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 | RF | `1.0` |
+| A opção de locker é útil? | Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 | RF | `1.0` |
+| É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar local de de rebimento da encomenda, antes que a mesma tenha sido enviada. | AD05 | RF | `1.1` |
+| Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 | RF | `1.0` |
+| O tempo de resposta nessa área é bom? | Não |   |   |   | `1.0` |
+| Essa funcionalidade já existe no site, sua interface é útil? | Sim | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | AD07 | RNF | `1.1` |
+| É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser aparente na página principal. | AD08 | RNF | `1.1` |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 
@@ -83,12 +83,12 @@ Na Tabela 4 estão os requisitos elicitados para a funcionalidade de Pré-postag
 
 | Pergunta| Respondida | Requisito elicitado | ID | Tipo |
 |--|--|--|--|--|
-| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD09 | RF |
-| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | AD10 | RF |
-| O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF |
-| O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD12 | RF |
-| O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | AD13 | RNF |
-| O aplicativo agiliza o processo de realizar pagamento com cartão de crédito?  | Sim | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | AD14 | RF |
+| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD09 | RF | `1.0` |
+| O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | AD10 | RF | `1.0` |
+| O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF | `1.0` |
+| O usuário é capaz de escolher endereços pré-cadastrados para os campoos de remetente e destinatário? | Não | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | AD12 | RF | `1.0` |
+| O aplicativo protege o usuário em operações criticas como exclusão de itens?  | Sim | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | AD13 | RNF | `1.0` |
+| O aplicativo agiliza o processo de realizar pagamento com cartão de crédito?  | Sim | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | AD14 | RF | `1.0` |
 
 </center>
 
@@ -106,7 +106,7 @@ Na Tabela 5 estão os requisitos elicitados para a funcionalidade de Busca por d
 
 | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
 |--|--|--|--|--|
-| O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD15 | RF |
+| O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD15 | RF | `1.0` |
 
 </center>
 
@@ -124,18 +124,18 @@ Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Impo
 
 | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
 |----------|------------|---------------------|----|--------|
-| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD16 | RF |
-| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF |
-| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF |
-| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD19 | RF |
-| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD20 | RF |
-| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD21 | RF |
-| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD22 | RF |
-| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD23 | RF |
-| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD24 | RF |
-| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD25 | RNF |
-| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD26 | RNF |
-| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD27 | RNF |
+| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD16 | RF | `1.0` |
+| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF | `1.0` |
+| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF | `1.0` |
+| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD19 | RF | `1.0` |
+| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD20 | RF | `1.0` |
+| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD21 | RF | `1.0` |
+| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD22 | RF | `1.0` |
+| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD23 | RF | `1.0` |
+| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD24 | RF | `1.0` |
+| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD25 | RNF | `1.0` |
+| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD26 | RNF | `1.0` |
+| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD27 | RNF | `1.0` |
 
 </center>
 
@@ -190,13 +190,13 @@ Na Tabela 8, estão especificados os Requisitos Funcionais e se estão implement
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **AD01** | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | RF | Não |
-    | **AD03** | O usuário deve ser notificado quando o recebimeto for efetuado. | RF | Não |
-    | **AD04** | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | RF | Não |
-    | **AD05** | O usuário deve poder mudar local de de rebimento da encomenda | RF | Não |
-    | **AD06** | O usuário pode optar por retirar em uma agência ou caixa postal | RF | Não |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | **AD01** | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes da sua encomenda for enviada. | RF | Não | `1.0` |
+    | **AD03** | O usuário deve ser notificado quando o recebimeto for efetuado. | RF | Não | `1.0` |
+    | **AD04** | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | RF | Não | `1.0` |
+    | **AD05** | O usuário deve poder mudar local de de rebimento da encomenda | RF | Não | `1.0` |
+    | **AD06** | O usuário pode optar por retirar em uma agência ou caixa postal | RF | Não | `1.0` |
 
     </center>
 
@@ -206,10 +206,10 @@ Na Tabela 8, estão especificados os Requisitos Funcionais e se estão implement
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **AD01** | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | RF | Não |
-    | **AD05** | O usuário deve poder mudar local de de rebimento da encomenda, antes que a mesma tenha sido enviada. | RF | Não |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | **AD01** | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | RF | Não | `1.1` |
+    | **AD05** | O usuário deve poder mudar local de de rebimento da encomenda, antes que a mesma tenha sido enviada. | RF | Não | `1.1` |
 
     </center>
 
@@ -225,11 +225,11 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **AD02** | O usuário deve poder escolher o método de recebimento em até 3 cliques desde iniciar a ação. | RNF | Não |
-    | **AD07** | A interface deve ser intuitiva para fácil realização do procedimento. | RNF | Não |
-    | **AD08** | A funcionalidade deve ser de fácil acesso, pela página principal. | RNF | Não |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | **AD02** | O usuário deve poder escolher o método de recebimento em até 3 cliques desde iniciar a ação. | RNF | Não | `1.0` |
+    | **AD07** | A interface deve ser intuitiva para fácil realização do procedimento. | RNF | Não | `1.0` |
+    | **AD08** | A funcionalidade deve ser de fácil acesso, pela página principal. | RNF | Não | `1.0` |
 
     </center>
 
@@ -240,11 +240,11 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **AD02** | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | RNF | Não |
-    | **AD07** | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | RNF | Não |
-    | **AD08** | A funcionalidade deve ser aparente na página principal. | RNF | Não |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | **AD02** | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | RNF | Não | `1.1` |
+    | **AD07** | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | RNF | Não | `1.1` |
+    | **AD08** | A funcionalidade deve ser aparente na página principal. | RNF | Não | `1.1` |
 
     </center>
 
@@ -272,7 +272,7 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 | `1.1`  | 21/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
-| `1.3`  | 23/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
+| `1.2`  | 23/06/2024 | Correção e versionamentos de requisitos | [Gabriel F. J. Silva][GabrielFGH] |  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
