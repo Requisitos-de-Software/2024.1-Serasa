@@ -155,4 +155,4 @@ Legenda:
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 17/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | [Pablo S. Costa](https://www.github.com/pabloheika) |
-|`1.1`| 23/06/2024 | [Ricardo Augusto](https://www.github.com/avmricardo)| Refatoração dos requisitos não funcionais |  |
+|`1.1`| 23/06/2024 | [Ricardo Augusto](https://www.github.com/avmricardo)| Refatoração dos requisitos não funcionais |  [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
