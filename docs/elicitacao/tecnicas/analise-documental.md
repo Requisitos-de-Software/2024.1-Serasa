@@ -65,7 +65,6 @@ Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de enco
 | A opção de locker é útil? | Sim | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | AD04 | RF | `1.0` |
 | É possível mudar o endereço de entrega de uma encomenda? | Sim | O usuário deve poder mudar local de de rebimento da encomenda, antes que a mesma tenha sido enviada. | AD05 | RF | `1.1` |
 | Existem outras opções sem ser residencial ou locker | Sim | O usuário pode optar por retirar em uma agência ou caixa postal | AD06 | RF | `1.0` |
-| O tempo de resposta nessa área é bom? | Não |   |   |   | `1.0` |
 | Essa funcionalidade já existe no site, sua interface é útil? | Sim | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | AD07 | RNF | `1.1` |
 | É simples achar essa funcionalidade no site? | Sim | A funcionalidade deve ser aparente na página principal. | AD08 | RNF | `1.1` |
 
