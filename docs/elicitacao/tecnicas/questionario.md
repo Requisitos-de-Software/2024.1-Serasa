@@ -145,7 +145,7 @@ Legenda Requisitos das tabelas:
     | ID  | Descrição | Tipo | Implementado | Versão |
     | :-: | --------- | :--: | :----------: | :----: |
     | Q01 | As informçãoes na página de reastreio | RF | Sim | `1.0` |
-    | Q02 | Filtrar o tipo de encomenda pelo tipo de entrega | RF02 | Não | `1.0` |
+    | Q02 | Filtrar o tipo de encomenda pelo tipo de entrega | RF | Não | `1.0` |
     | Q03 | Assistente virtual dos correios | RF | Não | `1.0` |
     | Q04 | Chat para se comunicar diretamente com o fornecedor | RF | Não | `1.0` |
     | Q05 | Chat para se comunicar diretamente com o entregador | RF | Não | `1.0` |
@@ -224,6 +224,14 @@ Dados Pessoais (LGPD)**. Diário Oficial da União, Brasília, DF, 15 ago. 2018.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 17/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi)| [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| `1.0`  | 17/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | `1.1`  | 01/05/2024 | Correção do diagrama do questionário e coluna de implementação dos requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
-| `1.2`  | 23/06/2024 | Correção de requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.2`  | 23/06/2024 | Correção de requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi) |  |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
