@@ -146,21 +146,38 @@ Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Impo
 
 Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
+=== "Antes da Refatoração"
 
-<font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
+    <font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
 
-<center>
+    <center>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-|----------|------------|---------------------|----|--------|
-|O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF|
-|O usuário tem uma boa experiência de utilização da loja online.|Sim|A utilização da loja deveria ser intuitiva e simples, para uma boa interação e experiência do usuário.| AD29 |RF|
-|O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF|
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
+    |----------|------------|---------------------|----|--------|
+    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF|
+    |O usuário tem uma boa experiência de utilização da loja online.|Sim|A utilização da loja deveria ser intuitiva e simples, para uma boa interação e experiência do usuário.| AD29 |RF|
+    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF|
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
 
+=== "Depois da Refatoração"
+
+    <font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
+
+    <center>
+
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
+    |----------|------------|---------------------|----|--------|
+    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF|
+    | O usuário possui uma opção para filtragem dos itens? | Não | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única.| AD29 |RF|
+    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF|
+    | O usuário tem uma opção de ordenação dos itens? |Não| O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anceios, como: menor preço, maior preço, maior relevância ou menor. | AD31 |RF|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
 
 
 ### Requisitos Funcionais
