@@ -149,18 +149,36 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restrições de Design** elicitados para o aplicativo "Correios".
 
-<font><p style="text-align: center">**Tabela 5** - Requisitos + Restrições de Design.</p></font>
+=== "`2.0`"
 
-| ID | Descrição | Versão |
-| --- | --- | --- |
-| RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. | `1.0` |
-| RD02 | O app deverá ter uma interface fluída e estável. | `1.0` |
-| RD03 | A visualização de mensagens deve ser rápida e fácil de usar. | `1.0` |
-| RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | `1.0` |
-| RD05 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
-| RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
+    <font><p style="text-align: center">**Tabela 6** - Requisitos + Restrições de Design.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | RD01 | O app deverá mostrar informação de forma clara usando conceitos de minimalismo. | `1.1` |
+    | RD02 | O app deverá ter uma interface fluída, carregando a interfaces internas em menos de 300ms. | `1.1` |
+    | RD03 | A visualização de mensagens deve ser rápida e minimalista, carregando em menos de 300ms. | `1.1` |
+    | RD04 | A visualização de vales postais deve ser protegida com senha e usuário, sendo acessível apenas pelo usuário autorizado | `1.1` |
+    | RD05 | O aplicativo requer uma interface amigável e fácil de usar, seguindo um padrão de estilo pré-estabelecido. | `1.1` |
+    | RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
+    | RD07 | A aplicação precisa ser responsiva se adaptando para diferentes formatos e tamanhos de tela. | `1.1` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 6** - Requisitos + Restrições de Design.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. | `1.0` |
+    | RD02 | O app deverá ter uma interface fluída e estável. | `1.0` |
+    | RD03 | A visualização de mensagens deve ser rápida e fácil de usar. | `1.0` |
+    | RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | `1.0` |
+    | RD05 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+    | RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
