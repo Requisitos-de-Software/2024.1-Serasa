@@ -131,17 +131,34 @@ Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
 
 A seção de Ajuda e Documentação de um aplicativo é composta por uma série de recursos projetados para instruir e informar os usuários acerca da operação, funcionalidades e práticas recomendadas para o uso do aplicativo. Esta parte é essencial para assegurar que os usuários consigam empregar o aplicativo eficientemente, esclarecer incertezas e extrair o máximo proveito de suas capacidades. Na tabela 5 temos os requitos elicitados para tal.
 
-<font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
+=== "`2.0`"
 
-| ID | Descrição | Versão |
-| --- | --- | --- |
-| AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
-| AD02 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?" | `1.0` |
-| AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
-| AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
-| AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
+    <font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | AD01 | O sistema de chat bot com opção de redirecionar a um atendente, deve ser de fácil acesso em menos de 2min. | `1.1` |
+    | AD02 | A  tela de ajuda e pop-up "Precisa de ajuda?", deve ser de fácil acesso em menos de 2min. | `1.1` |
+    | AD03 | Os tutoriais devem cobrir 80% das funções dentro do app. | `1.1` |
+    | AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
+    | AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
+    | AD06 | O app deve ser compatível com os mecanismos de leitura de tela do android e do IOS. | `1.1` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+    | AD02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?" | `1.0` |
+    | AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+    | AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
+    | AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## + Restrições de Design
 
