@@ -165,6 +165,8 @@ Legendas:
 
 ## Elos
 
+### Requisitos Funcionais
+
 <font size="2"><p style="text-align: center">Tabela x - Elos dos Requisitos Funcionais.</p></font>
 
 <center>
@@ -173,18 +175,18 @@ Legendas:
 | - | -| - | - | 
 | RF01 | O usuário deve poder realizar cadastro pelo app |  Satisfação | Este requisito depende de uma base de dados para armazenar as informações do usuário. |
 | RF02 | O usuário deve poder realizar login pelo app |  Satisfação | Depende do cadastro de usuários (RF01) para funcionar. |
-| RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Recurso | Requer um banco de dados que armazena o histórico de notificações. |
+| RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Representação | Esse requisito tem uma relação de representação, pois envolve a visualização de informações específicas. |
 | RF04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Recurso | Necessita integração com funcionalidades de segurança do sistema operacional do dispositivo. |
 | RF05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda |  Recurso | Depende da disponibilidade de hardware (chip de localização) para ser implementado. |
 | RF06 | O usuário deve visualizar a estipulação de prazo de entrega |  Representação | Este requisito pode ser representado por meio de uma interface de usuário detalhando prazos. |
-| RF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações |  Representação | Requer integração com o sistema de logística para obter e mostrar atualizações. |
+| RF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações |  Satisfação | Esse requisito possui relacionamento de satisfação, pois a atualização do prazo é relevante para o usuário. |
 | RF08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Agregação | Faz parte de um conjunto de funcionalidades de suporte ao cliente. |
-| RF09 | O usuário deve receber notificações push pelo aplicativo |  Responsabilidade | Depende da configuração de serviços de notificação push, geralmente responsabilidade do administrador do sistema. |
-| RF10 | O usuário deve receber notificações SMS |  Responsabilidade | Similar ao RF09, mas com foco em serviços de SMS, responsabilizando o administrador de telecomunicações. |
-| RF11 | O usuário deve receber notificações pelo WhatsApp |  Responsabilidade | Depende da integração com a API do WhatsApp e a configuração por parte do administrador de serviços. |
+| RF09 | O usuário deve receber notificações push pelo aplicativo |  Satisfação | Relacionado à satisfação, pois as notificações push são importantes para manter o usuário informado   . |
+| RF10 | O usuário deve receber notificações SMS |  Satisfação | Relacionado à satisfação, pois as notificações push são importantes para manter o usuário informado. |
+| RF11 | O usuário deve receber notificações pelo WhatsApp |  Satisfação | Relacionado à satisfação, pois as notificações via whatsapp são importantes para manter o usuário informado. |
 | RF12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente |  Alocado | Este requisito está alocado ao subsistema de suporte ao cliente. |
 | RF13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento |  Representação | Pode ser representado por meio de vídeos ou textos explicativos na interface do usuário. |
-| RF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp |  Responsabilidade | Similar ao RF11, mas focado em enviar informações de status especificamente. |
+| RF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp |  Satisfação | Seu relacionamento é do tipo satisfação, pois está relacionado com a satisfação do usuário de receber informações. |
 | RF15 | O usuário deve poder aumentar e diminuir a fonte |  Representação | Requer ajustes na interface de usuário para permitir controle de tamanho de fonte. |
 | RF16 | O usuário deve ter a opção de falar com um atendente para obter ajuda |  Alocado | Está alocado ao subsistema de suporte ao cliente. |
 | RF17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) |  Agregação | Parte do subsistema de suporte ao cliente, agregando várias perguntas e respostas. |
@@ -192,7 +194,7 @@ Legendas:
 | RF19 | O usuário deve poder visualizar detalhes da situação do produto |  Recurso | Requer acesso a dados detalhados sobre a encomenda. |
 | RF20 | O usuário deve poder realizar o rastreio por código mais simples |  Representação | Requer uma interface de entrada simplificada para códigos de rastreamento. |
 | RF21 | O usuário deve poder realizar o rastreio por QR Code | Representação | Necessita uma interface que permita a leitura de QR Codes. |
-| RF22 | O usuário deve receber notificação pelo e-mail |  Responsabilidade | Depende de integração com serviços de e-mail e configuração adequada. |
+| RF22 | O usuário deve receber notificação pelo e-mail |  Satisfação | As notificações por e-mail são relevantes para manter o usuário informado. |
 | RF23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Recurso | Requer integração com sistemas de pagamento e bancos. |
 | RF24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Representação | Simulação de envio depende de um subsistema que calcula tarifas e prazos. |
 | RF25 | O aplicativo permite realizar login com sua conta |  Satisfação | Depende da funcionalidade de cadastro de usuário (RF01). |
@@ -206,11 +208,13 @@ Legendas:
 | RF33 | O aplicativo permite visualização de mensagens | Representação | Requer uma interface que exibe mensagens recebidas pelo usuário. |
 | RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
 | RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
-| RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Responsabilidade | Depende de um subsistema específico para gerenciar informações e contatos relacionados a violência contra a mulher. |
+| RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Representação | Está relacionado à representação pois envolve a criação de uma área específica de contato. |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+### Requisitos Não-funcionais
 
 <font size="2"><p style="text-align: center">Tabela x - Elos dos requisitos não funcionais.</p></font>
 
