@@ -11,23 +11,44 @@ O método utilizado para fazer o gerenciamento dos requisitos será utilizando o
 - Gerencial
 - Desenvolvimento
 
-Será utilizada somente a classificação a nível de desenvolvimento, visto que estamos realizando um projeto para a disciplina de Requisitos de software analisando um aplicativo, então será utilizado como base de informações os artefatos produzidos pelo grupo para a estruturação dos requisitos e suas relações com o material analisado. Será utilizado como descrito por Toranzo a criação de elos que irão interligar os requisitos aos artefatos criados pelo grupo. Abaixo temos a classificação dos tipos de elos elencados por Toranzo:
+Será utilizada somente a classificação a nível de desenvolvimento, visto que estamos realizando um projeto para a disciplina de Requisitos de software analisando um aplicativo, então será utilizado somente teremos como base de informações os artefatos produzidos pelo grupo para a estruturação dos requisitos e suas relações com o material analisado. Será utilizado como descrito por Toranzo a criação de elos que irão interligar os requisitos aos artefatos criados pelo grupo. Abaixo temos a classificação dos tipos de elos elencados por Toranzo:
 
-- Satisfação: indica que a classe de origem tem dependência de satisfação com classe de destino; 
+- **Satisfação:** indica que a classe de origem tem dependência de satisfação com classe de destino; 
 
-- Recurso: indica que a classe de origem tem dependência de recurso com classe de destino; 9 
+- **Recurso**: indica que a classe de origem tem dependência de recurso com classe de destino;
 
-- Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos; 
+- **Responsabilidade**: registra a participação, responsabilidade e ação de pessoas sobre artefatos; 
 
-- Representação: captura a representação ou modelagem dos requisitos em outras linguagens; 
+- **Representação**: captura a representação ou modelagem dos requisitos em outras linguagens; 
 
-- Alocado: classe de origem está relacionada à classe de destino, que representa um subsistema; 
+- **Alocado**: classe de origem está relacionada à classe de destino, que representa um subsistema; 
 
-- Agregação: indica composição de elementos.
+- **Agregação**: indica composição de elementos.
+
+Teremos abaixo na tabela 01 a listagem dos requisitos elicitados com a relação de cada artefato produzido pelo grupo, e com suas respectivas siglas para melhormente serem identificados nas tabelas:  
+
+- Legenda:
+    - Personas - PS
+    - Cenários - CN
+    - Léxicos - LX
+    - Casos de uso - CU
+    - Tema - TM
+    - Épico - EP
+    - Histórias de Usuário - HU
+    - NFR Framework - NFR
 
 ## Requisitos
 
+Na tabela 01 abaixo temos os resitos elicitacos e suas ligações com os artefatos que foram produzidos na faze de desenvolvimento.
 
+<font size="2"><p style="text-align: center">Figura 1: Rich Picture versão 1.</p></font>
+<center>
+
+Requisito | Tipo | Implementado | Persona | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework|
+|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
+
+</center>
+<font size="2"><p style="text-align: center"> Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
 
 ## Bibliografia
@@ -38,3 +59,11 @@ Será utilizada somente a classificação a nível de desenvolvimento, visto que
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0`| 23/06/2024 | Criação do Documento | [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) |  |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
