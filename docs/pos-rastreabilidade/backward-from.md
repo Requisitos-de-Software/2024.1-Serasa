@@ -53,8 +53,6 @@ A partir das informações descritas no tópico anterior, Toranzo (2002) define 
 
 ## Rastreabilidade
 
-### Requisitos Funcionais
-
 Legendas:
 
 > - RFx: Requisito Funcional n°X.
@@ -63,6 +61,8 @@ Legendas:
 > - BS: Brainstorm 
 > - OBS: Observação
 > - QS: Questionário
+
+### Requisitos Funcionais
 
 <font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
 
@@ -146,8 +146,8 @@ Legendas:
 
 <Center>
 
-| ID Requisito  | Descrição | Fonte | Implementado | Versão |
-| :-----------: | --------- | :---: | :----------: | :----: |
+| ID  | Descrição | Fonte | Implementado | Versão |
+| :-: | --------- | :---: | :----------: | :----: |
 | RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | [BS25][BSRNF] | Não | `2.0` |
 | RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | [BS26][BSRNF] | Não | `2.0` |
 | RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | [BS27][BSRNF] | Sim | `2.0` |
@@ -202,8 +202,8 @@ Legendas:
 
 <center>
 
-| ID  | Descrição|Tipo de Relacionamento | Descrição do Relacionamento|
-| - | -| - | - | 
+| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
+| ------------ | --------- | :--------------------: | --------------------------- | 
 | RF01 | O usuário deve poder realizar cadastro pelo app |  Satisfação | Este requisito depende de uma base de dados para armazenar as informações do usuário. |
 | RF02 | O usuário deve poder realizar login pelo app |  Satisfação | Depende do cadastro de usuários (RF01) para funcionar. |
 | RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Representação | Esse requisito tem uma relação de representação, pois envolve a visualização de informações específicas. |
@@ -240,6 +240,35 @@ Legendas:
 | RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
 | RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
 | RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Representação | Está relacionado à representação pois envolve a criação de uma área específica de contato. |
+| RF37 | As informações das entregas ativas e completas na página de rastreio |   |   |
+| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega |   |   |
+| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. |   |   |
+| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. |   |   |
+| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. |   |   |
+| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. |   |   |
+| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |   |   |
+| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |   |   |
+| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade |   |   |
+| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. |   |   |
+| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal |   |   |
+| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo |   |   |
+| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem |   |   |
+| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix |   |   |
+| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem |   |   |
+| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros |   |   |
+| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos |   |   |
+| RF54 | O Usuário deve ser capaz de gerenciar suas importações |   |   |
+| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias |   |   |
+| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias |   |   |
+| RF57 | O usuário deve ser capaz de inserir novas importações |   |   |
+| RF58 | O usuário deve ter acesso a meios de pagamento de taxas |   |   |
+| RF59 | O usuário deve ser notificado sobre atualizações de importações |   |   |
+| RF60 | O usuário deve poder contestar taxas e tributações |   |   |
+| RF61 | O Usuário deve ser capaz de emitir comprovante |   |   |
+| RF62 | O usuário deve ser capaz de emitir DIS |   |   |
+| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. |   |   |
+| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. |   |   |
+| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. |   |   |
 
 </center>
 
@@ -251,8 +280,8 @@ Legendas:
 
 <center>
 
-| ID Requisito | Descrição | tipo de Relacionamento | Descrição do relacionamento |
-| --- | --- | --- | --- |
+| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
+| ------------ | --------- | :--------------------: | --------------------------- | 
 | RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Satisfação | Relacionado ao RF04 para garantir segurança em caso de furto |
 | RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Recurso | Relacionado ao RF18 para fornecer atualizações precisas no mapa |
 | RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Recurso | Relacionado ao RF21 para garantir identificação rápida por QR Code |
@@ -286,7 +315,14 @@ Legendas:
 | RNF31 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Recurso | Garantir precisão nas informações de rastreamento |
 | RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Satisfação | Medir satisfação do usuário com o aplicativo em lojas de aplicativos de celulares com sistema Android e IOS. |
 | RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Representação | Facilitar acesso à opção de rastreamento de encomendas |
-| RNF34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do Art. 46 da LGPD) | Responsabilidade | Garantir segurança no chat com o entregador seguindo as especificações da LGPD |
+| RNF34 | O chat com o entregador deve ser protegido de acessos indevidos (de acordo com as especificações de segurança do [Art. 46](#referencias-bibliograficas) da LGPD) por meio de criptografia AES-256 | Responsabilidade | Garantir segurança no chat com o entregador seguindo as especificações da LGPD |
+| RNF35 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. |  |  |  
+| RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. |  |  |  
+| RNF37 | A funcionalidade deve ser aparente na página principal. |  |  |  
+| RNF38 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho |  |  |  
+| RNF39 | As informações devem ser atualizadas em tempo de execução |  |   
+| RNF40 | A liberação das encomendas deve ser automática |  |   | 
+| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente |  |   |  
 
 </center>
 
