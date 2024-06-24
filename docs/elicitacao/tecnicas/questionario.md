@@ -137,22 +137,41 @@ Legenda Requisitos das tabelas:
 
 ### Funcionais
 
-<font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
+=== "`1.0`"
+    <font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
 
-<center>
+    <center>
 
-| ID  | Descrição | Tipo | Implementado | Versão |
-| :-: | --------- | :--: | :----------: | :----: |
-| Q01 | As informçãoes na página de reastreio | RF | Sim | `1.0` |
-| Q02 | Filtrar o tipo de encomenda pelo tipo de entrega | RF02 | Não | `1.0` |
-| Q03 | Assistente virtual dos correios | RF | Não | `1.0` |
-| Q04 | Chat para se comunicar diretamente com o fornecedor | RF | Não | `1.0` |
-| Q05 | Chat para se comunicar diretamente com o entregador | RF | Não | `1.0` |
-| Q06 | Pagamento de tributos e taxas de importação | RF | Não | `1.0` |
+    | ID  | Descrição | Tipo | Implementado | Versão |
+    | :-: | --------- | :--: | :----------: | :----: |
+    | Q01 | As informçãoes na página de reastreio | RF | Sim | `1.0` |
+    | Q02 | Filtrar o tipo de encomenda pelo tipo de entrega | RF02 | Não | `1.0` |
+    | Q03 | Assistente virtual dos correios | RF | Não | `1.0` |
+    | Q04 | Chat para se comunicar diretamente com o fornecedor | RF | Não | `1.0` |
+    | Q05 | Chat para se comunicar diretamente com o entregador | RF | Não | `1.0` |
+    | Q06 | Pagamento de tributos e taxas de importação | RF | Não | `1.0` |
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
+
+=== "`1.1`"
+
+    <font size="2"><p style="text-align: center">Tabela 3 - Requisitos funcionais.</p></font>
+
+    <center>
+
+    | ID  | Descrição | Tipo | Implementado | Versão |
+    | :-: | --------- | :--: | :----------: | :----: |
+    | Q01 | As informçãoes das entregas ativas e completas na página de reastreio | RF | Sim | `1.1` |
+    | Q03 | Assistente virtual dos correios para judar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. | RF | Não | `1.1` |
+    | Q04 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | RF | Não | `1.1` |
+    | Q05 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | RF | Não | `1.1` |
+    | Q06 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | RF | Não | `1.1` |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024 </p></font>
 
 ### Não-funcionais
 
@@ -176,7 +195,7 @@ Legenda Requisitos das tabelas:
 
 === "`1.1`"
 
-    <font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 4 - Requisitos não funcionais.</p></font>
 
     <center>
 
