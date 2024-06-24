@@ -83,9 +83,9 @@ Na tabela 4 está os requisitos elicitados para a funcionalidade de Busca por do
 
 <font size="2"><p><b>Tabela 4</b> - Requisitos elicitados para a Busca por documentos perdidos. </p></font>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Código |
-|--|--|--|--|--|
-| O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD14 | RF |
+| Pergunta | Respondida | Requisito elicitado | ID | Código | Versão |
+|--|--|--|--|--|--|
+| O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD14 | RF | `1.0` |
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho][DaniloGH], 2024 </p></font>
 
