@@ -173,6 +173,51 @@ Legendas:
 | | RNF04 | Alocado | Alocado ao subsistema de comunicação e identificação por e-mail. |
 | | RNF05 | 
 
+
+
+
+
+
+
+| ID Requisito | Tipo de Relacionamento | Descrição do relacionamento |
+| --- | --- | --- |
+| RNF01 | Responsabilidade | Responsabilidade de implementar bloqueio após reporte de furto/roubo |
+| RNF02 | Recurso | Utilização de tecnologia de atualização em tempo real |
+| RNF03 | Responsabilidade | Responsabilidade de identificar encomendas por QR Code rapidamente |
+| RNF04 | Recurso | Dependência de sistemas de e-mail para identificação de encomendas |
+| RNF05 | Representação | Representação de layout com elementos principais e texto legível |
+| RNF06 | Responsabilidade | Responsabilidade de envio de informações de rastreio por e-mail |
+| RNF07 | Representação | Representação de código de rastreio simples e único |
+| RNF08 | Responsabilidade | Responsabilidade de implementar e gerenciar sistema de chatbot |
+| RNF09 | Responsabilidade | Responsabilidade de implementar tela de ajuda acessível e pop-up |
+| RNF10 | Representação | Representação de tutoriais interativos e informações claras |
+| RNF11 | Responsabilidade | Responsabilidade de minimizar delay nas notificações |
+| RNF12 | Recurso | Dependência de diretrizes WCAG 2.1 para acessibilidade |
+| RNF13 | Recurso | Dependência de tecnologias para garantir tempo de resposta e taxa de falha |
+| RNF14 | Recurso | Dependência de criptografia para dados de usuário |
+| RNF15 | Recurso | Dependência de sistemas de rastreamento eficientes |
+| RNF16 | Recurso | Dependência de capacidade de suporte para diferentes pesos e dimensões |
+| RNF17 | Recurso | Dependência de sistema de autenticação de dois fatores |
+| RNF18 | Recurso | Dependência de tecnologia de localização precisa |
+| RNF19 | Recurso | Dependência de sistemas rápidos para cálculo de preços e prazos |
+| RNF20 | Recurso | Dependência de protocolos HTTPS para segurança |
+| RNF21 | Recurso | Dependência de autenticação segura para operações financeiras |
+| RNF22 | Recurso | Dependência de sistemas rápidos para carregamento de mensagens |
+| RNF23 | Recurso | Dependência de sistemas de autenticação para acesso seguro |
+| RNF24 | Recurso | Dependência de sistemas rápidos para busca de objetos perdidos |
+| RNF25 | Responsabilidade | Responsabilidade de atendimento rápido em casos de violência |
+| RNF26 | Representação | Representação de interface de navegação eficiente |
+| RNF27 | Recurso | Dependência de compatibilidade com versões específicas de sistemas operacionais |
+| RNF28 | Responsabilidade | Responsabilidade de envio rápido de push notifications |
+| RNF29 | Representação | Representação de opção de filtro de encomendas acessível |
+| RFN30 | Representação | Representação de sistema de notificação redundante |
+| RNF31 | Recurso | Dependência de sistemas precisos para rastreamento de encomendas |
+| RNF32 | Satisfação | Satisfação do usuário com a aplicação |
+| RNF33 | Representação | Representação de opção de rastreamento acessível |
+| RNF34 | Responsabilidade | Responsabilidade de segurança no chat com o entregador |
+
+
+
 ## Bibliografia
 
 > 1. SAYÃO, Miriam; LEITE, Julio. **Rastreabilidade de Requisitos**. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: <https://www-di.inf.puc-rio.br/~julio/rastre.pdf>. Acesso em: 20 de junho de 2024.
