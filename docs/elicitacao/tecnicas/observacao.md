@@ -58,20 +58,20 @@ Legenda:
     <b>Tabela 2</b> - Requisitos Funcionais 
 </p></font>
 
-| Tipo | Descrição | ID | Implementado |
-|-|-|-|-|
-| RF01 | O aplicativo permite realizar login com sua conta | OBS01 | Sim |
-| RF02 | O aplicativo permite rastreamento de encomendas por código. | OBS02 | Sim |
-| RF03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | OBS03 | Sim |
-| RF04 | O aplicativo possibilite ver seus pagamentos | OBS04 | Sim |
-| RF05 | O aplicativo oferece uma busca por agências próximas ao seu endereço | OBS05 | Sim |
-| RF06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | OBS06 | Sim |
-| RF07 | O aplicativo possibilita a compra de certificados digitais dos correios | OBS07 | Sim |
-| RF08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | OBS08 | Sim |
-| RF09 | O aplicativo permite visualização de mensagens | OBS09 | Sim |
-| RF10 | O aplicativo oferece a visualização de vales postais | OBS10 | Sim |
-| RF11 | O aplicativo oferece uma área de busca por objetos perdidos em envios | OBS11 | Sim |
-| RF12 | O aplicativo fornece uma área de contato sobre violência contra a mulher | OBS12 | Sim |
+| Tipo | Descrição | ID | Implementado | Versão |
+|-|-|-|-|-|
+| RF01 | O aplicativo permite realizar login com sua conta | OBS01 | Sim | `1.0` |
+| RF02 | O aplicativo permite rastreamento de encomendas por código. | OBS02 | Sim | `1.0` |
+| RF03 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | OBS03 | Sim | `1.0` |
+| RF04 | O aplicativo possibilite ver seus pagamentos | OBS04 | Sim | `1.0` |
+| RF05 | O aplicativo oferece uma busca por agências próximas ao seu endereço | OBS05 | Sim | `1.0` |
+| RF06 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | OBS06 | Sim | `1.0` |
+| RF07 | O aplicativo possibilita a compra de certificados digitais dos correios | OBS07 | Sim | `1.0` |
+| RF08 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | OBS08 | Sim | `1.0` |
+| RF09 | O aplicativo permite visualização de mensagens | OBS09 | Sim | `1.0` |
+| RF10 | O aplicativo oferece a visualização de vales postais | OBS10 | Sim | `1.0` |
+| RF11 | O aplicativo oferece uma área de busca por objetos perdidos em envios | OBS11 | Sim | `1.0` |
+| RF12 | O aplicativo fornece uma área de contato sobre violência contra a mulher | OBS12 | Sim | `1.0` |
 
 
 <font size="2"><p>Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
@@ -79,34 +79,70 @@ Legenda:
 
 ### Requisitos Não Funcionais (RNF)
 
-<center>
-<a name="tabelaRequisitosNaoFuncionais"></a>
-<font size="2"><p>
-    <b>Tabela 3</b> - Requisitos Não Funcionais 
-</p></font>
+=== "1.0"
+    Legenda Requisitos das tabelas:
 
+    - RNFx: Requisito Não-Funcional nºx
+    - OBSx: Requisito nºx elicitado pela Observação.
 
-| Tipo | Descrição | ID | Implementado |
-|-|-|-|-|
-| RNF01 | O aplicativo deve manter a privacidade dos dados do usuário. | OBS13 | Sim |
-| RNF02 | O sistema de rastreamento de encomendas deve ser rápido e eficiente | OBS14 | Sim |
-| RNF03 | O sistema de envio de encomendas deve ser robusto o suficiente para lidar com diferentes tipos de objetos | OBS15 | Sim |
-| RNF04 | O acesso aos pagamentos deve ser protegido por autenticação do usuário | OBS16 | Não |
-| RNF05 | A busca por agências deve ser precisa e baseada na localização do usuário | OBS17 | Sim |
-| RNF06 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido | OBS18 | Sim |
-| RNF07 | A compra de certificados digitais deve ser segura e protegida | OBS19 | Sim |
-| RNF08 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável | OBS20 | Sim |
-| RNF09 | A visualização de mensagens deve ser rápida e fácil de usar | OBS21 | Sim |
-| RNF10 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | OBS22 | Sim |
-| RNF11 | A busca por objetos perdidos deve ser eficiente e precisa | OBS23 | Sim |
-| RNF12 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado | OBS24 | Sim |
-| RNF13 | O aplicativo requer uma interface amigável e fácil de usar. | OBS25 | Sim |
-| RNF14 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | OBS26 | Sim |
-| RNF15 | O aplicativo deve fornecer notificações sobre o status da entrega. | OBS27 | Sim |
+    <font size="3"><p style="text-align: center">Tabela 3: Requisitos Não Funcionais versão 1.0.</p></font>
 
+    <center>
 
-<font size="2"><p>Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
-</center>
+    | Tipo | Descrição | ID | Implementado | Versão |
+    |-|-|-|-|-|
+    | RNF01 | O aplicativo deve manter a privacidade dos dados do usuário. | OBS13 | Sim | `1.0` |
+    | RNF02 | O sistema de rastreamento de encomendas deve ser rápido e eficiente | OBS14 | Sim | `1.0` |
+    | RNF03 | O sistema de envio de encomendas deve ser robusto o suficiente para lidar com diferentes tipos de objetos | OBS15 | Sim | `1.0` |
+    | RNF04 | O acesso aos pagamentos deve ser protegido por autenticação do usuário | OBS16 | Não | `1.0` |
+    | RNF05 | A busca por agências deve ser precisa e baseada na localização do usuário | OBS17 | Sim | `1.0` |
+    | RNF06 | O cálculo de preços e prazos de encomendas deve ser preciso e rápido | OBS18 | Sim | `1.0` |
+    | RNF07 | A compra de certificados digitais deve ser segura e protegida | OBS19 | Sim | `1.0` |
+    | RNF08 | O acompanhamento da conta e recargas devem ser realizados de forma segura e confiável | OBS20 | Sim | `1.0` |
+    | RNF09 | A visualização de mensagens deve ser rápida e fácil de usar | OBS21 | Sim | `1.0` |
+    | RNF10 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | OBS22 | Sim | `1.0` |
+    | RNF11 | A busca por objetos perdidos deve ser eficiente e precisa | OBS23 | Sim | `1.0` |
+    | RNF12 | A área de contato sobre violência contra a mulher deve ser sensível e oferecer suporte adequado | OBS24 | Sim | `1.0` |
+    | RNF13 | O aplicativo requer uma interface amigável e fácil de usar. | OBS25 | Sim | `1.0` |
+    | RNF14 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | OBS26 | Sim | `1.0` |
+    | RNF15 | O aplicativo deve fornecer notificações sobre o status da entrega. | OBS27 | Sim | `1.0` |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">FFonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
+
+=== "2.0"
+    
+    Legenda Requisitos das tabelas:
+
+    - RNFx: Requisito Não-Funcional nºx
+    - OBSx: Requisito nºx elicitado pela Observação.
+
+    <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais versão 2.0.</p></font>
+
+    <center>
+
+    | Tipo | Descrição | ID | Implementado | Versão |
+    |--------|-----------|------------|-----------|--------|
+    | RNF01 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | OBS13 | Sim | `2.0` |
+    | RNF02 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas. | OBS14 | Sim | `2.0` |
+    | RNF03 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm. | OBS15 | Sim | `2.0` |
+    | RNF04 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores. | OBS16 | Não | `2.0` |
+    | RNF05 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros. | OBS17 | Sim | `2.0` |
+    | RNF06 | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas. | OBS18 | Sim | `2.0` |
+    | RNF07 | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações. | OBS19 | Sim | `2.0` |
+    | RNF08 | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email. | OBS20 | Sim | `2.0` |
+    | RNF09 | A interface de visualização de mensagens deve carregar em menos de 5 segundos para 95% das operações. | OBS21 | Sim | `2.0` |
+    | RNF10 | A visualização de vales postais deve ser acessível apenas após autenticação do usuário com senha e um método adicional de autenticação. | OBS22 | Sim | `2.0` |
+    | RNF11 | A busca por objetos perdidos deve retornar resultados em menos de 5 segundos para 95% das consultas. | OBS23 | Sim | `2.0` |
+    | RNF12 | A área de contato sobre violência contra a mulher deve ter opção de chat ao vivo com tempo de resposta de menos de 10 minutos durante o horário de atendimento. | OBS24 | Sim | `2.0` |
+    | RNF13 | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial. | OBS25 | Sim | `2.0` |
+    | RNF14 | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior. | OBS26 | Sim | `2.0` |
+    | RNF15 | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status. | OBS27 | Sim | `2.0` |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">FFonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
 
 ## Bibliografia 
 
@@ -119,3 +155,4 @@ Legenda:
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 17/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Criação do documento | [Pablo S. Costa](https://www.github.com/pabloheika) |
+|`1.1`| 23/06/2024 | [Ricardo Augusto](https://www.github.com/avmricardo)| Refatoração dos requisitos não funcionais |  [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
