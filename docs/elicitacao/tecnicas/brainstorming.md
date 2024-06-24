@@ -197,7 +197,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
-    | ID | Descrição    | Código | Implementado | Versão |
+    | ID | Descrição    | Tipo | Implementado | Versão |
     | -- | ------------ | :----: | :----------: | :----: |
     | BS01 | O usuário deve poder realizar cadastro pelo app     | RF | Sim | `1.0` |
     | BS02 | O usuário deve poder realizar login pelo app   | RF | Sim | `1.0` |
