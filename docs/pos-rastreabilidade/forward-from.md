@@ -1,8 +1,29 @@
 ## Introdução
 
+A rastreabilidade é a técnica utilizada para apresentar o relacionamento entre os requisitos, arquitetura e implementação final do sistema, em suma a rastreabilidade conta a história do requisito desde sua fonte na fase de elicitação até a implementação final e o gerenciamento na pre e  pós-rastreabilidade. A rastreabilidade nos ajuda a entender e compreender melhor os relacionamentos já existentes entre os requisitos ou artefatos de requisitos, arquitetura e implementação. A pós-rastreabilidade liga os requisitos ao desenho e implementação do sistema.A rastreabilidade forward-from conecta os requisitos a artefatos de desenho e implementação.
 
 ## Metodologia
 
+O método utilizado para fazer o gerenciamento dos requisitos será utilizando o meta-modelo de Toranzo, onde ele elenca quatro níveis de classificação que são:
+
+- Ambiental
+- Organizacional
+- Gerencial
+- Desenvolvimento
+
+Será utilizada somente a classificação a nível de desenvolvimento, visto que estamos realizando um projeto para a disciplina de Requisitos de software analisando um aplicativo, então será utilizado como base de informações os artefatos produzidos pelo grupo para a estruturação dos requisitos e suas relações com o material analisado. Será utilizado como descrito por Toranzo a criação de elos que irão interligar os requisitos aos artefatos criados pelo grupo. Abaixo temos a classificação dos tipos de elos elencados por Toranzo:
+
+- Satisfação: indica que a classe de origem tem dependência de satisfação com classe de destino; 
+
+- Recurso: indica que a classe de origem tem dependência de recurso com classe de destino; 9 
+
+- Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos; 
+
+- Representação: captura a representação ou modelagem dos requisitos em outras linguagens; 
+
+- Alocado: classe de origem está relacionada à classe de destino, que representa um subsistema; 
+
+- Agregação: indica composição de elementos.
 
 ## Requisitos
 
@@ -11,8 +32,7 @@
 
 ## Bibliografia
 
-> 1. SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [Requisitos Aula - 10](https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2024.
-> 2. SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: http://www.nilc.icmc.usp.br/til/til2006/0030.pdf. Acesso em: 16/05/2024.
+> 1. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 23 de jun de 2024.
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
