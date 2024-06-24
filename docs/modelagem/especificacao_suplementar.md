@@ -114,16 +114,16 @@ Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
 
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-| ID   | Descrição                                                                                                                                                                                                                   |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente.                                                      |
-| SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?".                                                                                                           |
-| SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda         |
-| SU04 | O app deverá ter uma melhor acessibilidade.                                                                         |
-| SU05 | O app deverá ter uma interface fluída e estável.                                       |
-| SU06 | O aplicativo requer uma interface amigável e fácil de usar. |
-| SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
-| SU08 | A interface deve ser intuitiva para fácil realização do procedimento. |
+| ID | Descrição | Versão |
+| --- | --- | --- |
+| SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+| SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | `1.0` |
+| SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+| SU04 | O app deverá ter uma melhor acessibilidade. | `1.0` |
+| SU05 | O app deverá ter uma interface fluída e estável. | `1.0` |
+| SU06 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+| SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | `1.0` |
+| SU08 | A interface deve ser intuitiva para fácil realização do procedimento. | `1.0` |
 
 <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
