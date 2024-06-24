@@ -57,7 +57,6 @@ A partir das informações descritas no tópico anterior, Toranzo (2002) define 
 
 ## Rastreabilidade
 
-SUGESTÃO DE COMO FAZER ESSA PORRA
 ### Requisitos Funcionais
 
 Legendas:
