@@ -31,7 +31,7 @@ Teremos abaixo na tabela 01 a listagem dos requisitos elicitados com a relação
     - Personas - PS
     - Cenários - CN
     - Léxicos - LX
-    - Casos de uso - CU
+    - Casos de uso - CSO
     - Tema - TM
     - Épico - EP
     - Histórias de Usuário - HU
@@ -99,7 +99,7 @@ Na tabela 02 abaixo temos os requisitos não-funcionais elicitados e suas relaç
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
 | INT37 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Não |  | | | | | | | |
 | INT38 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Não |  | | | | | | | |
-| INT39 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Sim |  | | | | | | | |
+| INT39 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Sim | [PS-02](https://github.com/Requisitos-de-Software/2024.1-Correios/blob/e4e7f054db964f08af73c3b3e5e93dbda9848a3e/docs/elicitacao/personas.md#elenco-de-personas) |[CN-01](https://github.com/Requisitos-de-Software/2024.1-Correios/blob/e4e7f054db964f08af73c3b3e5e93dbda9848a3e/docs/modelagem/cenarios.md#1-calcular-pre%C3%A7os-e-prazos-de-entrega) | [L03](https://github.com/Requisitos-de-Software/2024.1-Correios/blob/e4e7f054db964f08af73c3b3e5e93dbda9848a3e/docs/modelagem/lexicos.md#objeto)|[CSO-06](https://github.com/Requisitos-de-Software/2024.1-Correios/blob/e4e7f054db964f08af73c3b3e5e93dbda9848a3e/docs/modelagem/casos_de_uso.md#6-rastrear-encomendas) | | | | |
 | INT40 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Não |  | | | | | | | |
 | INT41 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Não |  | | | | | | | |
 | INT42 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Não |  | | | | | | | |
@@ -141,7 +141,11 @@ Na tabela 02 abaixo temos os requisitos não-funcionais elicitados e suas relaç
 
 Na tabela 03 abaixo são apresentadas as relações entre os requisitos definidos nos forward-from definidos acima e os artefatos desenvolvidos no projeto.
 
+<font size="2"><p style="text-align: center">Tabela 03 - Elos dos Requisitos Funcionais.</p></font>
 
+
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH] e [Gabriel .B][GabrielBGH] </p></font>
 
 ## Bibliografia
 
