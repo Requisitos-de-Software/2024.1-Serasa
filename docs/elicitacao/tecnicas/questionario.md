@@ -202,7 +202,7 @@ Legenda Requisitos das tabelas:
     | ID  | Descrição| Tipo | Implementado | Versão |
     | :-: | -------- | :--: | :----------: | :----: |
     | Q08 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância,  para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | RFN | Não | `1.1` |
-    | Q12 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](#referencias-bibliograficas) da LGPD) | RNF | Não | `1.1` |
+    | Q12 | O chat com o entregador deve ser protegido de acessos indevidos (de acordo com as especificações de segurança do [Art. 46](#referencias-bibliograficas) da LGPD) por meio de criptografia AES-256 | RNF | Não | `1.1` |
 
     </center>
 
