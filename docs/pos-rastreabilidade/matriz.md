@@ -12,22 +12,22 @@ Este artefato tem como objetivo criar uma matriz para organizar todos os requisi
 
 ## Metodologia
 
-A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacionar eles com sua respectivas técnicas elicitadas tendo como estrutura as colunas onde o ID é uma coluna para identificação dos requisitos, Descrição curta sobre o requisito, Elicitação mostra por meio de qual técnica os requisitos foram elicitados, Artefato é uma referencia para o link do artefarto e Implementação é para dizer se os requisitos foram ou não implemntados.
+A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacionar eles com sua respectivas técnicas elicitadas tendo como estrutura as colunas onde o ID é uma coluna para identificação dos requisitos, Descrição curta sobre o requisito, Elicitação mostra por meio de qual técnica os requisitos foram elicitados, Artefato é uma referencia para o link do artefarto, Implementação é para dizer se os requisitos foram ou não implemntados e os Elos correspondentes, essa estrutura está exemplificada na tabela 1 e na tabela 2 temos a legenda das abreviações utilizadas.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo para a Matriz.</p></font>
 
 <center>
 
 
-| ID | Descrição | Elicitação | Artefato | Implentação|
-| -- | --------- | ---------- | -------- | ---------- |
-| . | . | . | . | . |
+| ID | Descrição | Elicitação | Artefato | Implentação| Elos |
+| -- | --------- | ---------- | -------- | ---------- | ---- |
+| MRx | RF ou RNF - [descrição] | link | link | Sim ou Não | link |
 
 </center> 
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) e [Pablo S. Costa][PabloGH], 2024.</p></font>
 
-## Legenda
+#### Legenda
 
 <font size="2"><p style="text-align: center">Tabela 2 - Legendas dos artefatos de requisitos.</p></font>
 
@@ -54,16 +54,15 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 ## Matriz
 
+Abaixo temos a tabela 3 que realiza a matriz de rastreabilidade desse projeto.
 
 <font size="2"><p style="text-align: center">Tabela 3 - Projeto Correios, Matriz de Rastreabilidade.</p></font>
 
 <center>
 
-| Coluna 1 | Coluna 2 | Coluna 3 |
-|:--------:|----------|---------:|
-|1.1|1.2|1.2|
-|2.1|2.2|2.3|
-|3.1|3.2|3.3|
+| ID | Descrição | Elicitação | Artefato | Implentação| Elos |
+| -- | --------- | ---------- | -------- | ---------- | ---- |
+| MRx | RF ou RNF - [descrição] | link | link | Sim ou Não | link |
 
 </center>
 
