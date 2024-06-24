@@ -151,7 +151,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 ### Versionamento de Requisitos Funcionais
 
-=== "1.0"
+=== "Antes da refatoração"
     Legenda Requisitos das tabelas:
 
     - RFx: Requisito Funcional nºx
@@ -159,15 +159,36 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
-    <center>
-
     | ID | Descrição    | Código | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
+    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim | `1.0` |
+    | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim | `1.0` |
+    | BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não | `1.0` |
+    | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não | `1.0` |
+    | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não | `1.0` |
+    | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim | `1.0` |
+    | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não | `1.0` |
+    | BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda| RF08   | Não | `1.0` |
+    | BS09 | O usuário deve receber notificações push pelo aplicativo		  | RF09   | Sim | `1.0` |
+    | BS10 | O usuário deve receber notificações SMS		  | RF10   | Sim | `1.0` |
+    | BS11 | O usuário deve receber notificações pelo Whatsapp		  | RF11   | Não | `1.0` |
+    | BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente	| RF12   | Não | `1.0` |
+    | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não | `1.0` |
     | BS14 | O usuário deve poder receber o status pelo WhatsApp		  | RF14   | Não | `1.0` |
+    | BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não | `1.0` |
     | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app | RF16   | Não | `1.0` |
+    | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não | `1.0` |
+    | BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não | `1.0` |
+    | BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim | `1.0` |
+    | BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não | `1.0` |
+    | BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim | `1.0` |
+    | BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não | `1.0` |
+    | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo  | RF23   | Não | `1.0` |
+    | BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim | `1.0` |
 
+    
 
-=== "1.1"
+=== "Após a refatoração"
     
     Legenda Requisitos das tabelas:
 
@@ -176,50 +197,34 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
-    <center>
-
     | ID | Descrição    | Código | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
+    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim | `1.0` |
+    | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim | `1.0` |
+    | BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não | `1.0` |
+    | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não | `1.0` |
+    | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não | `1.0` |
+    | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim | `1.0` |
+    | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não | `1.0` |
+    | BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda| RF08   | Não | `1.0` |
+    | BS09 | O usuário deve receber notificações push pelo aplicativo		  | RF09   | Sim | `1.0` |
+    | BS10 | O usuário deve receber notificações SMS		  | RF10   | Sim | `1.0` |
+    | BS11 | O usuário deve receber notificações pelo Whatsapp		  | RF11   | Não | `1.0` |
+    | BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente	| RF12   | Não | `1.0` |
+    | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não | `1.0` |
     | BS14 | O usuário deve poder receber o status da encomenda pelo WhatsApp  | RF14   | Não |`1.1`|
+    | BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não | `1.0` |
     | BS16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | RF16   | Não | `1.1` |
+    | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não | `1.0` |
+    | BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não | `1.0` |
+    | BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim | `1.0` |
+    | BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não | `1.0` |
+    | BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim | `1.0` |
+    | BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não | `1.0` |
+    | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo  | RF23   | Não | `1.0` |
+    | BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim | `1.0` |
 
 
-Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados e com suas respectivas versões.
-
-
-<font size="3"><p style="text-align: center">**Tabela 3: Requisitos Funcionais Atualizados.**</p></font>
-
-<center>
-
-| ID | Descrição    | Código | Implementado | Versão |
-| ----------- | --------------- | :------: | :------: |:----:|
-| BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim | `1.0` |
-| BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim | `1.0` |
-| BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não | `1.0` |
-| BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não | `1.0` |
-| BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não | `1.0` |
-| BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim | `1.0` |
-| BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não | `1.0` |
-| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda| RF08   | Não | `1.0` |
-| BS09 | O usuário deve receber notificações push pelo aplicativo		  | RF09   | Sim | `1.0` |
-| BS10 | O usuário deve receber notificações SMS		  | RF10   | Sim | `1.0` |
-| BS11 | O usuário deve receber notificações pelo Whatsapp		  | RF11   | Não | `1.0` |
-| BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente	| RF12   | Não | `1.0` |
-| BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não | `1.0` |
-| BS14 | O usuário deve poder receber o status da encomenda pelo WhatsApp  | RF14   | Não |`1.1`|
-| BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não | `1.0` |
-| BS16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | RF16   | Não | `1.1` |
-| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não | `1.0` |
-| BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não | `1.0` |
-| BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim | `1.0` |
-| BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não | `1.0` |
-| BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim | `1.0` |
-| BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não | `1.0` |
-| BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo  | RF23   | Não | `1.0` |
-| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim | `1.0` |
-
-
-</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
@@ -227,7 +232,7 @@ Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados 
 
 ### Versionamento de Requisitos Não Funcionais
 
-=== "1.0"
+=== "Antes da refatoração"
     Legenda Requisitos das tabelas:
 
     - RNFx: Requisito Não-Funcional nºx
@@ -255,7 +260,7 @@ Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados 
 
 
 
-=== "2.0"
+=== "Após a refatoração"
     
     Legenda Requisitos das tabelas:
 
@@ -283,29 +288,7 @@ Abaixo, na tabela 3 estão todo os requisitos funcionais elicitados atualizados 
     |  BS37 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF15 | Sim | `2.0` |
 
 
-Abaixo, na tabela 5, estão todo os requisitos não funcionais elicitados atualizados e com suas respectivas versões.
-
-
-<font size="3"><p style="text-align: center">**Tabela 5 : Requisitos Não Funcionais Atualizados.**</p></font>
-
 <center>
-
-| ID | Descrição    | Código | Implementado | Versão |
-| ----------- | --------------- | :------: | :------: |:----:|
-| BS25 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | RNF01 | Não | `2.0` |
-| BS26 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | RNF02 | Não | `2.0` |
-| BS27 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código   | RNF03 | Sim |  `2.0` |
-| BS28 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | RNF04 | Não | `2.0` |
-| BS29 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt)| RNF05 | Não | `2.0` |
-|  BS30 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega| RNF06 | Não | `2.0` |
-|  BS31 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | RNF07 | Não | `2.0` |
-|  BS32 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | RNF10| Não | `2.0` |
-|  BS33 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | RNF11 | Não | `2.0` |
-|  BS34 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques  | RNF12 | Não | `2.0` |
-|  BS35 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status. | RNF13 | Não | `2.0` |
-|  BS36 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | RNF14 | Não | `2.0` |
-|  BS37 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF15 | Sim | `2.0` |
-
 
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
