@@ -2,7 +2,14 @@
 
 ## Introdução
 
-Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema.1 Ela é complementar aos casos de uso, pois ela captura os requisitos do sistema que não foram elicitados no método anterior. Entre os requisitos capturados estão incluídos: Requisitos legais e de regulamentação, padrões de aplicativos, atributos de qualidade, requisitos de utilidade, confiabilidade, desempenho, suportabilidade e outros requisitos como sistemas e ambientes operacionais, requisitos de compatibilidade e restrições de design. A metodologia mais utilizada para a produção de uma especificação suplementar é a FURPS+.
+A Especificação Suplementar funciona como um documento complementar aos casos de uso, fornecendo uma descrição detalhada, em linguagem natural, dos requisitos do sistema. Ela preenche as lacunas deixadas pelos casos de uso, capturando requisitos adicionais que não foram elicitados no método anterior.
+
+Conteúdo Essencial da Especificação Suplementar:
+
+- Requisitos Legais e Regulatórios: Detalhes sobre as leis, normas e padrões que o sistema deve seguir, incluindo padrões de aplicativos específicos.
+- Atributos de Qualidade: Definição dos atributos de qualidade esperados do sistema, como usabilidade, confiabilidade, desempenho e suportabilidade.
+- Requisitos Adicionais: Especificação de outros requisitos relevantes, como sistemas operacionais compatíveis, ambientes de execução, requisitos de compatibilidade e restrições de design.
+
 ## Metodologia
 
 Para a produção desse artefato será utilizado uma versão modificada do FURPS+, que é uma metodologia na qual os requisitos são dividido nas seguintes categorias: F de Functionality (Funcionalidade), U de Usability (Usabilidade), R de Reliability (Confiabilidade), P de Performance (Desempenho), S de Supportability (Suportabilidade) e + que engloba outros requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos). Nessa versão os requisitos de interface, além da seção de componentes adquiridos serão omitidos, dado que são atributos já especificados em outros artefatos, como os requisitos não-funcionais elicitados pelas técnicas de Observação, de Questionário e de Brainstorming.
@@ -144,15 +151,14 @@ Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restriç�
 
 <font><p style="text-align: center">**Tabela 5** - Requisitos + Restrições de Design.</p></font>
 
-| ID  | Descrição |
-|-----|-----------|
-| RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. |
-| RD02 | O app deverá ter uma interface fluída e estável. |
-| RD03 | A visualização de mensagens deve ser rápida e fácil de usar. |
-| RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado |
-| RD05 | O aplicativo requer uma interface amigável e fácil de usar. |
-| RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). |
-
+| ID | Descrição | Versão |
+| --- | --- | --- |
+| RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. | `1.0` |
+| RD02 | O app deverá ter uma interface fluída e estável. | `1.0` |
+| RD03 | A visualização de mensagens deve ser rápida e fácil de usar. | `1.0` |
+| RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | `1.0` |
+| RD05 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+| RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
 
 <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
@@ -169,7 +175,7 @@ Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restriç�
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) &  [Danilo Carvalho Antuneres](https://github.com/Danilo-Carvalho-Antunes) | [Elias F. Oliveira](https://github.com/EliasOliver21) |
-
+| `2.0`  | 20/05/2024 | Refatoração com versionamento. | [Pablo S. Costa](https://github.com/pabloheika) |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
