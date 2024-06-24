@@ -68,8 +68,8 @@ Legendas:
 
 <Center>
 
-| ID | Descrição | Fonte | Implementado | Versão |
-| --- | --- | --- | --- | --- |
+| ID  | Descrição | Fonte | Implementado | Versão |
+| :-: | --------- | :---: | :----------: | :----: |
 | RF01 | O usuário deve poder realizar cadastro pelo app | [BS01][BSRF] | Sim | `1.0` |
 | RF02 | O usuário deve poder realizar login pelo app | [BS02][BSRF] | Sim | `1.0` |
 | RF03 | O usuário deve poder acessar o histórico de notificações do objeto | [BS03][BSRF] | Não | `1.0` |
@@ -106,6 +106,12 @@ Legendas:
 | RF34 | O aplicativo oferece a visualização de vales postais | [OBS10][OBSRF] | Sim | `1.0` |
 | RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | [OBS11][OBSRF] | Sim | `1.0` |
 | RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | [OBS12][OBSRF] | Sim | `1.0` |
+| RF37 | As informações das entregas ativas e completas na página de rastreio | [Q01][QRF] | Sim | `1.1` |
+| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega | [Q02][QRF] | Não | `1.0` |
+| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. | [Q03][QRF] | Não | `1.1` |
+| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | [Q04][QRF] | Não | `1.1` |
+| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | [Q05][QRF] | Não | `1.1` |
+| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | [Q06][QRF] | Não | `1.1` |
 
 </Center>
 
@@ -117,8 +123,8 @@ Legendas:
 
 <Center>
 
-| ID | Descrição | Fonte | Implementado | Versão |
-| --- | --- | --- | --- | --- |
+| ID  | Descrição | Fonte | Implementado | Versão |
+| :-: | --------- | :---: | :----------: | :----: |
 | RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | [BS25][BSRNF] | Não | `2.0` |
 | RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | [BS26][BSRNF] | Não | `2.0` |
 | RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | [BS27][BSRNF] | Sim | `2.0` |
@@ -147,12 +153,12 @@ Legendas:
 | RNF26 | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial. | [OBS25][OBSRNF] | Sim | `2.0` |
 | RNF27 | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior. | [OBS26][OBSRNF] | Sim | `2.0` |
 | RNF28 | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status. | [OBS27][OBSRNF] | Sim | `2.0` |
-| RNF29 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | [Q07][QRNF] | Sim | 1.0 |
-| RFN30 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | [Q08][QRNF] | Não | 1.1 |
-| RNF31 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | [Q09][QRNF] | Sim | 1.0 |
-| RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | [Q10][QRNF] | Não | 1.0 |
-| RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | [Q11][QRNF] | Não | 1.0 |
-| RNF34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | [Q12][QRNF] | Não | 1.1 |
+| RNF29 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | [Q07][QRNF] | Sim | `1.0` |
+| RFN30 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | [Q08][QRNF] | Não | `1.1` |
+| RNF31 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | [Q09][QRNF] | Sim | `1.0` |
+| RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | [Q10][QRNF] | Não | `1.0` |
+| RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | [Q11][QRNF] | Não | `1.0` |
+| RNF34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | [Q12][QRNF] | Não | `1.1` |
 
 </Center>
 
