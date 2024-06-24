@@ -210,7 +210,7 @@ Legendas:
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Tabela x - Elos dos requisitos não funcionais.</p></font>
 
@@ -255,7 +255,7 @@ Legendas:
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -273,7 +273,7 @@ Legendas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 15/03/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel Fernando][GabrielFGH], [Ricardo Augusto][RicardoGH]  |   |
+| `1.0`  | 23/06/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel Fernando][GabrielFGH], [Ricardo Augusto][RicardoGH]  |   |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
