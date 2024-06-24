@@ -122,7 +122,7 @@ Legenda:
 
     <center>
 
-    | Código | Requisito | Observação | Aceitação | Versão |
+    | Tipo | Descrição | ID | Implementado | Versão |
     |--------|-----------|------------|-----------|--------|
     | RNF01 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | OBS13 | Sim | `2.0` |
     | RNF02 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas. | OBS14 | Sim | `2.0` |
