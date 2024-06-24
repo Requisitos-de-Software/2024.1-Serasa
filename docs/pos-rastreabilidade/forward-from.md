@@ -44,44 +44,44 @@ Na tabela 01 abaixo temos os requisitos funcionais elicitados e suas relações 
 <font size="2"><p style="text-align: center">Tabela 01 : Requisitos Funcionais </p></font>
 <center>
 
-Requisito | Descrição | Implementado | Persona | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework|
-|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
-| INT01 | O usuário deve poder realizar cadastro pelo app | Sim | | | | | | | | |
-| INT02 | O usuário deve poder realizar login pelo app | Sim | | | | | | | | |
-| INT03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | | | | |
-| INT04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | | | | |
-| INT05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | | | | |
-| INT06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim | | | | | | | | |
-| INT07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | | | | |
-| INT08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | | | | |
-| INT09 | O usuário deve receber notificações push pelo aplicativo | Sim | | | | | | | | |
-| INT10 | O usuário deve receber notificações SMS | Sim | | | | | | | | |
-| INT11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | | | | |
-| INT12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | | | | |
-| INT13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | | | | |
-| INT14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | | | | |
-| INT15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | | | | |
-| INT16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | | | | |
-| INT17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | | | | |
-| INT18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | | | | |
-| INT19 | O usuário deve poder visualizar detalhes da situação do produto | Sim | | | | | | | | |
-| INT20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | | | | |
-| INT21 | O usuário deve poder realizar o rastreio por QR Code | Sim | | | | | | | | |
-| INT22 | O usuário deve receber notificação pelo e-mail | Não | | | | | | | | |
-| INT23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | | | | |
-| INT24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim | | | | | | | | |
-| INT25 | O aplicativo permite realizar login com sua conta | Sim | | | | | | | | |
-| INT26 | O aplicativo permite rastreamento de encomendas por código. | Sim | | | | | | | | |
-| INT27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim | | | | | | | | |
-| INT28 | O aplicativo possibilite ver seus pagamentos | Sim | | | | | | | | |
-| INT29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim | | | | | | | | |
-| INT30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | Sim | | | | | | | | |
-| INT31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | | | | |
-| INT32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | | | | |
-| INT33 | O aplicativo permite visualização de mensagens | Sim | | | | | | | | |
-| INT34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | | | | |
-| INT35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | | | | |
-| INT36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | | | | |
+Requisito | Descrição | Implementado | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework |
+|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
+| INT01 | O usuário deve poder realizar cadastro pelo app | Sim | | | | | | | | 
+| INT02 | O usuário deve poder realizar login pelo app | Sim | | | | | | | | 
+| INT03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | | | | 
+| INT04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | | | | 
+| INT05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | | | | 
+| INT06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim | | | | | | | | 
+| INT07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | | | | 
+| INT08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | | | | 
+| INT09 | O usuário deve receber notificações push pelo aplicativo | Sim | | | | | | | | 
+| INT10 | O usuário deve receber notificações SMS | Sim | | | | | | | | 
+| INT11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | | | | 
+| INT12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | | | | 
+| INT13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | | | | 
+| INT14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | | | | 
+| INT15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | | | | 
+| INT16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | | | | 
+| INT17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | | | | 
+| INT18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | | | | 
+| INT19 | O usuário deve poder visualizar detalhes da situação do produto | Sim | | | | | | | | 
+| INT20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | | | | 
+| INT21 | O usuário deve poder realizar o rastreio por QR Code | Sim | | | | | | | | 
+| INT22 | O usuário deve receber notificação pelo e-mail | Não | | | | | | | | 
+| INT23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | | | | 
+| INT24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim | | | | | | | | 
+| INT25 | O aplicativo permite realizar login com sua conta | Sim | | | | | | | | 
+| INT26 | O aplicativo permite rastreamento de encomendas por código. | Sim | | | | | | | | 
+| INT27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim | | | | | | | | 
+| INT28 | O aplicativo possibilite ver seus pagamentos | Sim | | | | | | | | 
+| INT29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim | | | | | | | | 
+| INT30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | Sim | | | | | | | | 
+| INT31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | | | | 
+| INT32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | | | | 
+| INT33 | O aplicativo permite visualização de mensagens | Sim | | | | | | | | 
+| INT34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | | | | 
+| INT35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | | | | 
+| INT36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | | | | 
 
 </center>
 <font size="2"><p style="text-align: center"> Fonte: [Elias Oliveira](https://github.com/EliasOliver21) e [Gabriel .B][GabrielBGH], 2024.</p></font>
