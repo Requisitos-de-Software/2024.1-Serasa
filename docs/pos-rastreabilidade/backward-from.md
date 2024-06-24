@@ -10,8 +10,6 @@ Este documento aborda a aplicação da técnica de rastreabilidade backward-from
 
 ### Classificação das Informações
 
-Tabelas de 1 a infitio apresentam a rastreabilidade backward-from para os requisitos usados dentro do projeto.
-
 Toranzo (2002) propõe uma classificação que comporta 4 níveis de informação: ambiental, organizacional, gerencial e de desenvolvimento. Esses níveis e suas descrições estão presentes na tabela 1.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Níveis de informação segundo Toranzo.</p></font>
