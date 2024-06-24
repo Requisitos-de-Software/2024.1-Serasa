@@ -147,76 +147,151 @@ Falta de acessibilidade (Aumentar e diminuir fonte).
 
 Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corrigindo o design para uma opção mais limpa e intuitiva, melhorar a acessibilidade em geral do app.
 
-## Requisitos Elicitados
+=== "Requisitos Antes da Refatoração"
 
-Legenda Requisitos das tabelas:
+    ## Requisitos Elicitados
 
-- RFx: Requisito Funcional nºx
-- RNFx: Requisito Não-Funcional nºx
-- BSx: Requisito nºx elicitado pelo Brainstorming.
+    Legenda Requisitos das tabelas:
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
+    - RFx: Requisito Funcional nºx
+    - RNFx: Requisito Não-Funcional nºx
+    - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-<center>
+    <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
-| ID | Descrição    | Código | Implementado |
-| ----------- | --------------- | :------: | :------: |
-| BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
-| BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
-| BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não |
-| BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não |
-| BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não |
-| BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
-| BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
-| BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	 | RF08   | Não |
-| BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
-| BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
-| BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
-| BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			  | RF12   | Não |
-| BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não |
-| BS14 | O usuário deve poder receber o status pelo WhatsApp		  | RF14   | Não |
-| BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não |
-| BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
-| BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
-| BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não |
-| BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim |
-| BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não |
-| BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim |
-| BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não |
-| BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		  | RF23   | Não |
-| BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim |
+    <center>
+
+    | ID | Descrição    | Código | Implementado |
+    | ----------- | --------------- | :------: | :------: |
+    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
+    | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
+    | BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não |
+    | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não |
+    | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não |
+    | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
+    | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
+    | BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	 | RF08   | Não |
+    | BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
+    | BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
+    | BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
+    | BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			  | RF12   | Não |
+    | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não |
+    | BS14 | O usuário deve poder receber o status pelo WhatsApp		  | RF14   | Não |
+    | BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não |
+    | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
+    | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
+    | BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não |
+    | BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim |
+    | BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não |
+    | BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim |
+    | BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não |
+    | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		  | RF23   | Não |
+    | BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim |
 
 
 
-</center>
+    </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
-<!-- ****************************        Tabela 2        ****************************** -->
+    <!-- ****************************        Tabela 2        ****************************** -->
 
-<font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
 
-<center>
+    <center>
 
-| ID | Descrição    | Código | Implementado |
-| -------------- | --------------- | :------: | :------: |
-| BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
-| BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
-| BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
-| BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |
-| BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |
-|  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |
-|  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |
-|  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |
-|  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |
-|  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |
-|  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |
-|  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |
-|  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |
+    | ID | Descrição    | Código | Implementado |
+    | -------------- | --------------- | :------: | :------: |
+    | BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
+    | BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
+    | BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
+    | BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |
+    | BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |
+    |  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |
+    |  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |
+    |  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |
+    |  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |
+    |  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |
+    |  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |
+    |  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |
+    |  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |
 
-</center>
+    </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
+=== "Requisitos após a refatoração"
+
+    ## Requisitos Elicitados
+
+    Legenda Requisitos das tabelas:
+
+    - RFx: Requisito Funcional nºx
+    - RNFx: Requisito Não-Funcional nºx
+    - BSx: Requisito nºx elicitado pelo Brainstorming.
+
+    <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
+
+    <center>
+
+    | ID | Descrição    | Código | Implementado |
+    | ----------- | --------------- | :------: | :------: |
+    | BS01 | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim |
+    | BS02 | O usuário deve poder realizar login pelo app   | RF02   | Sim |
+    | BS03 | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não |
+    | BS04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não |
+    | BS05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não |
+    | BS06 | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim |
+    | BS07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não |
+    | BS08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda	 | RF08   | Não |
+    | BS09 | O usuário deve receber notificação push pelo aplicativo		  | RF09   | Sim |
+    | BS10 | O usuário deve receber notificação SMS		  | RF10   | Sim |
+    | BS11 | O usuário deve receber notificação pelo Whatsapp		  | RF11   | Não |
+    | BS12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente			  | RF12   | Não |
+    | BS13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não |
+    | BS14 | O usuário deve poder receber o status pelo WhatsApp(Ambiguo BS11)		  | RF14   | Não |
+    | BS15 | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não |
+    | BS16 | O usuário deve ter a opção de ser redirecionado a um atendente para auxílio do uso do app			  | RF16   | Não |
+    | BS17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não |
+    | BS18 | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não |
+    | BS19 | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim |
+    | BS20 | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não |
+    | BS21 | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim |
+    | BS22 | O usuário deve receber notificação pelo e-mail		  | RF22   | Não |
+    | BS23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo		  | RF23   | Não |
+    | BS24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim |
+
+
+
+    </center>
+
+    <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
+
+    <!-- ****************************        Tabela 2        ****************************** -->
+
+    <font size="3"><p style="text-align: center">Tabela 3 : Requisitos não funcionais.</p></font>
+
+    <center>
+
+    | ID | Descrição    | Código | Implementado |
+    | -------------- | --------------- | :------: | :------: |
+    | BS25 | O app deve bloquear as funções em caso de furto/roubo     | RNF01 | Não |
+    | BS26 | O app deverá mostrar a localização da entrega em tempo real     | RNF02 | Não |
+    | BS27 | O app deverá identificar encomendas através de código QR Code   | RNF03 | Sim |
+    | BS28 | O app deverá identificar encomendas através de um e-mail     | RNF04 | Não |
+    | BS29 | O app deverá mostrar informação mais clara e menos poluída na Home    | RNF05 | Não |
+    |  BS30 | O app deverá mostrar informações de rastreio por email    | RNF06 | Não |
+    |  BS31 | O app deverá possui um código de rastreio mais eficiente e simples    | RNF07 | Não |
+    |  BS32 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente  | RNF10| Não |
+    |  BS33 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?"   | RNF11 | Não |
+    |  BS34 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda  | RNF12 | Não |
+    |  BS35 | O app deverá ter um menor delay nas notificações de entrega  | RNF13 | Não |
+    |  BS36 | O app deverá ter uma melhor acessibilidade   | RNF14 | Não |
+    |  BS37 | O app deverá ter uma interface fluída e estável    | RNF15 | Sim |
+
+    </center>
+
+    <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
 
 ## Reuniões
