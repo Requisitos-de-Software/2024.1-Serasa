@@ -40,9 +40,9 @@ Legenda para as Tabelas:
 
 <center>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-| - | - | - | - | - |
-| Pergunta levantada para o requisito. | A pergunta foi respondida? Sim/Não | Expecificação do requisito. | Identificação do requisito. | Tipo do requisito. |
+| Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão | 
+| -------- | ---------- | ------------------- | -- | ---- | ------ |
+| Pergunta levantada para o requisito. | A pergunta foi respondida? Sim/Não | Expecificação do requisito. | Identificação do requisito. | Tipo do requisito. | Versão Atual | 
 
 </center>
 
@@ -57,8 +57,8 @@ Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de enco
 
 <font size="2"><p style="text-align: center"><b>Tabela 3</b>: Requisitos elicitados para o Recebimento de encomendas. </p></font>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-|--|--|--|--|--|
+| Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
+| -------- | ---------- | ------------------- | -- | ---- | ------ |
 | Qual a importância da funcionalidade em questão? | Sim | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | AD01 | RF | `1.0` | 
 | Essa funcionalidade tem opções dentro dela? | Sim | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | AD02 | RNF | `1.1` |
 | O usuário é avisado quando a entrega é realizada? | Sim | O usuário deve ser notificado quando o recebimeto for efetuado. | AD03 | RF | `1.0` |
@@ -81,8 +81,8 @@ Na Tabela 4 estão os requisitos elicitados para a funcionalidade de Pré-postag
 
 <center>
 
-| Pergunta| Respondida | Requisito elicitado | ID | Tipo |
-|--|--|--|--|--|
+| Pergunta| Respondida | Requisito elicitado | ID | Tipo | Versão |
+| ------- | ---------- | ------------------- | -- | ---- | ------ |
 | O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | AD09 | RF | `1.0` |
 | O usuário é capaz de realizar, no aplicativo, a funcionalidade presente no site?  | Sim | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | AD10 | RF | `1.0` |
 | O usuário possui mais de um meio de pagamento para a pré-postagem?  | Não | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | AD11 | RF | `1.0` |
@@ -104,8 +104,8 @@ Na Tabela 5 estão os requisitos elicitados para a funcionalidade de Busca por d
 
 <center>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-|--|--|--|--|--|
+| Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
+| -------- | ---------- | ------------------- | -- | ---- | ------ |
 | O aplicativo fornece algum meio de localização de documentos perdidos? | Não | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | AD15 | RF | `1.0` |
 
 </center>
@@ -122,8 +122,8 @@ Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Impo
 
 <center>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-|----------|------------|---------------------|----|--------|
+| Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
+|----------|------------|---------------------|----|--------| ------ |
 | Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD16 | RF | `1.0` |
 | Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF | `1.0` |
 | O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF | `1.0` |
@@ -152,11 +152,11 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
     <center>
 
-    | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-    |----------|------------|---------------------|----|--------|
-    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF|
-    |O usuário tem uma boa experiência de utilização da loja online.|Sim|A utilização da loja deveria ser intuitiva e simples, para uma boa interação e experiência do usuário.| AD29 |RF|
-    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF|
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo | 
+    |----------|------------|---------------------|----|--------| 
+    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF| `1.0` |
+    |O usuário tem uma boa experiência de utilização da loja online.|Sim|A utilização da loja deveria ser intuitiva e simples, para uma boa interação e experiência do usuário.| AD29 |RF| `1.0` |
+    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF| `1.0` |
 
     </center>
 
@@ -168,12 +168,12 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
     <center>
 
-    | Pergunta | Respondida | Requisito elicitado | ID | Tipo |
-    |----------|------------|---------------------|----|--------|
-    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF|
-    | O usuário possui uma opção para filtragem dos itens? | Não | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única.| AD29 |RF|
-    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF|
-    | O usuário tem uma opção de ordenação dos itens? |Não| O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anceios, como: menor preço, maior preço, maior relevância ou menor. | AD31 |RF|
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão | 
+    |----------|------------|---------------------|----|--------| - |
+    |O usuário é avisado de quantos itens tem-se em estoque para realizar a compra?|Não|O usuário deveria ser informado da quantidade de itens disponíveis para realizar a sua compra.| AD28 |RNF| `1.1` |
+    | O usuário possui uma opção para filtragem dos itens? | Não | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única.| AD29 |RF| `1.1` |
+    |O usuário consegue editar as suas informações de envio sem precisar retornar ao carrinho de compras? |Não|O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | AD30 |RF| `1.1` |
+    | O usuário tem uma opção de ordenação dos itens? |Não| O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anceios, como: menor preço, maior preço, maior relevância ou menor. | AD31 |RF| `1.1` |
 
     </center>
 
