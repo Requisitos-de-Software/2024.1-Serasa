@@ -76,6 +76,7 @@ nav:
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
   
 
 extra_css:
