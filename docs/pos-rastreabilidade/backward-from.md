@@ -66,7 +66,7 @@ Legendas:
 > - RNFx: Requisito Não Funcional n°X 
 > - AD: Análise Documental
 > - BS: Brainstorm 
-> - OB: Observação
+> - OBS: Observação
 > - QS: Questionário
 
 <font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
@@ -220,26 +220,26 @@ Legendas:
 
 <center>
 
-| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do relacionamento |
+| ID Requisito | Descrição | tipo de Relacionamento | Descrição do relacionamento |
 | --- | --- | --- | --- |
-| RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Responsabilidade | Responsabilidade de implementar bloqueio após reporte de furto/roubo |
-| RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Recurso | Utilização de tecnologia de atualização em tempo real |
-| RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Responsabilidade | Responsabilidade de identificar encomendas por QR Code rapidamente |
-| RNF04 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Recurso | Dependência de sistemas de e-mail para identificação de encomendas |
-| RNF05 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Representação | Representação de layout com elementos principais e texto legível |
-| RNF06 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Responsabilidade | Responsabilidade de envio de informações de rastreio por e-mail |
-| RNF07 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Representação | Representação de código de rastreio simples e único |
-| RNF08 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | Responsabilidade | Responsabilidade de implementar e gerenciar sistema de chatbot |
-| RNF09 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | Responsabilidade | Responsabilidade de implementar tela de ajuda acessível e pop-up |
-| RNF10 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques | Representação | Representação de tutoriais interativos e informações claras |
-| RNF11 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status. | Responsabilidade | Responsabilidade de minimizar delay nas notificações |
-| RNF12 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Recurso | Dependência de diretrizes WCAG 2.1 para acessibilidade |
-| RNF13 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Recurso | Dependência de tecnologias para garantir tempo de resposta e taxa de falha |
-| RNF14 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | Recurso | Dependência de criptografia para dados de usuário |
-| RNF15 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas. | Recurso | Dependência de sistemas de rastreamento eficientes |
-| RNF16 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm. | Recurso | Dependência de capacidade de suporte para diferentes pesos e dimensões |
-| RNF17 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores. | Recurso | Dependência de sistema de autenticação de dois fatores |
-| RNF18 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros. | Recurso | Dependência de tecnologia de localização precisa |
+| RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Satisfação | Relacionado ao RF04 para garantir segurança em caso de furto |
+| RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Recurso | Relacionado ao RF18 para fornecer atualizações precisas no mapa |
+| RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Recurso | Relacionado ao RF21 para garantir identificação rápida por QR Code |
+| RNF04 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Satisfação | Suporta RF22 para resposta rápida por e-mail |
+| RNF05 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Representação | Relacionado a todos os requisitos de UI para clareza e usabilidade |
+| RNF06 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Satisfação | Suporta RF22 para notificações por e-mail |
+| RNF07 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Representação | Relacionado ao RF20 para simplificação de códigos de rastreio |
+| RNF08 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | Recurso | Relacionado ao RF12 para suporte eficiente ao cliente |
+| RNF09 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | Representação | Relacionado ao RF16 e RF17 para acessibilidade e ajuda rápida |
+| RNF10 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques | Satisfação | Suporta RF13 para fornecer tutoriais claros e rápidos |
+| RNF11 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status | Satisfação | Suporta RF09, RF10, RF11 e RF22 para notificações rápidas |
+| RNF12 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Recurso | Relacionado a todos os requisitos de UI para garantir acessibilidade |
+| RNF13 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Recurso | Relacionado a todos os requisitos para garantir performance eficiente |
+| RNF14 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão | Recurso | Relacionado a todos os requisitos para garantir segurança de dados |
+| RNF15 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Recurso | Relacionado ao RF03, RF18, RF19, RF20 e RF21 para respostas rápidas |
+| RNF16 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm | Recurso | Relacionado ao RF27 para suporte a diversos tipos de encomendas |
+| RNF17 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores | Recurso | Relacionado ao RF23 e RF28 para segurança em transações financeiras |
+| RNF18 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros | Recurso | Relacionado ao RF29 para fornecer resultados precisos |
 | RNF19 | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas. | Recurso | Dependência de sistemas rápidos para cálculo de preços e prazos |
 | RNF20 | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações. | Recurso | Dependência de protocolos HTTPS para segurança |
 | RNF21 | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email. | Recurso | Dependência de autenticação segura para operações financeiras |
