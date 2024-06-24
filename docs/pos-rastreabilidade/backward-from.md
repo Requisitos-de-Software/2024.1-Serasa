@@ -66,18 +66,51 @@ Legendas:
 > - RNFx: Requisito Não Funcional n°X 
 > - AD: Análise Documental
 > - BS: Brainstorm 
-> - OBS: Observação
-> - Q: Questionário
+> - OB: Observação
+> - QS: Questionário
 
-#### RFX
-
-<font size="2"><p style="text-align: center">Tabela 1 - tabela de elos e relacionamentos do RFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
 
 <Center>
 
-| Tipo de elo | Ligação/Relacionamentos | 
-| ----------- | ----------------------- |
-| *<a href="link pro artefato">RFX</a>* | |
+| ID  | Descrição    | Código | Implementado | Versão |
+| :-: | ------------ | :----: | :----------: |:----:|
+| [BS01][BSRF] | O usuário deve poder realizar cadastro pelo app     | RF01   | Sim | `1.0` |
+| [BS02][BSRF] | O usuário deve poder realizar login pelo app   | RF02   | Sim | `1.0` |
+| [BS03][BSRF] | O usuário deve poder acessar o histórico de notificações do objeto  | RF03   | Não | `1.0` |
+| [BS04][BSRF] | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo  | RF04   | Não | `1.0` |
+| [BS05][BSRF] | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda  | RF05   | Não | `1.0` |
+| [BS06][BSRF] | O usuário deve visualizar a estipulação de prazo de entrega  | RF06   | Sim | `1.0` |
+| [BS07][BSRF] | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações	  | RF07   | Não | `1.0` |
+| [BS08][BSRF] | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda| RF08   | Não | `1.0` |
+| [BS09][BSRF] | O usuário deve receber notificações push pelo aplicativo		  | RF09   | Sim | `1.0` |
+| [BS10][BSRF] | O usuário deve receber notificações SMS		  | RF10   | Sim | `1.0` |
+| [BS11][BSRF] | O usuário deve receber notificações pelo Whatsapp		  | RF11   | Não | `1.0` |
+| [BS12][BSRF] | O usuário deve ter acesso a um Chatbot para suporte ao cliente	| RF12   | Não | `1.0` |
+| [BS13][BSRF] | O usuário deve poder visualizar um tutorial para realizar o rastreamento	  | RF13   | Não | `1.0` |
+| [BS14][BSRF] | O usuário deve poder receber o status da encomenda pelo WhatsApp  | RF14   | Não |`1.1`|
+| [BS15][BSRF] | O usuário deve poder aumentar e diminuir a fonte		  | RF15   | Não | `1.0` |
+| [BS16][BSRF] | O usuário deve ter a opção de falar com um atendente para obter ajuda | RF16   | Não | `1.1` |
+| [BS17][BSRF] | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes)  | RF17   | Não | `1.0` |
+| [BS18][BSRF] | O usuário deve poder visualizar sua encomenda no mapa  | RF18   | Não | `1.0` |
+| [BS19][BSRF] | O usuário deve poder visualizar detalhes da situação do produto	  | RF19   | Sim | `1.0` |
+| [BS20][BSRF] | O usuário deve poder realizar o rastreio por código mais simples	  | RF20   | Não | `1.0` |
+| [BS21][BSRF] | O usuário deve poder realizar o rastreio por QR Code	  | RF21   | Sim | `1.0` |
+| [BS22][BSRF] | O usuário deve receber notificação pelo e-mail		  | RF22   | Não | `1.0` |
+| [BS23][BSRF] | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo  | RF23   | Não | `1.0` |
+| [BS24][BSRF] | O usuário deve poder realizar a simulação de envio com as informações do objeto | RF24   | Sim | `1.0` |
+| [OBS01][OBSRF] | O aplicativo permite realizar login com sua conta | RF | Sim | `1.0` |
+| [OBS02][OBSRF] | O aplicativo permite rastreamento de encomendas por código. | RF | Sim | `1.0` |
+| [OBS03][OBSRF] | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | RF | Sim | `1.0` |
+| [OBS04][OBSRF] | O aplicativo possibilite ver seus pagamentos | RF | Sim | `1.0` |
+| [OBS05][OBSRF] | O aplicativo oferece uma busca por agências próximas ao seu endereço | RF | Sim | `1.0` |
+| [OBS06][OBSRF] | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais | RF | Sim | `1.0` |
+| [OBS07][OBSRF] | O aplicativo possibilita a compra de certificados digitais dos correios | RF | Sim | `1.0` |
+| [OBS08][OBSRF] | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | RF | Sim | `1.0` |
+| [OBS09][OBSRF] | O aplicativo permite visualização de mensagens | RF | Sim | `1.0` |
+| [OBS10][OBSRF] | O aplicativo oferece a visualização de vales postais | RF | Sim | `1.0` |
+| [OBS11][OBSRF] | O aplicativo oferece uma área de busca por objetos perdidos em envios | RF | Sim | `1.0` |
+| [OBS12][OBSRF] | O aplicativo fornece uma área de contato sobre violência contra a mulher | RF | Sim | `1.0` |
 
 </Center>
 
@@ -85,15 +118,46 @@ Legendas:
 
 ### Requisitos Não-Funcionais
 
-#### RNFX
-
-<font size="2"><p style="text-align: center">Tabela X - tabela de elos e relacionamentos do RNFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
 
 <Center>
 
-| Tipo de elo | Ligação/Relacionamentos | 
-| ----------- | ----------------------- |
-| *<a href="link pro artefato">RNFX</a>* | |
+| ID | Descrição | Tipo | Implementado | Versão |
+| --- | --- | --- | --- | --- |
+| [BS25][BSRNF] | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | RNF | Não | `2.0` |
+| [BS26][BSRNF] | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | RNF | Não | `2.0` |
+| [BS27][BSRNF] | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código   | RNF | Sim |  `2.0` |
+| [BS28][BSRNF] | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | RNF | Não | `2.0` |
+| [BS29][BSRNF] | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt)| RNF | Não | `2.0` |
+| [BS30][BSRNF] | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega| RNF | Não | `2.0` |
+| [BS31][BSRNF] | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | RNF | Não | `2.0` |
+| [BS32][BSRNF] | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | RNF | Não | `2.0` |
+| [BS33][BSRNF] | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | RNF | Não | `2.0` |
+| [BS34][BSRNF] | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques  | RNF | Não | `2.0` |
+| [BS35][BSRNF] | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status. | RNF | Não | `2.0` |
+| [BS36][BSRNF] | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | RNF | Não | `2.0` |
+| [BS37][BSRNF] | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF | Sim | `2.0` |
+| [OBS13][OBSRNF] | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | RNF | Sim | `2.0` |
+| [OBS14][OBSRNF] | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas. | RNF | Sim | `2.0` |
+| [OBS15][OBSRNF] | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm. | RNF | Sim | `2.0` |
+| [OBS16][OBSRNF] | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores. | RNF | Não | `2.0` |
+| [OBS17][OBSRNF] | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros. | RNF | Sim | `2.0` |
+| [OBS18][OBSRNF] | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas. | RNF | Sim | `2.0` |
+| [OBS19][OBSRNF] | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações. | RNF | Sim | `2.0` |
+| [OBS20][OBSRNF] | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email. | RNF | Sim | `2.0` |
+| [OBS21][OBSRNF] | A interface de visualização de mensagens deve carregar em menos de 5 segundos para 95% das operações. | RNF | Sim | `2.0` |
+| [OBS22][OBSRNF] | A visualização de vales postais deve ser acessível apenas após autenticação do usuário com senha e um método adicional de autenticação. | RNF | Sim | `2.0` |
+| [OBS23][OBSRNF] | A busca por objetos perdidos deve retornar resultados em menos de 5 segundos para 95% das consultas. | RNF | Sim | `2.0` |
+| [OBS24][OBSRNF] | A área de contato sobre violência contra a mulher deve ter opção de chat ao vivo com tempo de resposta de menos de 10 minutos durante o horário de atendimento. | RNF | Sim | `2.0` |
+| [OBS25][OBSRNF] | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial. | RNF | Sim | `2.0` |
+| [OBS26][OBSRNF] | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior. | RNF | Sim | `2.0` |
+| [OBS27][OBSRNF] | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status. | RNF | Sim | `2.0` |
+| [Q07][QRNF] | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | RNF | Sim | 1.0 |
+| [Q08][QRNF] | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância,  para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | RFN | Não | 1.1 |
+| [Q09][QRNF] | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | RNF | Sim | 1.0 |
+| [Q10][QRNF] | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | RNF | Não | 1.0 |
+| [Q11][QRNF] | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | RNF | Não | 1.0 |
+| [Q12][QRNF] | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | RNF | Não | 1.1 |
 
 </Center>
 
@@ -126,3 +190,18 @@ Legendas:
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
 
+<Links das seções da análise documental>
+[ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#requisitos-funcionais
+[ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#requisitos-nao-funcionais
+
+<Links das seções do brainstorm>
+[BSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+[BSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+
+<Links das seções da observação>
+[OBSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
+[OBSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
+
+<Links das seções do questionário>
+[QRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais
+[QRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#nao-funcionais
