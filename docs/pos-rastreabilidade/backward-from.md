@@ -165,19 +165,56 @@ Legendas:
 
 ## Elos
 
-| ID | Requisito | Relacionamento | Descrição | 
-|-|-|-|-|
-| | RNF01 | Alocado | Este requisito está alocado ao subsistema de segurança do app. |
-| | RNF02 | Recurso | Este requisito depende de dados de localização em tempo real. |
-| | RNF03 | Alocado | Está alocado ao subsistema de leitura de QR Code. |
-| | RNF04 | Alocado | Alocado ao subsistema de comunicação e identificação por e-mail. |
-| | RNF05 | 
+<font size="2"><p style="text-align: center">Tabela x - Elos dos Requisitos Funcionais.</p></font>
 
+<center>
 
+| ID  | Descrição|Tipo de Relacionamento | Descrição do Relacionamento|
+| - | -| - | - | 
+| RF01 | O usuário deve poder realizar cadastro pelo app |  Satisfação | Este requisito depende de uma base de dados para armazenar as informações do usuário. |
+| RF02 | O usuário deve poder realizar login pelo app |  Satisfação | Depende do cadastro de usuários (RF01) para funcionar. |
+| RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Recurso | Requer um banco de dados que armazena o histórico de notificações. |
+| RF04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Recurso | Necessita integração com funcionalidades de segurança do sistema operacional do dispositivo. |
+| RF05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda |  Recurso | Depende da disponibilidade de hardware (chip de localização) para ser implementado. |
+| RF06 | O usuário deve visualizar a estipulação de prazo de entrega |  Representação | Este requisito pode ser representado por meio de uma interface de usuário detalhando prazos. |
+| RF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações |  Representação | Requer integração com o sistema de logística para obter e mostrar atualizações. |
+| RF08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Agregação | Faz parte de um conjunto de funcionalidades de suporte ao cliente. |
+| RF09 | O usuário deve receber notificações push pelo aplicativo |  Responsabilidade | Depende da configuração de serviços de notificação push, geralmente responsabilidade do administrador do sistema. |
+| RF10 | O usuário deve receber notificações SMS |  Responsabilidade | Similar ao RF09, mas com foco em serviços de SMS, responsabilizando o administrador de telecomunicações. |
+| RF11 | O usuário deve receber notificações pelo WhatsApp |  Responsabilidade | Depende da integração com a API do WhatsApp e a configuração por parte do administrador de serviços. |
+| RF12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente |  Alocado | Este requisito está alocado ao subsistema de suporte ao cliente. |
+| RF13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento |  Representação | Pode ser representado por meio de vídeos ou textos explicativos na interface do usuário. |
+| RF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp |  Responsabilidade | Similar ao RF11, mas focado em enviar informações de status especificamente. |
+| RF15 | O usuário deve poder aumentar e diminuir a fonte |  Representação | Requer ajustes na interface de usuário para permitir controle de tamanho de fonte. |
+| RF16 | O usuário deve ter a opção de falar com um atendente para obter ajuda |  Alocado | Está alocado ao subsistema de suporte ao cliente. |
+| RF17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) |  Agregação | Parte do subsistema de suporte ao cliente, agregando várias perguntas e respostas. |
+| RF18 | O usuário deve poder visualizar sua encomenda no mapa |  Representação | Requer integração com APIs de mapas para exibir a localização da encomenda. |
+| RF19 | O usuário deve poder visualizar detalhes da situação do produto |  Recurso | Requer acesso a dados detalhados sobre a encomenda. |
+| RF20 | O usuário deve poder realizar o rastreio por código mais simples |  Representação | Requer uma interface de entrada simplificada para códigos de rastreamento. |
+| RF21 | O usuário deve poder realizar o rastreio por QR Code | Representação | Necessita uma interface que permita a leitura de QR Codes. |
+| RF22 | O usuário deve receber notificação pelo e-mail |  Responsabilidade | Depende de integração com serviços de e-mail e configuração adequada. |
+| RF23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Recurso | Requer integração com sistemas de pagamento e bancos. |
+| RF24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Representação | Simulação de envio depende de um subsistema que calcula tarifas e prazos. |
+| RF25 | O aplicativo permite realizar login com sua conta |  Satisfação | Depende da funcionalidade de cadastro de usuário (RF01). |
+| RF26 | O aplicativo permite rastreamento de encomendas por código |  Representação | Requer interface de rastreamento integrada com base de dados de encomendas. |
+| RF27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) |  Agregação | Parte das funcionalidades principais do aplicativo, agregando várias formas de envio. |
+| RF28 | O aplicativo possibilita ver seus pagamentos |  Representação | Requer uma interface para visualizar histórico e detalhes de pagamentos. |
+| RF29 | O aplicativo oferece uma busca por agências próximas ao seu endereço |  Recurso | Integração com serviços de localização e base de dados de agências. |
+| RF30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais |  Recurso | Integração com sistemas de cálculo de tarifas e prazos de entrega. |
+| RF31 | O aplicativo possibilita a compra de certificados digitais dos correios | Recurso | Integração com sistemas de venda e emissão de certificados digitais. |
+| RF32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo |  Recurso | Integração com sistemas de gerenciamento de contas e serviços de recarga. |
+| RF33 | O aplicativo permite visualização de mensagens | Representação | Requer uma interface que exibe mensagens recebidas pelo usuário. |
+| RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
+| RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
+| RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Responsabilidade | Depende de um subsistema específico para gerenciar informações e contatos relacionados a violência contra a mulher. |
 
+</center>
 
+<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
 
+<font size="2"><p style="text-align: center">Tabela x - Elos dos requisitos não funcionais.</p></font>
 
+<center>
 
 | ID Requisito | Tipo de Relacionamento | Descrição do relacionamento |
 | --- | --- | --- |
@@ -216,7 +253,9 @@ Legendas:
 | RNF33 | Representação | Representação de opção de rastreamento acessível |
 | RNF34 | Responsabilidade | Responsabilidade de segurança no chat com o entregador |
 
+</center>
 
+<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
 
 ## Bibliografia
 
@@ -234,7 +273,7 @@ Legendas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 15/03/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika)  |   |
+| `1.0`  | 15/03/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel Fernando][GabrielFGH], [Ricardo Augusto][RicardoGH]  |   |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
