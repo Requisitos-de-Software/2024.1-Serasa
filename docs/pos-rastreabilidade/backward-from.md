@@ -225,7 +225,7 @@ Legendas:
 | RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Satisfação | Relacionado ao RF04 para garantir segurança em caso de furto |
 | RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Recurso | Relacionado ao RF18 para fornecer atualizações precisas no mapa |
 | RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Recurso | Relacionado ao RF21 para garantir identificação rápida por QR Code |
-| RNF04 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Satisfação | Suporta RF22 para resposta rápida por e-mail |
+| RNF04 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Satisfação | Suporta RF22 e RF01 para resposta rápida por e-mail cadastrado |
 | RNF05 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Representação | Relacionado a todos os requisitos de UI para clareza e usabilidade |
 | RNF06 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Satisfação | Suporta RF22 para notificações por e-mail |
 | RNF07 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Representação | Relacionado ao RF20 para simplificação de códigos de rastreio |
@@ -236,7 +236,7 @@ Legendas:
 | RNF12 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Recurso | Relacionado a todos os requisitos de UI para garantir acessibilidade |
 | RNF13 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Recurso | Relacionado a todos os requisitos para garantir performance eficiente |
 | RNF14 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão | Recurso | Relacionado a todos os requisitos para garantir segurança de dados |
-| RNF15 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Recurso | Relacionado ao RF03, RF18, RF19, RF20 e RF21 para respostas rápidas |
+| RNF15 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Recurso | Relacionado ao RF03, RF18, RF19, RF20 e RF21 para respostas rápidas com relação ao status do objeto |
 | RNF16 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm | Recurso | Relacionado ao RF27 para suporte a diversos tipos de encomendas |
 | RNF17 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores | Recurso | Relacionado ao RF23 e RF28 para segurança em transações financeiras |
 | RNF18 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros | Recurso | Relacionado ao RF29 para fornecer resultados precisos |
@@ -253,9 +253,9 @@ Legendas:
 | RNF29 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | Representação | Facilitar acesso à opção de filtro de encomendas |
 | RNF30 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | Satisfação | Relacionado ao RF09, RF10, RF11, RF14, RF22 para notificações múltiplas |
 | RNF31 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Recurso | Garantir precisão nas informações de rastreamento |
-| RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Satisfação | Medir satisfação do usuário com o aplicativo |
+| RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Satisfação | Medir satisfação do usuário com o aplicativo em lojas de aplicativos de celulares com sistema Android e IOS. |
 | RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Representação | Facilitar acesso à opção de rastreamento de encomendas |
-| RNF34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do Art. 46 da LGPD) | Responsabilidade | Garantir segurança no chat com o entregador |
+| RNF34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do Art. 46 da LGPD) | Responsabilidade | Garantir segurança no chat com o entregador seguindo as especificações da LGPD |
 
 </center>
 
