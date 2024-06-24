@@ -146,8 +146,8 @@ Legendas:
 
 <Center>
 
-| ID  | Descrição | Fonte | Implementado | Versão |
-| :-: | --------- | :---: | :----------: | :----: |
+| ID Requisito  | Descrição | Fonte | Implementado | Versão |
+| :-----------: | --------- | :---: | :----------: | :----: |
 | RNF01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | [BS25][BSRNF] | Não | `2.0` |
 | RNF02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | [BS26][BSRNF] | Não | `2.0` |
 | RNF03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | [BS27][BSRNF] | Sim | `2.0` |
