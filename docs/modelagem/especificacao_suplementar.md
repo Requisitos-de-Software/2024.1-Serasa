@@ -133,13 +133,13 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 <font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
 
-| ID  | Descrição |
-|-----|-----------|
-| AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. |
-| AD02 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?" |
-| AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda |
-| AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) |
-| AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |
+| ID | Descrição | Versão |
+| --- | --- | --- |
+| AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+| AD02 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?" | `1.0` |
+| AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+| AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
+| AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
 
 <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
