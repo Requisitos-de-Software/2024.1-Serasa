@@ -173,9 +173,33 @@ Na Tabela 8, estão especificados os Requisitos Funcionais e se estão implement
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **ADX** | | |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | AD01 | O usuário deve poder escolher a opção de recebimento dentro do aplicativo antes de sua encomenda ser enviada. | RF | Não | `1.0` | 
+    | AD02 | O usuário deve escolher o método de recebimento em até 3 cliques desde iniciar a ação. | RF | Não | `1.0` |
+    | AD03 | O sistema deve permitir que o usuário reserve o locker mais próximo de sua casa com base no CEP informado, de acordo com a disponibilidade. | RF | Não | `1.0` |
+    | AD04 | O usuário deve ser notificado quando o recebimento for efetuado. | RF | Não | `1.0` |
+    | AD05 | O usuário deve poder mudar local de de rebimento da encomenda | RF | Não | `1.0` |
+    | AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF | Não | `1.0` |
+    | AD09 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | RF |  Sim | `1.0` |
+    | AD10 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | RF | Sim | `1.0`|
+    | AD11 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | RF |  Não | `1.0` |
+    | AD12 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | RF | Não | `1.0` |
+    | AD13 | O usuário deve ser perguntado sobre a confirmação de operações críticas | RNF | Sim | `1.0` |
+    | AD14 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF |  Sim | `1.0` |
+    | AD15 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não | `1.0` |
+    | AD16 | O Usuário deve ser capaz de gerenciar suas importações | RF | Sim | `1.0` |
+    | AD17 | O Usuário deve ser capaz de resolver situações alfandegárias | RF | sim | `1.0` |
+    | AD18 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | RF | Sim | `1.0` |
+    | AD19 | O usuário deve ser capaz de inserir novas importações | RF | Sim | `1.0` |
+    | AD20 | O usuário deve ter acesso a meios de pagamento de taxas | RF | Sim | `1.0` |
+    | AD21 | O usuário deve ser notificado sobre atualizações de importações | RF | Sim | `1.0` |
+    | AD22 | O usuário deve poder contestar taxas e tributações | RF | Sim | `1.0` |
+    | AD23 | O Usuário deve ser capaz de emitir comprovante | RF | Sim | `1.0` |
+    | AD24 | O usuário deve ser capaz de emitir DIS | RF | Sim | `1.0` |
+    | AD29 | A interface deve ser intuitiva e agradável ao usuário | RF | Não | `1.0` |
+    | AD30 | O Usuário deve ter a total liberdade nas etapas disponibilizadas pelos sistema| RF | Não | `1.0` |
+
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
@@ -184,9 +208,10 @@ Na Tabela 8, estão especificados os Requisitos Funcionais e se estão implement
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
     | **ADX** | | |
+    
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
@@ -201,9 +226,15 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
-    | **ADX** | | |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
+    | AD07 | A interface deve ser intuitiva para fácil realização do procedimento. | RNF | Não | `1.0` |
+    | AD08 | A funcionalidade deve ser de fácil acesso pela página principal | RNF | Não | `1.0` |
+    | AD25 | As informações devem ser atualizadas em tempo de execução | RNF | Sim | `1.0` |
+    | AD26 | A liberação das encomendas deve ser automática | RNF | Sim | `1.0` |
+    | AD27 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | Sim | `1.0` |
+    | AD28 | O usuário deve estar informad sobre a quantidade de itens disopníveis | RNF | Não | `1.0` |
+
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
@@ -213,9 +244,10 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 
     <center>
 
-    | ID  | Descrição    | Tipo | Implementado |
-    | :-: | ------------ | :--: | :----------: |
+    | ID  | Descrição    | Tipo | Implementado | Versão |
+    | :-: | ------------ | :--: | :----------: | :----: |
     | **ADX** | | |
+    
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
@@ -242,7 +274,8 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 | `1.1`  | 21/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
-| `1.3`  | 23/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
+| `1.3`  | 23/06/2024 | Correção de requisitos | [Gabriel F. J. Silva][GabrielFGH] |  |
+| `1.4`  | 24/06/2024 | Correção de requisitos |  |  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
