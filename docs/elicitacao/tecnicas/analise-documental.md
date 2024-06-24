@@ -117,28 +117,58 @@ Na Tabela 5 estão os requisitos elicitados para a funcionalidade de Busca por d
 Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Importações.
 
 
-<font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
+=== "`1.3`"
 
-<center>
+    <font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
 
-| Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
-|----------|------------|---------------------|----|--------| ------ |
-| Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD16 | RF | `1.0` |
-| Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF | `1.0` |
-| O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF | `1.0` |
-| Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD19 | RF | `1.0` |
-| Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD20 | RF | `1.0` |
-| Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD21 | RF | `1.0` |
-| Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD22 | RF | `1.0` |
-| Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD23 | RF | `1.0` |
-| O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD24 | RF | `1.0` |
-| O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD25 | RNF | `1.0` |
-| Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD26 | RNF | `1.0` |
-| As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD27 | RNF | `1.0` |
+    <center>
 
-</center>
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
+    | --- | --- | --- | --- | --- | --- |
+    | Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações em um só local? | AD16 | RF | `1.1` |
+    | Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF | `1.0` |
+    | O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF | `1.0` |
+    | Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD19 | RF | `1.0` |
+    | Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD20 | RF | `1.0` |
+    | Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD21 | RF | `1.0` |
+    | Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD22 | RF | `1.0` |
+    | Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD23 | RF | `1.0` |
+    | O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD24 | RF | `1.0` |
+    | O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo abaixo de 300ms | AD25 | RNF | `1.1` |
+    | Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD26 | RNF | `1.0` |
+    | As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD27 | RNF | `1.0` |
+    | O usuário sempre quer a encomenda? | Sim | O usuário deve poder desistir do pacote. | AD32 | RF | `1.1` |
+    | O precisa de um resumo da importação? | Sim | O usuário deve poder ver o status da importação. | AD33 | RF | `1.1` |
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
+
+
+=== "`1.0`"
+
+    <font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
+
+    <center>
+
+    | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
+    |----------|------------|---------------------|----|--------| ------ |
+    | Como o usuário deseja organizar suas importações no sistema? Quais informações específicas o usuário precisa rastrear para cada importação? | Sim | O Usuário deve ser capaz de gerenciar suas importações? | AD16 | RF | `1.0` |
+    | Quais tipos de problemas ou questões alfandegárias o usuário pode encontrar? Como o usuário espera resolver essas situações? | Sim | O Usuário deve ser capaz de resolver situações alfandegárias | AD17 | RF | `1.0` |
+    | O usuário deseja visualizar um histórico completo de todas as situações anteriores? Quais detalhes específicos o usuário gostaria de ver no histórico? | Sim | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | AD18 | RF | `1.0` |
+    | Como o usuário pretende adicionar novas importações ao sistema? Quais campos ou informações são essenciais para cada nova importação? | Sim | O usuário deve ser capaz de inserir novas importações | AD19 | RF | `1.0` |
+    | Quais métodos de pagamento o usuário espera encontrar no aplicativo? O usuário precisa de informações detalhadas sobre como efetuar os pagamentos? | Sim | O usuário deve ter acesso a meios de pagamento de taxas | AD20 | RF | `1.0` |
+    | Como o usuário deseja ser notificado sobre mudanças em suas importações? Quais eventos específicos devem acionar uma notificação? | Sim | O usuário deve ser notificado sobre atualizações de importações | AD21 | RF | `1.0` |
+    | Quais procedimentos o usuário gostaria de seguir para contestar taxas? Quais documentos ou evidências o usuário pode fornecer durante o processo de contestação? | Sim | O usuário deve poder contestar taxas e tributações | AD22 | RF | `1.0` |
+    | Como deve ser a comprovação da situação da encomenda? | Sim | O Usuário deve ser capaz de emitir comprovante | AD23 | RF | `1.0` |
+    | O usuário precisa de comprovantes impressos ou digitais? Quais informações devem constar nos comprovantes? | Sim | O usuário deve ser capaz de emitir DIS | AD24 | RF | `1.0` |
+    | O usuário precisa de prontidão nas informações alfandegarias? | Sim | As informações devem ser atualizadas em tempo de execução | AD25 | RNF | `1.0` |
+    | Quanto tempo leva para receber uma importação? | Sim | A liberação das encomendas deve ser automática | AD26 | RNF | `1.0` |
+    | As encomendas costumam ter o documento pessoal ou empresarial? | Sim | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD27 | RNF | `1.0` |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024 </p></font>
 
 
 ### Loja Online
@@ -272,7 +302,7 @@ Abaixo, na Tabela 9, estão especificados os Requisitos Não-funcionais e se est
 | `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 | `1.1`  | 21/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
 | `1.2`  | 23/06/2024 | Correção e versionamentos de requisitos | [Gabriel F. J. Silva][GabrielFGH] |  |
-
+| `1.3`  | 23/06/2024 | Correção e incerção de requisitos | [Pablo S. Costa][PabloGH] |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
