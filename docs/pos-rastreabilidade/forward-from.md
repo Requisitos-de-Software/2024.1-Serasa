@@ -150,47 +150,6 @@ Na tabela 03 abaixo são apresentadas as relações entre os requisitos definido
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel .B][GabrielBGH], 2024. </p></font>
 
-<font size="2"><p style="text-align: center">Tabela 04 - Elos dos Requisitos Não - Funcionais.</p></font>
-
-| Elo | Requisito | Satisfação | Recurso | Representação | Alocado | Agregação |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Elo01 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Não | | | | |
-| Elo02 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Não | | | | |
-| Elo03 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Sim | | | | |
-| Elo04 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Não | | | | |
-| Elo05 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Não | | | | |
-| Elo06 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Não | | | | |
-| Elo07 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Não | | | | |
-| Elo08 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | Não | | | | |
-| Elo09 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | Não | | | | |
-| Elo10 | O app deve possuir tutoriais interativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques | Não | | | | |
-| Elo11 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status | Não | | | | |
-| Elo12 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Não | | | | |
-| Elo13 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Sim | | | | |
-| Elo14 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão | Sim | | | | |
-| Elo15 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Sim | | | | |
-| Elo16 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm | Sim | | | | |
-| Elo17 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores | Não | | | | |
-| Elo18 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros | Sim | | | | |
-| Elo19 | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas | Sim | | | | |
-| Elo20 | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações | Sim | | | | |
-| Elo21 | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email | Sim | | | | |
-| Elo22 | A interface de visualização de mensagens deve carregar em menos de 5 segundos para 95% das operações | Sim | | | | |
-| Elo23 | A visualização de vales postais deve ser acessível apenas após autenticação do usuário com senha e um método adicional de autenticação | Sim | | | | |
-| Elo24 | A busca por objetos perdidos deve retornar resultados em menos de 5 segundos para 95% das consultas | Sim | | | | |
-| Elo25 | A área de contato sobre violência contra a mulher deve ter opção de chat ao vivo com tempo de resposta de menos de 10 minutos durante o horário de atendimento | Sim | | | | |
-| Elo26 | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial | Sim | | | | |
-| Elo27 | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior | Sim | | | | |
-| Elo28 | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status | Sim | | | | |
-| Elo29 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | Sim | | | | |
-| Elo30 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | Não | | | | |
-| Elo31 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Sim | | | | |
-| Elo32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Não | | | | |
-| Elo33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Não | | | | |
-| Elo34 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | Não | | | | |
-
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024. </p></font>
 
 ## Bibliografia
 
