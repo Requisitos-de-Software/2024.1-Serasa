@@ -52,7 +52,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
 
-## Matriz Geral
+## Matriz
 
 ### Requisitos Funcionais
 
