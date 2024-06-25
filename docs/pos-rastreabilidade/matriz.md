@@ -59,6 +59,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 <font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos funcionais presentes no projeto.</p></font>
 
 <center>
+
 | ID | Descrição | Elicitação | Artefato | Implementação | Elos |
 | --- | --- | --- | --- | --- | --- |
 | RF01 | O usuário deve poder realizar cadastro pelo app | BS01 | [Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/) | Sim | ERF-backword-from01 |
@@ -129,6 +130,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 <font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos Não Funcionais presentes no projeto.</p></font>
 
 <center>
+
 | ID | Descrição | Elicitação | Artefato | Implementação | Elos |
 | --- | --- | --- | --- | --- | --- |
 | RNF01 | O app deve bloquear as funções em caso de furto/roubo | BS25 | [Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/) | Não | ERNF-backword-from01 |
