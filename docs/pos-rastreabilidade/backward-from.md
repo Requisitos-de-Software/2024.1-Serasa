@@ -123,15 +123,15 @@ Legendas:
 | RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | [AD12][QRF] | Não | `1.0` |
 | RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | [AD14][QRF] | Sim | `1.0` |
 | RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | [AD15][QRF] | Não | `1.0` |
-| RF54 | O Usuário deve ser capaz de gerenciar suas importações | [AD16][QRF] |   | `1.0` |
-| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | [AD17][QRF] |   | `1.0` |
-| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | [AD18][QRF] |   | `1.0` |
-| RF57 | O usuário deve ser capaz de inserir novas importações | [AD19][QRF] |   | `1.0` |
-| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | [AD20][QRF] |   | `1.0` |
+| RF54 | O Usuário deve ser capaz de gerenciar suas importações | [AD16][QRF] | Não | `1.0` |
+| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | [AD17][QRF] | Não | `1.0` |
+| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | [AD18][QRF] | Não | `1.0` |
+| RF57 | O usuário deve ser capaz de inserir novas importações | [AD19][QRF] | Não | `1.0` |
+| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | [AD20][QRF] | Não | `1.0` |
 | RF59 | O usuário deve ser notificado sobre atualizações de importações | [AD21][QRF] |   | `1.0` |
-| RF60 | O usuário deve poder contestar taxas e tributações | [AD22][QRF] |   | `1.0` |
-| RF61 | O Usuário deve ser capaz de emitir comprovante | [AD23][QRF] |   | `1.0` |
-| RF62 | O usuário deve ser capaz de emitir DIS | [AD24][QRF] |   | `1.0` |
+| RF60 | O usuário deve poder contestar taxas e tributações | [AD22][QRF] | Não | `1.0` |
+| RF61 | O Usuário deve ser capaz de emitir comprovante | [AD23][QRF] | Não | `1.0` |
+| RF62 | O usuário deve ser capaz de emitir DIS | [AD24][QRF] | Não | `1.0` |
 | RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | [AD29][QRF] | Não | `1.1` |
 | RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | [AD30][QRF] | Não | `1.1` |
 | RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | [AD31][QRF] | Não | `1.1` |
@@ -186,9 +186,9 @@ Legendas:
 | RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | [AD07][QRNF] | Não | `1.1` |
 | RNF37 | A funcionalidade deve ser aparente na página principal. | [AD08][QRNF] | Não | `1.1` |
 | RNF38 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | [AD13][QRNF] | Sim | `1.0` |
-| RNF39 | As informações devem ser atualizadas em tempo de execução | [AD25][QRNF] |   | `1.0` |
-| RNF40 | A liberação das encomendas deve ser automática | [AD26][QRNF] |   | `1.0` |
-| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | [AD27][QRNF] |   | `1.0` |
+| RNF39 | As informações devem ser atualizadas em tempo de execução | [AD25][QRNF] | Não | `1.0` |
+| RNF40 | A liberação das encomendas deve ser automática | [AD26][QRNF] | Não | `1.0` |
+| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | [AD27][QRNF] | Não | `1.0` |
 
 </Center>
 
@@ -356,8 +356,8 @@ Legendas:
 [RicardoGH]: https://www.github.com/avmricardo
 
 <Links das seções da análise documental>
-[ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#requisitos-funcionais
-[ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#requisitos-nao-funcionais
+[ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
+[ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
 
 <Links das seções do brainstorm>
 [BSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
