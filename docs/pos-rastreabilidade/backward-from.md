@@ -64,7 +64,7 @@ Legendas:
 
 ### Requisitos Funcionais
 
-<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Requisitos Funcionais Versionados.</p></font>
 
 <Center>
 
@@ -142,7 +142,7 @@ Legendas:
 
 ### Requisitos Não-Funcionais
 
-<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Requisitos Não-Funcionais Versionados.</p></font>
 
 <Center>
 
@@ -198,7 +198,7 @@ Legendas:
 
 ### Requisitos Funcionais
 
-<font size="2"><p style="text-align: center">Tabela x - Elos dos Requisitos Funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Elos dos Requisitos Funcionais.</p></font>
 
 <center>
 
@@ -276,7 +276,7 @@ Legendas:
 
 ### Requisitos Não-funcionais
 
-<font size="2"><p style="text-align: center">Tabela x - Elos dos requisitos não funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Elos dos requisitos não funcionais.</p></font>
 
 <center>
 
