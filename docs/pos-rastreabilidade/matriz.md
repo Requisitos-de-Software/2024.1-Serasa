@@ -2,6 +2,12 @@
 
 ## Introdução
 
+A matriz de rastreabilidade é uma das técnicas mais comuns para estabelecer referências cruzadas. Ela é implementada por meio de ferramentas de uso geral, como editores de texto ou planilhas eletrônicas. Essas técnicas, centralizadas em referências cruzadas, são simples de entender e utilizar, podendo ser suportadas por hipertextos, esquemas de numeração, indexação ou uso de tags.
+
+A matriz de rastreabilidade consiste em uma tabela que estabelece correspondências entre os requisitos e outros artefatos do projeto. Seu objetivo é registrar as ligações entre as fontes e seus requisitos, componentes e artefatos de software. Essas conexões são especialmente valiosas quando ocorrem alterações no desenho, garantindo um uso adequado da rastreabilidade.
+
+## Objetivo
+
 Este artefato tem como objetivo criar uma matriz para organizar todos os requisitos que foram trabalhados nos documentos de pós-rastreabilidade: <a href="https://github.com/Requisitos-de-Software/2024.1-Correios/blob/main/docs/pos-rastreabilidade/backward-from.md">Backward-from</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-Correios/blob/main/docs/pos-rastreabilidade/forward-from.md">Forward-from</a>. 
 
 ## Metodologia
