@@ -42,4 +42,4 @@ Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.
 | Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 | ------ | ---- | ------ | ---------- | ---------- |
 | `1.0` | 10/06/2024 | Documentação da Apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Claudio Henrique](https://github.com/claudiohsc) |
-| `1.1` | 24/06/2024 | Conserta link direto da apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Claudio Henrique](https://github.com/claudiohsc) |
+| `1.1` | 24/06/2024 | Conserta link direto da apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
