@@ -112,20 +112,36 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
 
-<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+=== "`2.0`"
 
-| ID | Descrição | Versão |
-| --- | --- | --- |
-| SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
-| SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | `1.0` |
-| SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
-| SU04 | O app deverá ter uma melhor acessibilidade. | `1.0` |
-| SU05 | O app deverá ter uma interface fluída e estável. | `1.0` |
-| SU06 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
-| SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | `1.0` |
-| SU08 | A interface deve ser intuitiva para fácil realização do procedimento. | `1.0` |
+    <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | SU01 | O aplicativo deve funcionar em diferentes sistemas de smartphones Android e IOS, de pelo menos as ultimas duas atualização. | `1.1` |
+    | SU02 | O app deverá ter acessibilidade, com mapeamento para leitores de telas do Android e IOS. | `1.1` |
+    | SU03 | A aplicação precisa ser responsiva se adaptando para diferentes formatos e tamanhos de tela. | `1.1` |
+    | SU04 | O app deverá estar atualizado e disponível nas lojas oficiais de apps do Android e IOS. | `1.1` |
+    | SU05 | O app deve conter os dados online para utilização em multiplos dispositivos. | `1.1` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+    | SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | `1.0` |
+    | SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+    | SU04 | O app deverá ter uma melhor acessibilidade. | `1.0` |
+    | SU05 | O app deverá ter uma interface fluída e estável. | `1.0` |
+    | SU06 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+    | SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | `1.0` |
+    | SU08 | A interface deve ser intuitiva para fácil realização do procedimento. | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## + Ajuda e Documentação
 
