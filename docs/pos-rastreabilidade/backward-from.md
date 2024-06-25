@@ -249,30 +249,30 @@ Legendas:
 | RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |  Satisfação | Depende da atualização das preferências de recebimento antes do envio da encomenda.  |
 | RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |  Recurso | Depende de sistemas de notificação que informem o usuário sobre o status do recebimento.  |
 | RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | Recurso  | Requer integração com o sistema de lockers e um mecanismo para verificar a disponibilidade baseado no CEP informado.  |
-| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. |   |   |
-| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal |   |   |
-| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo |   |   |
-| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem |   |   |
-| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix |   |   |
-| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem |   |   |
-| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros |   |   |
-| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos |   |   |
-| RF54 | O Usuário deve ser capaz de gerenciar suas importações |   |   |
-| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias |   |   |
-| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias |   |   |
-| RF57 | O usuário deve ser capaz de inserir novas importações |   |   |
-| RF58 | O usuário deve ter acesso a meios de pagamento de taxas |   |   |
-| RF59 | O usuário deve ser notificado sobre atualizações de importações |   |   |
-| RF60 | O usuário deve poder contestar taxas e tributações |   |   |
-| RF61 | O Usuário deve ser capaz de emitir comprovante |   |   |
-| RF62 | O usuário deve ser capaz de emitir DIS |   |   |
-| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. |   |   |
-| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. |   |   |
-| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. |   |   |
+| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | Satisfação | Depende da funcionalidade de gerenciamento de endereço de entrega. |
+| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal | Representação | Envolve a representação das opções de retirada no sistema. |
+| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | Recurso | Necessita de integração com o serviço de pré-postagem. |
+| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | Satisfação | Depende da funcionalidade de pré-postagem (RF48). |
+| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | Recurso | Necessita de integração com serviços de pagamento. |
+| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | Recurso | Requer integração com a base de dados de endereços do usuário. |
+| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | Recurso | Necessita de integração com serviços de pagamento e armazenamento seguro de dados. |
+| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | Representação | Envolve a representação de dados na seção de achados e perdidos. |
+| RF54 | O Usuário deve ser capaz de gerenciar suas importações | Satisfação | Depende das funcionalidades de importação e gerenciamento de dados alfandegários. |
+| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | Representação | Representa as interações necessárias para resolver pendências alfandegárias. |
+| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | Representação | Envolve a representação de dados históricos sobre situações alfandegárias. |
+| RF57 | O usuário deve ser capaz de inserir novas importações | Satisfação | Relacionado ao gerenciamento de importações (RF54). |
+| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | Recurso | Necessita de integração com serviços de pagamento de taxas. |
+| RF59 | O usuário deve ser notificado sobre atualizações de importações | Satisfação | Depende do gerenciamento e monitoramento de importações. |
+| RF60 | O usuário deve poder contestar taxas e tributações | Representação | Representa a interface de contestação de taxas e tributações. |
+| RF61 | O Usuário deve ser capaz de emitir comprovante | Representação | Envolve a emissão e representação de comprovantes de transações. |
+| RF62 | O usuário deve ser capaz de emitir DIS | Representação | Relacionado à emissão e representação de documentos de importação. |
+| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | Satisfação | Depende da implementação de funcionalidades de busca e filtragem. |
+| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | Representação | Representa a interface de edição de informações do usuário. |
+| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | Satisfação | Depende das funcionalidades de ordenação e filtragem de itens. |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Fernando][GabrielFGH] e [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ### Requisitos Não-funcionais
 
