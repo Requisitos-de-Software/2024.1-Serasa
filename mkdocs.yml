@@ -15,6 +15,7 @@ nav:
     - Reunião 3: atas/ata3.md
     - Reunião 4: atas/ata4.md
     - Reunião 5: atas/ata5.md
+    - Reunião 6: atas/ata6.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
     - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
@@ -86,6 +87,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - content.tabs.link
   palette:
     - scheme : default
       primary: amber
@@ -101,4 +103,11 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
 
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 

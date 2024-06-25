@@ -64,7 +64,7 @@ Legendas:
 
 ### Requisitos Funcionais
 
-<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Requisitos Funcionais Versionados.</p></font>
 
 <Center>
 
@@ -142,7 +142,7 @@ Legendas:
 
 ### Requisitos Não-Funcionais
 
-<font size="2"><p style="text-align: center">Tabela 1 - RFX.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Requisitos Não-Funcionais Versionados.</p></font>
 
 <Center>
 
@@ -198,7 +198,7 @@ Legendas:
 
 ### Requisitos Funcionais
 
-<font size="2"><p style="text-align: center">Tabela x - Elos dos Requisitos Funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Elos dos Requisitos Funcionais.</p></font>
 
 <center>
 
@@ -276,7 +276,7 @@ Legendas:
 
 ### Requisitos Não-funcionais
 
-<font size="2"><p style="text-align: center">Tabela x - Elos dos requisitos não funcionais.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Elos dos requisitos não funcionais.</p></font>
 
 <center>
 
@@ -316,13 +316,13 @@ Legendas:
 | RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Satisfação | Medir satisfação do usuário com o aplicativo em lojas de aplicativos de celulares com sistema Android e IOS. |
 | RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Representação | Facilitar acesso à opção de rastreamento de encomendas |
 | RNF34 | O chat com o entregador deve ser protegido de acessos indevidos (de acordo com as especificações de segurança do [Art. 46](#referencias-bibliograficas) da LGPD) por meio de criptografia AES-256 | Responsabilidade | Garantir segurança no chat com o entregador seguindo as especificações da LGPD |
-| RNF35 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. |  |  |  
-| RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. |  |  |  
-| RNF37 | A funcionalidade deve ser aparente na página principal. |  |  |  
-| RNF38 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho |  |  |  
-| RNF39 | As informações devem ser atualizadas em tempo de execução |  |   
-| RNF40 | A liberação das encomendas deve ser automática |  |   | 
-| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente |  |   |  
+| RNF35 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | Satisfação | Relacionado ao RF23, que permite realizar o pagamento de impostos/taxas de importação pelo aplicativo, possibilitando a mudança de método de recebimento
+ |  
+| RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. |Satisfação  | Relacionado ao RF15, que permite aumentar e diminuir a fonte, melhorando a acessibilidade visual |  
+| RNF37 | A funcionalidade deve ser aparente na página principal. |  Representação| Relacionado ao RNF33, que exige que a opção de rastrear encomendas esteja na página principal e seja de fácil acesso |   
+| RNF39 | As informações devem ser atualizadas em tempo de execução | Satisfação | Relacionado ao RNF02, que exige atualização em tempo real da localização da entrega. |
+| RNF40 | A liberação das encomendas deve ser automática | Satisfação| Relacionado ao RF23, que permite realizar o pagamento de impostos/taxas de importação pelo aplicativo, facilitando a liberação automática das encomendas.  | 
+| RNF41 | Sempre que presente o documento do destinatário na encomenda, as importações devem ser inseridas automaticamente |Satisfação  |Relacionado ao RF18, que permite visualizar a encomenda no mapa, garantindo a precisão das informações de importação. |  
 
 </center>
 
