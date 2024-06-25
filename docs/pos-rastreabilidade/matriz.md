@@ -155,7 +155,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 | RNF38 | A liberação das encomendas deve ser automática | AD25 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 | RNF39 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD26 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 
-## Referências Bibliográficas
+## Bibliografia
 
 > 1. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 22 de julho de 2024.
 > 
