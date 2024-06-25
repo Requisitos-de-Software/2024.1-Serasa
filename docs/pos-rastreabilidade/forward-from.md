@@ -147,42 +147,42 @@ Na tabela 03 abaixo são apresentadas as relações entre os requisitos definido
 
 |ELO| Requisito |Descrição| Implementação | Satisfação |Recurso |Representação| Alocado | Agregação |
 |:----:| :----: | :----: | :----: | :----: | :----: | :----: |:----: |:----: |
-| ELO01| REQF1 | O usuário deve poder realizar cadastro pelo app | Sim | [US-17][US] | |![Imagem](../assets/imagem_forward/cadastro.jpg) | | |
-| ELO02| REQF2 | O usuário deve poder realizar login pelo app | Sim |[US-17][US]  | | ![Imagem](../assets/imagem_forward/login.jpg)| | |
-| ELO03| REQF3 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | |
-| ELO04| REQF4 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | |
-| ELO05| REQF5 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | |
-| ELO06| REQF6 | O usuário deve visualizar a estipulação de prazo de entrega | Sim |[US-05][US] | | | | |
-| ELO07| REQF7 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | |
-| ELO08| REQF8 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | |
-| ELO09| REQF9 | O usuário deve receber notificações push pelo aplicativo | Sim |[US-17][US]| | | | |
-| ELO10| REQF0 | O usuário deve receber notificações SMS | Sim |[TM-03][TM] | |![Imagem](../assets/imagem_forward/mensagem.jpg) | | |
-| ELO11| REQF1 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | |
-| ELO12| REQF2 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | |
-| ELO13| REQF3 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | |
-| ELO14| REQF4 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | |
-| ELO15| REQF5 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | |
-| ELO16| REQF6 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | |
-| ELO17| REQF7 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | |
-| ELO18| REQF8 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | |
-| ELO19| REQF9 | O usuário deve poder visualizar detalhes da situação do produto | Sim |[TM-03][TM] | | | | |
-| ELO20| REQF0 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | |
-| ELO21| REQF1 | O usuário deve poder realizar o rastreio por QR Code | Sim |[CSO-05][CSO] e [CSO-06][CSO]  | |![Imagem](../assets/imagem_forward/code.jpg) | | |
-| ELO22| REQF2 | O usuário deve receber notificação pelo e-mail | Não | | | | | |
-| ELO23| REQF3 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | |
-| ELO24| REQF4 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim |[US-05][US] | | | | |
-| ELO25| REQF5 | O aplicativo permite realizar login com sua conta | Sim |[US-05][US]| |![Imagem](../assets/imagem_forward/login.jpg) | | |
-| ELO26| REQF6 | O aplicativo permite rastreamento de encomendas por código. | Sim | [US-01][US]| | ![Imagem](../assets/imagem_forward/code.jpg)| | |
-| ELO27| REQF7 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim |[CN-03][CN] | |![Imagem](../assets/imagem_forward/code.jpg) | | |
-| ELO28| REQF8 | O aplicativo possibilite ver seus pagamentos | Sim |[CSO-02][CSO] | | | | |
-| ELO29| REQF9 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim |[US-19][US] | | | | |
-| ELO30| REQF0 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim |[US-05][US] | | | | |
-| ELO31| REQF1 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
-| ELO32| REQF2 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
-| ELO33| REQF3 | O aplicativo permite visualização de mensagens | Sim |[US-10][US]| | | | |
-| ELO34| REQF4 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
-| ELO35| REQF5 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim |[US-21][US] | | | | |
-| ELO36| REQF6 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim |[US-22][US]| | | | |
+| ELO01| REQF01 | O usuário deve poder realizar cadastro pelo app | Sim | [US-17][US] | |![Imagem](../assets/imagem_forward/cadastro.jpg) | | |
+| ELO02| REQF02 | O usuário deve poder realizar login pelo app | Sim |[US-17][US]  | | ![Imagem](../assets/imagem_forward/login.jpg)| | |
+| ELO03| REQF03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | |
+| ELO04| REQF04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | |
+| ELO05| REQF05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | |
+| ELO06| REQF06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim |[US-05][US] | | | | |
+| ELO07| REQF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | |
+| ELO08| REQF08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | |
+| ELO09| REQF09 | O usuário deve receber notificações push pelo aplicativo | Sim |[US-17][US]| | | | |
+| ELO10| REQF10 | O usuário deve receber notificações SMS | Sim |[TM-03][TM] | |![Imagem](../assets/imagem_forward/mensagem.jpg) | | |
+| ELO11| REQF11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | |
+| ELO12| REQF12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | |
+| ELO13| REQF13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | |
+| ELO14| REQF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | |
+| ELO15| REQF15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | |
+| ELO16| REQF16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | |
+| ELO17| REQF17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | |
+| ELO18| REQF18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | |
+| ELO19| REQF19 | O usuário deve poder visualizar detalhes da situação do produto | Sim |[TM-03][TM] | | | | |
+| ELO20| REQF20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | |
+| ELO21| REQF21 | O usuário deve poder realizar o rastreio por QR Code | Sim |[CSO-05][CSO] e [CSO-06][CSO]  | |![Imagem](../assets/imagem_forward/code.jpg) | | |
+| ELO22| REQF22 | O usuário deve receber notificação pelo e-mail | Não | | | | | |
+| ELO23| REQF23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | |
+| ELO24| REQF24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim |[US-05][US] | | | | |
+| ELO25| REQF25 | O aplicativo permite realizar login com sua conta | Sim |[US-05][US]| |![Imagem](../assets/imagem_forward/login.jpg) | | |
+| ELO26| REQF26 | O aplicativo permite rastreamento de encomendas por código. | Sim | [US-01][US]| | ![Imagem](../assets/imagem_forward/code.jpg)| | |
+| ELO27| REQF27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim |[CN-03][CN] | |![Imagem](../assets/imagem_forward/code.jpg) | | |
+| ELO28| REQF28 | O aplicativo possibilite ver seus pagamentos | Sim |[CSO-02][CSO] | | | | |
+| ELO29| REQF29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim |[US-19][US] | | | | |
+| ELO30| REQF30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim |[US-05][US] | | | | |
+| ELO31| REQF31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
+| ELO32| REQF32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
+| ELO33| REQF33 | O aplicativo permite visualização de mensagens | Sim |[US-10][US]| | | | |
+| ELO34| REQF34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
+| ELO35| REQF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim |[US-21][US] | | | | |
+| ELO36| REQF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim |[US-22][US]| | | | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel .B][GabrielBGH], 2024. </p></font>
 
