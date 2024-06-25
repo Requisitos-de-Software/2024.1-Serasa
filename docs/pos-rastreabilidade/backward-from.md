@@ -240,15 +240,15 @@ Legendas:
 | RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
 | RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
 | RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Representação | Está relacionado à representação pois envolve a criação de uma área específica de contato. |
-| RF37 | As informações das entregas ativas e completas na página de rastreio |   |   |
-| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega |   |   |
-| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. |   |   |
-| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. |   |   |
-| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. |   |   |
-| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. |   |   |
-| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |   |   |
-| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |   |   |
-| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade |   |   |
+| RF37 | As informações das entregas ativas e completas na página de rastreio | Representação  |  Este requisito está relacionado à representação, pois envolve a exibição de informações específicas na página de rastreio. |
+| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega | Recurso |  Necessita acesso a dados categorizados das encomendas para aplicar filtros. |
+| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. | Recurso  | Depende da implementação de um sistema de assistente virtual integrado com funcionalidades do site e aplicativo.  |
+| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | Alocado | Este requisito está alocado ao subsistema de comunicação com fornecedores.  |
+| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | Alocado  | Este requisito está alocado ao subsistema de comunicação com entregadores.  |
+| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | Recurso | Requer integração com sistemas de pagamento e bancos, além de uma página dedicada para transações financeiras.  |
+| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |  Satisfação | Depende da atualização das preferências de recebimento antes do envio da encomenda.  |
+| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |  Recurso | Depende de sistemas de notificação que informem o usuário sobre o status do recebimento.  |
+| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | Recurso  | Requer integração com o sistema de lockers e um mecanismo para verificar a disponibilidade baseado no CEP informado.  |
 | RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. |   |   |
 | RF47 | O usuário pode optar por retirar em uma agência ou caixa postal |   |   |
 | RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo |   |   |
