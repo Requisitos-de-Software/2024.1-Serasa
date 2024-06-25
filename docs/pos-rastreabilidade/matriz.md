@@ -50,6 +50,10 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 ### Requisitos Funcionais
 
+<font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos funcionais presentes no projeto.</p></font>
+
+<center>
+
 | ID  | Descrição | Elicitação | Artefato | Implementação |
 | --- | --------- | ---------- | -------- | ------------- |
 | RF01 | O usuário deve poder realizar cadastro pelo app | BS01 | [Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/) | Sim |
@@ -111,7 +115,15 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 | RF57 | O usuário deve poder contestar taxas e tributações | AD21 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 | RF58 | O Usuário deve ser capaz de emitir comprovante e DIS | AD22, AD23 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 
+</center> 
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
+
 ### Requisitos Não Funcionais
+
+<font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos Não Funcionais presentes no projeto.</p></font>
+
+<center>
 
 | ID  | Descrição | Elicitação | Artefato | Implementação |
 | --- | --------- | ---------- | -------- | ------------- |
@@ -154,6 +166,10 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 | RNF37 | As informações devem ser atualizadas em tempo de execução | AD24 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 | RNF38 | A liberação das encomendas deve ser automática | AD25 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
 | RNF39 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | AD26 | [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | Sim |
+
+</center> 
+
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
 
 ## Bibliografia
 
