@@ -202,73 +202,75 @@ Legendas:
 
 <center>
 
-| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
-| ------------ | --------- | :--------------------: | --------------------------- | 
-| RF01 | O usuário deve poder realizar cadastro pelo app |  Satisfação | Este requisito depende de uma base de dados para armazenar as informações do usuário. |
-| RF02 | O usuário deve poder realizar login pelo app |  Satisfação | Depende do cadastro de usuários (RF01) para funcionar. |
-| RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Representação | Esse requisito tem uma relação de representação, pois envolve a visualização de informações específicas. |
-| RF04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Recurso | Necessita integração com funcionalidades de segurança do sistema operacional do dispositivo. |
-| RF05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda |  Recurso | Depende da disponibilidade de hardware (chip de localização) para ser implementado. |
-| RF06 | O usuário deve visualizar a estipulação de prazo de entrega |  Representação | Este requisito pode ser representado por meio de uma interface de usuário detalhando prazos. |
-| RF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações |  Satisfação | Esse requisito possui relacionamento de satisfação, pois a atualização do prazo é relevante para o usuário. |
-| RF08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Agregação | Faz parte de um conjunto de funcionalidades de suporte ao cliente. |
-| RF09 | O usuário deve receber notificações push pelo aplicativo |  Satisfação | Relacionado à satisfação, pois as notificações push são importantes para manter o usuário informado   . |
-| RF10 | O usuário deve receber notificações SMS |  Satisfação | Relacionado à satisfação, pois as notificações push são importantes para manter o usuário informado. |
-| RF11 | O usuário deve receber notificações pelo WhatsApp |  Satisfação | Relacionado à satisfação, pois as notificações via whatsapp são importantes para manter o usuário informado. |
-| RF12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente |  Alocado | Este requisito está alocado ao subsistema de suporte ao cliente. |
-| RF13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento |  Representação | Pode ser representado por meio de vídeos ou textos explicativos na interface do usuário. |
-| RF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp |  Satisfação | Seu relacionamento é do tipo satisfação, pois está relacionado com a satisfação do usuário de receber informações. |
-| RF15 | O usuário deve poder aumentar e diminuir a fonte |  Representação | Requer ajustes na interface de usuário para permitir controle de tamanho de fonte. |
-| RF16 | O usuário deve ter a opção de falar com um atendente para obter ajuda |  Alocado | Está alocado ao subsistema de suporte ao cliente. |
-| RF17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) |  Agregação | Parte do subsistema de suporte ao cliente, agregando várias perguntas e respostas. |
-| RF18 | O usuário deve poder visualizar sua encomenda no mapa |  Representação | Requer integração com APIs de mapas para exibir a localização da encomenda. |
-| RF19 | O usuário deve poder visualizar detalhes da situação do produto |  Recurso | Requer acesso a dados detalhados sobre a encomenda. |
-| RF20 | O usuário deve poder realizar o rastreio por código mais simples |  Representação | Requer uma interface de entrada simplificada para códigos de rastreamento. |
-| RF21 | O usuário deve poder realizar o rastreio por QR Code | Representação | Necessita uma interface que permita a leitura de QR Codes. |
-| RF22 | O usuário deve receber notificação pelo e-mail |  Satisfação | As notificações por e-mail são relevantes para manter o usuário informado. |
-| RF23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Recurso | Requer integração com sistemas de pagamento e bancos. |
-| RF24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Representação | Simulação de envio depende de um subsistema que calcula tarifas e prazos. |
-| RF25 | O aplicativo permite realizar login com sua conta |  Satisfação | Depende da funcionalidade de cadastro de usuário (RF01). |
-| RF26 | O aplicativo permite rastreamento de encomendas por código |  Representação | Requer interface de rastreamento integrada com base de dados de encomendas. |
-| RF27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) |  Agregação | Parte das funcionalidades principais do aplicativo, agregando várias formas de envio. |
-| RF28 | O aplicativo possibilita ver seus pagamentos |  Representação | Requer uma interface para visualizar histórico e detalhes de pagamentos. |
-| RF29 | O aplicativo oferece uma busca por agências próximas ao seu endereço |  Recurso | Integração com serviços de localização e base de dados de agências. |
-| RF30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais |  Recurso | Integração com sistemas de cálculo de tarifas e prazos de entrega. |
-| RF31 | O aplicativo possibilita a compra de certificados digitais dos correios | Recurso | Integração com sistemas de venda e emissão de certificados digitais. |
-| RF32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo |  Recurso | Integração com sistemas de gerenciamento de contas e serviços de recarga. |
-| RF33 | O aplicativo permite visualização de mensagens | Representação | Requer uma interface que exibe mensagens recebidas pelo usuário. |
-| RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
-| RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
-| RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Representação | Está relacionado à representação pois envolve a criação de uma área específica de contato. |
-| RF37 | As informações das entregas ativas e completas na página de rastreio | Representação  |  Este requisito está relacionado à representação, pois envolve a exibição de informações específicas na página de rastreio. |
-| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega | Recurso |  Necessita acesso a dados categorizados das encomendas para aplicar filtros. |
-| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. | Recurso  | Depende da implementação de um sistema de assistente virtual integrado com funcionalidades do site e aplicativo.  |
-| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | Alocado | Este requisito está alocado ao subsistema de comunicação com fornecedores.  |
-| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | Alocado  | Este requisito está alocado ao subsistema de comunicação com entregadores.  |
-| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | Recurso | Requer integração com sistemas de pagamento e bancos, além de uma página dedicada para transações financeiras.  |
-| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |  Satisfação | Depende da atualização das preferências de recebimento antes do envio da encomenda.  |
-| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |  Recurso | Depende de sistemas de notificação que informem o usuário sobre o status do recebimento.  |
-| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | Recurso  | Requer integração com o sistema de lockers e um mecanismo para verificar a disponibilidade baseado no CEP informado.  |
-| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | Satisfação | Depende da funcionalidade de gerenciamento de endereço de entrega. |
-| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal | Representação | Envolve a representação das opções de retirada no sistema. |
-| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | Recurso | Necessita de integração com o serviço de pré-postagem. |
-| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | Satisfação | Depende da funcionalidade de pré-postagem (RF48). |
-| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | Recurso | Necessita de integração com serviços de pagamento. |
-| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | Recurso | Requer integração com a base de dados de endereços do usuário. |
-| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | Recurso | Necessita de integração com serviços de pagamento e armazenamento seguro de dados. |
-| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | Representação | Envolve a representação de dados na seção de achados e perdidos. |
-| RF54 | O Usuário deve ser capaz de gerenciar suas importações | Satisfação | Depende das funcionalidades de importação e gerenciamento de dados alfandegários. |
-| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | Representação | Representa as interações necessárias para resolver pendências alfandegárias. |
-| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | Representação | Envolve a representação de dados históricos sobre situações alfandegárias. |
-| RF57 | O usuário deve ser capaz de inserir novas importações | Satisfação | Relacionado ao gerenciamento de importações (RF54). |
-| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | Recurso | Necessita de integração com serviços de pagamento de taxas. |
-| RF59 | O usuário deve ser notificado sobre atualizações de importações | Satisfação | Depende do gerenciamento e monitoramento de importações. |
-| RF60 | O usuário deve poder contestar taxas e tributações | Representação | Representa a interface de contestação de taxas e tributações. |
-| RF61 | O Usuário deve ser capaz de emitir comprovante | Representação | Envolve a emissão e representação de comprovantes de transações. |
-| RF62 | O usuário deve ser capaz de emitir DIS | Representação | Relacionado à emissão e representação de documentos de importação. |
-| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | Satisfação | Depende da implementação de funcionalidades de busca e filtragem. |
-| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | Representação | Representa a interface de edição de informações do usuário. |
-| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | Satisfação | Depende das funcionalidades de ordenação e filtragem de itens. |
+|Elo| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
+|:---:| ------------ | --------- | :--------------------: | --------------------------- | 
+|ERF01| RF01 | O usuário deve poder realizar cadastro pelo app |  Satisfação | Este requisito depende de uma base de dados para armazenar as informações do usuário. |
+|ERF02| RF02 | O usuário deve poder realizar login pelo app |  Satisfação | Depende do cadastro de usuários (RF01) para funcionar. |
+|ERF03| RF03 | O usuário deve poder acessar o histórico de notificações do objeto |  Representação | Esse requisito tem uma relação de representação, pois envolve a visualização de informações específicas. |
+|ERF04| RF04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Recurso | Necessita integração com funcionalidades de segurança do sistema operacional do dispositivo. |
+|ERF05| RF05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda |  Recurso | Depende da disponibilidade de hardware (chip de localização) para ser implementado. |
+|ERF06| RF06 | O usuário deve visualizar a estipulação de prazo de entrega |  Representação | Este requisito pode ser representado por meio de uma interface de usuário detalhando prazos. |
+|ERF07| RF07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações |  Satisfação | Esse requisito possui relacionamento de satisfação, pois a atualização do prazo é relevante para o usuário. |
+|ERF08| RF08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Agregação | Faz parte de um conjunto de funcionalidades de suporte ao cliente. |
+|ERF09| RF09 | O usuário deve receber notificações push pelo aplicativo |  Satisfação | Relacionado à satisfação, pois as notificações push são importantes para manter o usuário informado. |
+|ERF10| RF10 | O usuário deve receber notificações SMS |  Satisfação | Relacionado à satisfação, pois as notificações SMS são importantes para manter o usuário informado. |
+|ERF11| RF11 | O usuário deve receber notificações pelo WhatsApp |  Satisfação | Relacionado à satisfação, pois as notificações via WhatsApp são importantes para manter o usuário informado. |
+|ERF12| RF12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente |  Alocado | Este requisito está alocado ao subsistema de suporte ao cliente. |
+|ERF13| RF13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento |  Representação | Pode ser representado por meio de vídeos ou textos explicativos na interface do usuário. |
+|ERF14| RF14 | O usuário deve poder receber o status da encomenda pelo WhatsApp |  Satisfação | Seu relacionamento é do tipo satisfação, pois está relacionado com a satisfação do usuário de receber informações. |
+|ERF15| RF15 | O usuário deve poder aumentar e diminuir a fonte |  Representação | Requer ajustes na interface de usuário para permitir controle de tamanho de fonte. |
+|ERF16| RF16 | O usuário deve ter a opção de falar com um atendente para obter ajuda |  Alocado | Está alocado ao subsistema de suporte ao cliente. |
+|ERF17| RF17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) |  Agregação | Parte do subsistema de suporte ao cliente, agregando várias perguntas e respostas. |
+|ERF18| RF18 | O usuário deve poder visualizar sua encomenda no mapa |  Representação | Requer integração com APIs de mapas para exibir a localização da encomenda. |
+|ERF19| RF19 | O usuário deve poder visualizar detalhes da situação do produto |  Recurso | Requer acesso a dados detalhados sobre a encomenda. |
+|ERF20| RF20 | O usuário deve poder realizar o rastreio por código mais simples |  Representação | Requer uma interface de entrada simplificada para códigos de rastreamento. |
+|ERF21| RF21 | O usuário deve poder realizar o rastreio por QR Code | Representação | Necessita uma interface que permita a leitura de QR Codes. |
+|ERF22| RF22 | O usuário deve receber notificação pelo e-mail |  Satisfação | As notificações por e-mail são relevantes para manter o usuário informado. |
+|ERF23| RF23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Recurso | Requer integração com sistemas de pagamento e bancos. |
+|ERF24| RF24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Representação | Simulação de envio depende de um subsistema que calcula tarifas e prazos. |
+|ERF25| RF25 | O aplicativo permite realizar login com sua conta |  Satisfação | Depende da funcionalidade de cadastro de usuário (RF01). |
+|ERF26| RF26 | O aplicativo permite rastreamento de encomendas por código |  Representação | Requer interface de rastreamento integrada com base de dados de encomendas. |
+|ERF27| RF27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) |  Agregação | Parte das funcionalidades principais do aplicativo, agregando várias formas de envio. |
+|ERF28| RF28 | O aplicativo possibilita ver seus pagamentos |  Representação | Requer uma interface para visualizar histórico e detalhes de pagamentos. |
+|ERF29| RF29 | O aplicativo oferece uma busca por agências próximas ao seu endereço |  Recurso | Integração com serviços de localização e base de dados de agências. |
+|ERF30| RF30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais |  Recurso | Integração com sistemas de cálculo de tarifas e prazos de entrega. |
+|Elo| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
+|:---:| ------------ | --------- | :--------------------: | --------------------------- | 
+|ERF31| RF31 | O aplicativo possibilita a compra de certificados digitais dos correios | Recurso | Integração com sistemas de venda e emissão de certificados digitais. |
+|ERF32| RF32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo |  Recurso | Integração com sistemas de gerenciamento de contas e serviços de recarga. |
+|ERF33| RF33 | O aplicativo permite visualização de mensagens | Representação | Requer uma interface que exibe mensagens recebidas pelo usuário. |
+|ERF34| RF34 | O aplicativo oferece a visualização de vales postais | Representação | Necessita de uma interface que permita ao usuário visualizar informações sobre vales postais. |
+|ERF35| RF35 | O aplicativo oferece uma área de busca por objetos perdidos em envios |  Agregação | Parte de um conjunto de funcionalidades de suporte ao cliente, agregando a busca por objetos perdidos. |
+|ERF36| RF36 | O aplicativo fornece uma área de contato sobre violência contra a mulher |  Representação | Está relacionado à representação pois envolve a criação de uma área específica de contato. |
+|ERF37| RF37 | As informações das entregas ativas e completas na página de rastreio | Representação  |  Este requisito está relacionado à representação, pois envolve a exibição de informações específicas na página de rastreio. |
+|ERF38| RF38 | Filtrar o tipo de encomenda pelo tipo de entrega | Recurso |  Necessita acesso a dados categorizados das encomendas para aplicar filtros. |
+|ERF39| RF39 | Assistente virtual dos correios para ajudar a executar tarefas e achar opções muitas vezes de difícil acesso pelo site. | Recurso  | Depende da implementação de um sistema de assistente virtual integrado com funcionalidades do site e aplicativo.  |
+|ERF40| RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | Alocado | Este requisito está alocado ao subsistema de comunicação com fornecedores.  |
+|ERF41| RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | Alocado  | Este requisito está alocado ao subsistema de comunicação com entregadores.  |
+|ERF42| RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | Recurso | Requer integração com sistemas de pagamento e bancos, além de uma página dedicada para transações financeiras.  |
+|ERF43| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. |  Satisfação | Depende da atualização das preferências de recebimento antes do envio da encomenda.  |
+|ERF44| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. |  Recurso | Depende de sistemas de notificação que informem o usuário sobre o status do recebimento.  |
+|ERF45| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | Recurso  | Requer integração com o sistema de lockers e um mecanismo para verificar a disponibilidade baseado no CEP informado.  |
+|ERF46| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | Satisfação | Depende da funcionalidade de gerenciamento de endereço de entrega. |
+|ERF47| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal | Representação | Envolve a representação das opções de retirada no sistema. |
+|ERF48| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | Recurso | Necessita de integração com o serviço de pré-postagem. |
+|ERF49| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | Satisfação | Depende da funcionalidade de pré-postagem (RF48). |
+|ERF50| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | Recurso | Necessita de integração com serviços de pagamento. |
+|ERF51| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | Recurso | Requer integração com a base de dados de endereços do usuário. |
+|ERF52| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | Recurso | Necessita de integração com serviços de pagamento e armazenamento seguro de dados. |
+|ERF53| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | Representação | Envolve a representação de dados na seção de achados e perdidos. |
+|ERF54| RF54 | O Usuário deve ser capaz de gerenciar suas importações | Satisfação | Depende das funcionalidades de importação e gerenciamento de dados alfandegários. |
+|ERF55| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | Representação | Representa as interações necessárias para resolver pendências alfandegárias. |
+|ERF56| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | Representação | Envolve a representação de dados históricos sobre situações alfandegárias. |
+|ERF57| RF57 | O usuário deve ser capaz de inserir novas importações | Satisfação | Relacionado ao gerenciamento de importações (RF54). |
+|ERF58| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | Recurso | Necessita de integração com serviços de pagamento de taxas. |
+|ERF59| RF59 | O usuário deve ser notificado sobre atualizações de importações | Satisfação | Depende do gerenciamento e monitoramento de importações. |
+|ERF60| RF60 | O usuário deve poder contestar taxas e tributações | Representação | Representa a interface de contestação de taxas e tributações. |
+|ERF61| RF61 | O Usuário deve ser capaz de emitir comprovante | Representação | Envolve a emissão e representação de comprovantes de transações. |
+|ERF62| RF62 | O usuário deve ser capaz de emitir DIS | Representação | Relacionado à emissão e representação de documentos de importação. |
+|ERF63| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | Satisfação | Depende da implementação de funcionalidades de busca e filtragem. |
+|ERF64| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | Representação | Representa a interface de edição de informações do usuário. |
+|ERF65| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | Satisfação | Depende das funcionalidades de ordenação e filtragem de itens. |
 
 </center>
 
