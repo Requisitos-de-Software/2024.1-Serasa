@@ -75,6 +75,7 @@ nav:
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
+    - Forward-From: pos-rastreabilidade/forward-from.md
   
 
 extra_css:
