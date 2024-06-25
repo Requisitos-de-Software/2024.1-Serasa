@@ -226,7 +226,7 @@ Dados Pessoais (LGPD)**. Diário Oficial da União, Brasília, DF, 15 ago. 2018.
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 17/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | `1.1`  | 01/05/2024 | Correção do diagrama do questionário e coluna de implementação dos requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
-| `1.2`  | 23/06/2024 | Correção de requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi) |  |
+| `1.2`  | 23/06/2024 | Correção de requisitos | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Gabriel B. Bertolazi](https://github.com/BErtolazi) | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
