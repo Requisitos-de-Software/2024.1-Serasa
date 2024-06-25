@@ -234,8 +234,6 @@ Legendas:
 |ERF28| RF28 | O aplicativo possibilita ver seus pagamentos |  Representação | Requer uma interface para visualizar histórico e detalhes de pagamentos. |
 |ERF29| RF29 | O aplicativo oferece uma busca por agências próximas ao seu endereço |  Recurso | Integração com serviços de localização e base de dados de agências. |
 |ERF30| RF30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e internacionais |  Recurso | Integração com sistemas de cálculo de tarifas e prazos de entrega. |
-|Elo| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
-|:---:| ------------ | --------- | :--------------------: | --------------------------- | 
 |ERF31| RF31 | O aplicativo possibilita a compra de certificados digitais dos correios | Recurso | Integração com sistemas de venda e emissão de certificados digitais. |
 |ERF32| RF32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo |  Recurso | Integração com sistemas de gerenciamento de contas e serviços de recarga. |
 |ERF33| RF33 | O aplicativo permite visualização de mensagens | Representação | Requer uma interface que exibe mensagens recebidas pelo usuário. |
