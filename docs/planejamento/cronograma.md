@@ -258,12 +258,12 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: |
-| Ata de Reunião | Início: /06 Fim: /06 | Ricardo | Início: Início: /06 Fim: /06 | Gabriel B. Bertolazi |
-| Rastreabilidade Backward | Início: /06 Fim: /06| Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Rastreabilidade Forward | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Matriz de rastreabilidade | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Gravação da Apresentação e Entrega | Início: 01/06 Fim: 03/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: /06 Fim: /06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Correção pós apresentação | Iníci/06/06  <br>Fim: 06/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Ata de Reunião | Início: 20/06 Fim: 20/06 | [Elias F. Oliveira][EliasGH] | Início: Início: 24/06 Fim: 24/06 | Gabriel B. Bertolazi |
+| Rastreabilidade Backward | Início: 23/06 Fim: 24/06| [Cláudio][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo][RicardoGH] | Início: 24/06 Fim: 24/06  | [Elias F. Oliveira][EliasGH] |
+| Rastreabilidade Forward | Início: 23/06 Fim: 24/06 | [Elias F. Oliveira][EliasGH], [Gabriel B.][GabrielBGH] | Início: 24/06  Fim: 24/06  | [Gabriel F.][GabrielFGH] |
+| Matriz de rastreabilidade | Início: 23/06 Fim: 24/06  | [Danilo][DaniloGH] e [Pablo][PabloGH] | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Gravação da Apresentação e Entrega | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 24/06  Fim: 24/06   | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correção pós apresentação | Início: /06  <br>Fim: 06/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06  <br>Fim: 07/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria de Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -307,3 +307,13 @@ Disponível em:
 | `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
 | `1.6` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
 | `1.7` | 27/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 4  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21)|
+| `1.8` | 24/06/2024 | Adiciona cronograma executado da entrega 6 | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
+
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
