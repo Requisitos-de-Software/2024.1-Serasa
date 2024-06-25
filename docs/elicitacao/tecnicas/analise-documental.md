@@ -238,7 +238,7 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 | `1.1`  | 21/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
-| `1.2`  | 23/06/2024 | Correção e versionamentos de requisitos | [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH] |  |
+| `1.2`  | 23/06/2024 | Correção e versionamentos de requisitos | [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH] |[Claudio Henrique][ClaudioGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
