@@ -186,7 +186,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| 1.0  | 24/06/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)| [Gabriel B. Bertolazi](https://github.com/BErtolazi) |
+| 1.0  | 24/06/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)| [Elias][EliasGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
