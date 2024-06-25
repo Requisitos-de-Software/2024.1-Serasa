@@ -176,13 +176,13 @@ Na tabela 03 abaixo são apresentadas as relações entre os requisitos definido
 | ELO27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim |[CN-03][CN] | | | | |
 | ELO28 | O aplicativo possibilite ver seus pagamentos | Sim |[CSO-02][CSO] | | | | |
 | ELO29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim |[US-19][US] | | | | |
-| ELO30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim | | | | | |
+| ELO30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim |[US-05][US] | | | | |
 | ELO31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
 | ELO32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
-| ELO33 | O aplicativo permite visualização de mensagens | Sim | | | | | |
+| ELO33 | O aplicativo permite visualização de mensagens | Sim |[US-10][US]| | | | |
 | ELO34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
-| ELO35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | |
-| ELO36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | |
+| ELO35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim |[US-21][US] | | | | |
+| ELO36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim |[US-22][US]| | | | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel .B][GabrielBGH], 2024. </p></font>
 
