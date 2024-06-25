@@ -105,6 +105,10 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
+extra:
+  analytics:
+    provider: google
+    property: G-41DM9F5YEC
 
 markdown_extensions:
   - pymdownx.superfences
