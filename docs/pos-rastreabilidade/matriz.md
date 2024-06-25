@@ -21,13 +21,13 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 | ID | Descrição | Elicitação | Artefato | Implentação|
 | -- | --------- | ---------- | -------- | ---------- |
-| . | . | . | . | . |
+| MRx | RF ou RNF - [descrição] | abreviatura | link | Sim ou Não |
 
 </center> 
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) e [pablo S. Costa][PabloGH], 2024.</p></font>
 
-## Legenda
+### Legenda
 
 <font size="2"><p style="text-align: center">Tabela 2 - Legendas dos artefatos de requisitos.</p></font>
 
