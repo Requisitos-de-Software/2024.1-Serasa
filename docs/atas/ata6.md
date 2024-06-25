@@ -77,7 +77,7 @@ Não ouve gravação da reunião.
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 20/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] |  |
+|`1.0`| 20/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
