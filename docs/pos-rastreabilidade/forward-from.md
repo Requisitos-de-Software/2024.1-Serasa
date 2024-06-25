@@ -145,44 +145,44 @@ Na tabela 03 abaixo são apresentadas as relações entre os requisitos definido
 
 <font size="2"><p style="text-align: center">Tabela 03 - Elos dos Requisitos Funcionais.</p></font>
 
-|Elo| Requisito | Satisfação | Recurso |Representação| Alocado | Agregação |
+|ELO| Requisito | Satisfação | Recurso |Representação| Alocado | Agregação |
 |:----:| :----: | :----: | :----: | :----: | :----: | :----: |
-| Elo01 | O usuário deve poder realizar cadastro pelo app | Sim | | | | | |
-| Elo02 | O usuário deve poder realizar login pelo app | Sim | | | | | |
-| Elo03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | |
-| Elo04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | |
-| Elo05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | |
-| Elo06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim | | | | | |
-| Elo07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | |
-| Elo08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | |
-| Elo09 | O usuário deve receber notificações push pelo aplicativo | Sim | | | | | |
-| Elo10 | O usuário deve receber notificações SMS | Sim | | | | | |
-| Elo11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | |
-| Elo12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | |
-| Elo13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | |
-| Elo14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | |
-| Elo15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | |
-| Elo16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | |
-| Elo17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | |
-| Elo18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | |
-| Elo19 | O usuário deve poder visualizar detalhes da situação do produto | Sim | | | | | |
-| Elo20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | |
-| Elo21 | O usuário deve poder realizar o rastreio por QR Code | Sim | | | | | |
-| Elo22 | O usuário deve receber notificação pelo e-mail | Não | | | | | |
-| Elo23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | |
-| Elo24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim | | | | | |
-| Elo25 | O aplicativo permite realizar login com sua conta | Sim | | | | | |
-| Elo26 | O aplicativo permite rastreamento de encomendas por código. | Sim | | | | | |
-| Elo27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim | | | | | |
-| Elo28 | O aplicativo possibilite ver seus pagamentos | Sim | | | | | |
-| Elo29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim | | | | | |
-| Elo30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim | | | | | |
-| Elo31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
-| Elo32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
-| Elo33 | O aplicativo permite visualização de mensagens | Sim | | | | | |
-| Elo34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
-| Elo35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | |
-| Elo36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | |
+| ELO01 | O usuário deve poder realizar cadastro pelo app | Sim | [US-17][US] | | | | |
+| ELO02 | O usuário deve poder realizar login pelo app | Sim |[US-17][US]  | | | | |
+| ELO03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | |
+| ELO04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | |
+| ELO05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | |
+| ELO06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim |[US-05][US] | | | | |
+| ELO07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | |
+| ELO08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | |
+| ELO09 | O usuário deve receber notificações push pelo aplicativo | Sim |[US-17][US]| | | | |
+| ELO10 | O usuário deve receber notificações SMS | Sim |[TM-03][TM] | | | | |
+| ELO11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | |
+| ELO12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | |
+| ELO13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | |
+| ELO14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | |
+| ELO15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | |
+| ELO16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | |
+| ELO17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | |
+| ELO18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | |
+| ELO19 | O usuário deve poder visualizar detalhes da situação do produto | Sim |[TM-03][TM] | | | | |
+| ELO20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | |
+| ELO21 | O usuário deve poder realizar o rastreio por QR Code | Sim |[CSO-05][CSO] e [CSO-06][CSO]  | | | | |
+| ELO22 | O usuário deve receber notificação pelo e-mail | Não | | | | | |
+| ELO23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | |
+| ELO24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim |[US-05][US] | | | | |
+| ELO25 | O aplicativo permite realizar login com sua conta | Sim |[US-05][US]| | | | |
+| ELO26 | O aplicativo permite rastreamento de encomendas por código. | Sim | [US-01][US]| | | | |
+| ELO27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim |[CN-03][CN] | | | | |
+| ELO28 | O aplicativo possibilite ver seus pagamentos | Sim |[CSO-02][CSO] | | | | |
+| ELO29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim |[US-19][US] | | | | |
+| ELO30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim | | | | | |
+| ELO31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
+| ELO32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
+| ELO33 | O aplicativo permite visualização de mensagens | Sim | | | | | |
+| ELO34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
+| ELO35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | |
+| ELO36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel .B][GabrielBGH], 2024. </p></font>
 
