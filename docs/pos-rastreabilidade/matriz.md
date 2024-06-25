@@ -19,7 +19,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 <center>
 
 
-| ID | Descrição | Elicitação | Artefato | Implentação|
+| ID | Descrição | Elicitação | Artefato | Implentação |
 | -- | --------- | ---------- | -------- | ---------- |
 | MRx | RF ou RNF - [descrição] | abreviatura | link | Sim ou Não |
 
