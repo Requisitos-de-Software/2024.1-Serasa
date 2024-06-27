@@ -142,7 +142,7 @@ A reunião foi realizada de forma presencial.
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 27/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 27/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
