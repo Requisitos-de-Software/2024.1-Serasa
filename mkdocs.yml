@@ -75,6 +75,36 @@ nav:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
+    - Grupo:
+      - Pré-Rastreabilidade:
+        - Rich Picture: verificacao/grupo/template.md
+      - Elicitação:
+        - Perfil de Usuário: verificacao/grupo/template.md
+        - Personas: verificacao/grupo/template.md
+        - Técnicas:
+          - Análise Documental: verificacao/grupo/template.md
+          - Brainstorming: verificacao/grupo/template.md
+          - Observação: verificacao/grupo/template.md
+          - Questionário: verificacao/grupo/template.md
+        - Priorização: 
+          - $100: verificacao/grupo/template.md
+          - First Things First: verificacao/grupo/template.md
+          - In Or Out: verificacao/grupo/template.md
+        - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
+      - Modelagem:
+        - Cenários: verificacao/grupo/template.md
+        - Casos de Uso: modelagem/casos_de_uso.md
+        - Validação dos Casos de Uso: modelagem/validacao.md
+        - Especificação Suplementar: modelagem/especificacao_suplementar.md
+        - Léxicos: modelagem/lexicos.md
+        - Ágil:
+          - Backlog: verificacao/grupo/template.md
+          - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
+          - NFR Framework: modelagem/agil/nfr-framework.md
+      - Pós-Rastreabilidade:
+        - Backward-From: verificacao/grupo/template.md
+        - Forward-From: pos-rastreabilidade/forward-from.md
+        - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
@@ -112,10 +142,9 @@ extra:
     property: G-41DM9F5YEC
 
 markdown_extensions:
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
