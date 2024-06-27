@@ -295,8 +295,6 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 </center>
 
-
-
 ## Reuniões
 <center>
  **Reunião 01**
