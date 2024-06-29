@@ -2,7 +2,14 @@
 
 ## Introdução
 
-Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema.1 Ela é complementar aos casos de uso, pois ela captura os requisitos do sistema que não foram elicitados no método anterior. Entre os requisitos capturados estão incluídos: Requisitos legais e de regulamentação, padrões de aplicativos, atributos de qualidade, requisitos de utilidade, confiabilidade, desempenho, suportabilidade e outros requisitos como sistemas e ambientes operacionais, requisitos de compatibilidade e restrições de design. A metodologia mais utilizada para a produção de uma especificação suplementar é a FURPS+.
+A Especificação Suplementar funciona como um documento complementar aos casos de uso, fornecendo uma descrição detalhada, em linguagem natural, dos requisitos do sistema. Ela preenche as lacunas deixadas pelos casos de uso, capturando requisitos adicionais que não foram elicitados no método anterior.
+
+Conteúdo Essencial da Especificação Suplementar:
+
+- Requisitos Legais e Regulatórios: Detalhes sobre as leis, normas e padrões que o sistema deve seguir, incluindo padrões de aplicativos específicos.
+- Atributos de Qualidade: Definição dos atributos de qualidade esperados do sistema, como usabilidade, confiabilidade, desempenho e suportabilidade.
+- Requisitos Adicionais: Especificação de outros requisitos relevantes, como sistemas operacionais compatíveis, ambientes de execução, requisitos de compatibilidade e restrições de design.
+
 ## Metodologia
 
 Para a produção desse artefato será utilizado uma versão modificada do FURPS+, que é uma metodologia na qual os requisitos são dividido nas seguintes categorias: F de Functionality (Funcionalidade), U de Usability (Usabilidade), R de Reliability (Confiabilidade), P de Performance (Desempenho), S de Supportability (Suportabilidade) e + que engloba outros requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos). Nessa versão os requisitos de interface, além da seção de componentes adquiridos serão omitidos, dado que são atributos já especificados em outros artefatos, como os requisitos não-funcionais elicitados pelas técnicas de Observação, de Questionário e de Brainstorming.
@@ -105,36 +112,69 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 Abaixo temos a tabela 4 que lista os requisitor de suportabilidade.
 
-<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+=== "`2.0`"
 
-| ID   | Descrição                                                                                                                                                                                                                   |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente.                                                      |
-| SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?".                                                                                                           |
-| SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda         |
-| SU04 | O app deverá ter uma melhor acessibilidade.                                                                         |
-| SU05 | O app deverá ter uma interface fluída e estável.                                       |
-| SU06 | O aplicativo requer uma interface amigável e fácil de usar. |
-| SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
-| SU08 | A interface deve ser intuitiva para fácil realização do procedimento. |
+    <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | SU01 | O aplicativo deve funcionar em diferentes sistemas de smartphones Android e IOS, de pelo menos as ultimas duas atualização. | `1.1` |
+    | SU02 | O app deverá ter acessibilidade, com mapeamento para leitores de telas do Android e IOS. | `1.1` |
+    | SU03 | A aplicação precisa ser responsiva se adaptando para diferentes formatos e tamanhos de tela. | `1.1` |
+    | SU04 | O app deverá estar atualizado e disponível nas lojas oficiais de apps do Android e IOS. | `1.1` |
+    | SU05 | O app deve conter os dados online para utilização em multiplos dispositivos. | `1.1` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | SU01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+    | SU02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". | `1.0` |
+    | SU03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+    | SU04 | O app deverá ter uma melhor acessibilidade. | `1.0` |
+    | SU05 | O app deverá ter uma interface fluída e estável. | `1.0` |
+    | SU06 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+    | SU07 | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. | `1.0` |
+    | SU08 | A interface deve ser intuitiva para fácil realização do procedimento. | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## + Ajuda e Documentação
 
 A seção de Ajuda e Documentação de um aplicativo é composta por uma série de recursos projetados para instruir e informar os usuários acerca da operação, funcionalidades e práticas recomendadas para o uso do aplicativo. Esta parte é essencial para assegurar que os usuários consigam empregar o aplicativo eficientemente, esclarecer incertezas e extrair o máximo proveito de suas capacidades. Na tabela 5 temos os requitos elicitados para tal.
 
-<font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
+=== "`2.0`"
 
-| ID  | Descrição |
-|-----|-----------|
-| AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. |
-| AD02 | O app deverá tela de ajuda e pop-up "Precisa de ajuda?" |
-| AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda |
-| AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) |
-| AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) |
+    <font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | AD01 | O sistema de chat bot com opção de redirecionar a um atendente, deve ser de fácil acesso em menos de 2min. | `1.1` |
+    | AD02 | A  tela de ajuda e pop-up "Precisa de ajuda?", deve ser de fácil acesso em menos de 2min. | `1.1` |
+    | AD03 | Os tutoriais devem cobrir 80% das funções dentro do app. | `1.1` |
+    | AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
+    | AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
+    | AD06 | O app deve ser compatível com os mecanismos de leitura de tela do android e do IOS. | `1.1` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 5** - Requisitos + Ajuda e Documentação.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | AD01 | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. | `1.0` |
+    | AD02 | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?" | `1.0` |
+    | AD03 | O app deverá possuir tutoriais e ou melhor informação sobre como rastrear uma encomenda | `1.0` |
+    | AD04 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | `1.0` |
+    | AD05 | O chat com o entregador deve ser confiável (as mensagens devem ser arquivadas por um período de até 1 ano) | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## + Restrições de Design
 
@@ -142,19 +182,36 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restrições de Design** elicitados para o aplicativo "Correios".
 
-<font><p style="text-align: center">**Tabela 5** - Requisitos + Restrições de Design.</p></font>
+=== "`2.0`"
 
-| ID  | Descrição |
-|-----|-----------|
-| RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. |
-| RD02 | O app deverá ter uma interface fluída e estável. |
-| RD03 | A visualização de mensagens deve ser rápida e fácil de usar. |
-| RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado |
-| RD05 | O aplicativo requer uma interface amigável e fácil de usar. |
-| RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). |
+    <font><p style="text-align: center">**Tabela 6** - Requisitos + Restrições de Design.</p></font>
 
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | RD01 | O app deverá mostrar informação de forma clara usando conceitos de minimalismo. | `1.1` |
+    | RD02 | O app deverá ter uma interface fluída, carregando a interfaces internas em menos de 300ms. | `1.1` |
+    | RD03 | A visualização de mensagens deve ser rápida e minimalista, carregando em menos de 300ms. | `1.1` |
+    | RD04 | A visualização de vales postais deve ser protegida com senha e usuário, sendo acessível apenas pelo usuário autorizado | `1.1` |
+    | RD05 | O aplicativo requer uma interface amigável e fácil de usar, seguindo um padrão de estilo pré-estabelecido. | `1.1` |
+    | RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
+    | RD07 | A aplicação precisa ser responsiva se adaptando para diferentes formatos e tamanhos de tela. | `1.1` |
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+=== "`1.0`"
+
+    <font><p style="text-align: center">**Tabela 6** - Requisitos + Restrições de Design.</p></font>
+
+    | ID | Descrição | Versão |
+    | --- | --- | --- |
+    | RD01 | O app deverá mostrar informação mais clara e menos poluída na Home. | `1.0` |
+    | RD02 | O app deverá ter uma interface fluída e estável. | `1.0` |
+    | RD03 | A visualização de mensagens deve ser rápida e fácil de usar. | `1.0` |
+    | RD04 | A visualização de vales postais deve ser protegida e acessível apenas pelo usuário autorizado | `1.0` |
+    | RD05 | O aplicativo requer uma interface amigável e fácil de usar. | `1.0` |
+    | RD06 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la). | `1.0` |
+
+    <font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -169,7 +226,7 @@ Na **tabela 6**, é possível ver os **Requisitos Não Funcionais para Restriç�
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) &  [Danilo Carvalho Antuneres](https://github.com/Danilo-Carvalho-Antunes) | [Elias F. Oliveira](https://github.com/EliasOliver21) |
-
+| `2.0`  | 20/05/2024 | Refatoração com versionamento. | [Pablo S. Costa](https://github.com/pabloheika) |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
