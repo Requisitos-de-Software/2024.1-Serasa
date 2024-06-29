@@ -84,7 +84,7 @@ nav:
         - Técnicas:
           - Análise Documental: verificacao/grupo/elicitacao/tecnicas/analise-documental.md
           - Brainstorming: verificacao/grupo/template.md
-          - Observação: verificacao/grupo/template.md
+          - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
           - Questionário: verificacao/grupo/template.md
         - Priorização: 
           - $100: verificacao/grupo/template.md
@@ -98,7 +98,7 @@ nav:
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo/modelagem/lexicos.md
         - Ágil:
-          - Backlog: verificacao/grupo/template.md
+          - Backlog: verificacao/grupo/modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
           - NFR Framework: modelagem/agil/nfr-framework.md
       - Pós-Rastreabilidade:
@@ -147,4 +147,10 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 
