@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação do Artefato Perfil de Usuário
 
 ## Introdução
 
@@ -43,44 +43,39 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 |ID| Descrição | Avaliação | Referência| Print|
 |:--:|:--:|:--:|:--:|
 |1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>|[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
-|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim  |  <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
-|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Incompleto | <a href="#ref1">REF1</a> |[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
-| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? |Sim | <a href="#ref1">REF1</a>. pg 166| |
+|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim |  <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
+|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Sim | <a href="#ref1">REF1</a> |[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
+| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | Sim | <a href="#ref1">REF1</a>. pg 166| |
 | 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | Sim | <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
-| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? |Sim | <a href="#ref1">REF1</a>. [pg 149](../../../assets/prints_verificacao/claudio/pg149-perguntas.png)|
-|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? |Sim |  <a href="#ref1">REF1</a> |[pg 151](../../../assets/prints_verificacao/claudio/pg151-abertas.png)|
-|8| O perfil de usuário considera a faixa etária dos usuários? |Sim | <a href="#ref1">REF1</a>. pg 166|
-|9| O perfil de usuário abrange informações sobre a experiência dos usuários? |Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
-|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim| <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
-|11| O perfil de usuário descreve as atividades principais dos usuários? | Sim| <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
+| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? | Sim | <a href="#ref1">REF1</a>. [pg 149](../../../assets/prints_verificacao/claudio/pg149-perguntas.png)|
+|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? | Incompleto |  <a href="#ref1">REF1</a> |[pg 151](../../../assets/prints_verificacao/claudio/pg151-abertas.png)|
+|8| O perfil de usuário considera a faixa etária dos usuários? | Sim | <a href="#ref1">REF1</a>. pg 166|
+|9| O perfil de usuário abrange informações sobre a experiência dos usuários? | Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
+|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
+|11| O perfil de usuário descreve as atividades principais dos usuários? | Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
 ### Gravação da verificação
 
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
-
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tPgYX-HeqjA?si=umA22gnhvqr3l2bn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/tPgYX-HeqjA"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 07: Descrição 
+    - Avaliação: Incompleto
+    - Comentário: Não está explícito se existe questões abertas no questionário feito para a criação do perfil de usuário.
 
 ### Sumário dos resultados
 
-<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
@@ -107,14 +102,12 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 }%%
 pie
     "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Incompleto" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -125,7 +118,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 27/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 27/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] & [Danilo Carvalho Antunes][DaniloGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação do Artefato Rich Picture
 
 ## Introdução
 
