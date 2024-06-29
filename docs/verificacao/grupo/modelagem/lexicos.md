@@ -35,38 +35,34 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Temos os quatro tipos de léxicos (Sujeito, Verbo, Objeto e estado)? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
-| **2** | Os símbolos constituem de forma correta o que é apresentado posteriormente nos léxicos? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
-| **3** | A noção dos léxicos está bem descrita de acordo com a definição? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
-| **4** | O impacto dos léxicos está bem descrito de acordo com a definição? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
+| **1** | Temos os quatro tipos de léxicos (Sujeito, Verbo, Objeto e estado)? | Incompleto | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
+| **2** | Os símbolos constituem de forma correta o que é apresentado posteriormente nos léxicos? | Sim | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
+| **3** | A noção dos léxicos está bem descrita de acordo com a definição? | Sim | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
+| **4** | O impacto dos léxicos está bem descrito de acordo com a definição? | Sim | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/lexicos.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
 
 ### Gravação da verificação
 
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
-
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/O-bQYgPaK3Y?si=8dJyewLyHNvOTms0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/O-bQYgPaK3Y"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Descrição
+    - Avaliação: Temos os quatro tipos de léxicos (Sujeito, Verbo, Objeto e estado)?
+    - Comentário: O léxico de Sujeito não foi realizado, acredito estar misturado com o léxico de Objeto.
 
 ### Sumário dos resultados
 
-<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
@@ -92,15 +88,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 3
+    "Incompleto" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Bibliografia
 
