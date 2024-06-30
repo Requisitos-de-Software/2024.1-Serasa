@@ -37,7 +37,12 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | [1.](#ref1) | [página 166]() |
+| **1** | As histórias de usuário descrevem uma funcionalidade que terá valor para os usuários do software? |  | [1.](#ref1) | [página 25](../../../../assets/prints_verificacao/claudio/pg25-us-1.png) |
+| **2** | Todas as histórias de usuário são independentes uma das outras, afim de prevenir problemas de planejamento e priorização? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **3** | Todas as histórias de usuário são possíveis de serem testadas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **4** | Todas as histórias de usuário possuem critérios de aceitação? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-ca.png) |
+| **5** | Todas as histórias de usuário são sucintas e explicativas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **6** | Os critérios de aceitação estão definidos de forma que apresentem requisitos mínimos para uma história seja considerada completa? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-us-ac.png) |
 
 </center>
 
