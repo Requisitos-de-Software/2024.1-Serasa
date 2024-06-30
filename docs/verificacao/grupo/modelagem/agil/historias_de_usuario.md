@@ -19,6 +19,7 @@ Este artefato foi produzido por [Claudio Henrique][ClaudioGH] e verificado por [
 | **3** | Todas as histórias de usuário são possíveis de serem testadas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
 | **4** | Todas as histórias de usuário possuem critérios de aceitação? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-ca.png) |
 | **5** | Todas as histórias de usuário são sucintas e explicativas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **6** | Os critérios de aceitação estão definidos de forma que apresentem requisitos mínimos para uma história seja considerada completa? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-us-ac.png) |
 
 </center>
 
