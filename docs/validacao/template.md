@@ -2,8 +2,19 @@
 
 ## Introdução
 
+Um protótipo de alta fidelidade é uma representação visual e interativa de um produto ou sistema que imita de perto o produto final em questões de design e interatividade. Criados geralmente com ferramentas de design gráfico e prototipagem, esses protótipos podem incluir elementos detalhados como cores, tipografia, imagens e interações complexas.
+
+A principal finalidade de um protótipo de alta fidelidade é proporcionar uma visão mais precisa de como o produto final se apresentará. Eles são úteis quando a equipe busca validar e aprimorar a experiência do usuário com certa funcionalidade do sistema.
 
 ## Metodologia
+
+
+
+|Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+|:---:|:----:|:----:|:----:|:----:|:-----:|
+|[Fulano][]| Nome do Entrevistado| 00:00|00:00| 30/06/2024| Presencial|
+
+
 
 
 ## Protótipo de Alta Fidelidade
