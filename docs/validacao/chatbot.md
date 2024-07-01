@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), e também a validação do protótipo de alta fidelidade referente ao Requisito Não Implementado: [BS12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração), que estipula que "DESCRIÇÃO DO REQUISITO" e da História de Usuário [US13](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/). A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), e também a validação do protótipo de alta fidelidade referente ao Requisito Não Implementado: [BS12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração), que estipula que "O usuário deve ter acesso a um Chatbot para suporte ao cliente" e da História de Usuário [US13](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/). A validação foi feita com a usuária Isabelly Sophia, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -16,7 +16,7 @@ Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
-|[Fulano][]| Nome do Entrevistado| 00:00|00:00| 30/06/2024| Presencial|
+|[Claudio Henrique][ClaudioGH]| Isabelly Sophia| 00:00|00:00| 30/06/2024| Presencial|
 
 </center>
 

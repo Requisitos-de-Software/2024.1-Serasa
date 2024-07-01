@@ -22,7 +22,11 @@ Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e tamb
 
 <font size="2"><p style="text-align: center">Fonte: [][]</p></font>
 
+Abaixo na tabela 2, está o perfil do Entrevistado:
 
+|Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+|:---:|:----:|:----:|:----:|
+ 
 
 ## Protótipo de Alta Fidelidade
 
