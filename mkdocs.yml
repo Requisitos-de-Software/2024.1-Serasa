@@ -92,7 +92,7 @@ nav:
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
       - Modelagem:
-        - Cenários: verificacao/grupo/template.md
+        - Cenários: verificacao/grupo/modelagem/cenarios.md
         - Casos de Uso: 
           - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
           - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
