@@ -15,8 +15,8 @@ Este artefato foi produzido por [Gabriel F. J. Silva][GabrielFGH] e verificado p
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
 | **1** | A matriz faz a ligação dos requisitos com os artefatos relacionados à ele durante o desenvolvimento do projeto? |  | [1.](#ref1) e [2.](#ref2) | [página 126][ref1-pg126] e [página 13][ref2-pg13] |
-| **1** | A matriz faz a ligação dos requisitos com as suas fontes? |  | [1.](#ref1) | [página 126][ref1-pg126] |
-| **1** | A matriz apresenta possíveis interdepêndencias entre requisitos funcionais e não-funcionais? |  | [2.](#ref2) | [página 13][ref2-pg13] |
+| **2** | A matriz faz a ligação dos requisitos com as suas fontes? |  | [1.](#ref1) | [página 126][ref1-pg126] |
+| **3** | A matriz apresenta possíveis interdepêndencias entre requisitos funcionais e não-funcionais? |  | [2.](#ref2) | [página 13][ref2-pg13] |
 
 </center>
 
@@ -34,9 +34,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | A matriz faz a ligação dos requisitos com os artefatos relacionados à ele durante o desenvolvimento do projeto? |  | [1.](#ref1) e [2.](#ref2) | [página 126][ref1-pg126] e [página 13][ref2-pg13] |
-| **1** | A matriz faz a ligação dos requisitos com as suas fontes? |  | [1.](#ref1) | [página 126][ref1-pg126] |
-| **1** | A matriz apresenta possíveis interdepêndencias entre requisitos funcionais e não-funcionais? |  | [2.](#ref2) | [página 13][ref2-pg13] |
+| **1** | A matriz faz a ligação dos requisitos com os artefatos relacionados à ele durante o desenvolvimento do projeto? | Sim. | [1.](#ref1) e [2.](#ref2) | [página 126][ref1-pg126] e [página 13][ref2-pg13] |
+| **2** | A matriz faz a ligação dos requisitos com as suas fontes? | Sim. | [1.](#ref1) | [página 126][ref1-pg126] |
+| **3** | A matriz apresenta possíveis interdepêndencias entre requisitos funcionais e não-funcionais? | Não. | [2.](#ref2) | [página 13][ref2-pg13] |
 
 </center>
 
@@ -47,20 +47,20 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MkWgCZJlnTs" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/MkWgCZJlnTs"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: Descrição
+    - Avaliação: Não.
+    - Comentário: O artefato não apresenta uma relação de interdependência entre os requisitos funcionais e não-funcionais.
 
 ### Sumário dos resultados
 
