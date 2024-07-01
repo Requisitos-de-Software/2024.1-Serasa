@@ -54,7 +54,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### Gravação da verificação
 
