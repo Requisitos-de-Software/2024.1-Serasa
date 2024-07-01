@@ -21,6 +21,7 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 |01| A priorização foi feita com a participação de stakeholders?||Software Requirements  [Pg. 318][PG. 318]|
 |02| A priorização foi feita tendo duas opções de escolha (In ou Out)?||Software Requirements  [Pg. 318][PG. 318]|
 |03| Os requisitos priorizados são condizentes?||Software Requirements  [Pg. 318][PG. 318]|
+|04| A priorização foi feita de forma correta?(Os requisitos priorizado possuem realmente uma maior prioridade com relação aos não priorizados)||Software Requirements  [Pg. 318][PG. 318]|
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
