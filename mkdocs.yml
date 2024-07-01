@@ -93,7 +93,14 @@ nav:
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
       - Modelagem:
         - Cenários: verificacao/grupo/template.md
-        - Casos de Uso: modelagem/casos_de_uso.md
+        - Casos de Uso: 
+          - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
+          - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
+          - Mudar locais de recebimento de pacotes: verificacao/grupo/modelagem/casos_de_uso/Muda_locais.md
+          - Relizar pré-postagem: verificacao/grupo/modelagem/casos_de_uso/Pre_postagem.md
+          - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_iportacoes.md
+          - Rastrear encomendas: verificacao/grupo/modelagem/casos_de_uso/Rastrear_encomendas.md
+          - Buscar por documentos perdidos: verificacao/grupo/modelagem/casos_de_uso/Busca_por_documentos.md
         - Validação dos Casos de Uso: modelagem/validacao.md
         - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo/modelagem/lexicos.md
