@@ -36,12 +36,27 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito par
 
 ## Aspestos Práticos
 
+A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o Fulano. A avaliação foi realizada com os seguintes materiais:
+
+- Notebook;
+- Termo de Consentimento;
+
 
 ## Aspectos Éticos
 
+Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](link para o termo) que foi apresentado e aceito pelo participante. Isso foi feito para que o participante estivesse ciente sobre objetivos, riscos e benefícios da pesquisa antes de começar a entrevista de validação em si.
+
+
 ## Validação
 
-Video
+<font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
+
+<center>
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+
 
 ## Resultados
 
