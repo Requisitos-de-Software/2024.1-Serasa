@@ -42,15 +42,15 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **2** | O artefato utiliza imagens e diagramas para representar conceitos e relações de maneira clara e eficaz? |  | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
-| **3** | O artefato identifica todos os atores relevantes no domínio do problema? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **4** | O artefato especifica as operações que cada ator deve realizar? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **5** | O artefato mostra claramente os requisitos de dados de cada operação? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **6** | O artefato define claramente a direção do fluxo de dados entre atores, operações e armazenamentos de dados? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **7** | O artefato inclui uma linha de limite do sistema para definir a área de responsabilidade? |  | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
-| **8** | O artefato está livre de excessiva verbosidade, mantendo o foco em imagens e diagramas? |  | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
-| **9** | O artefato foi desenvolvido iterativamente, com edições e melhorias ao longo do tempo? |  | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
+| **1** | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **2** | O artefato utiliza imagens e diagramas para representar conceitos e relações de maneira clara e eficaz? | Sim. | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
+| **3** | O artefato identifica todos os atores relevantes no domínio do problema? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **4** | O artefato especifica as operações que cada ator deve realizar? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **5** | O artefato mostra claramente os requisitos de dados de cada operação? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **6** | O artefato define claramente a direção do fluxo de dados entre atores, operações e armazenamentos de dados? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **7** | O artefato inclui uma linha de limite do sistema para definir a área de responsabilidade? | Sim. | [2.](#ref1) | [página 4](../../../assets/prints_verificacao/danilo/Pagina4.RichPicture.jpeg) |
+| **8** | O artefato está livre de excessiva verbosidade, mantendo o foco em imagens e diagramas? | Sim. | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
+| **9** | O artefato foi desenvolvido iterativamente, com edições e melhorias ao longo do tempo? | Incompleto. | [2.](#ref1) | [página 2](../../../assets/prints_verificacao/danilo/Pagina2.RichPicture.jpeg) |
 
 </center>
 
@@ -68,9 +68,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 09: O artefato foi desenvolvido iterativamente, com edições e melhorias ao longo do tempo?
+    - Avaliação: Incompleto.
+    - Comentário: Mesmo tendo passado um longo período desde ultima e única modificação no rich picture, até agora não foram feitos novas mudanças.
 
 ### Sumário dos resultados
 
