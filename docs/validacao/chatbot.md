@@ -20,7 +20,7 @@ Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
 
 Abaixo na tabela 2, está o perfil do Entrevistado:
 
@@ -30,17 +30,26 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 ## Protótipo de Alta Fidelidade
 
-Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "xxxxx".
+Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito para o Requisito Não Implementado: [BS12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
 
-///////Tem que ser imagens e pode colocar o embed, mas tem que possuir imagens/prints.
+<font size="2"><p style="text-align: center">Figura 1 - Imagens do Protótipo.</p></font>
 
-/////Apresentar aqui o prototipo na ferramenta que utilizou
+![prints1](../assets/validacao/prints-prototipo-chat/prints-juntos-1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
 
 
+<font size="2"><p style="text-align: center">Figura 2 - Imagens do Protótipo.</p></font>
+
+![prints2](../assets/validacao/prints-prototipo-chat/prints-juntos-2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
+
+[Link para a pasta com as imagens]()
 
 ## Aspestos Práticos
 
-A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o Fulano. A avaliação foi realizada com os seguintes materiais:
+A entrevista foi conduzida pelo integrante [Claudio Henrique][ClaudioGH], e a entrevistada foi a Isabelly Sophia. A avaliação foi realizada com os seguintes materiais:
 
 - Notebook;
 - [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf);
@@ -48,7 +57,7 @@ A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o F
 
 ## Aspectos Éticos
 
-Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](link para o termo) que foi apresentado e aceito pelo participante. Isso foi feito para que o participante estivesse ciente sobre objetivos, riscos e benefícios da pesquisa antes de começar a entrevista de validação em si.
+Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](../assets/Termo_de_consentimento-imagem&voz.pdf) que foi apresentado e aceito pelo participante. Isso foi feito para que o participante estivesse ciente sobre objetivos, riscos e benefícios da pesquisa antes de começar a entrevista de validação em si.
 
 
 ## Validação
@@ -68,12 +77,13 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 ## Resultados
 
+O protótipo foi apresentado à usuária, que interagiu com sucesso e sem problemas de usabilidade. Ao final do processo de interação com o protótipo, foram feitas algumas perguntas sobre a funcionalidade não implementada de um chatbot. As perguntas visavam saber se a usuária tinha encontrado algum tipo de dificuldade na interação e se a funcionalidade seria útil dentro do aplicativo. Com isso, obteve-se um resultado satisfatório, onde não houve dificuldades de interação com o protótipo e a funcionalidade foi considerada útil no aplicativo, tanto para responder às principais dúvidas quanto para facilitar o contato com um atendente real.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 29/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Elias O.][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
