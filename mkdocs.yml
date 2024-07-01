@@ -110,7 +110,7 @@ nav:
         - Léxicos: verificacao/grupo/modelagem/lexicos.md
         - Ágil:
           - Backlog: verificacao/grupo/modelagem/agil/backlog.md
-          - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
+          - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
           - NFR Framework: modelagem/agil/nfr-framework.md
       - Pós-Rastreabilidade:
         - Planejameto da Verificação: verificacao/grupo/pos-rastreabilidade/planejamento_03.md
