@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo, desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), junto com a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [RF49](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) na Matriz de Rastreabilidade e [AD11](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem) na técnica de Análise Documental, que estipula que "O usuário deve ser capaz de adicionar endereços pré-cadastrados". A validação foi feita com o usuário **ENTREVISTADO**, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo, desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), junto com a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [RF51](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) na Matriz de Rastreabilidade e [AD12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem) na técnica de Análise Documental, que estipula que "O usuário deve ser capaz de adicionar endereços pré-cadastrados". A validação foi feita com o cliente Samuel Ribeiro, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -16,7 +16,7 @@ Neste documento está o protótipo, desenvolvido na ferramenta [JustinMind](http
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Local |
 | :-------: | :----------: | :---------------: | :----------------: | :--: | :---: |
-| [Gabriel F. J. Silva][GabrielFGH] | Nome do Entrevistado | 00:00 | 00:00 | 01/07/2024 | Presencial|
+| [Gabriel F. J. Silva][GabrielFGH] | Samuel Ribeiro | 17:16 | 17:20 | 01/07/2024 | FGA-UnB |
 
 </center>
 
@@ -24,23 +24,33 @@ Neste documento está o protótipo, desenvolvido na ferramenta [JustinMind](http
 
 Abaixo na tabela 2, está o perfil do Entrevistado:
 
-| Nome | Idade | Ocupação | Experiência e facilidade com tecnologia |
-| :--: | :---: | :------: | :-------------------------------------: |
- 
-
-## Protótipo de Alta Fidelidade
-
-Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "O usuário deve ser capaz de adicionar endereços pré-cadastrados" ( [RF49](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) ou [AD11](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem) ).
-
-<font size="2"><p style="text-align: center">Figura 1 - Tela inicial do protótipo.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Perfil do entrevistado.</p></font>
 
 <center>
+
+| Nome | Idade | Ocupação | Experiência e facilidade com tecnologia |
+| :--: | :---: | :------: | :-------------------------------------: |
+| Samuel Ribeiro | 21 anos | Estudante | Muito Boa |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
 
-link para o protótipo [aqui](https://cloud.justinmind.com/usernote/prototype/a18c927d2da7b69fa4de170b011d11b359048a29820aaeb42d19d66b3c446167).
+## Protótipo de Alta Fidelidade
+
+Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "O usuário deve ser capaz de adicionar endereços pré-cadastrados" ( [RF51](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) ou [AD12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem) ).
+
+<font size="2"><p style="text-align: center">Figura 1 - Tela inicial do protótipo.</p></font>
+
+<center>
+    ![tela](../assets/prototypes/gabrielf/print%20prototipo%205.2.png)
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
+
+<p style="text-align: center"> 
+    link para o protótipo <a href="https://cloud.justinmind.com/usernote/prototype/a18c927d2da7b69fa4de170b011d11b359048a29820aaeb42d19d66b3c446167"> aqui </a>
+</p>
 
 
 
@@ -62,15 +72,18 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
 <center>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ByuSvqzX2hg" title="(Entrega 5.2) Validação informal: Protótipo de Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
 
-<p style="text-align: center" href="">Link direto para o vídeo.</p>
-
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=ByuSvqzX2hg"> Link para o vídeo </a>
+</p>
 
 ## Resultados
+
+O participante ficou satisfeito com a implementação da funcionaildade implementada,  [RF51](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) ou [AD12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem), não encontrando nenhuma inconsistência ou sugestão de melhoria para a funcionalidade.
 
 
 ## Histórico de Versões
