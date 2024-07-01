@@ -18,8 +18,9 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01| A priorização foi feita por ou teve a participação de stakeholders|||
+|01| A priorização foi feita com a participação de stakeholders?|||
 |02| A priorização foi feita tendo duas opções de escolha (In ou Out)?|||
+|03| Os requisitos priorizados são condizentes?|||
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
