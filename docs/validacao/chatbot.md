@@ -45,7 +45,7 @@ Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
 
-[Link para a pasta com as imagens]()
+[Link para a pasta com as imagens](https://github.com/Requisitos-de-Software/2024.1-Correios/tree/verificacao/grupo/docs/assets/validacao/prints-prototipo-chat/prints-individuais)
 
 ## Aspestos Práticos
 
