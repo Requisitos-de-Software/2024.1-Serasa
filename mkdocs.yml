@@ -117,6 +117,7 @@ nav:
     - Chatbot: validacao/chatbot.md
     - Loja Online: validacao/loja_online.md
     - Pré-postagem: validacao/pre-postagem.md
+    - Minhas Importações: validacao/importacoes.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
