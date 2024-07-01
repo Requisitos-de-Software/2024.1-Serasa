@@ -11,7 +11,7 @@ A metodologia utilizada para verificar o artefato emprega o método de inspeçã
 
 ### Checklist Personas
 
-Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado para realizar a verificação do artefato de P
+Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado para realizar a verificação do artefato de [Personas][Personas].
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
@@ -54,7 +54,7 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 ## Gravação Identificando os Problemas
 <center>
 
-<font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação Inspeção do Artefato</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7yHTB-b71Y?si=XYWlyzS_CcjhPg3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
