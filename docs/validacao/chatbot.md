@@ -16,13 +16,17 @@ Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
-|[Claudio Henrique][ClaudioGH]| Isabelly Sophia| 00:00|00:00| 30/06/2024| Presencial|
+|[Claudio Henrique][ClaudioGH]| Isabelly Sophia| 22:00|22:05| 30/06/2024| Presencial|
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [][]</p></font>
 
+Abaixo na tabela 2, está o perfil do Entrevistado:
 
+|Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+|:---:|:----:|:----:|:----:|
+| Isabelly Sophia| 18 Anos| Estudante de Direito| Muito boa|
 
 ## Protótipo de Alta Fidelidade
 
@@ -55,7 +59,7 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
 
 
 ## Resultados
