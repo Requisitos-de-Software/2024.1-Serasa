@@ -90,7 +90,7 @@ nav:
           - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
           - Questionário: verificacao/grupo/template.md
         - Priorização: 
-          - $100: verificacao/grupo/template.md
+          - $100: verificacao/grupo/elicitacao/priorizacao/100usd.md
           - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
