@@ -16,31 +16,44 @@ Neste documento está o protótipo desenvolvido na ferramenta [Figma](https://ww
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
-|[Ricardo Augusto][RicardoGH]| Nome do Entrevistado| 00:00|00:00| 01/07/2024| Teams|
+|[Ricardo Augusto][RicardoGH]| Johnny Lopes | 00:00|00:00| 01/07/2024| Teams|
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 Abaixo na tabela 2, está o perfil do Entrevistado:
 
+<font size="2"><p style="text-align: center">Tabela 2 - Perfil do Entrevistado.</p></font>
+
+<center>
+
 |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
 |:---:|:----:|:----:|:----:|
+| Johnny Lopes | 23 anos | Estudante | Muito boa |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
  
 
 ## Protótipo de Alta Fidelidade
 
-Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "xxxxx".
+Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o requisito [BS18](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
 
-///////Tem que ser imagens e pode colocar o embed, mas tem que possuir imagens/prints.
+<font size="2"><p style="text-align: center">Link para o figma com o protótipo.</p></font>
 
-/////Apresentar aqui o prototipo na ferramenta que utilizou
+<center>
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FVnsUpPXWmPtbFsGCS8cypB%2FUntitled%3Fnode-id%3D0-1%26t%3DcCQ4l3J29a5J1UXu-1" allowfullscreen></iframe>
 
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Aspestos Práticos
 
-A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o Fulano. A avaliação foi realizada com os seguintes materiais:
+A entrevista foi conduzida pelo integrante [Ricardo][RicardoGH], e o entrevistado foi o Johnny. A avaliação foi realizada com os seguintes materiais:
 
 - Notebook;
 - [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf);
@@ -57,9 +70,17 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 <center>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p style="text-align: center">
+    <a href="link"> Link para o vídeo </a>
+</p>
+
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 
 ## Resultados
