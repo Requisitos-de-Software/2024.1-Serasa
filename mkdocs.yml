@@ -83,7 +83,7 @@ nav:
         - Personas: verificacao/grupo/template.md
         - Técnicas:
           - Análise Documental: verificacao/grupo/elicitacao/tecnicas/analise-documental.md
-          - Brainstorming: verificacao/grupo/template.md
+          - Brainstorming: verificacao/grupo/elicitacao/tecnicas/brainstorming.md
           - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
           - Questionário: verificacao/grupo/template.md
         - Priorização: 
