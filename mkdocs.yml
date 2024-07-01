@@ -9,6 +9,7 @@ nav:
     - Apresentação 03: Apresentações/Apresentação_03.md
     - Apresentação 04: Apresentações/Apresentação_04.md
     - Apresentação 05: Apresentações/Apresentação_05.md
+    - Apresentação 06: Apresentações/Apresentação_06.md
   - Atas:
     - Reunião 1: atas/ata1.md
     - Reunião 2: atas/ata2.md
@@ -16,6 +17,7 @@ nav:
     - Reunião 4: atas/ata4.md
     - Reunião 5: atas/ata5.md
     - Reunião 6: atas/ata6.md
+    - Reunião 7: atas/ata7.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/richpicture.md
     - Aplicativos Avaliados: pre-rastreabilidade/appsavaliados.md
@@ -75,6 +77,8 @@ nav:
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
+    - Forward-From: pos-rastreabilidade/forward-from.md
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
   
 
 extra_css:
@@ -102,6 +106,10 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar o modo clar/escuro
+extra:
+  analytics:
+    provider: google
+    property: G-41DM9F5YEC
 
 markdown_extensions:
   - pymdownx.superfences
