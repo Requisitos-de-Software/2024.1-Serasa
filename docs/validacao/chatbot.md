@@ -43,7 +43,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito par
 A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o Fulano. A avaliação foi realizada com os seguintes materiais:
 
 - Notebook;
-- Termo de Consentimento;
+- [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf);
 
 
 ## Aspectos Éticos
