@@ -37,36 +37,34 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | As histórias de usuário descrevem uma funcionalidade que terá valor para os usuários do software? |  | [1.](#ref1) | [página 25](../../../../assets/prints_verificacao/claudio/pg25-us-1.png) |
-| **2** | Todas as histórias de usuário são independentes uma das outras, afim de prevenir problemas de planejamento e priorização? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
-| **3** | Todas as histórias de usuário são possíveis de serem testadas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
-| **4** | Todas as histórias de usuário possuem critérios de aceitação? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-ca.png) |
-| **5** | Todas as histórias de usuário são sucintas e explicativas? |  | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
-| **6** | Os critérios de aceitação estão definidos de forma que apresentem requisitos mínimos para uma história seja considerada completa? |  | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-us-ac.png) |
+| **1** | As histórias de usuário descrevem uma funcionalidade que terá valor para os usuários do software? | Sim | [1.](#ref1) | [página 25](../../../../assets/prints_verificacao/claudio/pg25-us-1.png) |
+| **2** | Todas as histórias de usuário são independentes uma das outras, afim de prevenir problemas de planejamento e priorização? | Sim | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **3** | Todas as histórias de usuário são possíveis de serem testadas? | Sim | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **4** | Todas as histórias de usuário possuem critérios de aceitação? | Sim | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-ca.png) |
+| **5** | Todas as histórias de usuário são sucintas e explicativas? | Sim | [1.](#ref1) | [página 26](../../../../assets/prints_verificacao/claudio/pg26-invest.png) |
+| **6** | Os critérios de aceitação estão definidos de forma que apresentem requisitos mínimos para uma história seja considerada completa? | Sim | [1.](#ref1) | [página 27](../../../../assets/prints_verificacao/claudio/pg27-us-ac.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BM0DgQ3d_bE?si=bClDbQ6xrcbVKK_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/BM0DgQ3d_bE"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Não ocorreram problemas.
 
 ### Sumário dos resultados
 
@@ -96,15 +94,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 6
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -114,7 +112,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 27/06/2024 | Criação do documento | [][] | [][] |
+| `1.0`  | 27/06/2024 | Criação do documento | [Cloáudio Henrique][ClaudioGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
