@@ -25,10 +25,10 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] |[Claudio H.][ClaudioGH] | 
 |Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
 |Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo A.][RicardoGH] | [Gabriel B.][GabrielBGH]|
-|Análise de Requisitos 2| Técnicas - Questionário | `1.0`|12/05/2024|  [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
-
-
-
+|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Pablo S.][PabloGH] |
+|Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Ricardo A.][RicardoGH] |
+|Elicitação|Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S.][PabloGH]  |  [Gabriel F.][GabrielFGH]  |
+|Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B.][GabrielBGH] |
 
 
 |Análise de Requisitos 2| Metas usabilidade | `1.0`|12/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Elias F.][EliasGH] |
