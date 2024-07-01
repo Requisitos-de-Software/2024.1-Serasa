@@ -212,12 +212,13 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Revisão de Requisitos | Início: 23/05  <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/05 <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
-| Prototipação | Início: 23/05  <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/05 <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
-| Ata de Reunião | Início: 23/05  <br>Fim: 31/05 | Ricardo | Início: 01/06   <br>Fim: 02/06 | Cláudio |
-| Geração de casos teste | Início: 23/05  <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/05 <br>Fim: 31/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
-| Gravação da apresentação | Início: 01/06 <br>Fim: 01/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/06 <br>Fim: 01/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Correções pós apresentação | Início: 01/06 <br>Fim: 01/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/06 <br>Fim: 01/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| **Criação/Ajuste de checklists** | Início: 25/06<br>Fim: 30/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/06 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Prototipação** | Início: 25/06<br>Fim: 30/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 25/06 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Ata de Reunião** | Início: 27/06<br>Fim: 27/06 | Ricardo | Início: 27/06 Fim: 27/06 | Cláudio |
+| **Confirmação informal** | Início: 30/06<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/07 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Confirmação formal** | Início: 28/06<br>Fim: 28/06 | Cláudio | Início: 28/06 Fim: 28/06 | Elias | 
+| **Gravação da apresentação** | Início: 01/07<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/07 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| **Correções pós apresentação** | Início: 01/07<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 08/07 Fim: 08/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
