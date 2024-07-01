@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e também a validação do protótipo de alta fidelidade referente ao [Requisito AAA99](link direto para o requisito elicitado), que estipula que "DESCRIÇÃO DO REQUISITO". A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AA99](link direto para o requisito elicitado), que estipula que "DESCRIÇÃO DO REQUISITO". A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
