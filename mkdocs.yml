@@ -105,6 +105,10 @@ nav:
         - Backward-From: verificacao/grupo/template.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
         - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
+    - Validação:
+      - Validação Informal:
+        - Pré-postagem: validacao/pre-postagem.md
+        - Chatbot: validacao/chatbot.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
