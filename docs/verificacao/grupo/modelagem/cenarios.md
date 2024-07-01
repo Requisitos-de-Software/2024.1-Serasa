@@ -462,14 +462,14 @@ pie
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |   | [REF1](#ref1). | [pg 49][f1] |
-| 2 | O modo para atingir o objetivo está descrito no cenário ? |   | [REF1](#ref1). | [pg 49][f1] |
-| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |   | [REF1](#ref1). | [pg 49][f1] |
-| 4 | As características pessoais dos atores são relevantes ao cenário? |   | [REF2](#ref2). | [pg 172][f2] |
-| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |   | [REF1](#ref1). | [pg 49][f1] |
-| 6 | Os cenários possuem alguma ligação com os léxicos? |   | [REF1](#ref1). | [pg 50][f3] |
-| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? |   | [REF1](#ref1). | [pg 50][f4] |
-| 8 | O título do cenário é autoexplicativo? |   | [REF1](#ref1). | [pg 49][f1] |
+| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  Sim. | [REF1](#ref1). | [pg 49][f1] |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim.  | [REF1](#ref1). | [pg 49][f1] |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  Sim. | [REF1](#ref1). | [pg 49][f1] |
+| 4 | As características pessoais dos atores são relevantes ao cenário? | Não.  | [REF2](#ref2). | [pg 172][f2] |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  Sim. | [REF1](#ref1). | [pg 49][f1] |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Não.  | [REF1](#ref1). | [pg 50][f3] |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? |  Sim. | [REF1](#ref1). | [pg 50][f4] |
+| 8 | O título do cenário é autoexplicativo? | Sim.  | [REF1](#ref1). | [pg 49][f1] |
 
 </center>
 
