@@ -35,29 +35,29 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID|Descrição|Avaliação|Referência|
 | --- | -------- | --------- | ----------- | 
-|**01**|Possui especificação do caso de uso ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**02**|A especificação do caso de uso possui Nome ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**03**|A especificação do caso de uso possui Descrição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**04**|A especificação do caso de uso possui Atores ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**05**|A especificação do caso de uso possui Pré-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**06**|A especificação do caso de uso possui Pós-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**07**|A especificação do caso de uso possui Fluxo Principal ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**08**|A especificação do caso de uso possui Fluxolternativo ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**10**|A especificação do caso de uso possui Rastrabilidade ? | | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? |Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? |Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? |Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxo alternativo ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim| <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastreabilidade ? | Não| <a id="anchor_1" href="#REF1">^1^</a> |
 
-<font size="3"><p style="text-align: center">Fonte: [Cláudo][ClaudioGH], 2024</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Claudo Henrique][ClaudioGH], 2024</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/imR9CzeO-IM?si=bz6U_qLQCnQBoS8q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=imR9CzeO-IM"> Link para o vídeo </a>
 </p>
 
 
@@ -65,9 +65,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#6-rastrear-encomendas).
 
-- ID xx: Descrição
-    - Avaliação: 
-    - Comentário: 
+- ID 10: A especificação do caso de uso possui Rastreabilidade?
+    - Avaliação: Não
+    - Comentário: O cartão de especificação do caso de uso de Rastrear Encomendas não possui a rastreabilidade do requisito que o deu origem. Seria interessante adicionar mais um campo na tabela para completar essa informação.
 
 ### Sumário dos resultados
 
@@ -97,10 +97,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 9
+    "Não" : 1
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
