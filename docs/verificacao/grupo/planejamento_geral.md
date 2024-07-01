@@ -29,23 +29,16 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Ricardo A.][RicardoGH] |
 |Elicitação|Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S.][PabloGH]  |  [Gabriel F.][GabrielFGH]  |
 |Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B.][GabrielBGH] |
-
-
-|Análise de Requisitos 2| Metas usabilidade | `1.0`|12/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Elias F.][EliasGH] |
-|Análise de Requisitos 2| Guia de estilo | `1.0`|10/05/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Elias F.][EliasGH]  |
-|Análise de Requisitos 2| Características da plataforma | `1.0`|13/05/2024| [Gabriel B.][GabrielBGH] e [Pablo S.][PabloGH] |  [Pablo S.][PabloGH] |
-|Design, avaliação e desenvolvimento| N1 - AT - Planejamento da avaliação | `1.1`|24/05/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Ricardo A.][RicardoGH] |
-|Design, avaliação e desenvolvimento| N1 - AT - Planejamento do relato | `1.0`|22/05/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH] |   [Claudio H.][ClaudioGH]  |
-|Design, avaliação e desenvolvimento| N1 - AT - Relato dos resultados | `1.0`|02/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
-|Design, avaliação e desenvolvimento| N1 - SB - Planejamento da avaliação | `1.1`|24/05/2024|  [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Elias F.][EliasGH] |
-|Design, avaliação e desenvolvimento| N1 - SB - Planejamento do relato	 | `1.0`|21/05/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH]| [Claudio H][ClaudioGH]   |
-|Design, avaliação e desenvolvimento| N1 - SB - Relato dos resultados	 | `1.0`|03/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
-|Design, avaliação e desenvolvimento| N1 - SB - Storyboards	 | `2.0`|01/06/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
-|Design, avaliação e desenvolvimento| N2 - PP - Planejamento da avaliação	 | `1.2`|18/06/2024|  [Gabriel B.][GabrielBGH] e [Ricardo A.][RicardoGH]  | [Elias F.][EliasGH]   |
-|Design, avaliação e desenvolvimento| N2 - PP - Planejamento do relato	 | `1.0`|01/06/2024|[Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Ricardo A.][RicardoGH]   |
-|Design, avaliação e desenvolvimento| N2 - PP - Relato dos Resultados	 | `1.0`|01/06/2024|[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]   |
-|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento da avaliação	 | `1.0`|18/06/2024|[Elias F.][EliasGH] e [Pablo S.][PabloGH] |[Pablo S.][PabloGH]  |
-|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento do relato | `1.0`|19/06/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Gabriel B.][GabrielBGH]  |
+|Modelagem| Cenários | `1.0`|18/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH] [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+|Modelagem| Casos de uso | `1.0`|14/05/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+|Modelagem| Especificação suplementar | `2.0`|20/05/2024|[Danilo C.][DaniloGH] e [Pablo S.][PabloGH] | [Ricardo A.][RicardoGH] |
+|Modelagem| Léxicos | `1.0`|15/05/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Danilo C.][DaniloGH] |
+|Modelagem| Backlog | `1.0`|25/05/2024| [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH]  |   [Pablo S.][PabloGH]  |
+|Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH]|  [Ricardo A.][RicardoGH]  |
+|Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F.][EliasGH] e [Ricardo A.][RicardoGH] | [Pablo S.][PabloGH] |
+|Pós-Rastreabilidade| Backward-from	 | `1.0`|23/06/2024| [Claudio H][ClaudioGH], [Gabriel F.][GabrielFGH] e  [Ricardo A.][RicardoGH] | [Danilo C.][DaniloGH]  |
+|Pós-Rastreabilidade| Forward-from	 | `1.0`|23/06/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH]  | [Pablo S.][PabloGH] |
+|Pós-Rastreabilidade| Matriz de Rastreabilidade | `1.0`|24/06/2024| [Pablo S.][PabloGH] e [Danilo C.][DaniloGH] |  [Elias F.][EliasGH]  |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
