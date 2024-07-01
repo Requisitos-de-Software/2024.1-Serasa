@@ -88,7 +88,7 @@ nav:
           - Questionário: verificacao/grupo/template.md
         - Priorização: 
           - $100: verificacao/grupo/template.md
-          - First Things First: verificacao/grupo/template.md
+          - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
           - In Or Out: verificacao/grupo/template.md
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
       - Modelagem:
@@ -104,7 +104,7 @@ nav:
       - Pós-Rastreabilidade:
         - Backward-From: verificacao/grupo/template.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
-        - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
+        - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
