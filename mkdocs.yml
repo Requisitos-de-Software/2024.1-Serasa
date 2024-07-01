@@ -118,6 +118,7 @@ nav:
         - Chatbot: validacao/chatbot.md
   - Validação:
     - Loja Online: validacao/loja_online.md 
+    - Rastreamento no Mapa: validacao/rastreamento-mapa.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
