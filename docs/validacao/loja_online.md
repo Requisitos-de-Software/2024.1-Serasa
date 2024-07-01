@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais), no [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) que o usuário tenha a opção de retornar a etapas anteriores como por exemplo no fluxo das etapas de compra e no requisito [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) que o usuário tenha a opção de filtragem dos produtos para facilitar a busca por algum item. A validação foi feita com o usuário Thalia Faria, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [FIGMA](https://www.figma.com/), e também a validação do protótipo de alta fidelidade referente aos  Requisitos Não Implementados: [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais), no [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) o usuário tem a opção de retornar a etapas anteriores como por exemplo no fluxo das etapas de compra sem perder as informações já fornecidas e no requisito [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) o usuário tem a opção de filtragem dos produtos para facilitar a busca por algum item. A validação foi feita com a participante Thalia Faria, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -20,27 +20,39 @@ Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e tamb
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
 Abaixo na tabela 2, está o perfil do Entrevistado:
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perfil do Entrevistado.</p></font>
+
+<center>
 
 |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
 |:---:|:----:|:----:|:----:|
 |Thalia Faria | 26 anos | Estudante |Média / Alta|
 
-## Protótipo de Alta Fidelidade
-
-Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "xxxxx".
-
-<center>
-
-![Imagem Protótipo](../../docs/assets/prints_verificacao/elias/validacao_loja/prototipo_loja.png)
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
 </center>
 
-/////Apresentar aqui o prototipo na ferramenta que utilizou
+## Protótipo de Alta Fidelidade
 
+Abaixo temos o  protótipo de alta fidelidade e o link direto para uma imagem dele.
 
+<center>
+
+<font size="2"><p style="text-align: center">Protótipo de Alta fidelidade</p></font>
+
+</center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FoIqY7JrIoyNuYORlTIfR73%2FApp-Coreios---Requisitos-de-Software%3Fnode-id%3D0-1%26t%3DU9CPwVaoOkJJHh7b-1" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
+
+[Imagem do Protótipo](../assets/prints_verificacao/elias/validacao_loja/prototipo_loja.png)
+
+</center>
 
 ## Aspestos Práticos
 
@@ -66,10 +78,11 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][]</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
 
 ## Resultados
+A participante avaliou positivamente as duas funcionaildades implementadasque são descritas nos requisitos funcionais [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) não encontrando nenhuma inconsistência nas funcionalidades apresentadas no protótipo, a participante também não sugeriu nenhuma outra alteração ou nova funcionalidade para melhorar a realização das tarefas representadas no projeto.
 
 
 ## Histórico de Versões
