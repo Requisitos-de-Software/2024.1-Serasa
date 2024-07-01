@@ -24,7 +24,7 @@ Este artefato foi produzido por [Danilo][DaniloGH] e verificado por [Gabriel F][
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Apresentação dos Dados
 
@@ -37,34 +37,34 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? |  | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
-| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? |  | [1.](#ref1) | [página 316](../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
-| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? |  | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
-| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? |  | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
-| **5** | A técnica de priorização foi documentada adequadamente, incluindo a justificativa para a priorização de cada requisito? |  | [1.](#ref1) | [página 320](#ref1) |
-| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? |  | [1.](#ref1) | [página 322](../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
-| **7** | A técnica de priorização foi realizada com a participação de um usuário? |  | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| --- | --- | --- | --- | --- |
+| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? | sim | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? | não | [1.](#ref1) | [página 316](../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
+| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? | sim | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? | sim | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **5** | A técnica de priorização foi documentada adequadamente, incluindo a justificativa para a priorização de cada requisito? | sim | [1.](#ref1) | [página 320](#ref1) |
+| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? | sim | [1.](#ref1) | [página 322](../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
+| **7** | A técnica de priorização foi realizada com a participação de um usuário? | sim | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/alA1bT1J3yo" title="(Entrega 5.2) Verificação: First Things First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=alA1bT1J3yo"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 02: A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto?
+    - Avaliação: não
+    - Comentário: não foram usados todos os requisitos elicitados.
 
 ### Sumário dos resultados
 
@@ -94,15 +94,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 6
+    "Não" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -113,6 +111,7 @@ pie
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 29/06/2024 | Criação do documento | [Danilo Carvalho Antunes][DaniloGH] | [][] |
+| `1.1`  | 01/07/2024 | Aplicação do checklist | [Gabriel F. J. Silva][GabrielFGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
