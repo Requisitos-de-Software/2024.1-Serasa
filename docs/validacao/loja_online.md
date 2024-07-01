@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AA99](link direto para o requisito elicitado), que estipula que "DESCRIÇÃO DO REQUISITO". A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais), no [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) que o usuário tenha a opção de retornar a etapas anteriores como por exemplo no fluxo das etapas de compra e no requisito [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) que o usuário tenha a opção de filtragem dos produtos para facilitar a busca por algum item. A validação foi feita com o usuário Thalia Faria, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -16,7 +16,7 @@ Neste documento está o protótipo desenvolvido na ferramenta FERRAMENTA, e tamb
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
-|[Fulano][]| Nome do Entrevistado| 00:00|00:00| 30/06/2024| Presencial|
+|[Elias F. Oliveira][EliasGH]| Thalia Faria | 21:00| 21:20 | 29/06/2024| Presencial|
 
 </center>
 
@@ -26,15 +26,17 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
 |:---:|:----:|:----:|:----:|
- 
+|Thalia Faria | 26 anos | Estudante |Média / Alta|
 
 ## Protótipo de Alta Fidelidade
 
 Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "xxxxx".
 
-///////Tem que ser imagens e pode colocar o embed, mas tem que possuir imagens/prints.
+<center>
 
-https://youtu.be/w0WumDYDxsY
+![Imagem Protótipo](../../docs/assets/prints_verificacao/elias/validacao_loja/prototipo_loja.png)
+
+</center>
 
 /////Apresentar aqui o prototipo na ferramenta que utilizou
 
@@ -42,22 +44,25 @@ https://youtu.be/w0WumDYDxsY
 
 ## Aspestos Práticos
 
-A entrevista foi conduzida pelo integrante [Fulanun][], e o entrevistado foi o Fulano. A avaliação foi realizada com os seguintes materiais:
+A entrevista foi conduzida pelo integrante [Elias F. Oliveira][EliasGH], e a entrevistada foi Thalia. A avaliação foi realizada com os seguintes materiais:
 
 - Notebook;
-- Termo de Consentimento;
+- [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf);
+- Protótipo de Alta fidelidade.
 
 
 ## Aspectos Éticos
 
-Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [termo de consentimento livre e esclarecido](link para o termo) que foi apresentado e aceito pelo participante. Isso foi feito para que o participante estivesse ciente sobre objetivos, riscos e benefícios da pesquisa antes de começar a entrevista de validação em si.
+Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas envolvendo pessoas, e o nosso [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf) livre e esclarecido que foi apresentado e aceito pelo participante. Isso foi feito para que o participante estivesse ciente sobre objetivos, riscos e benefícios da pesquisa antes de começar a entrevista de validação em si.
 
 
-## Validação
+## Validação 
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
 <center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w0WumDYDxsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 

@@ -109,6 +109,8 @@ nav:
       - Validação Informal:
         - Pré-postagem: validacao/pre-postagem.md
         - Chatbot: validacao/chatbot.md
+  - Validação:
+    - Loja Online: validacao/loja_online.md 
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
