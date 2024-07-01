@@ -35,16 +35,16 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID|Descrição|Avaliação|Referência|
 | --- | -------- | --------- | ----------- |
-|**01**|Possui especificação do caso de uso ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**02**|A especificação do caso de uso possui Nome ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**03**|A especificação do caso de uso possui Descrição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**04**|A especificação do caso de uso possui Atores ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**05**|A especificação do caso de uso possui Pré-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**06**|A especificação do caso de uso possui Pós-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**07**|A especificação do caso de uso possui Fluxo Principal ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**08**|A especificação do caso de uso possui Fluxolternativo ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | | <a id="anchor_1" href="#REF1">^1^</a> |
-|**10**|A especificação do caso de uso possui Rastrabilidade ? | | <a id="anchor_1" href="#REF1">^1^</a> |
+|**01**|Possui especificação do caso de uso ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**02**|A especificação do caso de uso possui Nome ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**03**|A especificação do caso de uso possui Descrição ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**|A especificação do caso de uso possui Atores ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**08**|A especificação do caso de uso possui Fluxolternativo ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim. | <a id="anchor_1" href="#REF1">^1^</a> |
+|**10**|A especificação do caso de uso possui Rastrabilidade ? | Não. | <a id="anchor_1" href="#REF1">^1^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Elias][EliasGH], 2024</p></font>
 
@@ -53,11 +53,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ceg5gZu1chg" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/Ceg5gZu1chg"> Link para o vídeo </a>
 </p>
 
 
@@ -65,9 +65,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#7-buscar-por-documentos-perdidos).
 
-- ID xx: Descrição
-    - Avaliação: 
-    - Comentário: 
+- ID 10: A especificação do caso de uso possui Rastrabilidade ? 
+    - Avaliação: Não.
+    - Comentário: Não há rastreabilidade no artefato analisado.
 
 ### Sumário dos resultados
 

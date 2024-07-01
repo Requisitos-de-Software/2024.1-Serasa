@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ar
 
 ## Metodologia
 
-Este artefato foi produzido por [][] e verificado por [X][], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [][] e verificado por [X][], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção baseada no Método Fagan (1976) por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
@@ -95,6 +95,11 @@ pie
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
+## Referências Bibliograficas
+
+> 1. Fagan, Michael E. Design and Code Inspections to Reduce Errors in Program Development. IBM Systems Journal, Vol. 15, No. 3, 1976, pp. 182-211. 
+>
 
 ## Bibliografia
 

@@ -46,6 +46,44 @@ Abaixo, nas Tabela 1 e 2, temos respectivamente o checklist elaborado para a ver
     - Comentário:
 
 
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 10
+    "Não" : 5
+    "Incompleto" : 5
+    "Não se Aplica" : 1
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 ## Bibliografia
 >1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
 

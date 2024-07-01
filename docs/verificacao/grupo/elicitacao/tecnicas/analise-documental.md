@@ -37,36 +37,36 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| <a id="ck1">**1**</a> | Foram examinados documentos que especificam os requisitos do sistema atual ou de sistemas similares? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
-| <a id="ck2">**2**</a> | Foi considerado se os documentos utilizados estão atualizados? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
-| <a id="ck3">**3**</a> | Foram analisados relatórios de problemas e solicitações de melhoria coletados dos usuários? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
-| <a id="ck4">**4**</a>| Caso tenham sido examinados sistemas existentes, foram identificadas funcionalidades que devem ser mantidas ou que são obsoletas? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
-| <a id="ck5">**5**</a> | Foram considerados documentos que descrevem normas coorporativas, industriais ou legais que devem ser seguidas? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
-| <a id="ck6">**6**</a> | Foram listados os documentos utilizados? |  | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |<a href="#ref1">1</a>. pg 128 |
+| <a id="ck1">**1**</a> | Foram examinados documentos que especificam os requisitos do sistema atual ou de sistemas similares? | Sim | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
+| <a id="ck2">**2**</a> | Foi considerado se os documentos utilizados estão atualizados? | Sim | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
+| <a id="ck3">**3**</a> | Foram analisados relatórios de problemas e solicitações de melhoria coletados dos usuários? | Sim | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
+| <a id="ck4">**4**</a>| Caso tenham sido examinados sistemas existentes, foram identificadas funcionalidades que devem ser mantidas ou que são obsoletas? | Sim | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
+| <a id="ck5">**5**</a> | Foram considerados documentos que descrevem normas coorporativas, industriais ou legais que devem ser seguidas? | Não | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |
+| <a id="ck6">**6**</a> | Foram listados os documentos utilizados? | Sim | [1.](#ref1) | [página 128](../../../../assets/prints_verificacao/ricardo/analise-documental.png) |<a href="#ref1">1</a>. pg 128 |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q244fenBqJ4?si=PlARKWKmdpK95mu9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=Q244fenBqJ4"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 05: Foram considerados documentos que descrevem normas coorporativas, industriais ou legais que devem ser seguidas?
+    - Avaliação: Não
+    - Comentário: Nesse caso não é um ponto negativo em si, visto que a análise foi feita com base em documentos que derivam do site dos correios, e não diretamente da empresa.
 
 ### Sumário dos resultados
 
@@ -96,10 +96,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 5
+    "Não" : 1
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>

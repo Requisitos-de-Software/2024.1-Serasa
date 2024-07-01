@@ -76,9 +76,12 @@ nav:
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
+      - Planejamento Geral: verificacao/grupo/planejamento_geral.md
       - Pré-Rastreabilidade:
+        - Planejamento da Verificação: verificacao/grupo/pre-rastreabilidade/planejamento_04.md
         - Rich Picture: verificacao/grupo/template.md
       - Elicitação:
+        - Planejamento da Verificação: verificacao/grupo/elicitacao/planejamento_01.md
         - Perfil de Usuário: verificacao/grupo/template.md
         - Personas: verificacao/grupo/template.md
         - Técnicas:
@@ -92,7 +95,8 @@ nav:
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
       - Modelagem:
-        - Cenários: verificacao/grupo/template.md
+        - Planejamento da Verificação: verificacao/grupo/modelagem/planejamento_02.md
+        - Cenários: verificacao/grupo/modelagem/cenarios.md
         - Casos de Uso: 
           - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
           - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
@@ -109,16 +113,15 @@ nav:
           - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
           - NFR Framework: modelagem/agil/nfr-framework.md
       - Pós-Rastreabilidade:
+        - Planejameto da Verificação: verificacao/grupo/pos-rastreabilidade/planejamento_03.md
         - Backward-From: verificacao/grupo/template.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
         - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
-    - Validação:
-      - Validação Informal:
-        - Pré-postagem: validacao/pre-postagem.md
-        - Chatbot: validacao/chatbot.md
   - Validação:
-    - Loja Online: validacao/loja_online.md 
-    - Rastreamento no Mapa: validacao/rastreamento-mapa.md
+    - Chatbot: validacao/chatbot.md
+    - Loja Online: validacao/loja_online.md
+    - Pré-postagem: validacao/pre-postagem.md
+    - Minhas Importações: validacao/importacoes.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
