@@ -76,6 +76,7 @@ nav:
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
+      - Planejamento Geral: verificacao/grupo/planejamento_geral.md
       - Pré-Rastreabilidade:
         - Rich Picture: verificacao/grupo/template.md
       - Elicitação:
@@ -112,12 +113,10 @@ nav:
         - Backward-From: verificacao/grupo/template.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
         - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
-    - Validação:
-      - Validação Informal:
-        - Pré-postagem: validacao/pre-postagem.md
-        - Chatbot: validacao/chatbot.md
   - Validação:
-    - Loja Online: validacao/loja_online.md 
+    - Chatbot: validacao/chatbot.md
+    - Loja Online: validacao/loja_online.md
+    - Pré-postagem: validacao/pre-postagem.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
