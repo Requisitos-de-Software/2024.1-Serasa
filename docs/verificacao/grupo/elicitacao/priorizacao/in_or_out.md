@@ -18,9 +18,9 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01| A priorização foi feita com a participação de stakeholders?|||
-|02| A priorização foi feita tendo duas opções de escolha (In ou Out)?|||
-|03| Os requisitos priorizados são condizentes?|||
+|01| A priorização foi feita com a participação de stakeholders?||Software Requirements  [Pg. 318][PG. 318]|
+|02| A priorização foi feita tendo duas opções de escolha (In ou Out)?||Software Requirements  [Pg. 318][PG. 318]|
+|03| Os requisitos priorizados são condizentes?||Software Requirements  [Pg. 318][PG. 318]|
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -72,11 +72,8 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
 
-[Pg.167]: ../../../assets/imagens_referencias/personas/167.png
-[Pg.168]: ../../../assets/imagens_referencias/personas/168.png
-[Pg.169]: ../../../assets/imagens_referencias/personas/169.png
-[Pg.170]: ../../../assets/imagens_referencias/personas/170.png
-[Pg.171]: ../../../assets/imagens_referencias/personas/171.png
+[PG. 318]: ../../../../assets/prints_verificacao/elias/in_or_out/318.png
+
 
 [In or out]: https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/
 [Grupo 03 Correios]: https://requisitos-de-software.github.io/2024.1-Correios/
