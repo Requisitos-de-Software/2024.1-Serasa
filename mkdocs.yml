@@ -90,7 +90,7 @@ nav:
           - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
           - Questionário: verificacao/grupo/template.md
         - Priorização: 
-          - $100: verificacao/grupo/template.md
+          - $100: verificacao/grupo/elicitacao/priorizacao/100usd.md
           - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
         - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
@@ -110,7 +110,7 @@ nav:
         - Léxicos: verificacao/grupo/modelagem/lexicos.md
         - Ágil:
           - Backlog: verificacao/grupo/modelagem/agil/backlog.md
-          - Histórias de Usuário: modelagem/agil/historias_de_usuario.md
+          - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
           - NFR Framework: modelagem/agil/nfr-framework.md
       - Pós-Rastreabilidade:
         - Planejameto da Verificação: verificacao/grupo/pos-rastreabilidade/planejamento_03.md
@@ -122,6 +122,7 @@ nav:
     - Loja Online: validacao/loja_online.md
     - Pré-postagem: validacao/pre-postagem.md
     - Minhas Importações: validacao/importacoes.md
+    - Rastreamento no mapa: validacao/rastreamento-mapa.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
