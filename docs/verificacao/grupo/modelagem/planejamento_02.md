@@ -29,7 +29,24 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 ## Especificação suplementar
 ## Léxicos
-## Backlog 
+## Backlog
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | O backlog contém uma lista dos requisitos a serem implementados? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **2** | Os requisitos estão descritos como histórias de usuário? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **3** | Os requisitos estão priorizados? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **4** | Os requisitos foram priorizados com a participação do PO? | sim | <a href="#ref2">2</a> | [pg 41][REF2-pg41] |
+| **5** | Caso o PO tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? | sim | <a href="#ref3">3</a> | [pg 141][REF3-pg141] |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
 ## Histórias de usuário
 ## NFR Framework
 
