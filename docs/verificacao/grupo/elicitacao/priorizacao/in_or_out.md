@@ -9,7 +9,7 @@ O objetivo deste documento é apresentar e mostrar os erros encontrados no artef
 ## Metodologia
 A metodologia utilizada para verificar o artefato emprega o método de inspeção através da utilização de um checklist criado usando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Abaixo temos o checklist que foi criado pelo integrante [Elias F. Oliveira][EliasGH] e preenchido verificando o artefato da técnica de priorização [in or out][In or out] pelo integrante [Pablo][PabloGH].
 
-### Checklist Personas
+### Checklist In or Out
 
 Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado para realizar a verificação do artefato de P
 
@@ -30,8 +30,12 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
+|01| A priorização foi feita com a participação de stakeholders?| Sim |Software Requirements  [Pg. 318][PG. 318]|
+|02| A priorização foi feita tendo duas opções de escolha (In ou Out)?| Sim |Software Requirements  [Pg. 318][PG. 318]|
+|03| Os requisitos priorizados são condizentes?| Sim |Software Requirements  [Pg. 318][PG. 318]|
+|04| A priorização foi feita de forma correta?(Os requisitos priorizado possuem realmente uma maior prioridade com relação aos não priorizados)| Sim |Software Requirements  [Pg. 318][PG. 318]|
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Gravação Identificando os Problemas
 <center>
@@ -50,9 +54,45 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
-- **ID xx**: Descrição
-    - Avaliação:
-    - Comentário:
+Não foram identificadas falhas nos artefatos
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 4
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 
 
