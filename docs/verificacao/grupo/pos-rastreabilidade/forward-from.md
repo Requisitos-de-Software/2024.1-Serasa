@@ -14,11 +14,13 @@ Este artefato foi produzido por [Ricardo][RicardoGH] e verificado por [Pablo][Pa
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | [1.](#ref1) | [página 166]() |
+| **1** | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/forward-from-1.png) |
+| **2** | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? |  | [2.](#ref1) | [página 3](../../../assets/prints_verificacao/ricardo/forward-from-2.png) |
+| **3** | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? |  | [2.](#ref1) | [página 5](../../../assets/prints_verificacao/ricardo/forward-from-3.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ## Apresentação dos Dados
 
@@ -32,7 +34,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | [1.](#ref1) | [página 166]() |
+| **1** | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/forward-from-1.png) |
+| **2** | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? |  | [2.](#ref1) | [página 3](../../../assets/prints_verificacao/ricardo/forward-from-2.png) |
+| **3** | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? |  | [2.](#ref1) | [página 5](../../../assets/prints_verificacao/ricardo/forward-from-3.png) ||
 
 </center>
 
