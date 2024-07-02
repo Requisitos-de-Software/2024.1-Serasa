@@ -32,13 +32,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID|Descrição|Avaliação|Referência|
 | --- | -------------------- | --------- | ----------- | 
-|**01**| O caso de uso mostra uma execução completa da funcionalidade |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> |
-|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? |  | <a id="anchor_1" href="#REF1">^1^</a>  |
-|**05**| Fica claro quem é o autor do caso de uso em questão? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**07**| É possível perceber as condições para esse caso de uso acontecer? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**01**| O caso de uso mostra uma execução completa da funcionalidade | sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? | sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? | sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? | sim | <a id="anchor_1" href="#REF1">^1^</a>  |
+|**05**| Fica claro quem é o autor do caso de uso em questão? | sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? | sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**07**| É possível perceber as condições para esse caso de uso acontecer? | sim | <a id="anchor_1" href="#REF1">^1^</a> | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
@@ -47,21 +47,17 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5CP8Erentk" title="(Entrega 5.2) Verificação:  Caso de Uso 3 &quot;Mudar locais de recebimento de pacotes&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=Q5CP8Erentk"> Link para o vídeo </a>
 </p>
 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#3-mudar-locais-de-recebimento-de-pacotes).
-
-- ID xx: Descrição
-    - Avaliação: 
-    - Comentário: 
+Não foram identificados problemas, de acordo com o checklist, durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#3-mudar-locais-de-recebimento-de-pacotes).
 
 ### Sumário dos resultados
 
@@ -91,10 +87,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 7
 ```
 
 </center>
@@ -110,7 +103,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/07/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | |
+| `1.0`  | 01/07/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S. Costa][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
