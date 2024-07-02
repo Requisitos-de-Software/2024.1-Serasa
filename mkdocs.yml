@@ -97,7 +97,7 @@ nav:
           - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
           - Mudar locais de recebimento de pacotes: verificacao/grupo/modelagem/casos_de_uso/Muda_locais.md
           - Relizar pré-postagem: verificacao/grupo/modelagem/casos_de_uso/Pre_postagem.md
-          - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_iportacoes.md
+          - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_importacoes.md
           - Rastrear encomendas: verificacao/grupo/modelagem/casos_de_uso/Rastrear_encomendas.md
           - Buscar por documentos perdidos: verificacao/grupo/modelagem/casos_de_uso/Busca_por_documentos.md
         - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
