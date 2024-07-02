@@ -38,13 +38,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Foram determinadas as questões a serem respondidas durante ou após a observação? |  | [1.](#ref1) | [página 236][ref1-pg236] |
-| **2** | Foram determinadas as atividades a serem observadas? |  | [1.](#ref1) | [página 236][ref1-pg236] |
-| **3** | Foi definida a postura (passiva ou ativa) do observador? |  | [1.](#ref1) | [página 236][ref1-pg236] |
-| **4** | O processo de observação foi realizada mais de uma vez? |  | [1.](#ref1) | [página 236][ref1-pg236] |
-| **5** | Foram obtidas respostas para as questões levantadas? |  | [1.](#ref1) | [página 237][ref1-pg237] |
-| **6** | De maneira à deixar as pessoas sendo observadas mais confortáveis, diminuindo as chances de interferências negativas, o observador apresenta a si mesmo e o método à elas? |  | [1.](#ref1) | [página 237][ref1-pg237] |
-| **7** | Foi definida uma janela de tempo para a realização da observação? |  | [1.](#ref1) | [página 235][ref1-pg235] |
+| **1** | Foram determinadas as questões a serem respondidas durante ou após a observação? | Não | [1.](#ref1) | [página 236][ref1-pg236] |
+| **2** | Foram determinadas as atividades a serem observadas? | Sim | [1.](#ref1) | [página 236][ref1-pg236] |
+| **3** | Foi definida a postura (passiva ou ativa) do observador? | Sim | [1.](#ref1) | [página 236][ref1-pg236] |
+| **4** | O processo de observação foi realizada mais de uma vez? | Não | [1.](#ref1) | [página 236][ref1-pg236] |
+| **5** | Foram obtidas respostas para as questões levantadas? | Não | [1.](#ref1) | [página 237][ref1-pg237] |
+| **6** | De maneira à deixar as pessoas sendo observadas mais confortáveis, diminuindo as chances de interferências negativas, o observador apresenta a si mesmo e o método à elas? | Sim | [1.](#ref1) | [página 237][ref1-pg237] |
+| **7** | Foi definida uma janela de tempo para a realização da observação? | Sim | [1.](#ref1) | [página 235][ref1-pg235] |
 
 </center>
 
@@ -66,9 +66,18 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Foram determinadas as questões a serem respondidas durante ou após a observação?
+    - Avaliação: Não
+    - Comentário: Não tem listado questões a serem feitas na entrevista
+
+- ID 04: O processo de observação foi realizada mais de uma vez?
+    - Avaliações: Não
+    - Comentários: Não tem dito isso em lugar algum
+
+- ID 05: Foram obtidas respostas para as questões levantadas?
+    - Avaliações: Não
+    - Comentários: Não tem listado questões a serem feitas na entrevista
+
 
 ### Sumário dos resultados
 
@@ -98,15 +107,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 4
+    "Não" : 3
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Bibliografia
 
