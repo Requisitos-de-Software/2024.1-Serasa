@@ -110,10 +110,6 @@ nav:
         - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
         - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
-    - Validação:
-      - Validação Informal:
-        - Pré-postagem: validacao/pre-postagem.md
-        - Chatbot: validacao/chatbot.md
   - Validação:
     - Loja Online: validacao/loja_online.md 
     - Chatbot para suporte : validacao/chatbot.md
@@ -121,6 +117,8 @@ nav:
     - Adicionar endereços cadastrados em uma pré-postagem: validacao/pre-postagem.md
     - Visualizar encomenda no mapa: validacao/rastreamento-mapa.md
     - Mudar recebimento: validacao/muda-recebimento.md
+    - Chat Fornecedor/Entregador: validacao/chats_for_ent.md
+    - Comprovação informal: validacao/comprovacao-informal.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
