@@ -125,8 +125,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 28/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [][] |
-| `1.1`  | /06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [][] |
+| `1.0`  | 28/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S.][PabloGH] |
+| `1.1`  | 29/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S.][PabloGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

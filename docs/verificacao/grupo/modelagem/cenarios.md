@@ -750,7 +750,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 27/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [][] |
+| `1.0`  | 27/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Claudio H][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
