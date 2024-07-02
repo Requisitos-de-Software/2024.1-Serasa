@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ba
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Danielo][DaniloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 23/06/2024. Adotamos a metodologia de inspeção baseada no Método Fagan (1976) por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Danilo][DaniloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 23/06/2024. Adotamos a metodologia de inspeção baseada no Método Fagan (1976) por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
@@ -38,13 +38,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O Backward-from liga seus requisitos às suas fontes? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.04](../../../assets/prints_verificacao/gabrielB/pg.04.png) |
-| **2** | Os requisitos elicitados possuem rastreabilidade de acordo com os documentos antes feitos pelo grupo? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.6](../../../assets/prints_verificacao/gabrielB/pg.06.png) |
-| **3** | O artefato em avaliação possui os elos de rastreabilidade? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.07](../../../assets/prints_verificacao/gabrielB/pg07.1.png) |
-| **4** | Foi utilizado como metodologia para execução do backward-from o metamodelo de Toranzo? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.07](../../../assets/prints_verificacao/gabrielB/pg.07.png) |
-| **5** | Dentro do backward-from tem o nome e a descrição do requisito na tabela? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
-| **6** | Dentro do backward-from tem o documento fonte de onde ele foi rastreado? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
-| **7** | Dentro do backward-from tem se o requisito está implementado ou não? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
+| **1** | O Backward-from liga seus requisitos às suas fontes? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.04](../../../assets/prints_verificacao/gabrielB/pg.04.png) |
+| **2** | Os requisitos elicitados possuem rastreabilidade de acordo com os documentos antes feitos pelo grupo? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.6](../../../assets/prints_verificacao/gabrielB/pg.06.png) |
+| **3** | O artefato em avaliação possui os elos de rastreabilidade? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.07](../../../assets/prints_verificacao/gabrielB/pg07.1.png) |
+| **4** | Foi utilizado como metodologia para execução do backward-from o metamodelo de Toranzo? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.07](../../../assets/prints_verificacao/gabrielB/pg.07.png) |
+| **5** | Dentro do backward-from tem o nome e a descrição do requisito na tabela? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
+| **6** | Dentro do backward-from tem o documento fonte de onde ele foi rastreado? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
+| **7** | Dentro do backward-from tem se o requisito está implementado ou não? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | [pg.12](../../../assets/prints_verificacao/gabrielB/pg.12.png) |
 
 </center>
 
@@ -52,27 +52,20 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Gravação da verificação
 
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
-
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XtKxRGs_Q7Y?si=6ItsG9Ysrh4DsVfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/XtKxRGs_Q7Y"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+**Sem Problemas encontrados**
 
 ### Sumário dos resultados
 
-<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
@@ -98,10 +91,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 7
 ```
 
 </center>
