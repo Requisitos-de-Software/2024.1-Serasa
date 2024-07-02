@@ -120,18 +120,18 @@ pie
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |   | [REF1](#ref1). | [pg 49][f1] |
-| 2 | O modo para atingir o objetivo está descrito no cenário ? |   | [REF1](#ref1). | [pg 49][f1] |
-| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |   | [REF1](#ref1). | [pg 49][f1] |
-| 4 | As características pessoais dos atores são relevantes ao cenário? |   | [REF2](#ref2). | [pg 172][f2] |
-| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |   | [REF1](#ref1). | [pg 49][f1] |
-| 6 | Os cenários possuem alguma ligação com os léxicos? |   | [REF1](#ref1). | [pg 50][f3] |
-| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? |   | [REF1](#ref1). | [pg 50][f4] |
-| 8 | O título do cenário é autoexplicativo? |   | [REF1](#ref1). | [pg 49][f1] |
+| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Incompleto | [REF1](#ref1). | [pg 49][f1] |
+| 4 | As características pessoais dos atores são relevantes ao cenário? |  Não | [REF2](#ref2). | [pg 172][f2] |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Não | [REF1](#ref1). | [pg 50][f3] |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). | [pg 50][f4] |
+| 8 | O título do cenário é autoexplicativo? | Sim | [REF1](#ref1). | [pg 49][f1] |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Gravação da verificação
 
@@ -149,9 +149,17 @@ pie
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: Incompleto
+    - Comentário: Senti falta de um local físico e informações mais claras do contexto.
+
+- ID 04: As características pessoais dos atores são relevantes ao cenário?
+    - Avaliação: Não
+    - Comentário: Características pessoasis indiferentes.
+
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Não
+    - Comentário: Não possui ligação nenhuma com léxicos
 
 ### Sumário dos resultados
 
@@ -181,15 +189,15 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
-    "Não" : 0
-    "Incompleto" : 0
+    "Sim" : 5
+    "Não" : 2
+    "Incompleto" : 1
     "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 
 
