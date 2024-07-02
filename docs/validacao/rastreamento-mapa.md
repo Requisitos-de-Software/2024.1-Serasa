@@ -45,7 +45,7 @@ Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o r
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FVnsUpPXWmPtbFsGCS8cypB%2FUntitled%3Fnode-id%3D0-1%26t%3DcCQ4l3J29a5J1UXu-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FVnsUpPXWmPtbFsGCS8cypB%2FUntitled%3Fnode-id%3D0-1%26t%3Dj3KCfMHhNtOr95pw-1" allowfullscreen></iframe>
 
 </center>
 
