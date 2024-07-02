@@ -33,7 +33,9 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para os requisitos [Q04](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) e [Q05](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/).
 
 
-![Print do Protótipo](../assets/validacao/danilo/prototipo.jpeg);
+![Print do Protótipo](../assets/validacao/danilo/prototipo.jpeg)
+
+[Link do Protótipo](https://www.figma.com/design/8G4QRE2B4StMHv8vRSvE9R/Untitled?node-id=0-1&t=70ffre8ODu4tEOsT-1)
 
 
 ## Aspestos Práticos
