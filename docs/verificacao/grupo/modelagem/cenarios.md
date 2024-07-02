@@ -74,7 +74,6 @@ Abaixo temos os checklists respondidos nas tabelas de 2 a 8 e seus respectivos v
 
 ### Sumário dos resultados
 
-<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
@@ -100,15 +99,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 7
+    "Incompleto" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvlho Antunes][DaniloGH], 2024.</p></font>
 
 
 
