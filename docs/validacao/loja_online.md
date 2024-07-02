@@ -38,7 +38,13 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 ## Protótipo de Alta Fidelidade
 
-Abaixo temos o  protótipo de alta fidelidade e o link direto para uma imagem dele.
+Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo temos o protótipo direto com a ferramenta figma.
+
+<font size="2"><p style="text-align: center">Figura 01: Protótipo de Alta Fidelidade</p></font>
+
+![Imagem do Protótipo](../assets/prints_verificacao/elias/validacao_loja/prototipo_loja.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
 <center>
 
@@ -50,7 +56,6 @@ Abaixo temos o  protótipo de alta fidelidade e o link direto para uma imagem de
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
-[Imagem do Protótipo](../assets/prints_verificacao/elias/validacao_loja/prototipo_loja.png)
 
 </center>
 
@@ -89,7 +94,7 @@ A participante avaliou positivamente as duas funcionaildades implementadasque s�
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/07/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 01/07/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
