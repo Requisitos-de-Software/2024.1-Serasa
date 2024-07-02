@@ -29,6 +29,8 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
+|ID|Descrição|Avaliação|Referência|Print|
+| --- | -------------------- | --------- | ----------- | -----------|
 |**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
 |**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
