@@ -127,3 +127,8 @@ pie
 [GabrielFGH]: https://github.com/MMcLovin
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
+
+[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg.105.png
+[pg107]: ../../../../assets/prints_verificacao/gabrielB/pg.107.1.png
+[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg10.2.png
+[pg106]: ../../../../assets/prints_verificacao/gabrielB/pg.106.png

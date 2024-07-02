@@ -10,7 +10,7 @@ Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado 
 
 |ID|Descrição|Avaliação|Referência|Print|
 | --- | -------------------- | --------- | ----------- | -----------|
-|**01**|Possui especificação do caso de uso ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
+|**01**|Possui especificação do caso de uso ? | | <a id="anchor_1" href="#REF1">^1^</a> | [](..) |
 |**02**|A especificação do caso de uso possui Nome ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
 |**03**|A especificação do caso de uso possui Descrição ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
 |**04**|A especificação do caso de uso possui Atores ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
@@ -127,3 +127,8 @@ pie
 [GabrielFGH]: https://github.com/MMcLovin
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
+
+[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg.105.png
+[pg107]: ../../../../assets/prints_verificacao/gabrielB/pg.107.1.png
+[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg10.2.png
+[pg106]: ../../../../assets/prints_verificacao/gabrielB/pg.106.png
