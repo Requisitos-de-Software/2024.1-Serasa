@@ -95,7 +95,7 @@ pie
 
 ## Bibliografia
 
-<a id="REF3" href="#anchor_3">1. </a>REINEHR, Sheila. Engenharia de requisitos. [Insert Publisher Location]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9786556900674/](https://integrada.minhabiblioteca.com.br/#/books/9786556900674/). Acesso em: 10 junho 2024.
+> 1. <a id="REF3" href="#anchor_3"> </a>REINEHR, Sheila. Engenharia de requisitos. [Insert Publisher Location]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9786556900674/](https://integrada.minhabiblioteca.com.br/#/books/9786556900674/). Acesso em: 10 junho 2024.
 
 ## Histórico de Versões
 
