@@ -13,7 +13,7 @@ Este artefato foi produzido por [Claudio Henrique][ClaudioGH] e verificado por [
 <center>
 
 |ID| Descrição | Avaliação | Referência| Print|
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:-:|
 |1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>|[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
 |2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim  |  <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
 |3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Incompleto | <a href="#ref1">REF1</a> |[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
@@ -41,7 +41,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 |ID| Descrição | Avaliação | Referência| Print|
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:-:|
 |1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>|[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
 |2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim |  <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
 |3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Sim | <a href="#ref1">REF1</a> |[pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
