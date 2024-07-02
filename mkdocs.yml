@@ -80,7 +80,7 @@ nav:
         - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md
       - Elicitação:
         - Perfil de Usuário: verificacao/grupo/elicitacao/perfil_usuario.md
-        - Personas: verificacao/grupo/template.md
+        - Personas: verificacao/grupo/elicitacao/personas.md
         - Técnicas:
           - Análise Documental: verificacao/grupo/elicitacao/tecnicas/analise-documental.md
           - Brainstorming: verificacao/grupo/elicitacao/tecnicas/brainstorming.md
