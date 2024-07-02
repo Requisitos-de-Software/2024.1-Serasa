@@ -4,23 +4,19 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ca
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Ricardo][RicardoGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Elias][EliasGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <p align="center" > <strong> Tabela 1 - </strong>Especificação do Caso de uso</font></p>
 
 |ID|Descrição|Avaliação|Referência|Print|
 | --- | -------------------- | --------- | ----------- | -----------|
-|**01**|Possui especificação do caso de uso ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**02**|A especificação do caso de uso possui Nome ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**03**|A especificação do caso de uso possui Descrição ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**04**|A especificação do caso de uso possui Atores ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**05**|A especificação do caso de uso possui Pré-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**06**|A especificação do caso de uso possui Pós-Condição ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**07**|A especificação do caso de uso possui Fluxo Principal ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**08**|A especificação do caso de uso possui Fluxolternativo ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-|**10**|A especificação do caso de uso possui Rastrabilidade ? | | <a id="anchor_1" href="#REF1">^1^</a> | |
-
+|**01**| O caso de uso mostra uma execução completa da funcionalidade |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.105](../../../../assets/prints_verificacao/gabrielB/pg.105.png) |
+|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.105](../../../../assets/prints_verificacao/gabrielB/pg.105.png) |
+|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.106](../../../../assets/prints_verificacao/gabrielB/pg.106.png) |
+|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? |  | <a id="anchor_1" href="#REF1">^1^</a>  | [pg.106](../../../../assets/prints_verificacao/gabrielB/pg.106.png) |
+|**05**| Fica claro quem é o autor do caso de uso em questão? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.107](../../../../assets/prints_verificacao/gabrielB/pg.107.1.png) |
+|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.107](../../../../assets/prints_verificacao/gabrielB/pg.107.2.png) |
+|**07**| É possível perceber as condições para esse caso de uso acontecer? |  | <a id="anchor_1" href="#REF1">^1^</a> | [pg.107](../../../../assets/prints_verificacao/gabrielB/pg.107.2.png) |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
@@ -34,30 +30,27 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
 |ID|Descrição|Avaliação|Referência|
-| --- | -------- | --------- | ----------- | 
-|**01**|Possui especificação do caso de uso ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**02**|A especificação do caso de uso possui Nome ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**03**|A especificação do caso de uso possui Descrição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**04**|A especificação do caso de uso possui Atores ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
-|**05**|A especificação do caso de uso possui Pré-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**06**|A especificação do caso de uso possui Pós-Condição ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**07**|A especificação do caso de uso possui Fluxo Principal ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**08**|A especificação do caso de uso possui Fluxolternativo ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**09**|A especificação do caso de uso possui Fluxo de Exceção ? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
-|**10**|A especificação do caso de uso possui Rastrabilidade ? | Não | <a id="anchor_1" href="#REF1">^1^</a> |
+| --- | -------------------- | --------- | ----------- | 
+|**01**| O caso de uso mostra uma execução completa da funcionalidade |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? |  | <a id="anchor_1" href="#REF1">^1^</a>  |
+|**05**| Fica claro quem é o autor do caso de uso em questão? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**07**| É possível perceber as condições para esse caso de uso acontecer? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
 
-<font size="3"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Elias][EliasGH], 2024</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T4VByMsrjbM?si=f0IYe4SuFQz_qXTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="https://youtu.be/T4VByMsrjbM"> Link para o vídeo </a>
+    <a href="link"> Link para o vídeo </a>
 </p>
 
 
@@ -65,14 +58,9 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#5-gerenciar-minhas-importacoes).
 
-- ID 04: A especificação do caso de uso possui Atores ?
-    - Avaliação: Não
-    - Comentário: A especificação não possui atores
-
-
-- ID 10: A especificação do caso de uso possui Rastrabilidade ? 
-    - Avaliação: Não
-    - Comentário: A especificação não possui rastreabilidade
+- ID xx: Descrição
+    - Avaliação: 
+    - Comentário: 
 
 ### Sumário dos resultados
 
@@ -102,22 +90,20 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 8
-    "Não" : 2
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 10
+    "Não" : 5
+    "Incompleto" : 5
+    "Não se Aplica" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
 
 
 ## Bibliografia
 
-> 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
->
-> 2<a id="ref2">.</a> REtraining - Guia facetado de Técnicas de Elicitação de Requisitos, Brainstorming. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming>. Acesso em: 10 de junho de 2024.
+<a id="REF3" href="#anchor_3">1. </a>REINEHR, Sheila. Engenharia de requisitos. [Insert Publisher Location]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9786556900674/](https://integrada.minhabiblioteca.com.br/#/books/9786556900674/). Acesso em: 10 junho 2024.
 
 ## Histórico de Versões
 
@@ -132,8 +118,3 @@ pie
 [GabrielFGH]: https://github.com/MMcLovin
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
-
-[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg.105.png
-[pg107]: ../../../../assets/prints_verificacao/gabrielB/pg.107.1.png
-[pg105]: ../../../../assets/prints_verificacao/gabrielB/pg10.2.png
-[pg106]: ../../../../assets/prints_verificacao/gabrielB/pg.106.png
