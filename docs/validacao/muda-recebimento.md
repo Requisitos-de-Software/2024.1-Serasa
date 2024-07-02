@@ -65,8 +65,13 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
 <center>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi9Z0tbc8Wo?si=mXEc2y8xzRSe8JeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/Qi9Z0tbc8Wo?si=FhEl0vAcPkOVoE-N"> Link para o vídeo </a>
+</p>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH]</p></font>
 
