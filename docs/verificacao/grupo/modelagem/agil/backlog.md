@@ -41,10 +41,7 @@ Abaixo, nas Tabela 1 e 2, temos respectivamente o checklist elaborado para a ver
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
-
+Não foram encontrados problemas.
 
 ### Sumário dos resultados
 
@@ -107,7 +104,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/06/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [Claudio H.](ClaudioGH) |
+| `1.0`  | 29/06/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [Claudio H.][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
