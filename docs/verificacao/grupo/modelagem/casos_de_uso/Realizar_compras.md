@@ -31,13 +31,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID|Descrição|Avaliação|Referência|
 | --- | -------------------- | --------- | ----------- | 
-|**01**| O caso de uso mostra uma execução completa da funcionalidade |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> |
-|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? |  | <a id="anchor_1" href="#REF1">^1^</a>  |
-|**05**| Fica claro quem é o autor do caso de uso em questão? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
-|**07**| É possível perceber as condições para esse caso de uso acontecer? |  | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**01**| O caso de uso mostra uma execução completa da funcionalidade | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**02**| É possível notar o valor que essa funcionalidade traz para o usuário? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**03**| O caso de uso é representado como uma elipse dentro do diagrama de caso de uso? | Sim | <a id="anchor_1" href="#REF1">^1^</a> |
+|**04**| O caso de uso possuem dentro deles casos de uso primário e secundários? | Sim | <a id="anchor_1" href="#REF1">^1^</a>  |
+|**05**| Fica claro quem é o autor do caso de uso em questão? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
+|**07**| É possível perceber as condições para esse caso de uso acontecer? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024</p></font>
 
@@ -90,10 +90,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 7
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
