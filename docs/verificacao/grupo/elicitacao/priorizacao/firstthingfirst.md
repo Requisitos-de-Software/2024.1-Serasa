@@ -14,13 +14,13 @@ Este artefato foi produzido por [Danilo][DaniloGH] e verificado por [Gabriel F][
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? |  | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
-| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? |  | [1.](#ref1) | [página 316](../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
-| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? |  | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
-| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? |  | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? |  | [1.](#ref1) | [página 314](../../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? |  | [1.](#ref1) | [página 316](../../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
+| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? |  | [1.](#ref1) | [página 318](../../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? |  | [1.](#ref1) | [página 318](../../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
 | **5** | A técnica de priorização foi documentada adequadamente, incluindo a justificativa para a priorização de cada requisito? |  | [1.](#ref1) | [página 320](#ref1) |
-| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? |  | [1.](#ref1) | [página 322](../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
-| **7** | A técnica de priorização foi realizada com a participação de um usuário? |  | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? |  | [1.](#ref1) | [página 322](../../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
+| **7** | A técnica de priorização foi realizada com a participação de um usuário? |  | [1.](#ref1) | [página 314](../../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
 
 </center>
 
@@ -38,13 +38,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? | sim | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
-| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? | não | [1.](#ref1) | [página 316](../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
-| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? | sim | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
-| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? | sim | [1.](#ref1) | [página 318](../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **1** | A técnica de priorização identifica claramente os critérios utilizados para priorizar os requisitos? | sim | [1.](#ref1) | [página 314](../../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| **2** | A técnica de priorização foi aplicada de forma consistente em todos os requisitos do projeto? | não | [1.](#ref1) | [página 316](../../../../assets/prints_verificacao/danilo/Pagina316.jpeg) |
+| **3** | A técnica de priorização considera o impacto dos requisitos no negócio? | sim | [1.](#ref1) | [página 318](../../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
+| **4** | A técnica de priorização leva em conta a viabilidade técnica dos requisitos? | sim | [1.](#ref1) | [página 318](../../../../assets/prints_verificacao/danilo/Pagina318.jpeg) |
 | **5** | A técnica de priorização foi documentada adequadamente, incluindo a justificativa para a priorização de cada requisito? | sim | [1.](#ref1) | [página 320](#ref1) |
-| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? | sim | [1.](#ref1) | [página 322](../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
-| **7** | A técnica de priorização foi realizada com a participação de um usuário? | sim | [1.](#ref1) | [página 314](../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
+| **6** | A técnica de priorização foi revisada e validada por todas as partes interessadas? | sim | [1.](#ref1) | [página 322](../../../../assets/prints_verificacao/danilo/Pagina322.jpeg) |
+| **7** | A técnica de priorização foi realizada com a participação de um usuário? | sim | [1.](#ref1) | [página 314](../../../../assets/prints_verificacao/danilo/Pagina314.jpeg) |
 
 </center>
 
