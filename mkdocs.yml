@@ -90,7 +90,6 @@ nav:
           - $100: verificacao/grupo/elicitacao/priorizacao/100usd.md
           - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
-        - Requisitos Elicitados: "elicitacao/requisitos_elicitados.md"
       - Modelagem:
         - Cenários: verificacao/grupo/modelagem/cenarios.md
         - Casos de Uso: 
@@ -101,13 +100,12 @@ nav:
           - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_iportacoes.md
           - Rastrear encomendas: verificacao/grupo/modelagem/casos_de_uso/Rastrear_encomendas.md
           - Buscar por documentos perdidos: verificacao/grupo/modelagem/casos_de_uso/Busca_por_documentos.md
-        - Validação dos Casos de Uso: modelagem/validacao.md
         - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
         - Léxicos: verificacao/grupo/modelagem/lexicos.md
         - Ágil:
           - Backlog: verificacao/grupo/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
-          - NFR Framework: modelagem/agil/nfr-framework.md
+          - NFR Framework: verificacao/grupo/modelagem/agil/nfr.md
       - Pós-Rastreabilidade:
         - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
