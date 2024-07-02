@@ -54,6 +54,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 |10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
 |11| O perfil de usuário descreve as atividades principais dos usuários? | Sim | <a href="#ref1">REF1</a>| [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
 
+
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](DaniloGH), 2024.</p></font>
