@@ -118,6 +118,11 @@ nav:
         - Chatbot: validacao/chatbot.md
   - Validação:
     - Loja Online: validacao/loja_online.md 
+    - Chatbot para suporte : validacao/chatbot.md
+    - Minhas importações: validacao/importacoes.md
+    - Adicionar endereços cadastrados em uma pré-postagem: validacao/pre-postagem.md
+    - Visualizar encomenda no mapa: validacao/rastreamento-mapa.md
+    - Mudar recebimento: validacao/muda-recebimento.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md

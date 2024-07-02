@@ -42,38 +42,35 @@ Abaixo temos os checklists respondidos nas tabelas de 2 a 8 e seus respectivos v
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |   | [REF1](#ref1). | [pg 49][f1] |
-| 2 | O modo para atingir o objetivo está descrito no cenário ? |   | [REF1](#ref1). | [pg 49][f1] |
-| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |   | [REF1](#ref1). | [pg 49][f1] |
-| 4 | As características pessoais dos atores são relevantes ao cenário? |   | [REF2](#ref2). | [pg 172][f2] |
-| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |   | [REF1](#ref1). | [pg 49][f1] |
-| 6 | Os cenários possuem alguma ligação com os léxicos? |   | [REF1](#ref1). | [pg 50][f3] |
-| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? |   | [REF1](#ref1). | [pg 50][f4] |
-| 8 | O título do cenário é autoexplicativo? |   | [REF1](#ref1). | [pg 49][f1] |
+| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim  | [REF1](#ref1). | [pg 49][f1] |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim  | [REF1](#ref1). | [pg 49][f1] |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim  | [REF1](#ref1). | [pg 49][f1] |
+| 4 | As características pessoais dos atores são relevantes ao cenário? | Sim  | [REF2](#ref2). | [pg 172][f2] |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim  | [REF1](#ref1). | [pg 49][f1] |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Incompleto | [REF1](#ref1). | [pg 50][f3] |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). | [pg 50][f4] |
+| 8 | O título do cenário é autoexplicativo? | Sim  | [REF1](#ref1). | [pg 49][f1] |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes](https://github.com/), 2024.</p></font>
 
 ### Gravação da verificação
 
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TkEl4WtYtqQ?si=-naIcT9NP0eyhUVR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/TkEl4WtYtqQ?si=G7Pv0D8N18T6DpjF"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Incompleto
+    - Comentário: Não possue Link direto para o Léxico
 
 ### Sumário dos resultados
 
