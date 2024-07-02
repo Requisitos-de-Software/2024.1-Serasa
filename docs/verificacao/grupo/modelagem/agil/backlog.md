@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Backlog][Backlog]feito pelo [Grupo 03][Grupo 03 Correios] da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://correios.com.br). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Backlog][Backlog] feito pelo [Grupo 03][Grupo 03 Correios] da disciplina de Requisitos de Software, e referente ao aplicativo [Correios](https://correios.com.br). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 

@@ -42,11 +42,11 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 <font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkyH6Uk45sI?si=iIJh-qHpbX9f8K8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:[][], 2024.</p></font>
 
-[Link do Vídeo](link)
+[Link do Vídeo](https://youtu.be/CkyH6Uk45sI)
 
 </center>
 

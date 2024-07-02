@@ -110,8 +110,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/06/2024 | Criação do documento | [Danilo Carvalho Antunes][DaniloGH] | [Elias O.][EliasGH] |
-| `1.1`  | 01/07/2024 | Aplicação do checklist | [Gabriel F. J. Silva][GabrielFGH] |[Elias O.][EliasGH] |
+| `1.0`  | 29/06/2024 | Criação do documento | [Danilo Carvalho Antunes][DaniloGH] |  [Pablo S. Costa][PabloGH]  |
+| `1.1`  | 01/07/2024 | Aplicação do checklist | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
