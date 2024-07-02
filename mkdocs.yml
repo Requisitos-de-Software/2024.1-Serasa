@@ -77,6 +77,7 @@ nav:
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
+      - Planejamento Geral:  verificacao/grupo/planejamento_geral.md
       - Pré-Rastreabilidade:
         - Planejamento da Verificação: verificacao/grupo/pre-rastreabilidade/planejamento_04.md
         - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md

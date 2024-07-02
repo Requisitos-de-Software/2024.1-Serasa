@@ -37,13 +37,14 @@ Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por [Pabl
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| 1 | Foram definidos os objetivos da pesquisa em questionário? |   | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 178][f1] |
-| 2 | Fui selecionado um público alvo? |   | [Ref1](#ref1).  7.7.2.1 Preparação | [pg 178][f1] |
-| 3 | No questionário foram feitas perguntas para conhecer o público alvo e assim poder restringi as perguntas pelo publico? |   | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 178][f2] |
-| 4 | Foi realizado um teste com um pequeno grupo do público alvo para validar o questionário? |   | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f3] |
-| 5 | Foram definidos os meios de distribuição do questionário mais adequados? |   | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f4] |
-| 6 | Foi definido uma data limite para o recebimento de respostas no questionário? |   | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f5] |
-| 7 | Foi feita a análise e consolidação das respostas? |   | [Ref1](#ref1). 7.7.2.2 Finalização | [pg 180][f6] |
+| 1 | Foram definidos os objetivos da pesquisa em questionário? | Não | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 178][f1] |
+| 2 | Fui selecionado um público alvo? | Sim | [Ref1](#ref1).  7.7.2.1 Preparação | [pg 178][f1] |
+| 3 | No questionário foram feitas perguntas para conhecer o público alvo e assim poder restringi as perguntas pelo publico? | Sim | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 178][f2] |
+| 4 | Foi realizado um teste com um pequeno grupo do público alvo para validar o questionário? | Não | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f3] |
+| 5 | Foram definidos os meios de distribuição do questionário mais adequados? | Sim | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f4] |
+| 6 | Foi definido uma data limite para o recebimento de respostas no questionário? | Sim | [Ref1](#ref1). 7.7.2.1 Preparação | [pg 179][f5] |
+| 7 | Foi feita a análise e consolidação das respostas? | Sim | [Ref1](#ref1). 7.7.2.2 Finalização | [pg 180][f6] |
+
 
 </center>
 
@@ -53,18 +54,24 @@ Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por [Pabl
 
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TkEl4WtYtqQ?si=-naIcT9NP0eyhUVR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-oFikBn7uQI?si=qZNS5N6VC3tqaTHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="https://youtu.be/TkEl4WtYtqQ?si=G7Pv0D8N18T6DpjF"> Link para o vídeo </a>
+    <a href="https://youtu.be/-oFikBn7uQI"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-- ID 06: Os cenários possuem alguma ligação com os léxicos?
-    - Avaliação: Incompleto
-    - Comentário: Não possue Link direto para o Léxico
+
+*   ID 1: Foram definidos os objetivos da pesquisa em questionário?
+    *   Avaliação: Não
+    *   Comentário: Não foram definidos os objetivos da pesquisa
+        
+*   ID 4: Foi realizado um teste com um pequeno grupo do público alvo para validar o questionário?
+    *   Avaliação: Não
+    *   Comentário: Não foi realizado um teste com um questionário
+
 
 ### Sumário dos resultados
 
@@ -93,8 +100,8 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 7
-    "Incompleto" : 1
+    "Sim" : 5
+    "Não" : 2
 ```
 
 </center>
