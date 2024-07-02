@@ -47,6 +47,9 @@ Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito
 
 [Link para a pasta com as imagens](https://github.com/Requisitos-de-Software/2024.1-Correios/tree/verificacao/grupo/docs/assets/validacao/prints-prototipo-chat/prints-individuais)
 
+[Link para acessar o protótipo](https://cloud.justinmind.com/usernote/prototype/b68519e817616484072d2ad7b3135c6ff3dce0a5cf1fd201e8c61f532862090b)
+
+
 ## Aspestos Práticos
 
 A entrevista foi conduzida pelo integrante [Claudio Henrique][ClaudioGH], e a entrevistada foi a Isabelly Sophia. A avaliação foi realizada com os seguintes materiais:
