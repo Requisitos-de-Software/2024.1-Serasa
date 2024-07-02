@@ -77,7 +77,7 @@ nav:
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
       - Pré-Rastreabilidade:
-        - Rich Picture: verificacao/grupo/template.md
+        - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md
       - Elicitação:
         - Perfil de Usuário: verificacao/grupo/template.md
         - Personas: verificacao/grupo/template.md
