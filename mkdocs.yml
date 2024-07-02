@@ -75,6 +75,50 @@ nav:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
+    - Grupo:
+      - Pré-Rastreabilidade:
+        - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md
+      - Elicitação:
+        - Perfil de Usuário: verificacao/grupo/elicitacao/perfil_usuario.md
+        - Personas: verificacao/grupo/elicitacao/personas.md
+        - Técnicas:
+          - Análise Documental: verificacao/grupo/elicitacao/tecnicas/analise-documental.md
+          - Brainstorming: verificacao/grupo/elicitacao/tecnicas/brainstorming.md
+          - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
+          - Questionário: verificacao/grupo/elicitacao/tecnicas/quest.md
+        - Priorização: 
+          - $100: verificacao/grupo/elicitacao/priorizacao/100usd.md
+          - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
+          - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
+      - Modelagem:
+        - Cenários: verificacao/grupo/modelagem/cenarios.md
+        - Casos de Uso: 
+          - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
+          - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
+          - Mudar locais de recebimento de pacotes: verificacao/grupo/modelagem/casos_de_uso/Muda_locais.md
+          - Relizar pré-postagem: verificacao/grupo/modelagem/casos_de_uso/Pre_postagem.md
+          - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_iportacoes.md
+          - Rastrear encomendas: verificacao/grupo/modelagem/casos_de_uso/Rastrear_encomendas.md
+          - Buscar por documentos perdidos: verificacao/grupo/modelagem/casos_de_uso/Busca_por_documentos.md
+        - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
+        - Léxicos: verificacao/grupo/modelagem/lexicos.md
+        - Ágil:
+          - Backlog: verificacao/grupo/modelagem/agil/backlog.md
+          - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
+          - NFR Framework: verificacao/grupo/modelagem/agil/nfr.md
+      - Pós-Rastreabilidade:
+        - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
+        - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
+        - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
+  - Validação:
+    - Loja Online: validacao/loja_online.md 
+    - Chatbot para suporte : validacao/chatbot.md
+    - Minhas importações: validacao/importacoes.md
+    - Adicionar endereços cadastrados em uma pré-postagem: validacao/pre-postagem.md
+    - Visualizar encomenda no mapa: validacao/rastreamento-mapa.md
+    - Mudar recebimento: validacao/muda-recebimento.md
+    - Chat Fornecedor/Entregador: validacao/chats_for_ent.md
+    - Comprovação informal: validacao/comprovacao-informal.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
@@ -112,6 +156,11 @@ extra:
     property: G-41DM9F5YEC
 
 markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
