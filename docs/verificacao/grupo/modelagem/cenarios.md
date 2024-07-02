@@ -120,38 +120,46 @@ pie
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |   | [REF1](#ref1). | [pg 49][f1] |
-| 2 | O modo para atingir o objetivo está descrito no cenário ? |   | [REF1](#ref1). | [pg 49][f1] |
-| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |   | [REF1](#ref1). | [pg 49][f1] |
-| 4 | As características pessoais dos atores são relevantes ao cenário? |   | [REF2](#ref2). | [pg 172][f2] |
-| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |   | [REF1](#ref1). | [pg 49][f1] |
-| 6 | Os cenários possuem alguma ligação com os léxicos? |   | [REF1](#ref1). | [pg 50][f3] |
-| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? |   | [REF1](#ref1). | [pg 50][f4] |
-| 8 | O título do cenário é autoexplicativo? |   | [REF1](#ref1). | [pg 49][f1] |
+| 1 | O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Incompleto | [REF1](#ref1). | [pg 49][f1] |
+| 4 | As características pessoais dos atores são relevantes ao cenário? |  Não | [REF2](#ref2). | [pg 172][f2] |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | [REF1](#ref1). | [pg 49][f1] |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Não | [REF1](#ref1). | [pg 50][f3] |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). | [pg 50][f4] |
+| 8 | O título do cenário é autoexplicativo? | Sim | [REF1](#ref1). | [pg 49][f1] |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIvIzGTYSmY?si=CSil42HaqSvChRPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/iIvIzGTYSmY"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: Incompleto
+    - Comentário: Senti falta de um local físico e informações mais claras do contexto.
+
+- ID 04: As características pessoais dos atores são relevantes ao cenário?
+    - Avaliação: Não
+    - Comentário: Características pessoasis indiferentes.
+
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Não
+    - Comentário: Não possui ligação nenhuma com léxicos
 
 ### Sumário dos resultados
 
@@ -181,15 +189,15 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
-    "Não" : 0
-    "Incompleto" : 0
+    "Sim" : 5
+    "Não" : 2
+    "Incompleto" : 1
     "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 
 
