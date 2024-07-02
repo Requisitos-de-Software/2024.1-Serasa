@@ -77,8 +77,10 @@ nav:
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
     - Grupo:
       - Pré-Rastreabilidade:
+        - Planejamento da Verificação: verificacao/grupo/pre-rastreabilidade/planejamento_04.md
         - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md
       - Elicitação:
+        - Planejamento da Verificação: verificacao/grupo/elicitacao/planejamento_01.md
         - Perfil de Usuário: verificacao/grupo/elicitacao/perfil_usuario.md
         - Personas: verificacao/grupo/elicitacao/personas.md
         - Técnicas:
@@ -91,6 +93,7 @@ nav:
           - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
           - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
       - Modelagem:
+        - Planejamento da Verificação: verificacao/grupo/modelagem/planejamento_02.md
         - Cenários: verificacao/grupo/modelagem/cenarios.md
         - Casos de Uso: 
           - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
@@ -107,6 +110,7 @@ nav:
           - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo/modelagem/agil/nfr.md
       - Pós-Rastreabilidade:
+        - Planejamento da Verificação: verificacao/grupo/pos-rastreabilidade/planejamento_03.md
         - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
         - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
         - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
